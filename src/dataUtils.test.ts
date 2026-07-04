@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { aggregateBy, categorizeAgreement, getAgreementUrl, monthKey, sumAmount, yearKey } from './dataUtils';
+import { aggregateBy, categorizeAgreement, extractContractors, getAgreementUrl, getContractorNames, monthKey, sumAmount, yearKey } from './dataUtils';
 import type { Agreement } from './types';
 
 const sample: Agreement[] = [
@@ -28,5 +28,24 @@ describe('data utils', () => {
   it('buduje link do oryginalnej strony umowy w CRU', () => {
     expect(getAgreementUrl({ idUmowy: 'abc-123' })).toBe('https://rejestrumow.gov.pl/umowa/abc-123');
     expect(getAgreementUrl({ idUmowy: 'id ze spacją' })).toBe('https://rejestrumow.gov.pl/umowa/id%20ze%20spacj%C4%85');
+  });
+
+  it('wyciąga wykonawców ze szczegółów umowy i pomija stronę JSFP', () => {
+    const detail = {
+      stronyUmowy: [
+        { rodzaj: 'JSFP', nazwa: 'ZARZĄD DRÓG POWIATOWYCH', regon: '014900974' },
+        { rodzaj: 'Przedsiębiorca', nazwa: 'GOOD BRUK SP. Z O.O.', nip: '8371872980', regon: '521339494' },
+      ],
+    };
+    expect(extractContractors(detail)).toEqual([
+      { rodzaj: 'Przedsiębiorca', nazwa: 'GOOD BRUK SP. Z O.O.', nip: '8371872980', regon: '521339494' },
+    ]);
+  });
+
+  it('zwraca nazwy wykonawców do filtrowania i wyszukiwania', () => {
+    expect(getContractorNames({ contractors: [{ nazwa: 'GOOD BRUK SP. Z O.O.' }, { imie: 'Jan', nazwisko: 'Kowalski' }] })).toEqual([
+      'GOOD BRUK SP. Z O.O.',
+      'Jan Kowalski',
+    ]);
   });
 });

@@ -1,4 +1,4 @@
-import type { Agreement } from './types';
+import type { Agreement, ContractParty } from './types';
 
 export const CATEGORIES = [
   'Drogi i transport', 'Budownictwo i remonty', 'Edukacja', 'Zdrowie i pomoc społeczna',
@@ -40,6 +40,32 @@ export function categorizeAgreement(agreement: Agreement): string {
 
 export function getAgreementUrl(agreement: Pick<Agreement, 'idUmowy' | 'sourceUrl'>): string {
   return agreement.sourceUrl ?? `https://rejestrumow.gov.pl/umowa/${encodeURIComponent(agreement.idUmowy)}`;
+}
+
+export function getPartyDisplayName(party: ContractParty): string {
+  return party.nazwa?.trim() || [party.imie, party.nazwisko].filter(Boolean).join(' ').trim() || 'Nieznany wykonawca';
+}
+
+export function extractContractors(detail: { stronyUmowy?: ContractParty[] }): ContractParty[] {
+  const parties = detail.stronyUmowy ?? [];
+  const nonJsfp = parties.filter((party) => party.rodzaj?.toUpperCase() !== 'JSFP');
+  return nonJsfp.length > 0 ? nonJsfp : parties;
+}
+
+export function extractProcurers(detail: { stronyUmowy?: ContractParty[] }): ContractParty[] {
+  return (detail.stronyUmowy ?? []).filter((party) => party.rodzaj?.toUpperCase() === 'JSFP');
+}
+
+export function getContractorNames(agreement: Pick<Agreement, 'contractors'>): string[] {
+  return (agreement.contractors ?? []).map(getPartyDisplayName).filter(Boolean);
+}
+
+export function getContractorSearchText(agreement: Pick<Agreement, 'contractors'>): string {
+  return (agreement.contractors ?? [])
+    .flatMap((party) => [getPartyDisplayName(party), party.nip, party.regon, party.rodzaj, party.daneAdresowe?.miejscowosc])
+    .filter(Boolean)
+    .join(' ')
+    .toLowerCase();
 }
 
 export function sumAmount(items: Agreement[]): number {
