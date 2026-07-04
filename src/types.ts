@@ -8,6 +8,7 @@ export type Agreement = {
   przedmiotUmowy?: string;
   statusUmowy?: string;
   category?: string;
+  sourceUrl?: string;
 };
 
 export type AgreementsPayload = {

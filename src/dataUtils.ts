@@ -38,6 +38,10 @@ export function categorizeAgreement(agreement: Agreement): string {
   return rules.find(([, regex]) => regex.test(text))?.[0] ?? 'Pozostałe';
 }
 
+export function getAgreementUrl(agreement: Pick<Agreement, 'idUmowy' | 'sourceUrl'>): string {
+  return agreement.sourceUrl ?? `https://rejestrumow.gov.pl/umowa/${encodeURIComponent(agreement.idUmowy)}`;
+}
+
 export function sumAmount(items: Agreement[]): number {
   return items.reduce((sum, item) => sum + Number(item.wartoscPrzedmiotuUmowy ?? 0), 0);
 }

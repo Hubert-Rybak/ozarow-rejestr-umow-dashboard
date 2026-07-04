@@ -2,7 +2,7 @@ import React, { useEffect, useMemo, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import { BarChart, Bar, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis, PieChart, Pie, Cell } from 'recharts';
 import { ArrowDownUp, CalendarDays, Database, Search, WalletCards } from 'lucide-react';
-import { aggregateBy, categorizeAgreement, CATEGORIES, formatPLN, monthKey, sumAmount, yearKey } from './dataUtils';
+import { aggregateBy, categorizeAgreement, CATEGORIES, formatPLN, getAgreementUrl, monthKey, sumAmount, yearKey } from './dataUtils';
 import type { Agreement, AgreementsPayload } from './types';
 import './styles.css';
 
@@ -87,7 +87,7 @@ function App() {
 
       <section className="panel tableWrap">
         <h2>Umowy</h2>
-        <table><thead><tr><th>Data</th><th>Jednostka / kontrahent</th><th>Przedmiot</th><th>Kategoria</th><th>Status</th><th className="num">Kwota</th></tr></thead><tbody>{filtered.map((a) => <tr key={a.idUmowy}><td>{a.dataZawarciaUmowy ?? '—'}</td><td>{a.nazwa ?? '—'}<small>{a.regon ?? ''}</small></td><td>{a.przedmiotUmowy ?? '—'}</td><td><span className="pill">{categorizeAgreement(a)}</span></td><td>{a.statusUmowy ?? '—'}</td><td className="num">{formatPLN(Number(a.wartoscPrzedmiotuUmowy ?? 0))}</td></tr>)}</tbody></table>
+        <table><thead><tr><th>Data</th><th>Jednostka / kontrahent</th><th>Przedmiot</th><th>Kategoria</th><th>Status</th><th className="num">Kwota</th><th>Źródło</th></tr></thead><tbody>{filtered.map((a) => <tr key={a.idUmowy}><td>{a.dataZawarciaUmowy ?? '—'}</td><td>{a.nazwa ?? '—'}<small>{a.regon ?? ''}</small></td><td>{a.przedmiotUmowy ?? '—'}</td><td><span className="pill">{categorizeAgreement(a)}</span></td><td>{a.statusUmowy ?? '—'}</td><td className="num">{formatPLN(Number(a.wartoscPrzedmiotuUmowy ?? 0))}</td><td><a className="sourceLink" href={getAgreementUrl(a)} target="_blank" rel="noreferrer">Oryginał ↗</a></td></tr>)}</tbody></table>
       </section>
     </main>
   );

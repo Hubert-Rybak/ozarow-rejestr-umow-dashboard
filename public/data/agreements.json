@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-04T08:42:17.814Z",
+  "fetchedAt": "2026-07-04T12:16:30.009Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "filter": {
     "jsfp": {
@@ -17,7 +17,8 @@
       "dataZakonczeniaUmowy": null,
       "wartoscPrzedmiotuUmowy": 1920,
       "przedmiotUmowy": "Wykonanie naprawy nawierzchni chodnika z kostki betonowej na skrzyżowaniu dróg powiatowych nr 4132W, 4131W i 4114W w miejscowości Podkampinos, gm. Kampinos.",
-      "statusUmowy": "Aktywna"
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a448966c-530a-43b6-80f6-010fed324a84"
     }
   ]
 }

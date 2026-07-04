@@ -30,7 +30,10 @@ async function main() {
     const page = await fetchPage(offset);
     totalElements = page.totalElements ?? totalElements;
     totalVisibleElements = page.totalVisibleElements ?? totalVisibleElements;
-    all.push(...(page.content ?? []));
+    all.push(...(page.content ?? []).map((agreement) => ({
+      ...agreement,
+      sourceUrl: `https://rejestrumow.gov.pl/umowa/${encodeURIComponent(agreement.idUmowy)}`,
+    })));
     offset += limit;
     if (all.length >= totalVisibleElements || (page.content ?? []).length === 0) break;
   }

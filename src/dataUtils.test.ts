@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { aggregateBy, categorizeAgreement, monthKey, sumAmount, yearKey } from './dataUtils';
+import { aggregateBy, categorizeAgreement, getAgreementUrl, monthKey, sumAmount, yearKey } from './dataUtils';
 import type { Agreement } from './types';
 
 const sample: Agreement[] = [
@@ -23,5 +23,10 @@ describe('data utils', () => {
     expect(categorizeAgreement(sample[0])).toBe('Drogi i transport');
     expect(categorizeAgreement(sample[1])).toBe('IT i cyfryzacja');
     expect(categorizeAgreement(sample[2])).toBe('Administracja');
+  });
+
+  it('buduje link do oryginalnej strony umowy w CRU', () => {
+    expect(getAgreementUrl({ idUmowy: 'abc-123' })).toBe('https://rejestrumow.gov.pl/umowa/abc-123');
+    expect(getAgreementUrl({ idUmowy: 'id ze spacją' })).toBe('https://rejestrumow.gov.pl/umowa/id%20ze%20spacj%C4%85');
   });
 });
