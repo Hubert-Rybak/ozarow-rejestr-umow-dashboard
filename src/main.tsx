@@ -75,7 +75,7 @@ function App() {
         <div>
           <p className="eyebrow">Centralny Rejestr Umów</p>
           <h1>Wydatki gminy Ożarów Mazowiecki</h1>
-          <p>Interaktywny dashboard umów z codziennym odświeżaniem danych przez GitHub Actions.</p>
+          <p>Przejrzysty dashboard umów i wydatków publicznych z aktualnymi danymi z Centralnego Rejestru Umów.</p>
         </div>
         <div className="updated">
           <Database size={18} />
