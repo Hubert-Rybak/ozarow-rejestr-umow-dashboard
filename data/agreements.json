@@ -1,6 +1,7 @@
 {
-  "fetchedAt": "2026-07-04T12:17:53.946Z",
+  "fetchedAt": "2026-07-04T12:40:30.608Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
+  "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
     "jsfp": {
       "gmina": "Ożarów Mazowiecki"
@@ -18,7 +19,60 @@
       "wartoscPrzedmiotuUmowy": 1920,
       "przedmiotUmowy": "Wykonanie naprawy nawierzchni chodnika z kostki betonowej na skrzyżowaniu dróg powiatowych nr 4132W, 4131W i 4114W w miejscowości Podkampinos, gm. Kampinos.",
       "statusUmowy": "Aktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a448966c-530a-43b6-80f6-010fed324a84"
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a448966c-530a-43b6-80f6-010fed324a84",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "GOOD BRUK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "8371872980",
+          "regon": "521339494",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "87",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "sochaczewski",
+            "gminaMiastoDzielnica": "Brochów",
+            "miejscowosc": "Śladów",
+            "kodPocztowy": "05-088"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "15/2026/RZ37-Z/2026",
+        "okres": "8 dni",
+        "dataPublikacji": "03.07.2026",
+        "dataModyfikacji": "03.07.2026",
+        "finansowanaZeSrodkow": false
+      }
     }
   ]
 }
