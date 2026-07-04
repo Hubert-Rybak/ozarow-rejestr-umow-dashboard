@@ -1,0 +1,23 @@
+{
+  "fetchedAt": "2026-07-04T08:35:02.223Z",
+  "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
+  "filter": {
+    "jsfp": {
+      "gmina": "Ożarów Mazowiecki"
+    }
+  },
+  "totalElements": 1,
+  "totalVisibleElements": 1,
+  "agreements": [
+    {
+      "idUmowy": "a448966c-530a-43b6-80f6-010fed324a84",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "03.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1920,
+      "przedmiotUmowy": "Wykonanie naprawy nawierzchni chodnika z kostki betonowej na skrzyżowaniu dróg powiatowych nr 4132W, 4131W i 4114W w miejscowości Podkampinos, gm. Kampinos.",
+      "statusUmowy": "Aktywna"
+    }
+  ]
+}

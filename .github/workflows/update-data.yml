@@ -1,0 +1,42 @@
+name: Update CRU data and deploy
+
+on:
+  schedule:
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Fetch Centralny Rejestr Umów data
+        run: npm run fetch
+        env:
+          CRU_FILTER_JSON: ${{ vars.CRU_FILTER_JSON || '{"jsfp":{"gmina":"Ożarów Mazowiecki"}}' }}
+      - run: npm test
+      - run: npm run build
+      - name: Commit refreshed data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore(data): refresh CRU agreements'
+          file_pattern: public/data/agreements.json
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4

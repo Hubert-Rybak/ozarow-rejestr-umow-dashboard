@@ -1,0 +1,34 @@
+{
+  "name": "ozarow-rejestr-umow-dashboard",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc && vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "fetch": "node scripts/fetch-data.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "private": "false",
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "jsdom": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "recharts": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "vitest": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
+}
