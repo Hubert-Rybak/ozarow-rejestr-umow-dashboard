@@ -1,6 +1,8 @@
 name: Update CRU data and deploy
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: '17 5 * * *'
   workflow_dispatch:
