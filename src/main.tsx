@@ -33,7 +33,7 @@ function App() {
   const [sort, setSort] = useState<SortKey>('amount-desc');
 
   useEffect(() => {
-    fetch('./data/agreements.json')
+    fetch(`./data/agreements.json?v=${Date.now()}`)
       .then((res) => (res.ok ? res.json() : emptyPayload))
       .then((data) => setPayload(data))
       .catch(() => setPayload(emptyPayload));
