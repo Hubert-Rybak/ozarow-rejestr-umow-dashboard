@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T08:17:32.673Z",
+  "fetchedAt": "2026-07-06T09:10:48.525Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,8 +7,8 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 1,
-  "totalVisibleElements": 1,
+  "totalElements": 2,
+  "totalVisibleElements": 2,
   "agreements": [
     {
       "idUmowy": "a448966c-530a-43b6-80f6-010fed324a84",
@@ -71,6 +71,70 @@
         "okres": "8 dni",
         "dataPublikacji": "03.07.2026",
         "dataModyfikacji": "03.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "4460a18a-d8a2-4866-a8f9-527e02ceca4f",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "02.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 48.7,
+      "przedmiotUmowy": "Usługa Allegro Smart! 12 miesięcy",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/4460a18a-d8a2-4866-a8f9-527e02ceca4f",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ALLEGRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5252674798",
+          "regon": "365331553",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wierzbięcice",
+            "numerNieruchomosci": "1B",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "Poznań",
+            "gminaMiastoDzielnica": "Poznań-Wilda",
+            "miejscowosc": "Poznań",
+            "kodPocztowy": "61-569"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SM26-2203932794",
+        "okres": "366 dni",
+        "dataPublikacji": "06.07.2026",
+        "dataModyfikacji": "06.07.2026",
         "finansowanaZeSrodkow": false
       }
     }
