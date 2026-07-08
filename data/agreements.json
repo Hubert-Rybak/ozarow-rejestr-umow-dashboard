@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T08:43:08.630Z",
+  "fetchedAt": "2026-07-08T07:41:47.980Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -8,7 +8,7 @@
     }
   },
   "totalElements": 2,
-  "totalVisibleElements": 2,
+  "totalVisibleElements": 0,
   "agreements": [
     {
       "idUmowy": "a448966c-530a-43b6-80f6-010fed324a84",
