@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T07:20:53.126Z",
+  "fetchedAt": "2026-07-15T07:24:09.648Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,73 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 8,
+  "totalElements": 12,
   "totalVisibleElements": 0,
   "agreements": [
+    {
+      "idUmowy": "dd0b479e-08e0-4e84-94aa-9067815ffd4f",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "13.07.2026",
+      "dataZakonczeniaUmowy": "14.07.2026",
+      "wartoscPrzedmiotuUmowy": 133.51,
+      "przedmiotUmowy": "Zakup książki na nagrody dla dzieci za udział w warsztatach wakacyjnych.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/dd0b479e-08e0-4e84-94aa-9067815ffd4f",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"PLATON\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272397698",
+          "regon": "015430128",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Sławęcińska",
+            "numerNieruchomosci": "16",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Macierzysz",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "ZOPC202607002887K",
+        "okres": "2 dni",
+        "dataPublikacji": "14.07.2026",
+        "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "5455edd0-026a-45a2-bec0-4e3601282fbd",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
@@ -263,6 +327,198 @@
         "okres": "1 dzień",
         "dataPublikacji": "09.07.2026",
         "dataModyfikacji": "09.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "e473b80f-adb7-48f0-b46a-0a85e49617bc",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "08.07.2026",
+      "dataZakonczeniaUmowy": "14.07.2026",
+      "wartoscPrzedmiotuUmowy": 126,
+      "przedmiotUmowy": "SZKLANY SŁOIK z KORKIEM na PRZYPRAWY, ŚWIECE\n470ml, Automat DHL BOX",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e473b80f-adb7-48f0-b46a-0a85e49617bc",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Paweł Dau",
+          "nip": "5932478381",
+          "regon": "220566010",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. 30-go Stycznia",
+            "numerNieruchomosci": "32",
+            "numerLokalu": null,
+            "wojewodztwo": "POMORSKIE",
+            "powiat": "tczewski",
+            "gminaMiastoDzielnica": "Tczew",
+            "miejscowosc": "Tczew",
+            "kodPocztowy": "83-110"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "90018b3d-7ab7-11f1-b2e0-358d37264f4b",
+        "okres": "3 dni",
+        "dataPublikacji": "14.07.2026",
+        "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ed01c2bf-1693-448b-877f-25bd4d378076",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "08.07.2026",
+      "dataZakonczeniaUmowy": "14.07.2026",
+      "wartoscPrzedmiotuUmowy": 54.84,
+      "przedmiotUmowy": "Materiały na warsztaty dla dzieci w Bibliotece, Koszt dostawy.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ed01c2bf-1693-448b-877f-25bd4d378076",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Ragazza Piotr Głowiński",
+          "nip": "8311639607",
+          "regon": "384988086",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Parkowa",
+            "numerNieruchomosci": "1",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "łaski",
+            "gminaMiastoDzielnica": "Buczek",
+            "miejscowosc": "Buczek",
+            "kodPocztowy": "98-113"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "47a45b70-7abc-11f1-a8fd-bf0e06bb1cd2",
+        "okres": "3 dni",
+        "dataPublikacji": "14.07.2026",
+        "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "8c110926-b2fe-4235-aa78-49088021c203",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "06.07.2026",
+      "dataZakonczeniaUmowy": "14.07.2026",
+      "wartoscPrzedmiotuUmowy": 454.46,
+      "przedmiotUmowy": "zestaw LOGITECH MK540 Advanced, niszczarka FELLOWES 53C 23 L",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/8c110926-b2fe-4235-aa78-49088021c203",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ME M10 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "7671713995",
+          "regon": "384099268",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Za Dworcem",
+            "numerNieruchomosci": "1D",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "złotowski",
+            "gminaMiastoDzielnica": "Złotów",
+            "miejscowosc": "Złotów",
+            "kodPocztowy": "77-400"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "02461169893",
+        "okres": "2 dni",
+        "dataPublikacji": "14.07.2026",
+        "dataModyfikacji": "14.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
