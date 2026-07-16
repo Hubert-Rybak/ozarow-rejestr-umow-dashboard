@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-15T07:24:09.648Z",
+  "fetchedAt": "2026-07-16T07:32:05.708Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,73 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 12,
+  "totalElements": 14,
   "totalVisibleElements": 0,
   "agreements": [
+    {
+      "idUmowy": "efbc153e-8d86-4259-9df7-a2170f5b4747",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "14.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 813.01,
+      "przedmiotUmowy": "zlecenie zakupu trzech pakietów Office 2024 Standard",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/efbc153e-8d86-4259-9df7-a2170f5b4747",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MARCSOFT MARCIN KASZEWSKI",
+          "nip": "6731739125",
+          "regon": "320974250",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Kołobrzeska",
+            "numerNieruchomosci": "18B",
+            "numerLokalu": "7",
+            "wojewodztwo": "ZACHODNIOPOMORSKIE",
+            "powiat": "szczecinecki",
+            "gminaMiastoDzielnica": "Szczecinek",
+            "miejscowosc": "Szczecinek",
+            "kodPocztowy": "78-400"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.261.2026.MT",
+        "okres": "18 dni",
+        "dataPublikacji": "15.07.2026",
+        "dataModyfikacji": "15.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "dd0b479e-08e0-4e84-94aa-9067815ffd4f",
       "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
@@ -199,6 +263,70 @@
         "okres": "1 dzień",
         "dataPublikacji": "13.07.2026",
         "dataModyfikacji": "13.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ed6699a8-9efe-4759-958b-db5f6ec3847a",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "09.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 43500,
+      "przedmiotUmowy": "udzielenie licencji na oprogramowanie informatyczne E-com oraz aplikacji centralnej, aktualizacji do oprogramowanie, bieżąca obsługa techniczna oprogramowania oraz nadzór nad poprawnym funkcjonowaniem.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ed6699a8-9efe-4759-958b-db5f6ec3847a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "STP POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5372639818",
+          "regon": "368538148",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Brzeska",
+            "numerNieruchomosci": "134",
+            "numerLokalu": null,
+            "wojewodztwo": "podlaskie",
+            "powiat": "Biała Podlaska",
+            "gminaMiastoDzielnica": "Biała Podlaska",
+            "miejscowosc": "Biała Podlaska",
+            "kodPocztowy": "21-500"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "US.055/6/2026",
+        "okres": "907 dni",
+        "dataPublikacji": "15.07.2026",
+        "dataModyfikacji": "15.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -527,10 +655,10 @@
       "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
       "regon": "014900974",
       "dataZawarciaUmowy": "03.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "15.07.2026",
       "wartoscPrzedmiotuUmowy": 1920,
       "przedmiotUmowy": "Wykonanie naprawy nawierzchni chodnika z kostki betonowej na skrzyżowaniu dróg powiatowych nr 4132W, 4131W i 4114W w miejscowości Podkampinos, gm. Kampinos.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a448966c-530a-43b6-80f6-010fed324a84",
       "contractors": [
         {
@@ -582,7 +710,7 @@
         "numerUmowy": "15/2026/RZ37-Z/2026",
         "okres": "8 dni",
         "dataPublikacji": "03.07.2026",
-        "dataModyfikacji": "03.07.2026",
+        "dataModyfikacji": "15.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
