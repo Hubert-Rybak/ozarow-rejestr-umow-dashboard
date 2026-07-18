@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-17T07:29:30.522Z",
+  "fetchedAt": "2026-07-18T07:09:31.160Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,73 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 14,
+  "totalElements": 15,
   "totalVisibleElements": 0,
   "agreements": [
+    {
+      "idUmowy": "d22f862c-819a-48c8-bb60-846e6cf4e038",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "16.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 700,
+      "przedmiotUmowy": "Wykonanie wytyczenia terenu pod kapliczkę Chrystusa Frasobliwego na działce ewid. 2/28 w obrębie PGR Pilaszków",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d22f862c-819a-48c8-bb60-846e6cf4e038",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "USŁUGI GEODEZYJNE DANIEL WASIAK",
+          "nip": "1230863484",
+          "regon": "141002060",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Michała Drzymały",
+            "numerNieruchomosci": "23",
+            "numerLokalu": "2",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Pruszków",
+            "miejscowosc": "Pruszków",
+            "kodPocztowy": "05-800"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WGP.272.51.2026",
+        "okres": "9 dni",
+        "dataPublikacji": "17.07.2026",
+        "dataModyfikacji": "17.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "efbc153e-8d86-4259-9df7-a2170f5b4747",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
