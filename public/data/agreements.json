@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-23T07:44:48.823Z",
+  "fetchedAt": "2026-07-24T07:42:01.788Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,73 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 48,
+  "totalElements": 56,
   "totalVisibleElements": 0,
   "agreements": [
+    {
+      "idUmowy": "f96cf675-c56b-4fd0-809d-76c5ce0e9a61",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "22.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 110,
+      "przedmiotUmowy": "Tłumaczenie poświadczone",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f96cf675-c56b-4fd0-809d-76c5ce0e9a61",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TRANSLATEXT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5342648161",
+          "regon": "521285568",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Tadeusza Kościuszki",
+            "numerNieruchomosci": "35",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Pruszków",
+            "miejscowosc": "Pruszków",
+            "kodPocztowy": "05-800"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "23.07.2026",
+        "dataModyfikacji": "23.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "a325356f-aea1-4bc9-b072-f85a3d0c20a6",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
@@ -156,6 +220,326 @@
         "okres": "3 miesiące",
         "dataPublikacji": "22.07.2026",
         "dataModyfikacji": "22.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "517c0175-ea54-4d8d-92a6-05718b20e9f5",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": "23.07.2026",
+      "wartoscPrzedmiotuUmowy": 220,
+      "przedmiotUmowy": "tłumaczenie poświadczone",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/517c0175-ea54-4d8d-92a6-05718b20e9f5",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TRANSLATEXT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5342648161",
+          "regon": "521285568",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Tadeusza Kościuszki",
+            "numerNieruchomosci": "35",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Pruszków",
+            "miejscowosc": "Pruszków",
+            "kodPocztowy": "05-800"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "23.07.2026",
+        "dataModyfikacji": "23.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "571d1b34-b3fa-4456-8a7b-e1de2035b890",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": "23.07.2026",
+      "wartoscPrzedmiotuUmowy": 270,
+      "przedmiotUmowy": "Przegląd i naprawa drukarki",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/571d1b34-b3fa-4456-8a7b-e1de2035b890",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SafeGuard Arkadiusz Zieliński",
+          "nip": "8471517830",
+          "regon": "364101041",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Adama Mickiewicza",
+            "numerNieruchomosci": "33",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "kozienicki",
+            "gminaMiastoDzielnica": "Garbatka-Letnisko",
+            "miejscowosc": "Garbatka-Letnisko",
+            "kodPocztowy": "26-930"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "23.07.2026",
+        "dataModyfikacji": "23.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "65e5ea0d-af67-4320-8080-e6faf571470b",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": "23.07.2026",
+      "wartoscPrzedmiotuUmowy": 800,
+      "przedmiotUmowy": "Udział w charakterze eksperta - komisja egzaminacyjna - awans zawodowy nauczyciela.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/65e5ea0d-af67-4320-8080-e6faf571470b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Dorota",
+          "nazwisko": "Waszczeniuk",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "84/07/2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "23.07.2026",
+        "dataModyfikacji": "23.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "c28b1ecf-2e7a-46d0-aa7d-bbe4b8e3dab6",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": "23.07.2026",
+      "wartoscPrzedmiotuUmowy": 800,
+      "przedmiotUmowy": "Udział w charakterze eksperta - komisja egzaminacyjna - awans zawodowy nauczyciela.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c28b1ecf-2e7a-46d0-aa7d-bbe4b8e3dab6",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Teresa",
+          "nazwisko": "Perkowska",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "83/07/2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "23.07.2026",
+        "dataModyfikacji": "23.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "daa6356a-f0bb-428a-a136-4d0d717528fb",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": "23.07.2026",
+      "wartoscPrzedmiotuUmowy": 800,
+      "przedmiotUmowy": "Udział w charakterze eksperta - komisja egzaminacyjna - awans zawodowy nauczyciela.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/daa6356a-f0bb-428a-a136-4d0d717528fb",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Jolanta",
+          "nazwisko": "Pawłowska",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "85/07/2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "23.07.2026",
+        "dataModyfikacji": "23.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -1056,34 +1440,34 @@
       }
     },
     {
-      "idUmowy": "5455edd0-026a-45a2-bec0-4e3601282fbd",
+      "idUmowy": "27af9e2d-ee43-4083-aec0-5b19ff05b3bd",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
-      "dataZawarciaUmowy": "10.07.2026",
-      "dataZakonczeniaUmowy": "13.07.2026",
-      "wartoscPrzedmiotuUmowy": 300,
-      "przedmiotUmowy": "Udział w charakterze eksperta - komisja egzaminacyjna - awans zawodowy nauczyciela.",
+      "dataZawarciaUmowy": "09.07.2026",
+      "dataZakonczeniaUmowy": "23.07.2026",
+      "wartoscPrzedmiotuUmowy": 13888.89,
+      "przedmiotUmowy": "Organizacja Święta Policji dnia 10 lipca 2026r",
       "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5455edd0-026a-45a2-bec0-4e3601282fbd",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/27af9e2d-ee43-4083-aec0-5b19ff05b3bd",
       "contractors": [
         {
           "kraj": "Polska",
-          "rodzaj": "Osoba fizyczna",
-          "nazwa": null,
-          "nip": null,
-          "regon": null,
-          "imie": "Dorota",
-          "nazwisko": "Niedbała-Szamota",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "KUCH-DAR J&D SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182304946",
+          "regon": "541566062",
+          "imie": null,
+          "nazwisko": null,
           "czyKonsorcjum": false,
           "daneAdresowe": {
-            "ulica": null,
-            "numerNieruchomosci": null,
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "5A",
             "numerLokalu": null,
-            "wojewodztwo": null,
-            "powiat": null,
-            "gminaMiastoDzielnica": null,
-            "miejscowosc": null,
-            "kodPocztowy": null
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Błonie",
+            "miejscowosc": "Błonie",
+            "kodPocztowy": "05-870"
           },
           "niejawnoscStrony": null
         }
@@ -1112,74 +1496,10 @@
         }
       ],
       "details": {
-        "numerUmowy": "79/07/2026",
-        "okres": "1 dzień",
-        "dataPublikacji": "13.07.2026",
-        "dataModyfikacji": "13.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "f4acd597-0ff9-4187-8e36-2f5c0390e01a",
-      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-      "regon": "013272116",
-      "dataZawarciaUmowy": "10.07.2026",
-      "dataZakonczeniaUmowy": "13.07.2026",
-      "wartoscPrzedmiotuUmowy": 400,
-      "przedmiotUmowy": "Udział w charakterze eksperta - komisja egzaminacyjna - awans zawodowy nauczyciela.",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f4acd597-0ff9-4187-8e36-2f5c0390e01a",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Osoba fizyczna",
-          "nazwa": null,
-          "nip": null,
-          "regon": null,
-          "imie": "Ewa",
-          "nazwisko": "Mazur",
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": null,
-            "numerNieruchomosci": null,
-            "numerLokalu": null,
-            "wojewodztwo": null,
-            "powiat": null,
-            "gminaMiastoDzielnica": null,
-            "miejscowosc": null,
-            "kodPocztowy": null
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-          "nip": "5272185358",
-          "regon": "013272116",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "129/133",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "80/07/2026",
-        "okres": "1 dzień",
-        "dataPublikacji": "13.07.2026",
-        "dataModyfikacji": "13.07.2026",
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "23.07.2026",
+        "dataModyfikacji": "23.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -1308,134 +1628,6 @@
         "okres": "907 dni",
         "dataPublikacji": "15.07.2026",
         "dataModyfikacji": "15.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "39af46d9-332a-4584-80c9-356e742f493d",
-      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-      "regon": "013272116",
-      "dataZawarciaUmowy": "09.07.2026",
-      "dataZakonczeniaUmowy": "20.07.2026",
-      "wartoscPrzedmiotuUmowy": 1702.64,
-      "przedmiotUmowy": "odnowienie podpisów kwalifikowanych- 5 szt",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/39af46d9-332a-4584-80c9-356e742f493d",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "ASSECO DATA SYSTEMS SPÓŁKA AKCYJNA",
-          "nip": "5170359458",
-          "regon": "180853177",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Jana z Kolna",
-            "numerNieruchomosci": "11",
-            "numerLokalu": null,
-            "wojewodztwo": "POMORSKIE",
-            "powiat": "Gdańsk",
-            "gminaMiastoDzielnica": "Gdańsk",
-            "miejscowosc": "Gdańsk",
-            "kodPocztowy": "80-864"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-          "nip": "5272185358",
-          "regon": "013272116",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "129/133",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "WA.1334.1.2026 zlecenie zakupu 1/2026",
-        "okres": "1 dzień",
-        "dataPublikacji": "10.07.2026",
-        "dataModyfikacji": "20.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "bbe24fb5-05e2-49f5-a66e-82b65fa0d8e0",
-      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
-      "regon": "016279633",
-      "dataZawarciaUmowy": "09.07.2026",
-      "dataZakonczeniaUmowy": null,
-      "wartoscPrzedmiotuUmowy": 2800,
-      "przedmiotUmowy": "organizacja szkolenia przystanowiskowego z oprogramowania Syriusz std.",
-      "statusUmowy": "Aktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/bbe24fb5-05e2-49f5-a66e-82b65fa0d8e0",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "SYGNITY SPÓŁKA AKCYJNA",
-          "nip": "5860005293",
-          "regon": "190407926",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Postępu",
-            "numerNieruchomosci": "17B",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "Warszawa",
-            "gminaMiastoDzielnica": "Mokotów",
-            "miejscowosc": "Warszawa",
-            "kodPocztowy": "02-676"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
-          "nip": "1181517485",
-          "regon": "016279633",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "131 A",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": null,
-        "okres": "1 dzień",
-        "dataPublikacji": "09.07.2026",
-        "dataModyfikacji": "09.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -1760,6 +1952,70 @@
       }
     },
     {
+      "idUmowy": "7aeddac9-1fd8-43e3-aa4f-674f68293afd",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "06.07.2026",
+      "dataZakonczeniaUmowy": "23.07.2026",
+      "wartoscPrzedmiotuUmowy": 110,
+      "przedmiotUmowy": "tłumaczenie poświadczone",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7aeddac9-1fd8-43e3-aa4f-674f68293afd",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TRANSLATEXT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5342648161",
+          "regon": "521285568",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Tadeusza Kościuszki",
+            "numerNieruchomosci": "35",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Pruszków",
+            "miejscowosc": "Pruszków",
+            "kodPocztowy": "05-800"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "23.07.2026",
+        "dataModyfikacji": "23.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "967dbdc7-ac48-4de7-8f85-894cf4adc206",
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
@@ -2016,70 +2272,6 @@
       }
     },
     {
-      "idUmowy": "a448966c-530a-43b6-80f6-010fed324a84",
-      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
-      "regon": "014900974",
-      "dataZawarciaUmowy": "03.07.2026",
-      "dataZakonczeniaUmowy": "15.07.2026",
-      "wartoscPrzedmiotuUmowy": 1920,
-      "przedmiotUmowy": "Wykonanie naprawy nawierzchni chodnika z kostki betonowej na skrzyżowaniu dróg powiatowych nr 4132W, 4131W i 4114W w miejscowości Podkampinos, gm. Kampinos.",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a448966c-530a-43b6-80f6-010fed324a84",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "GOOD BRUK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-          "nip": "8371872980",
-          "regon": "521339494",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": null,
-            "numerNieruchomosci": "87",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "sochaczewski",
-            "gminaMiastoDzielnica": "Brochów",
-            "miejscowosc": "Śladów",
-            "kodPocztowy": "05-088"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
-          "nip": "1181420774",
-          "regon": "014900974",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "300",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "15/2026/RZ37-Z/2026",
-        "okres": "8 dni",
-        "dataPublikacji": "03.07.2026",
-        "dataModyfikacji": "15.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
       "idUmowy": "6ba8c99c-edff-4713-a6c4-e8f3322d7910",
       "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
       "regon": "014900974",
@@ -2204,70 +2396,6 @@
         "okres": "1 dzień",
         "dataPublikacji": "20.07.2026",
         "dataModyfikacji": "20.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "4460a18a-d8a2-4866-a8f9-527e02ceca4f",
-      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
-      "regon": "014900974",
-      "dataZawarciaUmowy": "02.07.2026",
-      "dataZakonczeniaUmowy": null,
-      "wartoscPrzedmiotuUmowy": 48.7,
-      "przedmiotUmowy": "Usługa Allegro Smart! 12 miesięcy",
-      "statusUmowy": "Aktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/4460a18a-d8a2-4866-a8f9-527e02ceca4f",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "ALLEGRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-          "nip": "5252674798",
-          "regon": "365331553",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Wierzbięcice",
-            "numerNieruchomosci": "1B",
-            "numerLokalu": null,
-            "wojewodztwo": "WIELKOPOLSKIE",
-            "powiat": "Poznań",
-            "gminaMiastoDzielnica": "Poznań-Wilda",
-            "miejscowosc": "Poznań",
-            "kodPocztowy": "61-569"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
-          "nip": "1181420774",
-          "regon": "014900974",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "300",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "SM26-2203932794",
-        "okres": "366 dni",
-        "dataPublikacji": "06.07.2026",
-        "dataModyfikacji": "06.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
