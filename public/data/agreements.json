@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T07:42:01.788Z",
+  "fetchedAt": "2026-07-25T07:28:49.777Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,18 +7,82 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 56,
+  "totalElements": 59,
   "totalVisibleElements": 0,
   "agreements": [
+    {
+      "idUmowy": "af1f7547-79ed-4b9b-825e-33a13ba79405",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "22.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 219,
+      "przedmiotUmowy": "Odnowienie certyfikatu kwalifikowanego",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/af1f7547-79ed-4b9b-825e-33a13ba79405",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ENIGMA SYSTEMY OCHRONY INFORMACJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5261029614",
+          "regon": "011149535",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Jutrzenki",
+            "numerNieruchomosci": "116",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Włochy",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-230"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "420775",
+        "okres": "732 dni",
+        "dataPublikacji": "24.07.2026",
+        "dataModyfikacji": "24.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "f96cf675-c56b-4fd0-809d-76c5ce0e9a61",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "22.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "24.07.2026",
       "wartoscPrzedmiotuUmowy": 110,
       "przedmiotUmowy": "Tłumaczenie poświadczone",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f96cf675-c56b-4fd0-809d-76c5ce0e9a61",
       "contractors": [
         {
@@ -70,7 +134,7 @@
         "numerUmowy": null,
         "okres": "2 dni",
         "dataPublikacji": "23.07.2026",
-        "dataModyfikacji": "23.07.2026",
+        "dataModyfikacji": "24.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -672,6 +736,70 @@
       }
     },
     {
+      "idUmowy": "524b2aaa-b79a-4e6c-bf75-721a8ff7e747",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "16.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 230.23,
+      "przedmiotUmowy": "Pakiet: utrzymanie strony internetowej BIP, grafika strony, panel administracyjny (CMS), usługa hostingowa, 1GB powierzchni dyskowej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/524b2aaa-b79a-4e6c-bf75-721a8ff7e747",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "INTEREFEKT Judyta Ligęza",
+          "nip": "9492025653",
+          "regon": "243002019",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "Aleja Wyzwolenia",
+            "numerNieruchomosci": "9",
+            "numerLokalu": "19",
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "Częstochowa",
+            "gminaMiastoDzielnica": "Częstochowa",
+            "miejscowosc": "Częstochowa",
+            "kodPocztowy": "42-224"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.342.01.2026",
+        "okres": "12 miesięcy",
+        "dataPublikacji": "24.07.2026",
+        "dataModyfikacji": "24.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "d22f862c-819a-48c8-bb60-846e6cf4e038",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -1248,70 +1376,6 @@
       }
     },
     {
-      "idUmowy": "dd0b479e-08e0-4e84-94aa-9067815ffd4f",
-      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
-      "regon": "000939243",
-      "dataZawarciaUmowy": "13.07.2026",
-      "dataZakonczeniaUmowy": "14.07.2026",
-      "wartoscPrzedmiotuUmowy": 133.51,
-      "przedmiotUmowy": "Zakup książki na nagrody dla dzieci za udział w warsztatach wakacyjnych.",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/dd0b479e-08e0-4e84-94aa-9067815ffd4f",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "\"PLATON\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-          "nip": "5272397698",
-          "regon": "015430128",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Sławęcińska",
-            "numerNieruchomosci": "16",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Macierzysz",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
-          "nip": "1181689536",
-          "regon": "000939243",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Szkolna",
-            "numerNieruchomosci": "2",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "ZOPC202607002887K",
-        "okres": "2 dni",
-        "dataPublikacji": "14.07.2026",
-        "dataModyfikacji": "14.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
       "idUmowy": "2a4586c1-d57b-4c9a-a02a-67cba629bd5b",
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
@@ -1628,134 +1692,6 @@
         "okres": "907 dni",
         "dataPublikacji": "15.07.2026",
         "dataModyfikacji": "15.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "e473b80f-adb7-48f0-b46a-0a85e49617bc",
-      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
-      "regon": "000939243",
-      "dataZawarciaUmowy": "08.07.2026",
-      "dataZakonczeniaUmowy": "14.07.2026",
-      "wartoscPrzedmiotuUmowy": 126,
-      "przedmiotUmowy": "SZKLANY SŁOIK z KORKIEM na PRZYPRAWY, ŚWIECE\n470ml, Automat DHL BOX",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e473b80f-adb7-48f0-b46a-0a85e49617bc",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "Paweł Dau",
-          "nip": "5932478381",
-          "regon": "220566010",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. 30-go Stycznia",
-            "numerNieruchomosci": "32",
-            "numerLokalu": null,
-            "wojewodztwo": "POMORSKIE",
-            "powiat": "tczewski",
-            "gminaMiastoDzielnica": "Tczew",
-            "miejscowosc": "Tczew",
-            "kodPocztowy": "83-110"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
-          "nip": "1181689536",
-          "regon": "000939243",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Szkolna",
-            "numerNieruchomosci": "2",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "90018b3d-7ab7-11f1-b2e0-358d37264f4b",
-        "okres": "3 dni",
-        "dataPublikacji": "14.07.2026",
-        "dataModyfikacji": "14.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "ed01c2bf-1693-448b-877f-25bd4d378076",
-      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
-      "regon": "000939243",
-      "dataZawarciaUmowy": "08.07.2026",
-      "dataZakonczeniaUmowy": "14.07.2026",
-      "wartoscPrzedmiotuUmowy": 54.84,
-      "przedmiotUmowy": "Materiały na warsztaty dla dzieci w Bibliotece, Koszt dostawy.",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ed01c2bf-1693-448b-877f-25bd4d378076",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "Ragazza Piotr Głowiński",
-          "nip": "8311639607",
-          "regon": "384988086",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Parkowa",
-            "numerNieruchomosci": "1",
-            "numerLokalu": null,
-            "wojewodztwo": "ŁÓDZKIE",
-            "powiat": "łaski",
-            "gminaMiastoDzielnica": "Buczek",
-            "miejscowosc": "Buczek",
-            "kodPocztowy": "98-113"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
-          "nip": "1181689536",
-          "regon": "000939243",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Szkolna",
-            "numerNieruchomosci": "2",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "47a45b70-7abc-11f1-a8fd-bf0e06bb1cd2",
-        "okres": "3 dni",
-        "dataPublikacji": "14.07.2026",
-        "dataModyfikacji": "14.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -2396,6 +2332,70 @@
         "okres": "1 dzień",
         "dataPublikacji": "20.07.2026",
         "dataModyfikacji": "20.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "806d2c9e-bfaa-4fa5-becf-fd92a5533249",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "01.07.2026",
+      "dataZakonczeniaUmowy": "21.07.2026",
+      "wartoscPrzedmiotuUmowy": 1550.77,
+      "przedmiotUmowy": "Spotkanie autorskie - Scena Letnia",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/806d2c9e-bfaa-4fa5-becf-fd92a5533249",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Joanna",
+          "nazwisko": "Jagiełło",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.34/2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "24.07.2026",
+        "dataModyfikacji": "24.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
