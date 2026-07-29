@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-28T07:47:09.536Z",
+  "fetchedAt": "2026-07-29T08:00:03.275Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,7 +7,7 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 68,
+  "totalElements": 73,
   "totalVisibleElements": 0,
   "agreements": [
     {
@@ -267,6 +267,70 @@
       }
     },
     {
+      "idUmowy": "557a1d9a-88d9-4820-ac91-ddabc7be59ab",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "21.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 17500,
+      "przedmiotUmowy": "Pełnienie technicznego nadzoru inwestorskiego nad robotami budowlanymi",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/557a1d9a-88d9-4820-ac91-ddabc7be59ab",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Anna Utrata A -PRO Anna Utrata",
+          "nip": "1230059813",
+          "regon": "016795381",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "36",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "piaseczyński",
+            "gminaMiastoDzielnica": "Konstancin-Jeziorna",
+            "miejscowosc": "Opacz",
+            "kodPocztowy": "05-520"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "44/2026/RZ28-U/2026",
+        "okres": "102 dni",
+        "dataPublikacji": "28.07.2026",
+        "dataModyfikacji": "28.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "2d393601-082d-4f1d-8f4a-0ff90242f515",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -473,9 +537,265 @@
       ],
       "details": {
         "numerUmowy": "43/2026/ZP-2/2026",
-        "okres": "91 dni",
+        "okres": "90 dni",
         "dataPublikacji": "22.07.2026",
-        "dataModyfikacji": "27.07.2026",
+        "dataModyfikacji": "28.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "061843eb-512f-4a36-8617-f073cf8bf425",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 7000,
+      "przedmiotUmowy": "Wymiana odcinka zewnętrznej instalacji kanalizacji sanitarnej w siedzibie Zarządu Dróg Powiato",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/061843eb-512f-4a36-8617-f073cf8bf425",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "P.H.U. INSTAL-SYSTEM CZESŁAW BARSZCZ",
+          "nip": "5270210164",
+          "regon": "013039561",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Warszawska",
+            "numerNieruchomosci": "853",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Stare Babice",
+            "miejscowosc": "Borzęcin Duży",
+            "kodPocztowy": "05-083"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "40/2026/RZ34-U/2026",
+        "okres": "12 dni",
+        "dataPublikacji": "28.07.2026",
+        "dataModyfikacji": "28.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "867442d7-b533-46d3-a83c-15b59392a781",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 169000,
+      "przedmiotUmowy": "Wykonanie dokumentacji projektowo - kosztorysowej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/867442d7-b533-46d3-a83c-15b59392a781",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Biuro Projektów Infrastrukturalnych Krzysztof Suliga",
+          "nip": "6932026076",
+          "regon": "362292137",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Tęczowa",
+            "numerNieruchomosci": "3",
+            "numerLokalu": "6",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "wołomiński",
+            "gminaMiastoDzielnica": "Marki",
+            "miejscowosc": "Marki",
+            "kodPocztowy": "05-270"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "39/2026/RZ33-U/2026",
+        "okres": "499 dni",
+        "dataPublikacji": "28.07.2026",
+        "dataModyfikacji": "28.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "d7eacc41-37d0-47fc-a690-c01e0201f772",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": "28.07.2026",
+      "wartoscPrzedmiotuUmowy": 800,
+      "przedmiotUmowy": "Udział w charakterze eksperta - komisja egzaminacyjna - awans zawodowy nauczyciela.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d7eacc41-37d0-47fc-a690-c01e0201f772",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Piotr",
+          "nazwisko": "Wróblewski",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "82/07/2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "28.07.2026",
+        "dataModyfikacji": "28.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "f60ee1c2-79b9-47fb-bd43-4b092c74c7d2",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 98000,
+      "przedmiotUmowy": "Wykonana nie prac porządkowych na terenie nieruchomości",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f60ee1c2-79b9-47fb-bd43-4b092c74c7d2",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "USŁUGI HANDLOWO-TRANSPORTOWE Janusz Trzciński",
+          "nip": "8381014054",
+          "regon": "750142305",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "6c",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "żyrardowski",
+            "gminaMiastoDzielnica": "Wiskitki",
+            "miejscowosc": "Guzów",
+            "kodPocztowy": "96-317"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "41/2026/RZ35-U/2026",
+        "okres": "43 dni",
+        "dataPublikacji": "28.07.2026",
+        "dataModyfikacji": "28.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -992,70 +1312,6 @@
       }
     },
     {
-      "idUmowy": "75ac3d9e-2d0e-448b-b8a0-840efb47e0ed",
-      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-      "regon": "013272116",
-      "dataZawarciaUmowy": "17.07.2026",
-      "dataZakonczeniaUmowy": null,
-      "wartoscPrzedmiotuUmowy": 44715.45,
-      "przedmiotUmowy": "Etap I: Wykonanie koniecznych analiz i ocena możliwości posadowienia obiektu dla zadania pn. „Budowa budowli ochronnej w postaci dwufunkcyjnego obiektu budowlanego pełniącego funkcję ukrycia kategorii U 1 oraz garażu podziemnego, wraz z niezbędną infrastrukturą techniczną przy ulicy Poznańskiej 129/133 w Ożarowie Mazowieckim”",
-      "statusUmowy": "Aktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/75ac3d9e-2d0e-448b-b8a0-840efb47e0ed",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "\"KOSZT-BUD\" DARIUSZ MAJER",
-          "nip": "9690363586",
-          "regon": "273753305",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Dworcowa",
-            "numerNieruchomosci": "10",
-            "numerLokalu": "3",
-            "wojewodztwo": "ŚLĄSKIE",
-            "powiat": "gliwicki",
-            "gminaMiastoDzielnica": "Knurów",
-            "miejscowosc": "Knurów",
-            "kodPocztowy": "44-190"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-          "nip": "5272185358",
-          "regon": "013272116",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "129/133",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "SPWZ/201/2026",
-        "okres": "111 dni",
-        "dataPublikacji": "20.07.2026",
-        "dataModyfikacji": "20.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
       "idUmowy": "4d929eeb-f549-492e-bdc9-05d71077ad78",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -1309,70 +1565,6 @@
         "dataPublikacji": "20.07.2026",
         "dataModyfikacji": "20.07.2026",
         "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "93574607-ddbe-4b08-9f5d-868a0be11e3e",
-      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-      "regon": "013272116",
-      "dataZawarciaUmowy": "15.07.2026",
-      "dataZakonczeniaUmowy": null,
-      "wartoscPrzedmiotuUmowy": 105500,
-      "przedmiotUmowy": "Utworzenie małej infrastruktury na terenie Powiatu Warszawskiego-Zachodniego - część 2 zakup, dostawa i montaż namiotu sferycznego w Specjalnym Ośrodku Szkolno-Wychowawczym w Lesznie",
-      "statusUmowy": "Aktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/93574607-ddbe-4b08-9f5d-868a0be11e3e",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "MTS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-          "nip": "5732873931",
-          "regon": "366101370",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Malicka",
-            "numerNieruchomosci": "15",
-            "numerLokalu": null,
-            "wojewodztwo": "ŚLĄSKIE",
-            "powiat": "częstochowski",
-            "gminaMiastoDzielnica": "Blachownia",
-            "miejscowosc": "Blachownia",
-            "kodPocztowy": "42-290"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-          "nip": "5272185358",
-          "regon": "013272116",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "129/133",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "SPWZ/202/2026",
-        "okres": "43 dni",
-        "dataPublikacji": "20.07.2026",
-        "dataModyfikacji": "20.07.2026",
-        "finansowanaZeSrodkow": true
       }
     },
     {
@@ -2058,70 +2250,6 @@
       }
     },
     {
-      "idUmowy": "967dbdc7-ac48-4de7-8f85-894cf4adc206",
-      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
-      "regon": "000264472",
-      "dataZawarciaUmowy": "06.07.2026",
-      "dataZakonczeniaUmowy": "20.07.2026",
-      "wartoscPrzedmiotuUmowy": 2034.44,
-      "przedmiotUmowy": "zakup biletów wstępu i wymaganych skarpet do parku rozrywki",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/967dbdc7-ac48-4de7-8f85-894cf4adc206",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "JUNGLE PARK PRUSZKÓW SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-          "nip": "5342660908",
-          "regon": "524473945",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Kazimierza Lisieckiego",
-            "numerNieruchomosci": "1",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "pruszkowski",
-            "gminaMiastoDzielnica": "Pruszków",
-            "miejscowosc": "Pruszków",
-            "kodPocztowy": "05-800"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
-          "nip": "1181428468",
-          "regon": "000264472",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Szkolna",
-            "numerNieruchomosci": "2",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": null,
-        "okres": "1 dzień",
-        "dataPublikacji": "20.07.2026",
-        "dataModyfikacji": "20.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
       "idUmowy": "9923f4cf-742b-4eb0-8d64-c9dd82288634",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -2182,70 +2310,6 @@
         "okres": "1 dzień",
         "dataPublikacji": "21.07.2026",
         "dataModyfikacji": "21.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "5a8ae289-2ce0-404a-be4e-29f035d648ef",
-      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
-      "regon": "000264472",
-      "dataZawarciaUmowy": "03.07.2026",
-      "dataZakonczeniaUmowy": "17.07.2026",
-      "wartoscPrzedmiotuUmowy": 29088.89,
-      "przedmiotUmowy": "bilety wstępu i organizacja posiłku dla uczestników (dzieci) akcji \"lato w mieście\"",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5a8ae289-2ce0-404a-be4e-29f035d648ef",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "MANDORIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-          "nip": "7282857228",
-          "regon": "520509770",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Miasto Mody",
-            "numerNieruchomosci": "2",
-            "numerLokalu": null,
-            "wojewodztwo": "ŁÓDZKIE",
-            "powiat": "łódzki wschodni",
-            "gminaMiastoDzielnica": "Rzgów",
-            "miejscowosc": "Rzgów",
-            "kodPocztowy": "95-030"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
-          "nip": "1181428468",
-          "regon": "000264472",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Szkolna",
-            "numerNieruchomosci": "2",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": null,
-        "okres": "1 dzień",
-        "dataPublikacji": "20.07.2026",
-        "dataModyfikacji": "20.07.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -3203,70 +3267,6 @@
       ],
       "details": {
         "numerUmowy": "SPWZ/193C/2026",
-        "okres": null,
-        "dataPublikacji": "20.07.2026",
-        "dataModyfikacji": "20.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "5ea3a690-7029-46d7-8a66-5594a70c9843",
-      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-      "regon": "013272116",
-      "dataZawarciaUmowy": "01.07.2026",
-      "dataZakonczeniaUmowy": null,
-      "wartoscPrzedmiotuUmowy": 4100,
-      "przedmiotUmowy": "Organizacja pobytu Przewodniczącego Rady na Forum Ekonomicznym w Karpaczu - wrzesień 2026",
-      "statusUmowy": "Aktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5ea3a690-7029-46d7-8a66-5594a70c9843",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Przedsiębiorca",
-          "nazwa": "FUNDACJA INSTYTUT STUDIÓW WSCHODNICH",
-          "nip": "5211001909",
-          "regon": "010402400",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": "ul. Solec",
-            "numerNieruchomosci": "85",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "Warszawa",
-            "gminaMiastoDzielnica": "Śródmieście",
-            "miejscowosc": "Warszawa",
-            "kodPocztowy": "00-382"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-          "nip": "5272185358",
-          "regon": "013272116",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "129/133",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": null,
         "okres": null,
         "dataPublikacji": "20.07.2026",
         "dataModyfikacji": "20.07.2026",
