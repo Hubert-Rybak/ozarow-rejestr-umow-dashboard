@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-02T07:41:15.796Z",
+  "fetchedAt": "2026-08-03T08:42:29.499Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,7 +7,7 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 99,
+  "totalElements": 101,
   "totalVisibleElements": 0,
   "agreements": [
     {
@@ -1163,134 +1163,6 @@
       }
     },
     {
-      "idUmowy": "c28b1ecf-2e7a-46d0-aa7d-bbe4b8e3dab6",
-      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-      "regon": "013272116",
-      "dataZawarciaUmowy": "20.07.2026",
-      "dataZakonczeniaUmowy": "23.07.2026",
-      "wartoscPrzedmiotuUmowy": 800,
-      "przedmiotUmowy": "Udział w charakterze eksperta - komisja egzaminacyjna - awans zawodowy nauczyciela.",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c28b1ecf-2e7a-46d0-aa7d-bbe4b8e3dab6",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Osoba fizyczna",
-          "nazwa": null,
-          "nip": null,
-          "regon": null,
-          "imie": "Teresa",
-          "nazwisko": "Perkowska",
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": null,
-            "numerNieruchomosci": null,
-            "numerLokalu": null,
-            "wojewodztwo": null,
-            "powiat": null,
-            "gminaMiastoDzielnica": null,
-            "miejscowosc": null,
-            "kodPocztowy": null
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-          "nip": "5272185358",
-          "regon": "013272116",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "129/133",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "83/07/2026",
-        "okres": "1 dzień",
-        "dataPublikacji": "23.07.2026",
-        "dataModyfikacji": "23.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
-      "idUmowy": "daa6356a-f0bb-428a-a136-4d0d717528fb",
-      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-      "regon": "013272116",
-      "dataZawarciaUmowy": "20.07.2026",
-      "dataZakonczeniaUmowy": "23.07.2026",
-      "wartoscPrzedmiotuUmowy": 800,
-      "przedmiotUmowy": "Udział w charakterze eksperta - komisja egzaminacyjna - awans zawodowy nauczyciela.",
-      "statusUmowy": "Nieaktywna",
-      "sourceUrl": "https://rejestrumow.gov.pl/umowa/daa6356a-f0bb-428a-a136-4d0d717528fb",
-      "contractors": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "Osoba fizyczna",
-          "nazwa": null,
-          "nip": null,
-          "regon": null,
-          "imie": "Jolanta",
-          "nazwisko": "Pawłowska",
-          "czyKonsorcjum": false,
-          "daneAdresowe": {
-            "ulica": null,
-            "numerNieruchomosci": null,
-            "numerLokalu": null,
-            "wojewodztwo": null,
-            "powiat": null,
-            "gminaMiastoDzielnica": null,
-            "miejscowosc": null,
-            "kodPocztowy": null
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "procurers": [
-        {
-          "kraj": "Polska",
-          "rodzaj": "JSFP",
-          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
-          "nip": "5272185358",
-          "regon": "013272116",
-          "imie": null,
-          "nazwisko": null,
-          "czyKonsorcjum": null,
-          "daneAdresowe": {
-            "ulica": "ul. Poznańska",
-            "numerNieruchomosci": "129/133",
-            "numerLokalu": null,
-            "wojewodztwo": "MAZOWIECKIE",
-            "powiat": "warszawski zachodni",
-            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
-            "miejscowosc": "Ożarów Mazowiecki",
-            "kodPocztowy": "05-850"
-          },
-          "niejawnoscStrony": null
-        }
-      ],
-      "details": {
-        "numerUmowy": "85/07/2026",
-        "okres": "1 dzień",
-        "dataPublikacji": "23.07.2026",
-        "dataModyfikacji": "23.07.2026",
-        "finansowanaZeSrodkow": false
-      }
-    },
-    {
       "idUmowy": "da6fb4b4-c3b5-4709-ae05-325e39e66048",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -2249,6 +2121,70 @@
       }
     },
     {
+      "idUmowy": "98a39749-f0fd-443f-af33-c2411f3175a8",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "10.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 429,
+      "przedmiotUmowy": "Szkolenie CRU",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/98a39749-f0fd-443f-af33-c2411f3175a8",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "VERTE CENTRUM SZKOLEŃ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "8982334556",
+          "regon": "544926740",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Mieszczańska",
+            "numerNieruchomosci": "29",
+            "numerLokalu": "13",
+            "wojewodztwo": "DOLNOŚLĄSKIE",
+            "powiat": "Wrocław",
+            "gminaMiastoDzielnica": "Wrocław-Śródmieście",
+            "miejscowosc": "Wrocław",
+            "kodPocztowy": "50-201"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "5 dni",
+        "dataPublikacji": "03.08.2026",
+        "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "7d2a55fe-65b0-4df8-879b-fce66f172322",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -2522,6 +2458,70 @@
         "okres": "1 dzień",
         "dataPublikacji": "30.07.2026",
         "dataModyfikacji": "30.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "99651824-fa7b-46bd-a6e7-d54b2b22a8bf",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "07.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 11780,
+      "przedmiotUmowy": "Pomoc przy sprawowaniu opieki nad dziećmi w RDD",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/99651824-fa7b-46bd-a6e7-d54b2b22a8bf",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Klaudia",
+          "nazwisko": "Drzewiecka",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "25/F/2026",
+        "okres": "56 dni",
+        "dataPublikacji": "03.08.2026",
+        "dataModyfikacji": "03.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
