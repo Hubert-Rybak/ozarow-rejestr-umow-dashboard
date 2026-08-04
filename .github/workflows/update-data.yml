@@ -17,6 +17,7 @@ concurrency:
 jobs:
   update-and-build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -28,14 +29,22 @@ jobs:
         run: npm run fetch
         env:
           CRU_FILTER_JSON: ${{ vars.CRU_FILTER_JSON || '{"jsfp":{"gmina":"Ożarów Mazowiecki"}}' }}
+          CRU_PAGE_SIZE: ${{ vars.CRU_PAGE_SIZE || '50' }}
+          CRU_DETAIL_DELAY_MS: ${{ vars.CRU_DETAIL_DELAY_MS || '500' }}
+          CRU_RETRY_ATTEMPTS: ${{ vars.CRU_RETRY_ATTEMPTS || '7' }}
+          CRU_RETRY_BASE_DELAY_MS: ${{ vars.CRU_RETRY_BASE_DELAY_MS || '2000' }}
+          CRU_RETRY_MAX_DELAY_MS: ${{ vars.CRU_RETRY_MAX_DELAY_MS || '60000' }}
+          CRU_REQUEST_TIMEOUT_MS: ${{ vars.CRU_REQUEST_TIMEOUT_MS || '30000' }}
       - run: npm test
       - run: npm run build
       - name: Commit refreshed data
+        if: github.ref == 'refs/heads/main'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore(data): refresh CRU agreements'
           file_pattern: public/data/agreements.json
       - name: Deploy static dashboard to gh-pages
+        if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
