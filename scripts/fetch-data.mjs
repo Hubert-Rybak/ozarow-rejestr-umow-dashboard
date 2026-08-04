@@ -1,11 +1,24 @@
 import { mkdir, writeFile } from 'node:fs/promises';
+import {
+  collectPaginated,
+  fetchJsonWithRetry,
+  mapSequentiallyWithDelay,
+  validatePageSize,
+} from './cru-client.mjs';
 
 const API_BASE = 'https://rejestrumow.gov.pl';
 const SEARCH_API = `${API_BASE}/api-dp/v1/agreements/search`;
 const DETAIL_API = `${API_BASE}/api-dp/v1/agreement`;
 const DEFAULT_FILTER = { jsfp: { gmina: 'Ożarów Mazowiecki' } };
 const filter = process.env.CRU_FILTER_JSON ? JSON.parse(process.env.CRU_FILTER_JSON) : DEFAULT_FILTER;
-const limit = Number(process.env.CRU_PAGE_SIZE ?? 100);
+const limit = validatePageSize(Number(process.env.CRU_PAGE_SIZE ?? 50));
+const detailDelayMs = Number(process.env.CRU_DETAIL_DELAY_MS ?? 500);
+const retryOptions = {
+  maxAttempts: Number(process.env.CRU_RETRY_ATTEMPTS ?? 7),
+  baseDelayMs: Number(process.env.CRU_RETRY_BASE_DELAY_MS ?? 2_000),
+  maxDelayMs: Number(process.env.CRU_RETRY_MAX_DELAY_MS ?? 60_000),
+  timeoutMs: Number(process.env.CRU_REQUEST_TIMEOUT_MS ?? 30_000),
+};
 
 const baseHeaders = {
   accept: 'application/json',
@@ -15,22 +28,23 @@ const baseHeaders = {
 
 async function fetchPage(offset) {
   const url = `${SEARCH_API}?offset=${offset}&limit=${limit}`;
-  const response = await fetch(url, {
+  return fetchJsonWithRetry('CRU search', url, {
     method: 'POST',
     headers: {
       ...baseHeaders,
       'content-type': 'application/json',
     },
     body: JSON.stringify(filter),
-  });
-  if (!response.ok) throw new Error(`CRU search HTTP ${response.status}: ${await response.text()}`);
-  return response.json();
+  }, retryOptions);
 }
 
 async function fetchAgreementDetail(idUmowy) {
-  const response = await fetch(`${DETAIL_API}/${encodeURIComponent(idUmowy)}`, { headers: baseHeaders });
-  if (!response.ok) throw new Error(`CRU detail ${idUmowy} HTTP ${response.status}: ${await response.text()}`);
-  return response.json();
+  return fetchJsonWithRetry(
+    `CRU detail ${idUmowy}`,
+    `${DETAIL_API}/${encodeURIComponent(idUmowy)}`,
+    { headers: baseHeaders },
+    retryOptions,
+  );
 }
 
 function extractContractors(detail) {
@@ -65,24 +79,16 @@ function normalizeAgreement(summary, detail) {
 }
 
 async function main() {
-  const summaries = [];
-  let offset = 0;
-  let totalElements = 0;
-  let totalVisibleElements = 0;
-  for (;;) {
-    const page = await fetchPage(offset);
-    totalElements = page.totalElements ?? totalElements;
-    totalVisibleElements = page.totalVisibleElements ?? totalVisibleElements;
-    summaries.push(...(page.content ?? []));
-    offset += limit;
-    if (summaries.length >= totalVisibleElements || (page.content ?? []).length === 0) break;
-  }
+  const {
+    items: summaries,
+    totalElements,
+    totalMatchingElements,
+  } = await collectPaginated(fetchPage);
 
-  const all = [];
-  for (const summary of summaries) {
+  const all = await mapSequentiallyWithDelay(summaries, async (summary) => {
     const detail = await fetchAgreementDetail(summary.idUmowy);
-    all.push(normalizeAgreement(summary, detail));
-  }
+    return normalizeAgreement(summary, detail);
+  }, { delayMs: detailDelayMs });
 
   all.sort((a, b) => String(b.dataZawarciaUmowy ?? '').localeCompare(String(a.dataZawarciaUmowy ?? '')));
   const payload = {
@@ -91,12 +97,13 @@ async function main() {
     detailSource: DETAIL_API,
     filter,
     totalElements,
-    totalVisibleElements,
+    totalMatchingElements,
+    totalVisibleElements: totalMatchingElements,
     agreements: all,
   };
   await mkdir('public/data', { recursive: true });
   await writeFile('public/data/agreements.json', `${JSON.stringify(payload, null, 2)}\n`);
-  console.log(`Fetched ${all.length}/${totalVisibleElements} agreements with details`);
+  console.log(`Fetched ${all.length}/${totalMatchingElements} agreements with details`);
 }
 
 main().catch((error) => {
