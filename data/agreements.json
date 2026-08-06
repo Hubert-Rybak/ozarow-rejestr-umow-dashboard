@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-05T07:50:28.147Z",
+  "fetchedAt": "2026-08-06T07:50:39.811Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 115,
-  "totalMatchingElements": 115,
-  "totalVisibleElements": 115,
+  "totalElements": 124,
+  "totalMatchingElements": 124,
+  "totalVisibleElements": 124,
   "agreements": [
     {
       "idUmowy": "ad7e2e75-7356-4e1d-8d17-551556f2fb60",
@@ -140,6 +140,262 @@
       }
     },
     {
+      "idUmowy": "48843c75-fd7d-477f-a9b4-ed666ce9484b",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "29.07.2026",
+      "dataZakonczeniaUmowy": "05.08.2026",
+      "wartoscPrzedmiotuUmowy": 32.52,
+      "przedmiotUmowy": "Pieczątka imienna dla pracownika",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/48843c75-fd7d-477f-a9b4-ed666ce9484b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PAWEŁ CHMIELEWSKI \"COLIBERS\"",
+          "nip": "5341044314",
+          "regon": "011446747",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "258",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "458ee09b-fc94-4fad-9154-b2e90dd413a9",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "28.07.2026",
+      "dataZakonczeniaUmowy": "05.08.2026",
+      "wartoscPrzedmiotuUmowy": 735.17,
+      "przedmiotUmowy": "Zakup książek do księgozbioru Wypożyczalni dla Dorosłych oraz Oddziału dla Dzieci i Młodzieży",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/458ee09b-fc94-4fad-9154-b2e90dd413a9",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BONITO.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "6762400623",
+          "regon": "120954264",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Komandosów",
+            "numerNieruchomosci": "1",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "krakowski",
+            "gminaMiastoDzielnica": "Wielka Wieś",
+            "miejscowosc": "Modlniczka",
+            "kodPocztowy": "32-085"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "b2404ed7-ee17-4799-97bc-1a8670e1f3b6",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "28.07.2026",
+      "dataZakonczeniaUmowy": "05.08.2026",
+      "wartoscPrzedmiotuUmowy": 408.39,
+      "przedmiotUmowy": "Zamówienie książek do zbiorów Biblioteki",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/b2404ed7-ee17-4799-97bc-1a8670e1f3b6",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "STOWARZYSZENIE ZIELONA GRUPA",
+          "nip": "6652993125",
+          "regon": "302556198",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. 28 Czerwca 1956 r.",
+            "numerNieruchomosci": "177",
+            "numerLokalu": "5",
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "Poznań",
+            "gminaMiastoDzielnica": "Poznań-Wilda",
+            "miejscowosc": "Poznań",
+            "kodPocztowy": "61-485"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "7 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "c65be5b5-0eab-40eb-be6e-cc5dce71b34b",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "28.07.2026",
+      "dataZakonczeniaUmowy": "05.08.2026",
+      "wartoscPrzedmiotuUmowy": 3698.88,
+      "przedmiotUmowy": "Zakup książek do Księgozbioru Wypożyczalni dla Dorosłych",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c65be5b5-0eab-40eb-be6e-cc5dce71b34b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"PLATON\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272397698",
+          "regon": "015430128",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Sławęcińska",
+            "numerNieruchomosci": "16",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Macierzysz",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "cd125afa-a563-4ee6-86be-21124b96b107",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -200,6 +456,134 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "5861bc14-52e5-4af7-ab0f-bb0b0c7aa91a",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "27.07.2026",
+      "dataZakonczeniaUmowy": "05.08.2026",
+      "wartoscPrzedmiotuUmowy": 1236.39,
+      "przedmiotUmowy": "zakup materiałów biurowych",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5861bc14-52e5-4af7-ab0f-bb0b0c7aa91a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PAPIER HURT Maciej Stasiarczyk",
+          "nip": "8341482263",
+          "regon": "750099791",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Kwiatowa",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "łowicki",
+            "gminaMiastoDzielnica": "Nieborów",
+            "miejscowosc": "Bednary",
+            "kodPocztowy": "99-416"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "3 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "5d04a088-aaee-48c0-9ec4-1dae3ba04f89",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "27.07.2026",
+      "dataZakonczeniaUmowy": "05.08.2026",
+      "wartoscPrzedmiotuUmowy": 1219,
+      "przedmiotUmowy": "zakup papieru xero",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5d04a088-aaee-48c0-9ec4-1dae3ba04f89",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PAPIER HURT Maciej Stasiarczyk",
+          "nip": "8341482263",
+          "regon": "750099791",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Kwiatowa",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "łowicki",
+            "gminaMiastoDzielnica": "Nieborów",
+            "miejscowosc": "Bednary",
+            "kodPocztowy": "99-416"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "3 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -3487,6 +3871,70 @@
       }
     },
     {
+      "idUmowy": "72a39c36-8ec0-44b9-9b9c-2850aef6f196",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "15.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 5000,
+      "przedmiotUmowy": "Promocja Gminy Ożarów Mazowiecki podczas przygotowania i zawodów",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/72a39c36-8ec0-44b9-9b9c-2850aef6f196",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Alicja",
+          "nazwisko": "Olesińska",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WSS/28/2026",
+        "okres": "78 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "02ed793c-883c-4fd6-b2e7-7e5008c80669",
       "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
       "regon": "000939243",
@@ -4123,6 +4571,70 @@
         "okres": "2 dni",
         "dataPublikacji": "14.07.2026",
         "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "121dbd47-997f-4648-b27f-66613356800c",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "10.07.2026",
+      "dataZakonczeniaUmowy": "05.08.2026",
+      "wartoscPrzedmiotuUmowy": 120.02,
+      "przedmiotUmowy": "Zamówienie pieczątek dla Biblioteki Publicznej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/121dbd47-997f-4648-b27f-66613356800c",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PAWEŁ CHMIELEWSKI \"COLIBERS\"",
+          "nip": "5341044314",
+          "regon": "011446747",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "258",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -5999,6 +6511,70 @@
         "okres": "1 dzień",
         "dataPublikacji": "21.07.2026",
         "dataModyfikacji": "21.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "aaae4aee-9927-4dcb-b9f1-d6a47247c1bd",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "03.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 4806,
+      "przedmiotUmowy": "pomoc w sprzątaniu Ożarowskich Basenów Letnich, pomoc w wydawaniu pasków identyfikacyjnych klientów OBL",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/aaae4aee-9927-4dcb-b9f1-d6a47247c1bd",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Aldona",
+          "nazwisko": "Krawczyk",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "GOSiR.215.12.2026",
+        "okres": "29 dni",
+        "dataPublikacji": "05.08.2026",
+        "dataModyfikacji": "05.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
