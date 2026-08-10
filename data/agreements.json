@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T05:59:18.697Z",
+  "fetchedAt": "2026-08-10T06:43:04.249Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 124,
-  "totalMatchingElements": 124,
-  "totalVisibleElements": 124,
+  "totalElements": 133,
+  "totalMatchingElements": 133,
+  "totalVisibleElements": 133,
   "agreements": [
     {
       "idUmowy": "ad7e2e75-7356-4e1d-8d17-551556f2fb60",
@@ -456,6 +456,70 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "01ce2d62-3c78-4090-877a-6aebea4114e2",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "27.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 8000,
+      "przedmiotUmowy": "Usunięcie awarii wodociągowej w ul. Zabytkowej 4 w miejscowości Płochocin",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/01ce2d62-3c78-4090-877a-6aebea4114e2",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"NAPARTY\" USŁUGI WODNO-KANALIZACYJNE JANUSZ NAPARTY",
+          "nip": "5291288237",
+          "regon": "141408571",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Piaskowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Błonie",
+            "miejscowosc": "Błonie",
+            "kodPocztowy": "05-870"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "42/2026",
+        "okres": "3 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -1164,6 +1228,70 @@
       }
     },
     {
+      "idUmowy": "ba4c7db0-e440-4b44-abaa-d909721fcaa1",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "24.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 18000,
+      "przedmiotUmowy": "Usunięcie awarii wodociągowej ul. Wiosenna 1 w miejscowości Święcice",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ba4c7db0-e440-4b44-abaa-d909721fcaa1",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "CEZAR A&J SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182218922",
+          "regon": "388038134",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wieruchowska",
+            "numerNieruchomosci": "146",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Wieruchów",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "41/2026",
+        "okres": "4 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "80d75abb-0cb6-4ea6-8282-11ce987cdf45",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -1804,6 +1932,70 @@
       }
     },
     {
+      "idUmowy": "b24fa12f-7c60-4060-871e-dfe95df144b1",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "21.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 6000,
+      "przedmiotUmowy": "usunięcie awarii na sieci kanalizacyjnej ul. Nowowiejska w miejscowości Pilaszków",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/b24fa12f-7c60-4060-871e-dfe95df144b1",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TSJ TOMASZ BŁAŻEJCZYK",
+          "nip": "8751361323",
+          "regon": "340879173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "7C",
+            "numerLokalu": null,
+            "wojewodztwo": "KUJAWSKO-POMORSKIE",
+            "powiat": "włocławski",
+            "gminaMiastoDzielnica": "Fabianki",
+            "miejscowosc": "Łęg-Witoszyn",
+            "kodPocztowy": "87-811"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "40/2026",
+        "okres": "3 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "45e92952-54ce-4004-aa65-2eeaa65c121c",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -2141,6 +2333,134 @@
         "okres": "90 dni",
         "dataPublikacji": "22.07.2026",
         "dataModyfikacji": "28.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "4db777d9-3de2-4be0-91ea-898644ce787f",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 45995,
+      "przedmiotUmowy": "Zakup nowych pomp ściekowych łącznie 59 sztuk do przepompowni ścieków będących w eksploatacji ZWIK w Ożarowie Mazowieckim. Część A - przedmiotu zamówienia :pompy do przydomowych przepompowni ścieków 55 szt.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/4db777d9-3de2-4be0-91ea-898644ce787f",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ARPO JAKUBOWSKI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "8762519555",
+          "regon": "543723904",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Rzemieślnicza",
+            "numerNieruchomosci": "1E",
+            "numerLokalu": null,
+            "wojewodztwo": "KUJAWSKO-POMORSKIE",
+            "powiat": "Grudziądz",
+            "gminaMiastoDzielnica": "Grudziądz",
+            "miejscowosc": "Grudziądz",
+            "kodPocztowy": "86-300"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "164 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ac7cb350-c119-44f2-8e28-6d7445840970",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 39600,
+      "przedmiotUmowy": "Zakup nowych pomp ściekowych łącznie w ilości 59 sztuk do przepompowni ścieków będących w eksploatacji ZWIK w Ożarowie Mazowieckim. CZĘŚĆ B - przedmiotem zamówienia: pompy do sieciowych przepompowni ścieków 4 sztuki",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ac7cb350-c119-44f2-8e28-6d7445840970",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "METALCHEM - WARSZAWA SPÓŁKA AKCYJNA",
+          "nip": "5270204040",
+          "regon": "012100778",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Okólna",
+            "numerNieruchomosci": "36B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "wołomiński",
+            "gminaMiastoDzielnica": "Marki",
+            "miejscowosc": "Marki",
+            "kodPocztowy": "05-270"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "164 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -4575,6 +4895,70 @@
       }
     },
     {
+      "idUmowy": "d0045a6e-ac80-46f6-af4c-64018878ad18",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "10.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 9000,
+      "przedmiotUmowy": "Usunięcie awarii wodociągowej w ul. Umiastowskiej 60 miejscowość Umiastów",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d0045a6e-ac80-46f6-af4c-64018878ad18",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TSJ TOMASZ BŁAŻEJCZYK",
+          "nip": "8751361323",
+          "regon": "340879173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "7C",
+            "numerLokalu": null,
+            "wojewodztwo": "KUJAWSKO-POMORSKIE",
+            "powiat": "włocławski",
+            "gminaMiastoDzielnica": "Fabianki",
+            "miejscowosc": "Łęg-Witoszyn",
+            "kodPocztowy": "87-811"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "39/2026",
+        "okres": "6 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "121dbd47-997f-4648-b27f-66613356800c",
       "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
       "regon": "000939243",
@@ -6515,6 +6899,70 @@
       }
     },
     {
+      "idUmowy": "edb032fa-dce2-4315-b705-7506f25bdb91",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "03.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 18600,
+      "przedmiotUmowy": "dostawa, montaż i uruchomienie klimatyzatorów w pomieszczeniach będących w użytkowaniu ZWIK w Ożarowie Mazowieckim",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/edb032fa-dce2-4315-b705-7506f25bdb91",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DI.EM DARIUSZ ZUBRZYCKI",
+          "nip": "8371556730",
+          "regon": "017070734",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Długa",
+            "numerNieruchomosci": "31",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "sochaczewski",
+            "gminaMiastoDzielnica": "Rybno",
+            "miejscowosc": "Rybno",
+            "kodPocztowy": "96-514"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "59 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "aaae4aee-9927-4dcb-b9f1-d6a47247c1bd",
       "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
       "regon": "140382585",
@@ -6575,6 +7023,134 @@
         "okres": "29 dni",
         "dataPublikacji": "05.08.2026",
         "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "37101697-123b-4380-99a2-12b06109905b",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "03.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 15000,
+      "przedmiotUmowy": "Usługa usunięcia awarii wodociągowej przy ul. Radziwiłłów 5 w Ożarowie Mazowieckim",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/37101697-123b-4380-99a2-12b06109905b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "CEZAR A&J SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182218922",
+          "regon": "388038134",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wieruchowska",
+            "numerNieruchomosci": "146",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Wieruchów",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "37/2026",
+        "okres": "4 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "e2f1bd1a-df30-4127-a2e0-1304bbde1495",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "03.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 10000,
+      "przedmiotUmowy": "usunięcie awarii kanalizacyjnej ul. Poznańska 61 w miejscowości Jawczyce",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e2f1bd1a-df30-4127-a2e0-1304bbde1495",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TSJ TOMASZ BŁAŻEJCZYK",
+          "nip": "8751361323",
+          "regon": "340879173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "7C",
+            "numerLokalu": null,
+            "wojewodztwo": "KUJAWSKO-POMORSKIE",
+            "powiat": "włocławski",
+            "gminaMiastoDzielnica": "Fabianki",
+            "miejscowosc": "Łęg-Witoszyn",
+            "kodPocztowy": "87-811"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "38/2026",
+        "okres": "6 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
