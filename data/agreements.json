@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T06:43:04.249Z",
+  "fetchedAt": "2026-08-11T06:06:31.684Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 133,
-  "totalMatchingElements": 133,
-  "totalVisibleElements": 133,
+  "totalElements": 134,
+  "totalMatchingElements": 134,
+  "totalVisibleElements": 134,
   "agreements": [
     {
       "idUmowy": "ad7e2e75-7356-4e1d-8d17-551556f2fb60",
@@ -6831,6 +6831,70 @@
         "okres": "2 dni",
         "dataPublikacji": "14.07.2026",
         "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "a439d89e-0391-43da-92ee-2f63bd808591",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "05.08.2026",
+      "dataZakonczeniaUmowy": "10.08.2026",
+      "wartoscPrzedmiotuUmowy": 465.85,
+      "przedmiotUmowy": "zakup lustra łazienkowego bez barier, uchylnego z rączką",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a439d89e-0391-43da-92ee-2f63bd808591",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "JOLANTA ŚCIĘŻOR ISNET",
+          "nip": "6772134258",
+          "regon": "356529680",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "Osiedle Złotego Wieku",
+            "numerNieruchomosci": "91",
+            "numerLokalu": null,
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "Kraków",
+            "gminaMiastoDzielnica": "Kraków-Nowa Huta",
+            "miejscowosc": "Kraków",
+            "kodPocztowy": "31-618"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "4 dni",
+        "dataPublikacji": "10.08.2026",
+        "dataModyfikacji": "10.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
