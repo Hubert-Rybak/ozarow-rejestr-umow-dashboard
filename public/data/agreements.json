@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T06:43:20.191Z",
+  "fetchedAt": "2026-08-13T06:46:43.758Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 137,
-  "totalMatchingElements": 137,
-  "totalVisibleElements": 137,
+  "totalElements": 138,
+  "totalMatchingElements": 138,
+  "totalVisibleElements": 138,
   "agreements": [
     {
       "idUmowy": "ad7e2e75-7356-4e1d-8d17-551556f2fb60",
@@ -2597,10 +2597,10 @@
       "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
       "regon": "014900974",
       "dataZawarciaUmowy": "20.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "12.08.2026",
       "wartoscPrzedmiotuUmowy": 7000,
       "przedmiotUmowy": "Wymiana odcinka zewnętrznej instalacji kanalizacji sanitarnej w siedzibie Zarządu Dróg Powiato",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/061843eb-512f-4a36-8617-f073cf8bf425",
       "contractors": [
         {
@@ -2652,7 +2652,7 @@
         "numerUmowy": "40/2026/RZ34-U/2026",
         "okres": "12 dni",
         "dataPublikacji": "28.07.2026",
-        "dataModyfikacji": "28.07.2026",
+        "dataModyfikacji": "12.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -6895,6 +6895,70 @@
         "okres": "2 dni",
         "dataPublikacji": "14.07.2026",
         "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "76965e2c-258d-4640-8fb9-45defc358043",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "05.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 0,
+      "przedmiotUmowy": "Pełnienie nadzoru autorskiego przy realizacji zadania inwestycyjnego pn. \"Budowa budynku rekreacyjnego wraz z utwardzeniem i wygrodzeniem terenu dla mieszkańców DPS Bramki\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/76965e2c-258d-4640-8fb9-45defc358043",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SM Projekt Marta Dziubak",
+          "nip": "5341963179",
+          "regon": "146830820",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Kwiatowa",
+            "numerNieruchomosci": "26",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "sochaczewski",
+            "gminaMiastoDzielnica": "Teresin",
+            "miejscowosc": "Seroki-Parcela",
+            "kodPocztowy": "96-515"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/211/2026",
+        "okres": null,
+        "dataPublikacji": "12.08.2026",
+        "dataModyfikacji": "12.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
