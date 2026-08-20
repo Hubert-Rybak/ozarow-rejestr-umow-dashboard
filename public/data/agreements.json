@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-19T05:48:23.131Z",
+  "fetchedAt": "2026-08-20T05:49:40.929Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 198,
-  "totalMatchingElements": 198,
-  "totalVisibleElements": 198,
+  "totalElements": 212,
+  "totalMatchingElements": 212,
+  "totalVisibleElements": 212,
   "agreements": [
     {
       "idUmowy": "b3249201-4365-415a-b5ab-d0e89935b4d9",
@@ -1224,6 +1224,70 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "96806114-68d1-4e7a-b2b2-f40097d38a58",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "27.07.2026",
+      "dataZakonczeniaUmowy": "19.08.2026",
+      "wartoscPrzedmiotuUmowy": 38066.44,
+      "przedmiotUmowy": "Kolacja dla kierowników zespołów folklorystycznych i przedstawicieli władz samorządowych oraz przygotowanie sprzętu konferencyjnego podczas kolacji z okazji X Międzynarodowego Festiwalu Folkloru - Ożarów Mazowiecki 2026",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/96806114-68d1-4e7a-b2b2-f40097d38a58",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MCC MAZURKAS CONFERENCE CENTRE & HOTEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182025554",
+          "regon": "142346352",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "177",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.30.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -2448,10 +2512,10 @@
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "24.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "19.08.2026",
       "wartoscPrzedmiotuUmowy": 1218,
       "przedmiotUmowy": "zakup i aktywacja podpisu kwalifikowanego 2 szt",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/50c49bb3-1f8c-461e-a302-fc33d0fb4995",
       "contractors": [
         {
@@ -2503,7 +2567,7 @@
         "numerUmowy": "WA.1334.1.2026",
         "okres": "1 dzień",
         "dataPublikacji": "14.08.2026",
-        "dataModyfikacji": "14.08.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -3340,6 +3404,134 @@
       }
     },
     {
+      "idUmowy": "249506db-b889-492c-9638-8870f4de2718",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "21.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2855,
+      "przedmiotUmowy": "WYMIANA OPRAW AWARYJNYCH I USZKODZONEJ CZUJKI",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/249506db-b889-492c-9638-8870f4de2718",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MS FIRELINE MICHAŁ STACHLEWSKI",
+          "nip": "1181561931",
+          "regon": "142676144",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "242",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWA/206/2026",
+        "okres": "32 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ef2db14f-352f-4430-a4d7-415499373153",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "21.07.2026",
+      "dataZakonczeniaUmowy": "19.08.2026",
+      "wartoscPrzedmiotuUmowy": 2000,
+      "przedmiotUmowy": "Naprawa-korekta lakieru",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ef2db14f-352f-4430-a4d7-415499373153",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WOJCIECH GOŹDZIEWSKI VIGO-CAR",
+          "nip": "7571178947",
+          "regon": "141082218",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "236",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/206B/2026",
+        "okres": "8 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "6ac4500e-aa09-411f-90b3-e905e62314a0",
       "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
       "regon": "014900974",
@@ -3805,6 +3997,134 @@
         "okres": "90 dni",
         "dataPublikacji": "22.07.2026",
         "dataModyfikacji": "28.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "878353c1-2b9f-47d8-8aee-252554feb215",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 19700,
+      "przedmiotUmowy": "MEBLE NA WYMIAR",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/878353c1-2b9f-47d8-8aee-252554feb215",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DEKOR Daniel Ślesik",
+          "nip": "7622011218",
+          "regon": "387434589",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Jana Pawła II",
+            "numerNieruchomosci": "53",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "wyszkowski",
+            "gminaMiastoDzielnica": "Somianka",
+            "miejscowosc": "Somianka",
+            "kodPocztowy": "07-203"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/205/2026",
+        "okres": "40 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "950c05f6-9c82-4b5a-8524-a24bd0864786",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": "19.08.2026",
+      "wartoscPrzedmiotuUmowy": 5350,
+      "przedmiotUmowy": "Teczki akt ewidencyjnych kierowcy KS-127",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/950c05f6-9c82-4b5a-8524-a24bd0864786",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WYDAWNICTWA AKCYDENSOWE SPÓŁKA AKCYJNA",
+          "nip": "5271201598",
+          "regon": "011971910",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Józefa Bema",
+            "numerNieruchomosci": "60A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Wola",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-225"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "12 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -4641,6 +4961,198 @@
       }
     },
     {
+      "idUmowy": "c9938ca9-4934-4794-8fe9-ba96db12e461",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "19.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 26500,
+      "przedmiotUmowy": "Usługa wydania kaszanki i kiełbasy grillowej oraz zapewnienia sprzętu eventowego w trakcie Dożynek Gminnych 2026",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c9938ca9-4934-4794-8fe9-ba96db12e461",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "FHU GRANT EVENT Magdalena Krasowska",
+          "nip": "8621454463",
+          "regon": "431140204",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Lubelska",
+            "numerNieruchomosci": "63",
+            "numerLokalu": null,
+            "wojewodztwo": "LUBELSKIE",
+            "powiat": "janowski",
+            "gminaMiastoDzielnica": "Janów Lubelski",
+            "miejscowosc": "Janów Lubelski",
+            "kodPocztowy": "23-300"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.22.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "e5d9bceb-cb0e-4c88-bd3f-20944864b2ed",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "19.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 17000,
+      "przedmiotUmowy": "Usługa przygotowania i obsługi 7 sztuk garderób dla Artystów występujących podczas Dożynek Gminnych",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e5d9bceb-cb0e-4c88-bd3f-20944864b2ed",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "FHU GRANT EVENT Magdalena Krasowska",
+          "nip": "8621454463",
+          "regon": "431140204",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Lubelska",
+            "numerNieruchomosci": "63",
+            "numerLokalu": null,
+            "wojewodztwo": "LUBELSKIE",
+            "powiat": "janowski",
+            "gminaMiastoDzielnica": "Janów Lubelski",
+            "miejscowosc": "Janów Lubelski",
+            "kodPocztowy": "23-300"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.24.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "fc987128-314e-4293-8f09-801422bb3209",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "19.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 23000,
+      "przedmiotUmowy": "Usługa przygotowania i obsługi namiotu VIP wraz z cateringiem w trakcie Dożynek Gminnych",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/fc987128-314e-4293-8f09-801422bb3209",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "FHU GRANT EVENT Magdalena Krasowska",
+          "nip": "8621454463",
+          "regon": "431140204",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Lubelska",
+            "numerNieruchomosci": "63",
+            "numerLokalu": null,
+            "wojewodztwo": "LUBELSKIE",
+            "powiat": "janowski",
+            "gminaMiastoDzielnica": "Janów Lubelski",
+            "miejscowosc": "Janów Lubelski",
+            "kodPocztowy": "23-300"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.23.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "da6fb4b4-c3b5-4709-ae05-325e39e66048",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -4901,10 +5413,10 @@
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "17.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "19.08.2026",
       "wartoscPrzedmiotuUmowy": 1625.2,
       "przedmiotUmowy": "zakup ekspresu do kawy",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1fab7c6e-a892-4e02-8cc6-8aec952da836",
       "contractors": [
         {
@@ -4956,7 +5468,7 @@
         "numerUmowy": "WA.2601.19.2026.AM",
         "okres": "1 dzień",
         "dataPublikacji": "14.08.2026",
-        "dataModyfikacji": "14.08.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -6499,10 +7011,10 @@
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "14.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "19.08.2026",
       "wartoscPrzedmiotuUmowy": 1400,
       "przedmiotUmowy": "przedłużenie licencji jednostanowiskowej do systemu pn Edytor Aktów Prawnych XML Legislator Premium Magic",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/27acebef-bb1d-4577-9c88-938b13cd432c",
       "contractors": [
         {
@@ -6554,7 +7066,7 @@
         "numerUmowy": "WA.015.7.2026",
         "okres": "335 dni",
         "dataPublikacji": "20.07.2026",
-        "dataModyfikacji": "20.07.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -6563,10 +7075,10 @@
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "14.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "19.08.2026",
       "wartoscPrzedmiotuUmowy": 2100,
       "przedmiotUmowy": "przedłużenie licencji oprogramowania ABC Anon",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/40fb0164-1699-46c2-9168-43229e61120d",
       "contractors": [
         {
@@ -6618,7 +7130,7 @@
         "numerUmowy": "WA.015.8.2026",
         "okres": "335 dni",
         "dataPublikacji": "20.07.2026",
-        "dataModyfikacji": "20.07.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -7131,6 +7643,70 @@
         "okres": "2 dni",
         "dataPublikacji": "14.07.2026",
         "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "68596790-6d24-4636-8afe-54ce04cab70d",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "12.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2120,
+      "przedmiotUmowy": "Wymiana pompek skroplin w PCPR POK 214. i WTiK pok. C007 oraz naprawa 5 odpływów",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/68596790-6d24-4636-8afe-54ce04cab70d",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Klimi Michał Buratowski",
+          "nip": "1182033826",
+          "regon": "146220748",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wólczyńska",
+            "numerNieruchomosci": "133",
+            "numerLokalu": "54R",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Bielany",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-919"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WA.2512.46.2026.MR",
+        "okres": "8 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -8841,6 +9417,70 @@
       }
     },
     {
+      "idUmowy": "81072992-b53b-4fab-b1b3-6361dc6a5610",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "07.08.2026",
+      "dataZakonczeniaUmowy": "19.08.2026",
+      "wartoscPrzedmiotuUmowy": 8000,
+      "przedmiotUmowy": "Mycie okien i przeszkleń na elewacji budynków SPWZ",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/81072992-b53b-4fab-b1b3-6361dc6a5610",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ALTIUS Czesław Dąbek",
+          "nip": "8151521617",
+          "regon": "691696986",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Milenijna",
+            "numerNieruchomosci": "51",
+            "numerLokalu": "25",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Białołęka",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "03-130"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/195/2026",
+        "okres": "25 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "e77eb490-9c91-4560-9524-f2e573747ab6",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -9459,6 +10099,134 @@
       }
     },
     {
+      "idUmowy": "6d7ba970-c565-4566-a915-fc2fb40592df",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "06.08.2026",
+      "dataZakonczeniaUmowy": "19.08.2026",
+      "wartoscPrzedmiotuUmowy": 629,
+      "przedmiotUmowy": "ZAKUP I AKTYWACJA PODPISU KWALIFIKOWANEGO - DLA SKARBNIKA POWIATU",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/6d7ba970-c565-4566-a915-fc2fb40592df",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DRAGON COMPUTER Tomasz Jedynak",
+          "nip": "6481045403",
+          "regon": "272589230",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Zielona",
+            "numerNieruchomosci": "31",
+            "numerLokalu": null,
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "częstochowski",
+            "gminaMiastoDzielnica": "Koniecpol",
+            "miejscowosc": "Koniecpol",
+            "kodPocztowy": "42-230"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WA.1334.1.2026",
+        "okres": "15 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "9f7cb072-e8d9-47a9-bd87-0aa5356ea15e",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "06.08.2026",
+      "dataZakonczeniaUmowy": "19.08.2026",
+      "wartoscPrzedmiotuUmowy": 350,
+      "przedmiotUmowy": "ZAKUP DEFLEKTORÓW DO KLIMATYZACJI",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/9f7cb072-e8d9-47a9-bd87-0aa5356ea15e",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "CLIMATEO.EU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272438859",
+          "regon": "015775169",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "703",
+            "numerLokalu": null,
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "wielicki",
+            "gminaMiastoDzielnica": "Wieliczka",
+            "miejscowosc": "Kokotów",
+            "kodPocztowy": "32-002"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WA.2601.23.2026.MR",
+        "okres": "1 dzień",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "6fb0d738-d2f9-4fe9-9d97-fe99638a448f",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -9647,6 +10415,70 @@
         "okres": null,
         "dataPublikacji": "17.08.2026",
         "dataModyfikacji": "17.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "7b0204bf-1e22-4332-b9ea-3a01ec70ad04",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "06.07.2026",
+      "dataZakonczeniaUmowy": "19.08.2026",
+      "wartoscPrzedmiotuUmowy": 536,
+      "przedmiotUmowy": "zakup pieczątek w miesiącu Lipcu 2026",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7b0204bf-1e22-4332-b9ea-3a01ec70ad04",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PAPIER HURT Maciej Stasiarczyk",
+          "nip": "8341482263",
+          "regon": "750099791",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Kwiatowa",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "łowicki",
+            "gminaMiastoDzielnica": "Nieborów",
+            "miejscowosc": "Bednary",
+            "kodPocztowy": "99-416"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WA.2601.25,2026 MR",
+        "okres": "25 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -10052,6 +10884,70 @@
         "okres": "2 dni",
         "dataPublikacji": "14.07.2026",
         "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "fe4c94d1-3c86-4900-9d16-640d75afeb77",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "05.08.2026",
+      "dataZakonczeniaUmowy": "19.08.2026",
+      "wartoscPrzedmiotuUmowy": 2138,
+      "przedmiotUmowy": "ZAKUP SEPARATORÓW DO SKANERÓW 17 SZT",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/fe4c94d1-3c86-4900-9d16-640d75afeb77",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Drukparts.pl Dawid Mieszczyński",
+          "nip": "6112530226",
+          "regon": "321193163",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Podlaska",
+            "numerNieruchomosci": "11",
+            "numerLokalu": null,
+            "wojewodztwo": "ZACHODNIOPOMORSKIE",
+            "powiat": "Koszalin",
+            "gminaMiastoDzielnica": "Koszalin",
+            "miejscowosc": "Koszalin",
+            "kodPocztowy": "75-396"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WA.2601.22.2026.MR",
+        "okres": "16 dni",
+        "dataPublikacji": "19.08.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -12620,10 +13516,10 @@
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "01.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "19.08.2026",
       "wartoscPrzedmiotuUmowy": 90,
       "przedmiotUmowy": "ZAKUP PŁYNU DO ODKAMIENIANIA FORLUX",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/73dc60ad-35a5-4047-bdcb-d89b11a15cd2",
       "contractors": [
         {
@@ -12675,7 +13571,7 @@
         "numerUmowy": "WA.2601.21.2026",
         "okres": "9 dni",
         "dataPublikacji": "21.07.2026",
-        "dataModyfikacji": "21.07.2026",
+        "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
