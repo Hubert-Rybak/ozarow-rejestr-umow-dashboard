@@ -187,9 +187,11 @@ function App() {
     setContractor('Wszyscy');
   };
 
-  // „Easter egg": 10 kliknięć w logo w ciągu 4 s przełącza widoczność sekcji analizy.
+  // „Easter egg": 5 kliknięć/dotknięć logo w ciągu 4 s przełącza widoczność sekcji analizy.
+  // Liczymy pointerdown (nie click), żeby działało niezawodnie na dotykowych ekranach.
   const handleBrandClick: React.MouseEventHandler<HTMLAnchorElement> = (event) => {
     event.preventDefault();
+    if (event.type !== 'pointerdown') return;
     const state = brandClicks.current;
     const now = Date.now();
     if (now - state.firstAt > 4000) {
@@ -197,7 +199,7 @@ function App() {
       state.firstAt = now;
     }
     state.count += 1;
-    if (state.count >= 10) {
+    if (state.count >= 5) {
       state.count = 0;
       const next = !analysisRevealed;
       setAnalysisRevealed(next);
