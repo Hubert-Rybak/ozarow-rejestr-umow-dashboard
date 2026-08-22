@@ -26,6 +26,7 @@ import {
   Search,
   ShieldAlert,
   ShieldCheck,
+  Users,
   WalletCards,
 } from 'lucide-react';
 import {
@@ -137,6 +138,12 @@ function App() {
       topRules: [...ruleCounts.entries()].sort((a, b) => (b[1] - a[1]) || a[0].localeCompare(b[0])).slice(0, 4),
     };
   }, [enriched, findingsByAgreement]);
+  const officialsChecked = compliance?.summary.officialsChecked ?? 0;
+  const linksFound = useMemo(() => {
+    let count = 0;
+    for (const list of findingsByAgreement.values()) count += list.filter((f) => f.ruleId === 'powiazanie-osobiste').length;
+    return count;
+  }, [findingsByAgreement]);
 
   const filtered = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
@@ -247,6 +254,11 @@ function App() {
               {complianceSummary.topRules.map(([ruleId, count]) => (
                 <div className="complianceStat rule" key={ruleId}><strong>{count}</strong><span>{FINDING_LABELS[ruleId] ?? ruleId}</span></div>
               ))}
+              <div className={`complianceStat ${linksFound > 0 ? 'rule' : 'ok'}`} title={officialsChecked ? `Sprawdzone osoby z władz gminy i powiatu: ${officialsChecked}` : undefined}>
+                <Users size={18} />
+                <strong>{linksFound}</strong>
+                <span>powiązań wykonawców z władzami{officialsChecked ? ` (baza: ${officialsChecked} osób)` : ''}</span>
+              </div>
             </div>
           </article>
 

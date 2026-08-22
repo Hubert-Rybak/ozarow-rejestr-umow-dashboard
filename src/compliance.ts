@@ -266,6 +266,8 @@ export type ComplianceSummary = {
   errors: number;
   clean: number;
   byRule: Record<string, number>;
+  /** Liczba osób z bazy władz (gmina + powiat) sprawdzonych pod kątem powiązań. */
+  officialsChecked?: number;
 };
 
 export type CompliancePayload = {
@@ -292,7 +294,7 @@ export function buildCompliancePayload(agreements: AgreementLike[], now = new Da
   return {
     analyzedAt: now.toISOString(),
     thresholds: { pzp: PZP_THRESHOLD, euLocalGov: EU_THRESHOLD_LOCAL_GOV, cruPublishDeadlineDays: CRU_PUBLISH_DEADLINE_DAYS },
-    summary: { total: agreements.length, flagged, errors, clean: agreements.length - flagged, byRule },
+    summary: { total: agreements.length, flagged, errors, clean: agreements.length - flagged, byRule, officialsChecked: OFFICIALS.length },
     findings,
   };
 }
