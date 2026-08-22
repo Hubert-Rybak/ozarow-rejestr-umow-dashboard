@@ -69,7 +69,7 @@ function App() {
   const [contractor, setContractor] = useState('Wszyscy');
   const [query, setQuery] = useState('');
   const [bucket, setBucket] = useState<'month' | 'year'>('month');
-  const [sort, setSort] = useState<SortKey>('amount-desc');
+  const [sort, setSort] = useState<SortKey>('date-desc');
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
