@@ -188,10 +188,9 @@ function App() {
   };
 
   // „Easter egg": 5 kliknięć/dotknięć logo w ciągu 4 s przełącza widoczność sekcji analizy.
-  // Liczymy pointerdown (nie click), żeby działało niezawodnie na dotykowych ekranach.
-  const handleBrandClick: React.MouseEventHandler<HTMLAnchorElement> = (event) => {
-    event.preventDefault();
-    if (event.type !== 'pointerdown') return;
+  // Liczymy prawdziwe pointerdown (onPointerDown) — działa niezawodnie na dotyku i myszy;
+  // onClick służy tylko do zablokowania przewijania strony do góry.
+  const handleBrandPointerDown: React.PointerEventHandler<HTMLAnchorElement> = () => {
     const state = brandClicks.current;
     const now = Date.now();
     if (now - state.firstAt > 4000) {
@@ -206,11 +205,14 @@ function App() {
       if (!next) setComplianceFilter('all');
     }
   };
+  const handleBrandClick: React.MouseEventHandler<HTMLAnchorElement> = (event) => {
+    event.preventDefault();
+  };
 
   return (
     <div className="appShell">
       <header className="topbar">
-        <a className="brand" href="#top" aria-label="Ożarów — strona główna" onClick={handleBrandClick}>
+        <a className="brand" href="#top" aria-label="Ożarów — strona główna" onClick={handleBrandClick} onPointerDown={handleBrandPointerDown}>
           <span className="brandMark"><Landmark size={19} /></span>
           <span><strong>Ożarów</strong><small>Finanse publiczne</small></span>
         </a>
