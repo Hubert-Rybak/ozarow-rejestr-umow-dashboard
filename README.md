@@ -12,6 +12,10 @@
 - wykrywanie potencjalnych powiązań wykonawców (osób fizycznych/JDG) z osobami pełniącymi
   funkcje publiczne w gminie Ożarów Mazowiecki i powiecie warszawskim zachodnim
   (lista w `src/officials.ts`, źródła: BIP gminy oraz pwz.pl; wymaga odświeżenia po wyborach),
+- dodatkowe sprawdzenie KRS przez NIP: Biała Lista VAT (MF) podaje numer KRS, a publiczne
+  API KRS (MS) — zanonimizowany skład zarządu i wspólników (`scripts/krs-enrich.mjs`,
+  cache 30 dni); maska KRS zachowuje pierwszą literę i długość imienia/nazwiska, co daje
+  bardzo selektywne dopasowanie do listy urzędników,
 - dashboard ze statystykami: suma, liczba umów, średnia, największa umowa,
 - agregacja per miesiąc i per rok,
 - filtrowanie po kategoriach, statusie, tekście i wyniku analizy zgodności,
