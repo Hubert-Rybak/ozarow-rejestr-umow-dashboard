@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-21T05:52:11.819Z",
+  "fetchedAt": "2026-08-22T05:45:10.765Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 219,
-  "totalMatchingElements": 219,
-  "totalVisibleElements": 219,
+  "totalElements": 221,
+  "totalMatchingElements": 221,
+  "totalVisibleElements": 221,
   "agreements": [
     {
       "idUmowy": "b3249201-4365-415a-b5ab-d0e89935b4d9",
@@ -2614,6 +2614,112 @@
       }
     },
     {
+      "idUmowy": "1d374f4b-cbfd-4176-b6a5-f1ee8ac6207d",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "24.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1422.22,
+      "przedmiotUmowy": "Określenie zasad współfinansowania przewozu zespołu z Kanady, uczestniczącego w festiwalach folkloru w Koszęcinie i Ożarowie Mazowieckim",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/1d374f4b-cbfd-4176-b6a5-f1ee8ac6207d",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        },
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZESPÓŁ PIEŚNI I TAŃCA \"ŚLĄSK\" IMIENIA STANISŁAWA HADYNY",
+          "nip": "5750008327",
+          "regon": "000663798",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Zamkowa",
+            "numerNieruchomosci": "3",
+            "numerLokalu": null,
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "lubliniecki",
+            "gminaMiastoDzielnica": "Koszęcin",
+            "miejscowosc": "Koszęcin",
+            "kodPocztowy": "42-286"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        },
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZESPÓŁ PIEŚNI I TAŃCA \"ŚLĄSK\" IMIENIA STANISŁAWA HADYNY",
+          "nip": "5750008327",
+          "regon": "000663798",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Zamkowa",
+            "numerNieruchomosci": "3",
+            "numerLokalu": null,
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "lubliniecki",
+            "gminaMiastoDzielnica": "Koszęcin",
+            "miejscowosc": "Koszęcin",
+            "kodPocztowy": "42-286"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.5020.1.2026",
+        "okres": "39 dni",
+        "dataPublikacji": "21.08.2026",
+        "dataModyfikacji": "21.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "50c49bb3-1f8c-461e-a302-fc33d0fb4995",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -3570,6 +3676,70 @@
         "okres": "2 dni",
         "dataPublikacji": "23.07.2026",
         "dataModyfikacji": "24.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "3d18581d-028e-48de-87a6-5237d67e7bf9",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "21.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 42146,
+      "przedmiotUmowy": "Prowadzenie zajęć z akrobatyki w Broniszach w sezonie kulturalnym 2026/2027",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/3d18581d-028e-48de-87a6-5237d67e7bf9",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Monika Wawrzyniak",
+          "nip": "6731919962",
+          "regon": "541351025",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "41A",
+            "numerLokalu": null,
+            "wojewodztwo": "zachodniopomorskie",
+            "powiat": "szczecinecki",
+            "gminaMiastoDzielnica": "Szczecinek",
+            "miejscowosc": "Gwda Mała",
+            "kodPocztowy": "78-422"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.31.2026",
+        "okres": "271 dni",
+        "dataPublikacji": "21.08.2026",
+        "dataModyfikacji": "21.08.2026",
         "finansowanaZeSrodkow": false
       }
     },
