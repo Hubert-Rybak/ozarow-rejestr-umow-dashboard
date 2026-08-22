@@ -29,7 +29,7 @@ export type AgreementLike = {
   dataZakonczeniaUmowy?: string | null;
   wartoscPrzedmiotuUmowy?: number | null;
   statusUmowy?: string;
-  contractors?: Array<{ nazwa?: string | null; imie?: string | null; nazwisko?: string | null }> | null;
+  contractors?: Array<{ nazwa?: string | null; imie?: string | null; nazwisko?: string | null; nip?: string | null }> | null;
   details?: {
     numerUmowy?: string | null;
     dataPublikacji?: string | null;
@@ -86,6 +86,7 @@ export const FINDING_LABELS: Record<string, string> = {
   'srodki-zewnetrzne': 'Środki zewnętrzne',
   'numer-duplikat': 'Duplikat numeru umowy',
   'powiazanie-osobiste': 'Powiązanie z funkcją publiczną',
+  'powiazanie-krs': 'Powiązanie przez KRS (zarząd/wspólnik)',
 };
 
 /** Reguły punktowe sprawdzane indywidualnie dla każdej umowy. */
@@ -194,12 +195,16 @@ export function checkAgreement(a: AgreementLike, today = new Date()): Compliance
  * Pełna analiza zbioru umów: reguły punktowe + reguły krzyżowe
  * (duplikaty numerów, kumulacja umów u jednego wykonawcy = możliwy podział zamówienia).
  */
-export function analyzeAgreements(agreements: AgreementLike[], today = new Date()): Map<string, ComplianceFinding[]> {
+export function analyzeAgreements(
+  agreements: AgreementLike[],
+  today = new Date(),
+  krsLinks?: Map<string, KrsLink>,
+): Map<string, ComplianceFinding[]> {
   const result = new Map<string, ComplianceFinding[]>();
   for (const a of agreements) result.set(a.idUmowy, checkAgreement(a, today));
 
-  // RX3 — wykonawcy mogący być powiązani z osobami pełniącymi funkcje publiczne
-  for (const [id, findings] of checkConflictsOfInterest(agreements)) {
+  // RX3+RX4 — wykonawcy mogący być powiązani z osobami pełniącymi funkcje publiczne
+  for (const [id, findings] of checkConflictsOfInterest(agreements, krsLinks)) {
     result.set(id, [...(result.get(id) ?? []), ...findings]);
   }
 
@@ -285,8 +290,8 @@ export type CompliancePayload = {
   findings: Record<string, ComplianceFinding[]>;
 };
 
-export function buildCompliancePayload(agreements: AgreementLike[], now = new Date()): CompliancePayload {
-  const analysis = analyzeAgreements(agreements, now);
+export function buildCompliancePayload(agreements: AgreementLike[], now = new Date(), krsLinks?: Map<string, KrsLink>): CompliancePayload {
+  const analysis = analyzeAgreements(agreements, now, krsLinks);
   const byRule: Record<string, number> = {};
   let flagged = 0;
   let errors = 0;
@@ -313,6 +318,26 @@ export const SEVERITY_ORDER: Record<ComplianceSeverity, number> = { error: 0, wa
 
 import { OFFICIALS } from './officials.ts';
 import type { PublicOfficial } from './officials.ts';
+
+/**
+ * Dopasowanie anonimizowanej osoby z odpisu KRS do urzędnika.
+ * Maska KRS zachowuje pierwszą literę i długość („S****” = 5 liter na S),
+ * więc zgodność imienia i nazwiska pod względem pierwszej litery oraz
+ * długości jest bardzo selektywnym sygnałem — wymaga ręcznej weryfikacji.
+ */
+export function maskedMatchesOfficial(maskedLast: string, maskedFirst: string, official: PublicOfficial): boolean {
+  if (!maskedLast || !maskedFirst) return false;
+  const last = foldName(maskedLast.replace(/\*/g, ''));
+  const first = foldName(maskedFirst.replace(/\*/g, ''));
+  if (last.length < 3) return false;
+  const lastLen = maskedLast.length;
+  const firstLen = maskedFirst.length;
+  return OFFICIALS.some((o) => {
+    const oLast = foldName(o.lastName);
+    const oFirst = foldName(o.firstName);
+    return oLast === last && oLast.length === lastLen && oFirst === first && oFirst.length === firstLen;
+  });
+}
 
 /** Usuwa diakrytyki i sprowadza do małych liter (porównywanie nazwisk). */
 function foldName(value: string): string {
@@ -376,11 +401,39 @@ export function matchOfficials(person: { firstName?: string; lastName: string })
   }));
 }
 
+type KrsLink = { nip: string; krs: string; name?: string | null; persons?: Array<{ lastMasked: string; firstMasked: string; funkcja?: string | null }> | null };
+
+/**
+ * RX4 — dopasowanie zanonimizowanej osoby z odpisu KRS do listy urzędników.
+ * Maska KRS zachowuje pierwszą literę i długość nazwiska oraz imienia
+ * („S*******” = 8 znaków na S), więc zgodność obu par (pierwsza litera +
+ * długość) jest bardzo selektywna — traktujemy ją jako info do weryfikacji.
+ */
+export function maskedFirstLastMatch(lastMasked: string, firstMasked: string): boolean {
+  if (!lastMasked || !firstMasked) return false;
+  const lastBase = foldName(lastMasked.replace(/\*/g, ''));
+  const firstBase = foldName(firstMasked.replace(/\*/g, ''));
+  return OFFICIALS.some((o) => {
+    const oLast = foldName(o.lastName);
+    const oFirst = foldName(o.firstName);
+    return (
+      lastBase.length >= 3 &&
+      oLast[0] === lastBase[0] &&
+      oLast.length === lastBase.length &&
+      oFirst.length === firstBase.length &&
+      (firstBase.length < 2 || oFirst[0] === firstBase[0])
+    );
+  });
+}
+
 /**
  * RX3 — powiązania wykonawców z osobami pełniącymi funkcje publiczne
  * (konflikt interesu / art. 397 Pzp o wyłączeniu wykonawcy).
  */
-export function checkConflictsOfInterest(agreements: AgreementLike[]): Map<string, ComplianceFinding[]> {
+export function checkConflictsOfInterest(
+  agreements: AgreementLike[],
+  krsLinks?: Map<string, KrsLink>,
+): Map<string, ComplianceFinding[]> {
   const result = new Map<string, ComplianceFinding[]>();
   for (const a of agreements) {
     const findings: ComplianceFinding[] = [];
@@ -405,6 +458,31 @@ export function checkConflictsOfInterest(agreements: AgreementLike[]): Map<strin
       }
     }
     if (findings.length) result.set(a.idUmowy, findings);
+  }
+  // RX4 — powiązania przez KRS: zarządy i wspólnicy spółek (maska: pierwsza litera + długość)
+  for (const a of agreements) {
+    for (const party of a.contractors ?? []) {
+      const nip = party.nip && /^\d{10}$/.test(party.nip) ? party.nip : null;
+      if (!nip || !krsLinks) continue;
+      const link = krsLinks.get(nip);
+      if (!link?.persons?.length) continue;
+      const hits = link.persons
+        .filter((p) => maskedFirstLastMatch(p.lastMasked, p.firstMasked))
+        .map((p) => `${p.lastMasked} ${p.firstMasked}${p.funkcja ? ` (${p.funkcja})` : ''}`);
+      if (!hits.length) continue;
+      const existing = result.get(a.idUmowy) ?? [];
+      existing.push({
+        ruleId: 'powiazanie-krs',
+        severity: 'info',
+        title: `KRS ${link.krs}: skład odpisu zgodny z osobą publiczną`,
+        description:
+          `W anonimizowanym odpisie KRS wykonawcy (${link.name ?? party.nazwa ?? nip}) występują osoby, których zmaskowane dane `
+          + `(${hits.join('; ')}) pasują do osoby pełniącej funkcję publiczną — maska KRS zachowuje pierwszą literę i długość `
+          + `nazwiska oraz imienia, więc to sygnał wysoce selektywny. Wymaga ręcznej weryfikacji w pełnym odpisie `
+          + `(art. 5 i 74 ust. 2 pkt 4 ustawy o samorządzie gminnym, art. 397 Pzp).`,
+      });
+      result.set(a.idUmowy, existing);
+    }
   }
   return result;
 }

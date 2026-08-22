@@ -10,6 +10,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { buildCompliancePayload } from '../src/compliance.ts';
 
 const DATA_PATH = 'public/data/agreements.json';
+const KRS_PATH = 'public/data/krs-links.json';
 const OUTPUT_PATH = 'public/data/compliance.json';
 
 async function main() {
@@ -21,7 +22,16 @@ async function main() {
     throw new Error(`${DATA_PATH} nie zawiera żadnych umów — pomijam analizę zgodności.`);
   }
 
-  const report = buildCompliancePayload(agreements);
+  // Mapa NIP -> dane KRS (produkuje scripts/krs-enrich.mjs); opcjonalna.
+  let krsLinks;
+  try {
+    const krs = JSON.parse(await readFile(KRS_PATH, 'utf8'));
+    krsLinks = new Map((krs.links ?? []).map((l) => [l.nip, l]));
+  } catch {
+    console.warn(`Brak ${KRS_PATH} — pomijam regułę powiązań przez KRS (uruchom: node scripts/krs-enrich.mjs).`);
+  }
+
+  const report = buildCompliancePayload(agreements, new Date(), krsLinks);
   await writeFile(OUTPUT_PATH, `${JSON.stringify(report)}\n`);
 
   console.log(`Compliance analysis: ${report.summary.flagged}/${report.summary.total} flagged, `
