@@ -24,6 +24,8 @@ import {
   FilterX,
   Landmark,
   Search,
+  ShieldAlert,
+  ShieldCheck,
   WalletCards,
 } from 'lucide-react';
 import {
@@ -40,6 +42,8 @@ import {
   sumAmount,
   yearKey,
 } from './dataUtils';
+import { analyzeAgreements, FINDING_LABELS, SEVERITY_ORDER } from './compliance';
+import type { ComplianceSeverity, ComplianceFinding } from './compliance';
 import type { Agreement, AgreementsPayload, ContractParty } from './types';
 import './styles.css';
 
@@ -54,6 +58,7 @@ const emptyPayload: AgreementsPayload = {
 };
 
 type SortKey = 'amount-desc' | 'amount-asc' | 'date-desc' | 'date-asc' | 'name-asc';
+const today = new Date();
 
 function compactPLN(amount: number) {
   return new Intl.NumberFormat('pl-PL', {
@@ -70,6 +75,7 @@ function App() {
   const [query, setQuery] = useState('');
   const [bucket, setBucket] = useState<'month' | 'year'>('month');
   const [sort, setSort] = useState<SortKey>('date-desc');
+  const [complianceFilter, setComplianceFilter] = useState<'all' | 'flagged' | 'errors'>('all');
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -93,6 +99,28 @@ function App() {
     return ['Wszyscy', ...Array.from(new Set(names)).sort((a, b) => a.localeCompare(b, 'pl'))];
   }, [enriched]);
 
+  const findingsByAgreement = useMemo(
+    () => analyzeAgreements(enriched, today),
+    [enriched],
+  );
+  const complianceSummary = useMemo(() => {
+    let flagged = 0;
+    let errors = 0;
+    const ruleCounts = new Map<string, number>();
+    for (const agreement of enriched) {
+      const findings = findingsByAgreement.get(agreement.idUmowy) ?? [];
+      if (findings.length) flagged += 1;
+      if (findings.some((f) => f.severity === 'error')) errors += 1;
+      for (const finding of findings) ruleCounts.set(finding.ruleId, (ruleCounts.get(finding.ruleId) ?? 0) + 1);
+    }
+    return {
+      flagged,
+      errors,
+      clean: enriched.length - flagged,
+      topRules: [...ruleCounts.entries()].sort((a, b) => (b[1] - a[1]) || a[0].localeCompare(b[0])).slice(0, 4),
+    };
+  }, [enriched, findingsByAgreement]);
+
   const filtered = useMemo(() => {
     const normalizedQuery = query.trim().toLowerCase();
     return enriched
@@ -100,6 +128,7 @@ function App() {
       .filter((agreement) => status === 'Wszystkie' || agreement.statusUmowy === status)
       .filter((agreement) => contractor === 'Wszyscy' || getContractorNames(agreement).includes(contractor))
       .filter((agreement) => !normalizedQuery || `${agreement.nazwa ?? ''} ${agreement.przedmiotUmowy ?? ''} ${agreement.regon ?? ''} ${getContractorSearchText(agreement)} ${agreement.details?.numerUmowy ?? ''}`.toLowerCase().includes(normalizedQuery))
+      .filter((agreement) => complianceFilter === 'all' || (findingsByAgreement.get(agreement.idUmowy) ?? []).some((finding) => complianceFilter === 'errors' ? finding.severity === 'error' : true))
       .sort((a, b) => {
         const aValue = Number(a.wartoscPrzedmiotuUmowy ?? 0);
         const bValue = Number(b.wartoscPrzedmiotuUmowy ?? 0);
@@ -112,7 +141,7 @@ function App() {
         }
         return (a.nazwa ?? '').localeCompare(b.nazwa ?? '', 'pl');
       });
-  }, [enriched, category, status, contractor, query, sort]);
+  }, [enriched, category, status, contractor, query, sort, complianceFilter, findingsByAgreement]);
 
   const total = sumAmount(filtered);
   const average = filtered.length ? total / filtered.length : 0;
@@ -176,6 +205,33 @@ function App() {
             <div><span className="sectionKicker">Eksploruj dane</span><h2 id="analysis-title">Analiza wydatków</h2></div>
             {activeFilters > 0 && <button className="resetButton" type="button" onClick={resetFilters}><FilterX size={16} /> Wyczyść filtry <b>{activeFilters}</b></button>}
           </div>
+
+          <article className="dataCard complianceCard" aria-labelledby="compliance-title">
+            <div className="cardHeading">
+              <div>
+                <span>Ocena formalna</span>
+                <h3 id="compliance-title">Analiza zgodności z ustawą o CRU i Pzp</h3>
+              </div>
+              <div className="segmented" aria-label="Filtr zgodności">
+                <button className={complianceFilter === 'all' ? 'active' : ''} onClick={() => setComplianceFilter('all')}>Wszystkie</button>
+                <button className={complianceFilter === 'flagged' ? 'active' : ''} onClick={() => setComplianceFilter('flagged')}>Z uwagami</button>
+                <button className={complianceFilter === 'errors' ? 'active' : ''} onClick={() => setComplianceFilter('errors')}>Błędy</button>
+              </div>
+            </div>
+            <p className="complianceIntro">
+              Automatyczna weryfikacja każdego wpisu rejestru: obowiązkowe elementy opisu umowy (art. 4 ustawy o Centralnym
+              Rejestrze Umów), terminy publikacji, progi stosowania Prawa zamówień publicznych i sygnały ryzyka takiego jak
+              kumulacja umów u jednego wykonawcy. Wyniki mają charakter sygnału do weryfikacji, a nie stwierdzenia naruszenia.
+            </p>
+            <div className="complianceStats">
+              <div className="complianceStat ok"><ShieldCheck size={18} /><strong>{complianceSummary.clean}</strong><span>bez uwag</span></div>
+              <div className="complianceStat warn"><ShieldAlert size={18} /><strong>{complianceSummary.flagged}</strong><span>z uwagami</span></div>
+              <div className="complianceStat err"><strong>{complianceSummary.errors}</strong><span>błędy danych</span></div>
+              {complianceSummary.topRules.map(([ruleId, count]) => (
+                <div className="complianceStat rule" key={ruleId}><strong>{count}</strong><span>{FINDING_LABELS[ruleId] ?? ruleId}</span></div>
+              ))}
+            </div>
+          </article>
 
           <div className="filterPanel">
             <label className="searchField"><span>Szukaj w rejestrze</span><div><Search size={18} /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Wykonawca, przedmiot, numer umowy…" /></div></label>
@@ -251,7 +307,7 @@ function App() {
             <div className="tableScroll">
               <table>
                 <thead><tr><th>Data</th><th>Wykonawca</th><th>Przedmiot umowy</th><th>Kategoria</th><th>Status</th><th className="num">Kwota</th><th><span className="srOnly">Źródło</span></th></tr></thead>
-                <tbody>{filtered.map((agreement) => <AgreementRow key={agreement.idUmowy} agreement={agreement} />)}</tbody>
+                <tbody>{filtered.map((agreement) => <AgreementRow key={agreement.idUmowy} agreement={agreement} findings={findingsByAgreement.get(agreement.idUmowy) ?? []} />)}</tbody>
               </table>
               {!loading && filtered.length === 0 && <EmptyState message="Nie znaleziono umów pasujących do filtrów." />}
               {loading && <div className="loadingState">Ładowanie aktualnych danych…</div>}
@@ -272,8 +328,9 @@ function SelectField({ label, value, onChange, options }: { label: string; value
   })}</select><ChevronDown size={16} /></div></label>;
 }
 
-function AgreementRow({ agreement }: { agreement: Agreement }) {
+function AgreementRow({ agreement, findings }: { agreement: Agreement; findings: ComplianceFinding[] }) {
   const amount = Number(agreement.wartoscPrzedmiotuUmowy ?? 0);
+  const ordered = [...findings].sort((a, b) => SEVERITY_ORDER[a.severity] - SEVERITY_ORDER[b.severity]);
   return (
     <tr>
       <td className="dateCell"><strong>{agreement.dataZawarciaUmowy ?? '—'}</strong><small>{agreement.details?.numerUmowy ?? 'Bez numeru'}</small></td>
@@ -281,6 +338,7 @@ function AgreementRow({ agreement }: { agreement: Agreement }) {
       <td className="subjectCell">
         <strong>{agreement.przedmiotUmowy ?? '—'}</strong>
         <small>{agreement.nazwa ?? '—'}</small>
+        {ordered.length > 0 && <FindingList findings={ordered} />}
         <details className="detailsBox">
           <summary>Szczegóły umowy</summary>
           <dl>
@@ -296,6 +354,26 @@ function AgreementRow({ agreement }: { agreement: Agreement }) {
       <td className="num amountCell"><strong>{formatPLN(amount)}</strong></td>
       <td className="linkCell"><a className="sourceLink" href={getAgreementUrl(agreement)} target="_blank" rel="noreferrer" aria-label="Otwórz umowę w Centralnym Rejestrze Umów"><ArrowUpRight size={17} /></a></td>
     </tr>
+  );
+}
+
+const SEVERITY_LABEL: Record<ComplianceSeverity, string> = { error: 'Błąd danych', warning: 'Uwaga', info: 'Informacja' };
+
+function FindingList({ findings }: { findings: ComplianceFinding[] }) {
+  return (
+    <details className="findingBox">
+      <summary><ShieldAlert size={12} /> Analiza zgodności ({findings.length})</summary>
+      <ul className="findingList">
+        {findings.map((finding, index) => (
+          <li key={`${finding.ruleId}-${index}`} className={`severity-${finding.severity}`}>
+            <span className="findingTag">{SEVERITY_LABEL[finding.severity]} · {FINDING_LABELS[finding.ruleId] ?? finding.ruleId}</span>
+            <strong>{finding.title}</strong>
+            <p>{finding.description}</p>
+          </li>
+        ))}
+      </ul>
+      <p className="findingNote">Ocena automatyczna wyłącznie na podstawie danych rejestru — nie stanowi stwierdzenia naruszenia prawa.</p>
+    </details>
   );
 }
 

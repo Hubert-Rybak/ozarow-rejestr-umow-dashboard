@@ -103,6 +103,32 @@ main { max-width: 1480px; margin: 0 auto; padding: 0 36px 36px; }
 .emptyState, .loadingState { min-height: 250px; display: flex; align-items: center; justify-content: center; gap: 10px; color: #9699a9; font-size: 12px; }
 .emptyState svg { color: #b7b8ff; }
 
+.complianceCard { margin-top: 16px; padding: 23px; }
+.complianceIntro { max-width: 900px; margin: 10px 0 0; color: #7b7f91; font-size: 11px; line-height: 1.65; }
+.complianceStats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-top: 16px; }
+.complianceStat { display: grid; gap: 2px; align-content: center; justify-items: start; padding: 14px 16px; border-radius: 13px; background: #f7f7fb; }
+.complianceStat strong { color: #26283c; font-size: 21px; letter-spacing: -.03em; }
+.complianceStat span { color: #8b8e9d; font-size: 9px; font-weight: 700; }
+.complianceStat svg { margin-bottom: 4px; }
+.complianceStat.ok svg { color: #158c68; }.complianceStat.ok strong { color: #158c68; }
+.complianceStat.warn svg { color: #c47b09; }.complianceStat.warn strong { color: #c47b09; }
+.complianceStat.err { background: #fdf1f1; }.complianceStat.err strong { color: #c93b3b; }
+.complianceStat.rule { background: #f2f2ff; }.complianceStat.rule strong { color: #5657ce; }
+
+.findingBox { margin-top: 8px; }
+.findingBox summary { width: fit-content; display: inline-flex; align-items: center; gap: 5px; padding: 4px 9px; color: #a05c07; border: 1px solid #f3ddba; border-radius: 7px; background: #fff7ea; font-size: 8px; font-weight: 800; cursor: pointer; }
+.findingBox[open] summary { margin-bottom: 8px; }
+.findingList { display: grid; gap: 8px; margin: 0 0 6px; padding: 0; list-style: none; }
+.findingList li { padding: 10px 12px; border-left: 3px solid #e3b25e; border-radius: 8px; background: #faf7f0; }
+.findingList li.severity-error { border-left-color: #d95c5c; background: #fdf3f3; }
+.findingList li.severity-info { border-left-color: #7aa7d8; background: #f2f7fc; }
+.findingTag { display: block; margin-bottom: 4px; color: #98917f; font-size: 7.5px; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
+.findingList li.severity-error .findingTag { color: #b04a4a; }
+.findingList li.severity-info .findingTag { color: #5d84ad; }
+.findingList strong { display: block; color: #3a3c4e; font-size: 10px; }
+.findingList p { margin: 4px 0 0; color: #75788a; font-size: 9px; line-height: 1.55; }
+.findingNote { margin: 0; color: #a0a2b0; font-size: 8px; font-style: italic; }
+
 .registrySection { padding-top: 66px; }
 .registryHeading { margin-bottom: 18px; }
 .resultsCount { padding: 8px 12px; color: #8b8e9d; border: 1px solid var(--line); border-radius: 10px; background: #fff; font-size: 10px; }
