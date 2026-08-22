@@ -106,3 +106,34 @@ describe('analyzeAgreements (reguły krzyżowe)', () => {
     }
   });
 });
+
+describe('extractPerson', () => {
+  it('wyciąga osobę z nazwy JDG i odrzuca spółki oraz instytucje', async () => {
+    const { extractPerson } = await import('./compliance');
+    expect(extractPerson({ nazwa: 'Jan Kowalski "Firma Handlowa"' })).toEqual({ firstName: 'Jan', lastName: 'Kowalski' });
+    expect(extractPerson({ imie: 'Anna', nazwisko: 'Nowak' })).toEqual({ firstName: 'Anna', lastName: 'Nowak' });
+    expect(extractPerson({ nazwa: 'Biuro Projektów Mostowych' })).toBeNull();
+    expect(extractPerson({ nazwa: 'ABC Consulting Sp. z o.o.' })).toBeNull();
+  });
+});
+
+describe('checkConflictsOfInterest', () => {
+  it('flaguje tożsamość imienia i nazwiska jako warning, samo nazwisko jako info', async () => {
+    const { checkConflictsOfInterest } = await import('./compliance');
+    const result = checkConflictsOfInterest([
+      make({ idUmowy: 'exact', contractors: [{ rodzaj: 'P', imie: 'Michał', nazwisko: 'Kanclerz' }] }),
+      make({ idUmowy: 'lastname', contractors: [{ rodzaj: 'P', nazwisko: 'Reszka' }] }),
+    ]);
+    const exact = result.get('exact')!.find((f) => f.ruleId === 'powiazanie-osobiste' && f.severity === 'warning')!;
+    expect(exact.title).toContain('Powiat Warszawski Zachodni');
+    expect(result.get('lastname')!.find((f) => f.ruleId === 'powiazanie-osobiste')!.severity).toBe('info');
+  });
+
+  it('nie flaguje wykonawców bez zbieżności', async () => {
+    const { checkConflictsOfInterest } = await import('./compliance');
+    const result = checkConflictsOfInterest([
+      make({ contractors: [{ rodzaj: 'P', nazwa: 'Zupełnie Obca Osoba' }] }),
+    ]);
+    expect(result.size).toBe(0);
+  });
+});

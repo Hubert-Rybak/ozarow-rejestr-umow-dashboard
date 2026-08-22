@@ -85,6 +85,7 @@ export const FINDING_LABELS: Record<string, string> = {
   'brak-terminu': 'Brak terminu wykonania',
   'srodki-zewnetrzne': 'Środki zewnętrzne',
   'numer-duplikat': 'Duplikat numeru umowy',
+  'powiazanie-osobiste': 'Powiązanie z funkcją publiczną',
 };
 
 /** Reguły punktowe sprawdzane indywidualnie dla każdej umowy. */
@@ -189,6 +190,11 @@ export function analyzeAgreements(agreements: AgreementLike[], today = new Date(
   const result = new Map<string, ComplianceFinding[]>();
   for (const a of agreements) result.set(a.idUmowy, checkAgreement(a, today));
 
+  // RX3 — wykonawcy mogący być powiązani z osobami pełniącymi funkcje publiczne
+  for (const [id, findings] of checkConflictsOfInterest(agreements)) {
+    result.set(id, [...(result.get(id) ?? []), ...findings]);
+  }
+
   // RX1 — ten sam numer umowy w kilku wpisach (możliwa zdublowana rejestracja zobowiązania)
   const byNumber = new Map<string, AgreementLike[]>();
   for (const a of agreements) {
@@ -292,3 +298,104 @@ export function buildCompliancePayload(agreements: AgreementLike[], now = new Da
 }
 
 export const SEVERITY_ORDER: Record<ComplianceSeverity, number> = { error: 0, warning: 1, info: 2 };
+
+/* ─────────── Analiza powiązań wykonawców z osobami pełniącymi funkcje publiczne ─────────── */
+
+import { OFFICIALS } from './officials.ts';
+import type { PublicOfficial } from './officials.ts';
+
+/** Usuwa diakrytyki i sprowadza do małych liter (porównywanie nazwisk). */
+function foldName(value: string): string {
+  return value
+    .toLowerCase()
+    // eslint-disable-next-line no-control-regex
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/ł/g, 'l');
+}
+
+/**
+ * Wyciąga osobę fizyczna z wpisu strony umowy:
+ *  - pola imie/nazwisko (CRU podaje je wprost dla osób fizycznych),
+ *  - nazwa typu „Jan Kowalski \"Firma\"" lub „Jan Kowalski" (JDG często zapisywana tak w CRU).
+ * Zwraca null, gdy wpis wygląda wyłącznie na spółkę/institucję.
+ */
+export function extractPerson(party: {
+  nazwa?: string | null;
+  imie?: string | null;
+  nazwisko?: string | null;
+}): { firstName?: string; lastName: string } | null {
+  if (party.nazwisko && party.nazwisko.trim()) {
+    return { firstName: party.imie?.trim() || undefined, lastName: party.nazwisko.trim() };
+  }
+  const name = (party.nazwa ?? '').trim();
+  if (!name) return null;
+  const m = /^"?([A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]{1,20})\s+([A-ZĄĆĘŁŃÓŚŹŻ][a-ząćęłńóśźż]{2,20})(?:\b|")/.exec(name);
+  if (!m) return null;
+  const corporate = /sp[óo]łka|s\.?\s?a\.?\.?|z\s*o\.?\s?o\.?|s\.?\s?a\.?\s?j\.?|sp[jj]|inwestycje|holdings?|grupa|firma|usługi|serwis|budownictwo|deweloper|technik|systemy|trade|group|biuro|przedsiębiorstwo|zakład|studio|pracownia|agencja|kancelaria|fundacja|stowarzyszenie|instytut|centrum|ośrodek/i;
+  // Filtr korporacyjny stosujemy tylko do samej pary imię–nazwisko,
+  // żeby dopiski typu „Firma Handlowa” nie unieważniały osoby.
+  if (corporate.test(`${m[1]} ${m[2]}`)) return null;
+  return { firstName: m[1], lastName: m[2] };
+}
+
+export type ConflictMatch = {
+  officialFirstName: string;
+  officialLastName: string;
+  role: string;
+  body: string;
+  /** 'exact' — zgodne imię i nazwisko; 'lastName' — tylko nazwisko (wymaga ręcznej weryfikacji). */
+  matchType: 'exact' | 'lastName';
+};
+
+const OFFICIALS_BY_LASTNAME = new Map<string, PublicOfficial[]>();
+for (const person of OFFICIALS) {
+  const key = foldName(person.lastName);
+  OFFICIALS_BY_LASTNAME.set(key, [...(OFFICIALS_BY_LASTNAME.get(key) ?? []), person]);
+}
+
+/** Dopasowuje osobę z umowy do listy osób pełniących funkcje publiczne. */
+export function matchOfficials(person: { firstName?: string; lastName: string }): ConflictMatch[] {
+  const candidates = OFFICIALS_BY_LASTNAME.get(foldName(person.lastName)) ?? [];
+  return candidates.map((candidate) => ({
+    officialFirstName: candidate.firstName,
+    officialLastName: candidate.lastName,
+    role: candidate.role,
+    body: candidate.body,
+    matchType: person.firstName && foldName(person.firstName) === foldName(candidate.firstName) ? 'exact' : 'lastName',
+  }));
+}
+
+/**
+ * RX3 — powiązania wykonawców z osobami pełniącymi funkcje publiczne
+ * (konflikt interesu / art. 397 Pzp o wyłączeniu wykonawcy).
+ */
+export function checkConflictsOfInterest(agreements: AgreementLike[]): Map<string, ComplianceFinding[]> {
+  const result = new Map<string, ComplianceFinding[]>();
+  for (const a of agreements) {
+    const findings: ComplianceFinding[] = [];
+    for (const party of a.contractors ?? []) {
+      const person = extractPerson(party);
+      if (!person) continue;
+      for (const match of matchOfficials(person)) {
+        const who = match.officialFirstName ? `${match.officialFirstName} ${match.officialLastName}` : match.officialLastName;
+        const exactText = match.matchType === 'exact'
+          ? `imię i nazwisko są tożsame`
+          : `nazwisko jest identyczne, ale imię w rejestrze (${person.firstName ?? 'brak'}) wymaga weryfikacji`;
+        findings.push({
+          ruleId: 'powiazanie-osobiste',
+          severity: match.matchType === 'exact' ? 'warning' : 'info',
+          title: `${match.body}: ${who} (${match.role})`,
+          description:
+            `Wykonawca może być osobą powiązaną z osobą pełniącą funkcję publiczną w ${match.body} — ${exactText} `
+            + `(${who}, ${match.role}). Zbieżność danych rejestru nie przesądza o konflikcie interesów ani o naruszeniu prawa, `
+            + `ale przy zawieraniu umów z jednostką samorządową warto zweryfikować stosunki rodzinne/gospodarcze oraz `
+            + `wyłączenie wykonawcy, jeśli dotyczy (art. 5 i 74 ust. 2 pkt 4 ustawy o samorządzie gminnym, art. 397 Pzp).`,
+        });
+      }
+    }
+    if (findings.length) result.set(a.idUmowy, findings);
+  }
+  return result;
+}
+
