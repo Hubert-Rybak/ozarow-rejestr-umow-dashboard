@@ -144,8 +144,8 @@ function App() {
         <section className="hero">
           <div className="heroCopy">
             <div className="eyebrow"><Database size={14} /> Centralny Rejestr Umów</div>
-            <h1>Wydatki gminy<br /><span>pod pełną kontrolą.</span></h1>
-            <p>Przeglądaj umowy, analizuj wydatki i sprawdzaj wykonawców gminy Ożarów Mazowiecki w jednym, przejrzystym miejscu.</p>
+            <h1>Rejestr umów gminy<br /><span>Ożarów Mazowiecki.</span></h1>
+            <p>Publiczny przegląd umów zawartych przez gminę w Centralnym Rejestrze Umów: kwoty, wykonawcy, kategorie i statusy — z filtrami, statystykami i linkami do źródła.</p>
             <div className="heroMeta">
               <span><CircleCheck size={16} /> Dane ze źródła publicznego</span>
               <span><CalendarDays size={16} /> Aktualizacja {new Date(payload.fetchedAt).toLocaleString('pl-PL')}</span>
