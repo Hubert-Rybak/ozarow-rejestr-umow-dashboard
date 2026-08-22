@@ -42,7 +42,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore(data): refresh CRU agreements'
-          file_pattern: public/data/agreements.json
+          file_pattern: public/data/agreements.json public/data/compliance.json
       - name: Deploy static dashboard to gh-pages
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v4
