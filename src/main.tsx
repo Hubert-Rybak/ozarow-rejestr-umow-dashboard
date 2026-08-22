@@ -36,6 +36,7 @@ import {
   getContractorSearchText,
   getPartyDisplayName,
   monthKey,
+  parsePolishDate,
   sumAmount,
   yearKey,
 } from './dataUtils';
@@ -104,8 +105,11 @@ function App() {
         const bValue = Number(b.wartoscPrzedmiotuUmowy ?? 0);
         if (sort === 'amount-desc') return bValue - aValue;
         if (sort === 'amount-asc') return aValue - bValue;
-        if (sort === 'date-desc') return (b.dataZawarciaUmowy ?? '').localeCompare(a.dataZawarciaUmowy ?? '');
-        if (sort === 'date-asc') return (a.dataZawarciaUmowy ?? '').localeCompare(b.dataZawarciaUmowy ?? '');
+        if (sort === 'date-desc' || sort === 'date-asc') {
+          const aTime = parsePolishDate(a.dataZawarciaUmowy)?.getTime() ?? 0;
+          const bTime = parsePolishDate(b.dataZawarciaUmowy)?.getTime() ?? 0;
+          return sort === 'date-desc' ? bTime - aTime : aTime - bTime;
+        }
         return (a.nazwa ?? '').localeCompare(b.nazwa ?? '', 'pl');
       });
   }, [enriched, category, status, contractor, query, sort]);
