@@ -43,7 +43,7 @@ import {
   yearKey,
 } from './dataUtils';
 import { analyzeAgreements, FINDING_LABELS, SEVERITY_ORDER } from './compliance';
-import type { ComplianceSeverity, ComplianceFinding } from './compliance';
+import type { CompliancePayload, ComplianceSeverity, ComplianceFinding } from './compliance';
 import type { Agreement, AgreementsPayload, ContractParty } from './types';
 import './styles.css';
 
@@ -77,6 +77,7 @@ function App() {
   const [sort, setSort] = useState<SortKey>('date-desc');
   const [complianceFilter, setComplianceFilter] = useState<'all' | 'flagged' | 'errors'>('all');
   const [loading, setLoading] = useState(true);
+  const [compliance, setCompliance] = useState<CompliancePayload | null>(null);
 
   useEffect(() => {
     fetch(`./data/agreements.json?v=${Date.now()}`)
@@ -84,6 +85,13 @@ function App() {
       .then((data) => setPayload(data))
       .catch(() => setPayload(emptyPayload))
       .finally(() => setLoading(false));
+    // Raport zgodności jest generowany raz dziennie podczas synchronizacji danych
+    // (scripts/analyze-compliance.mjs). Gdy go brak (np. lokalny dev bez fetcha),
+    // dashboard analizuje dane sam w przeglądarce.
+    fetch(`./data/compliance.json?v=${Date.now()}`)
+      .then((res) => (res.ok ? res.json() : null))
+      .then((data) => setCompliance(data && data?.findings ? data : null))
+      .catch(() => setCompliance(null));
   }, []);
 
   const enriched = useMemo(
@@ -100,8 +108,17 @@ function App() {
   }, [enriched]);
 
   const findingsByAgreement = useMemo(
-    () => analyzeAgreements(enriched, today),
-    [enriched],
+    () => {
+      if (compliance) {
+        // Preferuj raport z nocnej synchronizacji (spójny z danymi źródłowymi).
+        const map = new Map<string, ComplianceFinding[]>();
+        for (const agreement of enriched) map.set(agreement.idUmowy, compliance.findings[agreement.idUmowy] ?? []);
+        return map;
+      }
+      // Fallback: analiza w przeglądarce, gdy raport nie istnieje.
+      return analyzeAgreements(enriched, today);
+    },
+    [enriched, compliance],
   );
   const complianceSummary = useMemo(() => {
     let flagged = 0;

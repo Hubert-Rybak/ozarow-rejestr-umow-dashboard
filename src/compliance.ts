@@ -1,10 +1,15 @@
-import { getPartyDisplayName, parsePolishDate } from './dataUtils';
-import type { Agreement } from './types';
-
 /**
- * Progi obowiązujące od 1.01.2026 do 31.12.2027
- * (obwieszczenie Prezesa Urzędu Zamówień Publicznych z 12.12.2025, M.P. 2025 poz. 1247).
+ * Reguły oceny formalnej umów z Centralnego Rejestru Umów.
+ *
+ * Moduł jest celowo samowystarczalny (bez importów z aplikacji), dzięki czemu
+ * ten sam kod działa:
+ *  - w przeglądarce (fallback / natychmiastowa analiza),
+ *  - w Node podczas nocnej synchronizacji (`scripts/analyze-compliance.mjs`),
+ *    który jest ładowany przez Node jako plik `.ts` przez alias w `package.json`.
  */
+
+/** Progi obowiązujące od 1.01.2026 do 31.12.2027
+ *  (obwieszczenie Prezesa Urzędu Zamówień Publicznych z 12.12.2025, M.P. 2025 poz. 1247). */
 export const PZP_THRESHOLD = 170_000;
 export const EU_THRESHOLD_LOCAL_GOV = 930_960; // 216 000 EUR dla zamawiających poniżej szczebla centralnego
 export const CRU_PUBLISH_DEADLINE_DAYS = 7; // art. 4 ust. 2 ustawy o Centralnym Rejestrze Umów
@@ -18,24 +23,57 @@ export type ComplianceFinding = {
   description: string;
 };
 
+export type AgreementLike = {
+  idUmowy: string;
+  dataZawarciaUmowy?: string | null;
+  dataZakonczeniaUmowy?: string | null;
+  wartoscPrzedmiotuUmowy?: number | null;
+  statusUmowy?: string;
+  contractors?: Array<{ nazwa?: string | null; imie?: string | null; nazwisko?: string | null }> | null;
+  details?: {
+    numerUmowy?: string | null;
+    dataPublikacji?: string | null;
+    finansowanaZeSrodkow?: boolean | null;
+  } | null;
+};
+
 const DAY_MS = 24 * 60 * 60 * 1000;
 const SPLIT_WINDOW_DAYS = 365;
 
 const nf = new Intl.NumberFormat('pl-PL', { maximumFractionDigits: 0 });
 
-function contractValue(a: Agreement): number {
+function parsePolishDate(value?: string | null): Date | null {
+  if (!value) return null;
+  const [day, month, year] = value.split(/[.\-/]/).map(Number);
+  if (!day || !month || !year) return null;
+  return new Date(Date.UTC(year, month - 1, day));
+}
+
+function partyName(party?: { nazwa?: string | null; imie?: string | null; nazwisko?: string | null } | null): string {
+  if (!party) return '';
+  return party.nazwa?.trim()
+    || [party.imie, party.nazwisko].filter(Boolean).join(' ').trim()
+    || '';
+}
+
+function contractValue(a: AgreementLike): number {
   return Number(a.wartoscPrzedmiotuUmowy ?? 0);
 }
 
-function isActive(a: Agreement): boolean {
+function isActive(a: AgreementLike): boolean {
   return (a.statusUmowy ?? '').toLowerCase() === 'aktywna';
 }
 
-function contractorKey(a: Agreement): string {
-  return ((a.contractors ?? []).map(getPartyDisplayName).join(' | ') || '').toLowerCase();
+function contractorKey(a: AgreementLike): string {
+  const names = (a.contractors ?? []).map(partyName).filter(Boolean);
+  return names.join(' | ').toLowerCase();
 }
 
-/** Krótkie etykiety reguł do plakietek w tabeli. */
+function primaryContractorLabel(a: AgreementLike): string {
+  return partyName(a.contractors?.[0]) || 'tego wykonawcy';
+}
+
+/** Krótkie etykiety reguł do plakietek w tabeli i podsumowań. */
 export const FINDING_LABELS: Record<string, string> = {
   'kwota-nieokreslona': 'Brak kwoty',
   'prog-unijny': 'Próg unijny',
@@ -50,7 +88,7 @@ export const FINDING_LABELS: Record<string, string> = {
 };
 
 /** Reguły punktowe sprawdzane indywidualnie dla każdej umowy. */
-export function checkAgreement(a: Agreement, today = new Date()): ComplianceFinding[] {
+export function checkAgreement(a: AgreementLike, today = new Date()): ComplianceFinding[] {
   const findings: ComplianceFinding[] = [];
   const value = contractValue(a);
 
@@ -147,12 +185,12 @@ export function checkAgreement(a: Agreement, today = new Date()): ComplianceFind
  * Pełna analiza zbioru umów: reguły punktowe + reguły krzyżowe
  * (duplikaty numerów, kumulacja umów u jednego wykonawcy = możliwy podział zamówienia).
  */
-export function analyzeAgreements(agreements: Agreement[], today = new Date()): Map<string, ComplianceFinding[]> {
+export function analyzeAgreements(agreements: AgreementLike[], today = new Date()): Map<string, ComplianceFinding[]> {
   const result = new Map<string, ComplianceFinding[]>();
   for (const a of agreements) result.set(a.idUmowy, checkAgreement(a, today));
 
   // RX1 — ten sam numer umowy w kilku wpisach (możliwa zdublowana rejestracja zobowiązania)
-  const byNumber = new Map<string, Agreement[]>();
+  const byNumber = new Map<string, AgreementLike[]>();
   for (const a of agreements) {
     const num = a.details?.numerUmowy?.trim();
     if (!num || num.toLowerCase() === 'brak') continue;
@@ -174,7 +212,7 @@ export function analyzeAgreements(agreements: Agreement[], today = new Date()): 
   }
 
   // RX2 — kumulacja umów poniżej progu u jednego wykonawcy w oknie ~12 miesięcy
-  const byContractor = new Map<string, Agreement[]>();
+  const byContractor = new Map<string, AgreementLike[]>();
   for (const a of agreements) {
     const value = contractValue(a);
     if (!(value > 0) || value >= PZP_THRESHOLD) continue;
@@ -187,7 +225,7 @@ export function analyzeAgreements(agreements: Agreement[], today = new Date()): 
   for (const [, group] of byContractor) {
     const dated = group
       .map((a) => ({ a, date: parsePolishDate(a.dataZawarciaUmowy ?? null) }))
-      .filter((x): x is { a: Agreement; date: Date } => Boolean(x.date))
+      .filter((x): x is { a: AgreementLike; date: Date } => Boolean(x.date))
       .sort((x, y) => x.date.getTime() - y.date.getTime());
     if (dated.length < 2) continue;
 
@@ -205,7 +243,7 @@ export function analyzeAgreements(agreements: Agreement[], today = new Date()): 
           severity: 'warning',
           title: `Możliwy podział zamówienia — ${count} umowy łącznie ${nf.format(Math.round(sum))} zł`,
           description:
-            `W ciągu ok. 12 miesięcy zawarto ${count} umowy z wykonawcą ${getPartyDisplayName(dated[end - 1].a.contractors?.[0] ?? {} as never)}, każda poniżej progu Pzp, ale łącznie przekraczają ${nf.format(PZP_THRESHOLD)} zł. Dzielenie zamówienia na części w celu uniknięcia trybu ustawowego jest niedopuszczalne, chyba że wynika z obiektywnych przesłanek (art. 6 ust. 1 pkt 3 Pzp).`,
+            `W ciągu ok. 12 miesięcy zawarto ${count} umowy z wykonawcą ${primaryContractorLabel(dated[end - 1].a)}, każda poniżej progu Pzp, ale łącznie przekraczają ${nf.format(PZP_THRESHOLD)} zł. Dzielenie zamówienia na części w celu uniknięcia trybu ustawowego jest niedopuszczalne, chyba że wynika z obiektywnych przesłanek (art. 6 ust. 1 pkt 3 Pzp).`,
         });
         break;
       }
@@ -213,6 +251,44 @@ export function analyzeAgreements(agreements: Agreement[], today = new Date()): 
   }
 
   return result;
+}
+
+/** Wynik analizy w formie gotowej do zapisu jako statyczny JSON. */
+export type ComplianceSummary = {
+  total: number;
+  flagged: number;
+  errors: number;
+  clean: number;
+  byRule: Record<string, number>;
+};
+
+export type CompliancePayload = {
+  analyzedAt: string;
+  thresholds: { pzp: number; euLocalGov: number; cruPublishDeadlineDays: number };
+  summary: ComplianceSummary;
+  findings: Record<string, ComplianceFinding[]>;
+};
+
+export function buildCompliancePayload(agreements: AgreementLike[], now = new Date()): CompliancePayload {
+  const analysis = analyzeAgreements(agreements, now);
+  const byRule: Record<string, number> = {};
+  let flagged = 0;
+  let errors = 0;
+  const findings: Record<string, ComplianceFinding[]> = {};
+  for (const [id, list] of analysis) {
+    if (list.length > 0) {
+      findings[id] = list;
+      flagged += 1;
+      if (list.some((f) => f.severity === 'error')) errors += 1;
+      for (const finding of list) byRule[finding.ruleId] = (byRule[finding.ruleId] ?? 0) + 1;
+    }
+  }
+  return {
+    analyzedAt: now.toISOString(),
+    thresholds: { pzp: PZP_THRESHOLD, euLocalGov: EU_THRESHOLD_LOCAL_GOV, cruPublishDeadlineDays: CRU_PUBLISH_DEADLINE_DAYS },
+    summary: { total: agreements.length, flagged, errors, clean: agreements.length - flagged, byRule },
+    findings,
+  };
 }
 
 export const SEVERITY_ORDER: Record<ComplianceSeverity, number> = { error: 0, warning: 1, info: 2 };

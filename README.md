@@ -6,11 +6,32 @@
 
 - codzienne pobieranie danych przez GitHub Actions,
 - zapis surowych danych do `public/data/agreements.json`,
+- codzienna analiza zgodności z prawem (ustawa o CRU, Pzp, dyscyplina finansów publicznych) zapisywana do `public/data/compliance.json`,
 - dashboard ze statystykami: suma, liczba umów, średnia, największa umowa,
 - agregacja per miesiąc i per rok,
-- filtrowanie po kategoriach, statusie i tekście,
+- filtrowanie po kategoriach, statusie, tekście i wyniku analizy zgodności,
 - sortowanie po kwotach, dacie i nazwie kontrahenta/przedmiotu,
 - eksport/hosting jako GitHub Pages.
+
+## Analiza zgodności
+
+Każda umowa jest automatycznie oceniana pod kątem wymogów formalnych (`src/compliance.ts`):
+
+| Reguła | Podstawa |
+|---|---|
+| brak wartości przedmiotu umowy | art. 4 ust. 1 pkt 2 ustawy o CRU |
+| publikacja wpisu w CRU później niż 7 dni od zawarcia | art. 4 ust. 2 ustawy o CRU |
+| data publikacji wcześniejsza niż data zawarcia | spójność danych rejestru |
+| wartość ≥ 170 000 zł (próg stosowania Pzp od 2026) | ustawa Pzp |
+| wartość ≥ 930 960 zł (próg unijny 216 000 €, lata 2026–27) | art. 11 ust. 1 pkt 8 Pzp |
+| kumulacja umów poniżej progu u jednego wykonawcy w ~12 miesięcy | art. 6 ust. 1 pkt 3 Pzp (zakaz dzielenia zamówienia) |
+| duplikat numeru umowy między wpisami | rzetelność rejestru |
+| status „aktywna" po terminie / brak terminu wykonania | art. 4 ust. 1 pkt 3 ustawy o CRU |
+| finansowanie środkami zewnętrznymi (kontekst kontroli) | art. 5 u.o.n.d.f.p. |
+
+Analiza uruchamia się **raz dziennie podczas synchronizacji**: `npm run fetch` pobiera dane z CRU, po czym `scripts/analyze-compliance.mjs` przepuszcza je przez te same reguły co aplikacja i zapisuje statyczny `public/data/compliance.json` (commitowany razem z danymi). Dashboard wczytuje gotowy raport; jeśli go nie ma (np. lokalny dev bez fetcha), przelicza reguły w przeglądarce.
+
+Wyniki mają charakter sygnału do weryfikacji, a nie stwierdzenia naruszenia prawa.
 
 ## Dane i dopasowanie jednostki
 
