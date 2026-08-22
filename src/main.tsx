@@ -82,7 +82,9 @@ function App() {
   // Sekcje analizy (nieprawidłowości / powiązania z władzami) są domyślnie ukryte.
   // Odsłania je 10-krotne szybkie kliknięcie w logo; kolejne 10 chowa je z powrotem.
   const [analysisRevealed, setAnalysisRevealed] = useState(false);
+  const [unlockToast, setUnlockToast] = useState(false);
   const brandClicks = useRef({ count: 0, firstAt: 0 });
+  const unlockToastTimer = useRef<number | undefined>(undefined);
 
   useEffect(() => {
     fetch(`./data/agreements.json?v=${Date.now()}`)
@@ -203,6 +205,14 @@ function App() {
       const next = !analysisRevealed;
       setAnalysisRevealed(next);
       if (!next) setComplianceFilter('all');
+      // Toast potwierdzający odsłonięcie sekcji analizy.
+      window.clearTimeout(unlockToastTimer.current);
+      if (next) {
+        setUnlockToast(true);
+        unlockToastTimer.current = window.setTimeout(() => setUnlockToast(false), 2800);
+      } else {
+        setUnlockToast(false);
+      }
     }
   };
   const handleBrandClick: React.MouseEventHandler<HTMLAnchorElement> = (event) => {
@@ -374,6 +384,12 @@ function App() {
 
         <footer><span>Ożarów · Finanse publiczne</span><span>Dane: <a href="https://rejestrumow.gov.pl" target="_blank" rel="noreferrer">Centralny Rejestr Umów <ArrowUpRight size={13} /></a></span></footer>
       </main>
+      {unlockToast && (
+        <div className="unlockToast" role="status">
+          <ShieldCheck size={16} />
+          <span>Sekcje analizy zostały odblokowane</span>
+        </div>
+      )}
     </div>
   );
 }

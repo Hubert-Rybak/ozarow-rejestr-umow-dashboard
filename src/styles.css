@@ -24,6 +24,10 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .appShell { min-height: 100vh; }
 .topbar { height: 76px; max-width: 1480px; margin: 0 auto; padding: 0 36px; display: flex; align-items: center; justify-content: space-between; }
 .brand { display: inline-flex; align-items: center; gap: 12px; color: var(--ink); text-decoration: none; touch-action: manipulation; -webkit-tap-highlight-color: transparent; user-select: none; }
+.unlockToast { position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%); display: inline-flex; align-items: center; gap: 8px; padding: 11px 18px; border-radius: 999px; background: #1d1f31; color: #fff; font-size: 13px; font-weight: 600; box-shadow: 0 14px 38px rgba(20, 22, 40, .35); z-index: 60; animation: unlockToastIn .28s ease-out; }
+.unlockToast svg { color: #4ade80; }
+@keyframes unlockToastIn { from { opacity: 0; transform: translate(-50%, 12px); } to { opacity: 1; transform: translate(-50%, 0); } }
+@media (prefers-reduced-motion: reduce) { .unlockToast { animation: none; } }
 .brandMark { width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center; color: #fff; background: linear-gradient(145deg, #6f70f8, #4e4fdd); box-shadow: 0 8px 22px rgba(77, 78, 217, .23); }
 .brand > span:last-child { display: grid; line-height: 1.1; }
 .brand strong { font-size: 16px; font-weight: 800; letter-spacing: -.02em; }
