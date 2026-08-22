@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import {
   BarChart,
@@ -79,6 +79,10 @@ function App() {
   const [complianceFilter, setComplianceFilter] = useState<'all' | 'flagged' | 'errors'>('all');
   const [loading, setLoading] = useState(true);
   const [compliance, setCompliance] = useState<CompliancePayload | null>(null);
+  // Sekcje analizy (nieprawidłowości / powiązania z władzami) są domyślnie ukryte.
+  // Odsłania je 10-krotne szybkie kliknięcie w logo; kolejne 10 chowa je z powrotem.
+  const [analysisRevealed, setAnalysisRevealed] = useState(false);
+  const brandClicks = useRef({ count: 0, firstAt: 0 });
 
   useEffect(() => {
     fetch(`./data/agreements.json?v=${Date.now()}`)
@@ -183,10 +187,28 @@ function App() {
     setContractor('Wszyscy');
   };
 
+  // „Easter egg": 10 kliknięć w logo w ciągu 4 s przełącza widoczność sekcji analizy.
+  const handleBrandClick: React.MouseEventHandler<HTMLAnchorElement> = (event) => {
+    event.preventDefault();
+    const state = brandClicks.current;
+    const now = Date.now();
+    if (now - state.firstAt > 4000) {
+      state.count = 0;
+      state.firstAt = now;
+    }
+    state.count += 1;
+    if (state.count >= 10) {
+      state.count = 0;
+      const next = !analysisRevealed;
+      setAnalysisRevealed(next);
+      if (!next) setComplianceFilter('all');
+    }
+  };
+
   return (
     <div className="appShell">
       <header className="topbar">
-        <a className="brand" href="#top" aria-label="Ożarów — strona główna">
+        <a className="brand" href="#top" aria-label="Ożarów — strona główna" onClick={handleBrandClick}>
           <span className="brandMark"><Landmark size={19} /></span>
           <span><strong>Ożarów</strong><small>Finanse publiczne</small></span>
         </a>
@@ -230,6 +252,7 @@ function App() {
             {activeFilters > 0 && <button className="resetButton" type="button" onClick={resetFilters}><FilterX size={16} /> Wyczyść filtry <b>{activeFilters}</b></button>}
           </div>
 
+          {analysisRevealed && (
           <article className="dataCard complianceCard" aria-labelledby="compliance-title">
             <div className="cardHeading">
               <div>
@@ -261,6 +284,7 @@ function App() {
               </div>
             </div>
           </article>
+          )}
 
           <div className="filterPanel">
             <label className="searchField"><span>Szukaj w rejestrze</span><div><Search size={18} /><input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Wykonawca, przedmiot, numer umowy…" /></div></label>
