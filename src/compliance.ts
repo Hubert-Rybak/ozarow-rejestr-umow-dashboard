@@ -136,19 +136,27 @@ export function checkAgreement(a: AgreementLike, today = new Date()): Compliance
           'Wpis zawiera datę publikacji w CRU sprzed daty zawarcia umowy — to błąd danych, który utrudnia kontrolę terminowości opisu (art. 4 ust. 2 ustawy o CRU).',
       });
     } else if (days > CRU_PUBLISH_DEADLINE_DAYS) {
-      findings.push({
-        ruleId: 'publikacja-opozniona',
-        severity: 'warning',
-        title: `Opublikowano po ${days} dniach od zawarcia`,
-        description:
-          'Umowę trzeba opisać w Centralnym Rejestrze Umów nie później niż w ciągu 7 dni od jej zawarcia lub zmiany (art. 4 ust. 2 ustawy o CRU). Opóźnienie może skutkować odpowiedzialnością za naruszenie dyscypliny finansów publicznych.',
-      });
+      // Umowy zawarte przed 1.07.2026 nie podlegały jeszcze obowiązkowi publikacji w CRU
+      // (obowiązek wszedł w życie 1.07.2026 — komunikat MF z 29.06.2026), więc opóźnienie
+      // oceniamy tylko dla umów zawartych od tej daty.
+      const CRU_LIVE_DATE = parsePolishDate('01.07.2026')!;
+      if (concluded.getTime() >= CRU_LIVE_DATE.getTime()) {
+        findings.push({
+          ruleId: 'publikacja-opozniona',
+          severity: 'warning',
+          title: `Opublikowano po ${days} dniach od zawarcia`,
+          description:
+            'Umowę trzeba opisać w Centralnym Rejestrze Umów nie później niż w ciągu 7 dni od jej zawarcia lub zmiany (art. 4 ust. 2 ustawy o CRU). Opóźnienie może skutkować odpowiedzialnością za naruszenie dyscypliny finansów publicznych.',
+        });
+      }
     }
   }
 
-  // R5 — spójność statusu z terminem wykonania
+  // R5 — spójność statusu z terminem wykonania (tylko umowy z okresu obowiązywania CRU, od 1.07.2026)
   const endDate = parsePolishDate(a.dataZakonczeniaUmowy ?? null);
-  if (isActive(a)) {
+  const concludedDate = parsePolishDate(a.dataZawarciaUmowy ?? null);
+  const inCruScope = !concludedDate || concludedDate.getTime() >= parsePolishDate('01.07.2026')!.getTime();
+  if (isActive(a) && inCruScope) {
     if (endDate && endDate.getTime() < today.getTime()) {
       findings.push({
         ruleId: 'status-po-terminie',

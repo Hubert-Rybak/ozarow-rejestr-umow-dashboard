@@ -6,7 +6,9 @@
 
 - codzienne pobieranie danych przez GitHub Actions,
 - zapis surowych danych do `public/data/agreements.json`,
-- codzienna analiza zgodności z prawem (ustawa o CRU, Pzp, dyscyplina finansów publicznych),
+- codzienna analiza zgodności z prawem (ustawa o CRU, Pzp, dyscyplina finansów publicznych);
+  reguły terminowe obejmują tylko umowy zawarte od 1.07.2026, bo od tej daty obowiązuje
+  publikacja w CRU (wcześniejsze umowy nie istnieją w rejestrze — potwierdzone API i MF),
 - wykrywanie potencjalnych powiązań wykonawców (osób fizycznych/JDG) z osobami pełniącymi
   funkcje publiczne w gminie Ożarów Mazowiecki i powiecie warszawskim zachodnim
   (lista w `src/officials.ts`, źródła: BIP gminy oraz pwz.pl; wymaga odświeżenia po wyborach),
