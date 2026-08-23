@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { aggregateBy, categorizeAgreement, extractContractors, getAgreementUrl, getContractorNames, monthKey, sumAmount, yearKey } from './dataUtils';
+import { aggregateBy, categorizeAgreement, extractContractors, getAgreementUrl, getContractorNames, monthKey, procurementMode, sumAmount, yearKey } from './dataUtils';
 import type { Agreement } from './types';
 
 const sample: Agreement[] = [
@@ -23,6 +23,15 @@ describe('data utils', () => {
     expect(categorizeAgreement(sample[0])).toBe('Drogi i transport');
     expect(categorizeAgreement(sample[1])).toBe('IT i cyfryzacja');
     expect(categorizeAgreement(sample[2])).toBe('Administracja');
+  });
+
+  it('wnioskuje tryb zamówienia z kwoty względem progu Pzp', () => {
+    expect(procurementMode({ idUmowy: 'p1', dataZawarciaUmowy: '01.07.2026', wartoscPrzedmiotuUmowy: 963_415, przedmiotUmowy: 'Budowa budynku rekreacyjnego' })).toBe('reżim Pzp (przetarg + BZP)');
+    expect(procurementMode({ idUmowy: 'p2', dataZawarciaUmowy: '01.07.2026', wartoscPrzedmiotuUmowy: 169_560, przedmiotUmowy: 'Roboty sanitarne' })).toBe('tuż pod progiem (kontrola art. 11 ust. 2)');
+    expect(procurementMode({ idUmowy: 'p3', dataZawarciaUmowy: '01.07.2026', wartoscPrzedmiotuUmowy: 2_500, przedmiotUmowy: 'Usługa sprzątania' })).toBe('poniżej progu (tryb swobodny)');
+    expect(procurementMode({ idUmowy: 'p4', dataZawarciaUmowy: '01.07.2026', wartoscPrzedmiotuUmowy: 1_000, przedmiotUmowy: 'Umowa dzierżawy działki' })).toBe('poza Pzp');
+    expect(procurementMode({ idUmowy: 'p5', dataZawarciaUmowy: '01.12.2025', wartoscPrzedmiotuUmowy: 140_000, przedmiotUmowy: 'Remont budynku' })).toBe('reżim Pzp (przetarg + BZP)');
+    expect(procurementMode({ idUmowy: 'p6', dataZawarciaUmowy: '01.12.2025', wartoscPrzedmiotuUmowy: 120_000, przedmiotUmowy: 'Remont budynku' })).toBe('tuż pod progiem (kontrola art. 11 ust. 2)');
   });
 
   it('buduje link do oryginalnej strony umowy w CRU', () => {

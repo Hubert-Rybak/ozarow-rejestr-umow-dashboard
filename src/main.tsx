@@ -40,6 +40,7 @@ import {
   getPartyDisplayName,
   monthKey,
   parsePolishDate,
+  procurementMode,
   sumAmount,
   yearKey,
 } from './dataUtils';
@@ -373,8 +374,8 @@ function App() {
             </div>
             <div className="tableScroll">
               <table>
-                <thead><tr><th>Data</th><th>Wykonawca</th><th>Przedmiot umowy</th><th>Kategoria</th><th>Status</th><th className="num">Kwota</th><th><span className="srOnly">Źródło</span></th></tr></thead>
-                <tbody>{filtered.map((agreement) => <AgreementRow key={agreement.idUmowy} agreement={agreement} findings={findingsByAgreement.get(agreement.idUmowy) ?? []} />)}</tbody>
+                <thead><tr><th>Data</th><th>Wykonawca</th><th>Przedmiot umowy</th><th>Kategoria</th>{analysisRevealed && <th>Tryb (wyliczony)</th>}<th>Status</th><th className="num">Kwota</th><th><span className="srOnly">Źródło</span></th></tr></thead>
+                <tbody>{filtered.map((agreement) => <AgreementRow key={agreement.idUmowy} agreement={agreement} findings={findingsByAgreement.get(agreement.idUmowy) ?? []} showMode={analysisRevealed} />)}</tbody>
               </table>
               {!loading && filtered.length === 0 && <EmptyState message="Nie znaleziono umów pasujących do filtrów." />}
               {loading && <div className="loadingState">Ładowanie aktualnych danych…</div>}
@@ -411,7 +412,7 @@ function SelectField({ label, value, onChange, options }: { label: string; value
   })}</select><ChevronDown size={16} /></div></label>;
 }
 
-function AgreementRow({ agreement, findings }: { agreement: Agreement; findings: ComplianceFinding[] }) {
+function AgreementRow({ agreement, findings, showMode }: { agreement: Agreement; findings: ComplianceFinding[]; showMode: boolean }) {
   const amount = Number(agreement.wartoscPrzedmiotuUmowy ?? 0);
   const ordered = [...findings].sort((a, b) => SEVERITY_ORDER[a.severity] - SEVERITY_ORDER[b.severity]);
   return (
@@ -433,6 +434,7 @@ function AgreementRow({ agreement, findings }: { agreement: Agreement; findings:
         </details>
       </td>
       <td><span className="categoryPill">{categorizeAgreement(agreement)}</span></td>
+      {showMode && <td><span className={`modePill ${String(procurementMode(agreement)).startsWith('reżim') ? 'pzp' : String(procurementMode(agreement)) === 'poza Pzp' ? 'outside' : String(procurementMode(agreement)).startsWith('tuż') ? 'near' : 'free'}`}>{procurementMode(agreement)}</span></td>}
       <td><span className={`statusPill ${(agreement.statusUmowy ?? '').toLowerCase() === 'aktywna' ? 'active' : ''}`}><i />{agreement.statusUmowy ?? '—'}</span></td>
       <td className="num amountCell"><strong>{formatPLN(amount)}</strong></td>
       <td className="linkCell"><a className="sourceLink" href={getAgreementUrl(agreement)} target="_blank" rel="noreferrer" aria-label="Otwórz umowę w Centralnym Rejestrze Umów"><ArrowUpRight size={17} /></a></td>

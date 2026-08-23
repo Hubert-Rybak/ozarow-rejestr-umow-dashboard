@@ -33,6 +33,11 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .modeLegend ul { margin: 0; padding-left: 18px; display: grid; gap: 6px; }
 .modeLegend li { font-size: 13px; line-height: 1.55; color: #4b4e63; }
 .modeLegend strong { color: #23253a; }
+.modePill { display: inline-block; padding: 4px 10px; border-radius: 999px; font-size: 11px; font-weight: 700; white-space: nowrap; }
+.modePill.pzp { background: #fee2e2; color: #b91c1c; }
+.modePill.near { background: #fef3c7; color: #b45309; }
+.modePill.free { background: #e0e7ff; color: #4338ca; }
+.modePill.outside { background: #f1f5f9; color: #475569; }
 .brandMark { width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center; color: #fff; background: linear-gradient(145deg, #6f70f8, #4e4fdd); box-shadow: 0 8px 22px rgba(77, 78, 217, .23); }
 .brand > span:last-child { display: grid; line-height: 1.1; }
 .brand strong { font-size: 16px; font-weight: 800; letter-spacing: -.02em; }

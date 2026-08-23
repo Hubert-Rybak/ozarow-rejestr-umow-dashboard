@@ -38,6 +38,38 @@ export function categorizeAgreement(agreement: Agreement): string {
   return rules.find(([, regex]) => regex.test(text))?.[0] ?? 'Pozostałe';
 }
 
+/** Próg stosowania ustawy Pzp dla zamówień klasycznych (od 1.01.2026: 170 tys. zł netto; wcześniej 130 tys. zł). */
+export const PZP_THRESHOLD_2026 = 170_000;
+const PZP_THRESHOLD_BEFORE_2026 = 130_000;
+
+export type ProcurementMode =
+  | 'poza Pzp'
+  | 'poniżej progu (tryb swobodny)'
+  | 'tuż pod progiem (kontrola art. 11 ust. 2)'
+  | 'reżim Pzp (przetarg + BZP)';
+
+/**
+ * Tryb prawny wydatku wnioskowany z kwoty netto i charakteru umowy.
+ * „Poza Pzp" obejmuje zdarzenia niebędące dostawą/usługą/robotami budowlanymi
+ * (dzierżawa nieruchomości, opłaty urzędowe, bilety, współfinansowanie), których Pzp nie reguluje.
+ */
+export function procurementMode(agreement: Agreement): ProcurementMode {
+  const amount = Number(agreement.wartoscPrzedmiotuUmowy ?? 0);
+  const date = parsePolishDate(agreement.dataZawarciaUmowy);
+  const threshold = date && date.getUTCFullYear() >= 2026 ? PZP_THRESHOLD_2026 : PZP_THRESHOLD_BEFORE_2026;
+  const text = `${agreement.przedmiotUmowy ?? ''} ${agreement.nazwa ?? ''}`.toLowerCase();
+  const outsideRules: Array<[string, RegExp]> = [
+    ['dzierżawa/najem nieruchomości', /(umowa )?dzierżaw(y|a)|czynsz najmu|najem( u)? (lokalu|pomieszczeń)/],
+    ['opłata/opinia urzędowa', /opłat(a|y) za wydanie|opinia na zabezpieczenie|opłata eksploatacyjna/],
+    ['współfinansowanie/wkład', /zasad(y|ach) współfinansowania|wkład własny/],
+    ['bilet/karnet', /\bbilet|\bkarnet/],
+  ];
+  if (outsideRules.some(([, regex]) => regex.test(text))) return 'poza Pzp';
+  if (amount < threshold - 40_000 && threshold === PZP_THRESHOLD_2026) return 'poniżej progu (tryb swobodny)';
+  if (amount < threshold && amount >= threshold - 40_000) return 'tuż pod progiem (kontrola art. 11 ust. 2)';
+  return 'reżim Pzp (przetarg + BZP)';
+}
+
 export function getAgreementUrl(agreement: Pick<Agreement, 'idUmowy' | 'sourceUrl'>): string {
   return agreement.sourceUrl ?? `https://rejestrumow.gov.pl/umowa/${encodeURIComponent(agreement.idUmowy)}`;
 }
