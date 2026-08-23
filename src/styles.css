@@ -38,6 +38,16 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .modePill.near { background: #fef3c7; color: #b45309; }
 .modePill.free { background: #e0e7ff; color: #4338ca; }
 .modePill.outside { background: #f1f5f9; color: #475569; }
+.tablePagination { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; padding: 12px 18px; border-top: 1px solid #eceef5; }
+.tablePagination .pageInfo { font-size: 12.5px; color: #6a6d85; }
+.tablePagination .pageControls { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.tablePagination button { min-width: 32px; height: 32px; padding: 0 8px; border: 1px solid #e3e4ef; border-radius: 9px; background: #fff; font-size: 13px; font-weight: 600; color: #4b4e63; cursor: pointer; }
+.tablePagination button:hover:not(:disabled) { border-color: #b9bbf3; color: #4e4fdd; }
+.tablePagination button.active { background: #4e4fdd; border-color: #4e4fdd; color: #fff; }
+.tablePagination button:disabled { opacity: .38; cursor: default; }
+.tablePagination .pageGap { color: #9a9db5; padding: 0 2px; }
+.tablePagination label { display: inline-flex; align-items: center; gap: 6px; margin-left: 10px; font-size: 12.5px; color: #6a6d85; }
+.tablePagination select { height: 32px; padding: 0 26px 0 10px; border: 1px solid #e3e4ef; border-radius: 9px; background: #fff; font-size: 13px; }
 .brandMark { width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center; color: #fff; background: linear-gradient(145deg, #6f70f8, #4e4fdd); box-shadow: 0 8px 22px rgba(77, 78, 217, .23); }
 .brand > span:last-child { display: grid; line-height: 1.1; }
 .brand strong { font-size: 16px; font-weight: 800; letter-spacing: -.02em; }

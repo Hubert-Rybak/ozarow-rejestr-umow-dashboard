@@ -174,6 +174,17 @@ function App() {
       });
   }, [enriched, category, status, contractor, query, sort, complianceFilter, findingsByAgreement]);
 
+  // Paginacja tabeli (domyślnie 50 wierszy na stronę); reset strony przy zmianie filtrów/sortowania.
+  const [pageSize, setPageSize] = useState(50);
+  const [page, setPage] = useState(1);
+  const pageCount = Math.max(1, Math.ceil(filtered.length / pageSize));
+  const safePage = Math.min(page, pageCount);
+  const pagedAgreements = useMemo(
+    () => filtered.slice((safePage - 1) * pageSize, safePage * pageSize),
+    [filtered, safePage, pageSize],
+  );
+  useEffect(() => { setPage(1); }, [query, category, status, contractor, complianceFilter, sort, pageSize]);
+
   const total = sumAmount(filtered);
   const average = filtered.length ? total / filtered.length : 0;
   const biggest = filtered.reduce<Agreement | undefined>((current, agreement) => (
@@ -375,11 +386,36 @@ function App() {
             <div className="tableScroll">
               <table>
                 <thead><tr><th>Data</th><th>Wykonawca</th><th>Przedmiot umowy</th><th>Kategoria</th>{analysisRevealed && <th>Tryb (wyliczony)</th>}<th>Status</th><th className="num">Kwota</th><th><span className="srOnly">Źródło</span></th></tr></thead>
-                <tbody>{filtered.map((agreement) => <AgreementRow key={agreement.idUmowy} agreement={agreement} findings={findingsByAgreement.get(agreement.idUmowy) ?? []} showMode={analysisRevealed} />)}</tbody>
+                <tbody>{pagedAgreements.map((agreement) => <AgreementRow key={agreement.idUmowy} agreement={agreement} findings={findingsByAgreement.get(agreement.idUmowy) ?? []} showMode={analysisRevealed} />)}</tbody>
               </table>
               {!loading && filtered.length === 0 && <EmptyState message="Nie znaleziono umów pasujących do filtrów." />}
               {loading && <div className="loadingState">Ładowanie aktualnych danych…</div>}
             </div>
+            {!loading && filtered.length > 0 && (
+              <div className="tablePagination">
+                <span className="pageInfo">Widoczne {(safePage - 1) * pageSize + 1}–{Math.min(safePage * pageSize, filtered.length)} z {filtered.length}</span>
+                <div className="pageControls">
+                  <button type="button" onClick={() => setPage(1)} disabled={safePage === 1} aria-label="Pierwsza strona">«</button>
+                  <button type="button" onClick={() => setPage(safePage - 1)} disabled={safePage === 1} aria-label="Poprzednia strona">‹</button>
+                  {Array.from({ length: pageCount }, (_, index) => index + 1)
+                    .filter((p) => p === 1 || p === pageCount || Math.abs(p - safePage) <= 1)
+                    .map((p, index, visiblePages) => (
+                      <React.Fragment key={p}>
+                        {index > 0 && p - visiblePages[index - 1] > 1 && <span className="pageGap">…</span>}
+                        <button type="button" className={p === safePage ? 'active' : ''} onClick={() => setPage(p)}>{p}</button>
+                      </React.Fragment>
+                    ))}
+                  <button type="button" onClick={() => setPage(safePage + 1)} disabled={safePage >= pageCount} aria-label="Następna strona">›</button>
+                  <button type="button" onClick={() => setPage(pageCount)} disabled={safePage >= pageCount} aria-label="Ostatnia strona">»</button>
+                  <label>Na stronę
+                    <select value={pageSize} onChange={(event) => setPageSize(Number(event.target.value))}>
+                      {[25, 50, 100, 221].map((size) => <option key={size} value={size}>{size}</option>)}
+                    </select>
+                    <ChevronDown size={14} />
+                  </label>
+                </div>
+              </div>
+            )}
           </div>
           <aside className="modeLegend" aria-labelledby="legend-title">
             <h3 id="legend-title">Jak czytać ten rejestr</h3>
