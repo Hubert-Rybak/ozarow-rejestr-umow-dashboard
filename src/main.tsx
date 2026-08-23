@@ -380,6 +380,16 @@ function App() {
               {loading && <div className="loadingState">Ładowanie aktualnych danych…</div>}
             </div>
           </div>
+          <aside className="modeLegend" aria-labelledby="legend-title">
+            <h3 id="legend-title">Jak czytać ten rejestr</h3>
+            <ul>
+              <li><strong>Od 170 tys. zł netto</strong> — zamawiający musi stosować Prawo zamówień publicznych: przetarg (tryb podstawowy) z ogłoszeniem w e‑Zamówieniach (BZP), a powyżej progów unijnych także w TED.</li>
+              <li><strong>Poniżej 170 tys. zł netto</strong> — tryb swobodny według regulaminu jednostki: bez przetargu, ale umowa musi zostać wpisana do Centralnego Rejestru Umów w ciągu 7 dni od zawarcia.</li>
+              <li>CRU obejmuje umowy o wartości <strong>od 500 zł</strong> netto; część drobnych pozycji jest publikowana nadobowiązkowo.</li>
+              <li>Kwoty są <strong>netto</strong>, zgodnie z danymi CRU; tryb wnioskujemy z kwoty umowy względem progu stosowania Pzp (170 tys. zł od 1.01.2026).</li>
+              <li>Nie każdy wpis to zakup — w rejestrze zdarzają się też dzierżawy, opłaty urzędowe czy współfinansowanie wydarzeń, których Pzp nie reguluje.</li>
+            </ul>
+          </aside>
         </section>
 
         <footer><span>Ożarów · Finanse publiczne</span><span>Dane: <a href="https://rejestrumow.gov.pl" target="_blank" rel="noreferrer">Centralny Rejestr Umów <ArrowUpRight size={13} /></a></span></footer>
