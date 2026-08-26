@@ -2285,7 +2285,7 @@
     "statusVat": "Czynny"
   },
   "5250005662": {
-    "checkedAt": "2026-08-25T05:52:49.239Z",
+    "checkedAt": "2026-08-26T05:54:26.722Z",
     "name": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE SPÓŁKA AKCYJNA",
     "krs": "0000146138",
     "statusVat": "Czynny",
@@ -2311,10 +2311,10 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-25T05:52:50.547Z"
+    "personsCheckedAt": "2026-08-26T05:54:28.183Z"
   },
   "5342643672": {
-    "checkedAt": "2026-08-25T05:52:51.138Z",
+    "checkedAt": "2026-08-26T05:54:28.980Z",
     "name": "JPK INŻYNIERIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000924531",
     "statusVat": "Czynny",
@@ -2335,22 +2335,28 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-25T05:52:51.648Z"
+    "personsCheckedAt": "2026-08-26T05:54:29.494Z"
+  },
+  "7182164052": {
+    "checkedAt": "2026-08-26T05:54:30.070Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
   },
   "7381214947": {
-    "checkedAt": "2026-08-25T05:52:52.240Z",
+    "checkedAt": "2026-08-26T05:54:30.665Z",
     "name": "MAREK MOTYKA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7831692091": {
-    "checkedAt": "2026-08-25T05:52:52.834Z",
+    "checkedAt": "2026-08-26T05:54:31.239Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "9181757897": {
-    "checkedAt": "2026-08-25T05:52:53.421Z",
+    "checkedAt": "2026-08-26T05:54:31.889Z",
     "name": "MAREK POSTRZECH",
     "krs": null,
     "statusVat": "Czynny"
