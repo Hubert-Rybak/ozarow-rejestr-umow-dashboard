@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-26T05:54:32.239Z",
+  "checkedAt": "2026-08-27T16:33:57.903Z",
   "links": [
     {
       "nip": "1181932126",
@@ -1715,6 +1715,23 @@
         {
           "lastMasked": "K*****",
           "firstMasked": "J*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9522259842",
+      "krs": "0001121078",
+      "name": "HIDALGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S******",
+          "firstMasked": "W*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "W*******",
           "funkcja": "wspólnik"
         }
       ]
