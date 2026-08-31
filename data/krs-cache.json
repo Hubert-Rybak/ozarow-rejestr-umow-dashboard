@@ -24,7 +24,7 @@
     "statusVat": null
   },
   "1181693288": {
-    "checkedAt": "2026-08-30T10:32:34.095Z",
+    "checkedAt": "2026-08-31T11:46:39.185Z",
     "name": "GRZEGORZ FALIŃSKI",
     "krs": null,
     "statusVat": "Zwolniony"
@@ -252,7 +252,7 @@
     "statusVat": "Czynny"
   },
   "1230850240": {
-    "checkedAt": "2026-08-30T10:32:34.687Z",
+    "checkedAt": "2026-08-31T11:46:39.745Z",
     "name": "WOJCIECH JĘDRZEJCZYK",
     "krs": null,
     "statusVat": "Czynny"
@@ -2297,7 +2297,7 @@
     "statusVat": "Czynny"
   },
   "5250005662": {
-    "checkedAt": "2026-08-30T10:32:35.282Z",
+    "checkedAt": "2026-08-31T11:46:40.276Z",
     "name": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE SPÓŁKA AKCYJNA",
     "krs": "0000146138",
     "statusVat": "Czynny",
@@ -2323,10 +2323,16 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-30T10:32:36.838Z"
+    "personsCheckedAt": "2026-08-31T11:46:41.324Z"
+  },
+  "5272596601": {
+    "checkedAt": "2026-08-31T11:46:41.856Z",
+    "name": "MARIOLA FALKIEWICZ",
+    "krs": null,
+    "statusVat": "Zwolniony"
   },
   "5342643672": {
-    "checkedAt": "2026-08-30T10:32:37.442Z",
+    "checkedAt": "2026-08-31T11:46:42.396Z",
     "name": "JPK INŻYNIERIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000924531",
     "statusVat": "Czynny",
@@ -2347,52 +2353,58 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-30T10:32:37.963Z"
+    "personsCheckedAt": "2026-08-31T11:46:42.861Z"
+  },
+  "5681254453": {
+    "checkedAt": "2026-08-31T11:46:43.401Z",
+    "name": "RENATA MISZCZUK",
+    "krs": null,
+    "statusVat": "Czynny"
   },
   "6792704948": {
-    "checkedAt": "2026-08-30T10:32:38.568Z",
+    "checkedAt": "2026-08-31T11:46:43.935Z",
     "name": "GRAŻYNA SZEWCZYK-KUC",
     "krs": null,
     "statusVat": "Czynny"
   },
   "6912256726": {
-    "checkedAt": "2026-08-30T10:32:39.264Z",
+    "checkedAt": "2026-08-31T11:46:44.579Z",
     "name": "MATEUSZ GOŁDA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7182164052": {
-    "checkedAt": "2026-08-30T10:32:39.837Z",
+    "checkedAt": "2026-08-31T11:46:45.099Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "7381214947": {
-    "checkedAt": "2026-08-30T10:32:40.433Z",
+    "checkedAt": "2026-08-31T11:46:45.631Z",
     "name": "MAREK MOTYKA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7831692091": {
-    "checkedAt": "2026-08-30T10:32:41.033Z",
+    "checkedAt": "2026-08-31T11:46:46.141Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "8631678158": {
-    "checkedAt": "2026-08-30T10:32:41.622Z",
+    "checkedAt": "2026-08-31T11:46:46.675Z",
     "name": "KAMIL SOJA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9181757897": {
-    "checkedAt": "2026-08-30T10:32:42.223Z",
+    "checkedAt": "2026-08-31T11:46:47.206Z",
     "name": "MAREK POSTRZECH",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9522259842": {
-    "checkedAt": "2026-08-30T10:32:42.839Z",
+    "checkedAt": "2026-08-31T11:46:47.748Z",
     "name": "HIDALGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001121078",
     "statusVat": "Czynny",
@@ -2408,10 +2420,16 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-30T10:32:44.276Z"
+    "personsCheckedAt": "2026-08-31T11:46:48.674Z"
+  },
+  "9551033632": {
+    "checkedAt": "2026-08-31T11:46:49.334Z",
+    "name": "\"VERSO\" S.C., BOGDAN MARKIEWICZ, CEZARY WEISBRODT",
+    "krs": null,
+    "statusVat": "Czynny"
   },
   "9671303896": {
-    "checkedAt": "2026-08-30T10:32:44.879Z",
+    "checkedAt": "2026-08-31T11:46:49.875Z",
     "name": "DAWID CIECIERSKI",
     "krs": null,
     "statusVat": "Czynny"
