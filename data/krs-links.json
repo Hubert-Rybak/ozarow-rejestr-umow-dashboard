@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-31T11:46:50.227Z",
+  "checkedAt": "2026-09-01T10:12:13.110Z",
   "links": [
     {
       "nip": "1181932126",
@@ -1671,6 +1671,70 @@
       ]
     },
     {
+      "nip": "5220020266",
+      "krs": "0000161908",
+      "name": "PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWO-HANDLOWE BUDOWA I NAPRAWA DRÓG EFEKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "R****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "A*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "W*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "R****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "A*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5242750411",
+      "krs": "0000416991",
+      "name": "ROKOM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S****",
+          "firstMasked": "J*****",
+          "funkcja": "PREZES ZARZĄDU SPÓŁKI"
+        },
+        {
+          "lastMasked": "R******",
+          "firstMasked": "R*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "J*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "5250005662",
       "krs": "0000146138",
       "name": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE SPÓŁKA AKCYJNA",
@@ -1715,6 +1779,28 @@
         {
           "lastMasked": "K*****",
           "firstMasked": "J*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5842812758",
+      "krs": "0000946336",
+      "name": "KURYŁOWICZ PROJECT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "A******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "A******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B****",
+          "firstMasked": "A***",
           "funkcja": "wspólnik"
         }
       ]
