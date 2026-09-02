@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T10:12:13.110Z",
+  "checkedAt": "2026-09-02T09:42:02.497Z",
   "links": [
     {
       "nip": "1181932126",
@@ -1671,6 +1671,33 @@
       ]
     },
     {
+      "nip": "5214033011",
+      "krs": "0001053885",
+      "name": "WYBORCZA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "M******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "W****",
+          "firstMasked": "E**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "A*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "B*********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "5220020266",
       "krs": "0000161908",
       "name": "PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWO-HANDLOWE BUDOWA I NAPRAWA DRÓG EFEKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1784,6 +1811,18 @@
       ]
     },
     {
+      "nip": "5833165070",
+      "krs": "0000497840",
+      "name": "PEZAL PRODUCT LINE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Z******",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "5842812758",
       "krs": "0000946336",
       "name": "KURYŁOWICZ PROJECT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1801,6 +1840,77 @@
         {
           "lastMasked": "B****",
           "firstMasked": "A***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7123447989",
+      "krs": "0001013505",
+      "name": "PW SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K***",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ż*******",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ż*******",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7282841948",
+      "krs": "0000818239",
+      "name": "EVE ENERGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "O***",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9462662289",
+      "krs": "0000633056",
+      "name": "BASTET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "B*******",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "B*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "R*******",
           "funkcja": "wspólnik"
         }
       ]
