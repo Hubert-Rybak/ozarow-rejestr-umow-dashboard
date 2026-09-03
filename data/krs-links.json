@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-02T09:42:02.497Z",
+  "checkedAt": "2026-09-03T10:00:42.969Z",
   "links": [
     {
       "nip": "1181932126",
@@ -159,6 +159,23 @@
         {
           "lastMasked": "M*******",
           "firstMasked": "E***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182333468",
+      "krs": "0001254781",
+      "name": "ADB.INVEST SPÓŁKA Z SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "A***",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "A***",
           "funkcja": "wspólnik"
         }
       ]
@@ -1762,6 +1779,43 @@
       ]
     },
     {
+      "nip": "5242906497",
+      "krs": "0000859165",
+      "name": "NRT PROJEKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G********",
+          "firstMasked": "R*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "H*****",
+          "firstMasked": "V********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "G********",
+          "firstMasked": "R*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "H*****",
+          "firstMasked": "V********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "5250005662",
       "krs": "0000146138",
       "name": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE SPÓŁKA AKCYJNA",
@@ -1785,6 +1839,33 @@
           "lastMasked": "P********",
           "firstMasked": "J******",
           "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5311714135",
+      "krs": "0001086537",
+      "name": "ATO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C*******",
+          "firstMasked": "A***",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ż*****",
+          "firstMasked": "E**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C*******",
+          "firstMasked": "A***",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ż*****",
+          "firstMasked": "E**",
+          "funkcja": "wspólnik"
         }
       ]
     },
@@ -1884,6 +1965,65 @@
         {
           "lastMasked": "B*********",
           "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "8222352962",
+      "krs": "0000607934",
+      "name": "UNIQUE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "D****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "S*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*******",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "K****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9372725106",
+      "krs": "0000806493",
+      "name": "MB SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M******",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M******",
+          "firstMasked": "E**",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M******",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M******",
+          "firstMasked": "E**",
           "funkcja": "wspólnik"
         }
       ]
