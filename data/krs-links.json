@@ -1,6 +1,33 @@
 {
-  "checkedAt": "2026-09-03T10:00:42.969Z",
+  "checkedAt": "2026-09-04T09:48:33.055Z",
   "links": [
+    {
+      "nip": "1180093066",
+      "krs": "0000225279",
+      "name": "INFOR PL SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "R******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "W*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "W*************",
+          "firstMasked": "K*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
     {
       "nip": "1181932126",
       "krs": "0000297415",
@@ -1921,6 +1948,23 @@
         {
           "lastMasked": "B****",
           "firstMasked": "A***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6462926077",
+      "krs": "0000400903",
+      "name": "GRUPA E SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "D****",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "M*****",
           "funkcja": "wspólnik"
         }
       ]

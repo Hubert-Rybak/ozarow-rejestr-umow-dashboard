@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-03T10:00:06.979Z",
+  "fetchedAt": "2026-09-04T09:47:48.750Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,10 +7,74 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 304,
-  "totalMatchingElements": 304,
-  "totalVisibleElements": 304,
+  "totalElements": 311,
+  "totalMatchingElements": 311,
+  "totalVisibleElements": 311,
   "agreements": [
+    {
+      "idUmowy": "4ef6e03d-0921-4c83-86a9-2b651f583dbd",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "31.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 3500,
+      "przedmiotUmowy": "Wymiana parapetu szt. 1 w sali w Przedszkolu przy ulicy Tęczowej 3 w Ożarowie Mazowieckim.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/4ef6e03d-0921-4c83-86a9-2b651f583dbd",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PETRUS Piotr Tarczyński",
+          "nip": "9591558163",
+          "regon": "522081260",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Arcangela Corellego",
+            "numerNieruchomosci": "3",
+            "numerLokalu": "11",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Białołęka",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "03-289"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIiR.7014.337.2026.PW",
+        "okres": "1 dzień",
+        "dataPublikacji": "04.09.2026",
+        "dataModyfikacji": "04.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "a5b6f1e6-b93b-41f9-ba7c-cf946fe7e364",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
@@ -4772,10 +4836,10 @@
       "nazwa": "OŚRODEK POMOCY SPOŁECZNEJ W OŻAROWIE MAZOWIECKIM",
       "regon": "002008945",
       "dataZawarciaUmowy": "24.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "04.09.2026",
       "wartoscPrzedmiotuUmowy": 398,
       "przedmiotUmowy": "szkolenia dla pracowników OPS",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d5f2daa0-2a8b-4d62-add8-0903a29a1706",
       "contractors": [
         {
@@ -4827,7 +4891,7 @@
         "numerUmowy": null,
         "okres": "8 dni",
         "dataPublikacji": "27.08.2026",
-        "dataModyfikacji": "27.08.2026",
+        "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -4892,6 +4956,70 @@
         "okres": "4 dni",
         "dataPublikacji": "27.08.2026",
         "dataModyfikacji": "27.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "5fb0016b-713d-4950-b812-bf675bc5605a",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "24.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2829,
+      "przedmiotUmowy": "Zlecenie publikacji w prasie w przedmiocie wyciągów z ogłoszeń o przetargach.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5fb0016b-713d-4950-b812-bf675bc5605a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "INFOR PL SPÓŁKA AKCYJNA",
+          "nip": "1180093066",
+          "regon": "011617580",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Burakowska",
+            "numerNieruchomosci": "14",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Wola",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-066"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WGP.272.52.2026",
+        "okres": "5 dni",
+        "dataPublikacji": "03.09.2026",
+        "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -7067,6 +7195,70 @@
         "okres": "1 dzień",
         "dataPublikacji": "26.08.2026",
         "dataModyfikacji": "26.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "37ea0a06-53a9-48dc-8e96-a15c1e7426b8",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "20.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 6500,
+      "przedmiotUmowy": "Wykonanie inwentaryzacji zieleni na terenie działki nr ew. 61/9 obręb 0023 Umiastów jednostka ewidencyjna 143206_5 Ożarów Mazowiecki w związku z budową boiska szkolnego przy SP Umiastów.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/37ea0a06-53a9-48dc-8e96-a15c1e7426b8",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "OLIMP- ARB Marcin Flis",
+          "nip": "8621644399",
+          "regon": "369577794",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "43A",
+            "numerLokalu": null,
+            "wojewodztwo": "LUBELSKIE",
+            "powiat": "janowski",
+            "gminaMiastoDzielnica": "Dzwola",
+            "miejscowosc": "Zofianka Dolna",
+            "kodPocztowy": "23-304"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.273.2026.RK",
+        "okres": "43 dni",
+        "dataPublikacji": "03.09.2026",
+        "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -17286,6 +17478,70 @@
       }
     },
     {
+      "idUmowy": "e7a2ea35-235b-4773-ab53-c170b7989c0a",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "03.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 525,
+      "przedmiotUmowy": "Zlecenie publikacji w prasie informacji o wykazie nieruchomości.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e7a2ea35-235b-4773-ab53-c170b7989c0a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WYBORCZA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5214033011",
+          "regon": "526170462",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Czerska",
+            "numerNieruchomosci": "8/10",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "00-732"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WGP.272.54.2026",
+        "okres": "3 dni",
+        "dataPublikacji": "03.09.2026",
+        "dataModyfikacji": "03.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "0e436f36-e905-40f0-939f-4c930de1f55b",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -18267,6 +18523,134 @@
       }
     },
     {
+      "idUmowy": "d1e44074-d332-4c5f-915c-4e56ce777527",
+      "nazwa": "OŚRODEK POMOCY SPOŁECZNEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "002008945",
+      "dataZawarciaUmowy": "02.09.2026",
+      "dataZakonczeniaUmowy": "04.09.2026",
+      "wartoscPrzedmiotuUmowy": 1550,
+      "przedmiotUmowy": "Zakup licencji antywirusowej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d1e44074-d332-4c5f-915c-4e56ce777527",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "GRUPA E SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "6462926077",
+          "regon": "242786533",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Piwna",
+            "numerNieruchomosci": "32",
+            "numerLokalu": null,
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "Tychy",
+            "gminaMiastoDzielnica": "Tychy",
+            "miejscowosc": "Tychy",
+            "kodPocztowy": "43-100"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "OŚRODEK POMOCY SPOŁECZNEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "5341940155",
+          "regon": "002008945",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "04.09.2026",
+        "dataModyfikacji": "04.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "64a2f476-d4ad-404f-acbc-ef352a9f5ff2",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "02.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 9800,
+      "przedmiotUmowy": "Awaryjne usunięcie przecieku na instalacji ciepłej wody użytkowej oraz dodatkowo przeróbkę podłączenia separatora w Przedszkolu Nr 3 w Ożarowie Mazowieckim przy ulicy Tęczowej 3.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/64a2f476-d4ad-404f-acbc-ef352a9f5ff2",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Usługi Instalacyjno-Serwisowe Jakub Lubański",
+          "nip": "1181025977",
+          "regon": "523322380",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Jagodowa",
+            "numerNieruchomosci": "29a",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Łomianki",
+            "miejscowosc": "Sadowa",
+            "kodPocztowy": "05-092"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIiR.7014.343.2026.PW",
+        "okres": "1 dzień",
+        "dataPublikacji": "03.09.2026",
+        "dataModyfikacji": "03.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "1d7e23e8-13c1-4ce1-9b04-893ed3c06c72",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -18775,6 +19159,70 @@
         "okres": "366 dni",
         "dataPublikacji": "06.07.2026",
         "dataModyfikacji": "06.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "b3a15fd7-4962-425a-a0c2-c284490e3916",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "01.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 13733,
+      "przedmiotUmowy": "Awaryjna naprawa przecieku dachu w Przedszkolu przy ulicy Mickiewicza 51 w Ożarowie Mazowieckim.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/b3a15fd7-4962-425a-a0c2-c284490e3916",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PETRUS Piotr Tarczyński",
+          "nip": "9591558163",
+          "regon": "522081260",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Arcangela Corellego",
+            "numerNieruchomosci": "3",
+            "numerLokalu": "11",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Białołęka",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "03-289"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIiR.7014.339.2026.PW",
+        "okres": "1 dzień",
+        "dataPublikacji": "04.09.2026",
+        "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
