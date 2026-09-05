@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-04T09:48:33.055Z",
+  "checkedAt": "2026-09-05T09:10:33.174Z",
   "links": [
     {
       "nip": "1180093066",
@@ -56,6 +56,38 @@
       ]
     },
     {
+      "nip": "1182009897",
+      "krs": "0000337671",
+      "name": "\"POINT\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "P****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "M*****",
+          "funkcja": "V-CE PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "A******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "1182024342",
       "krs": "0000350790",
       "name": "A.S. PILAR MILEJ SPÓŁKA JAWNA",
@@ -96,6 +128,18 @@
           "lastMasked": "H*******",
           "firstMasked": "J****",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182115317",
+      "krs": "0000588087",
+      "name": "ARAM SOFTWARE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
         }
       ]
     },
