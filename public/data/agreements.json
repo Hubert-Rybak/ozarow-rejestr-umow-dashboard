@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T10:22:48.147Z",
+  "fetchedAt": "2026-09-08T09:44:54.167Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 318,
-  "totalMatchingElements": 318,
-  "totalVisibleElements": 318,
+  "totalElements": 321,
+  "totalMatchingElements": 321,
+  "totalVisibleElements": 321,
   "agreements": [
     {
       "idUmowy": "4ef6e03d-0921-4c83-86a9-2b651f583dbd",
@@ -1266,6 +1266,70 @@
         "okres": "2 dni",
         "dataPublikacji": "05.08.2026",
         "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "425ffe31-0416-478f-beb6-29d44ecd0a95",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "28.08.2026",
+      "dataZakonczeniaUmowy": "08.09.2026",
+      "wartoscPrzedmiotuUmowy": 2069.41,
+      "przedmiotUmowy": "Zakup kostki brukowej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/425ffe31-0416-478f-beb6-29d44ecd0a95",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "LUBAR SPÓŁKA AKCYJNA",
+          "nip": "6422585210",
+          "regon": "276265530",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Stanisława Konarskiego",
+            "numerNieruchomosci": "159A",
+            "numerLokalu": null,
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "Rybnik",
+            "gminaMiastoDzielnica": "Rybnik",
+            "miejscowosc": "Rybnik",
+            "kodPocztowy": "44-274"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "6422585210-20260828-588468800007-C8",
+        "okres": "11 dni",
+        "dataPublikacji": "08.09.2026",
+        "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -12829,6 +12893,70 @@
       }
     },
     {
+      "idUmowy": "f67be0f0-a303-435b-b95e-456bace08266",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "11.08.2026",
+      "dataZakonczeniaUmowy": "07.09.2026",
+      "wartoscPrzedmiotuUmowy": 3614.11,
+      "przedmiotUmowy": "Odnowienie subskrypcji i wsparcia technicznego dla urządzenia FortiWiFi-71G z pakietem licencyjnym na kolejnych 12 miesięcy.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f67be0f0-a303-435b-b95e-456bace08266",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "IT SOLUTION FACTOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5223088543",
+          "regon": "367005071",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "Aleje Jerozolimskie",
+            "numerNieruchomosci": "98",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ochota",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "00-807"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "19 dni",
+        "dataPublikacji": "07.09.2026",
+        "dataModyfikacji": "07.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "214f67c5-8979-4bed-9b47-5d501092c91b",
       "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
       "regon": "141221683",
@@ -14595,6 +14723,70 @@
         "okres": "3 dni",
         "dataPublikacji": "14.07.2026",
         "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "77d7459c-28db-4322-94e9-a19695c12acc",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "07.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 303810,
+      "przedmiotUmowy": "Wzmocnienie nawierzchni jezdni drogi powiatowej nr 4103W na odcinku o dł. ok. 300 mb. w m. Konstantów, Nowe Faszczyce i Stare Faszczyce, gm. Błonie (etap II)",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/77d7459c-28db-4322-94e9-a19695c12acc",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"FAL-BRUK\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+          "nip": "5210527420",
+          "regon": "010308687",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Sarabandy",
+            "numerNieruchomosci": "42",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ursynów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-868"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "50/2026/ZP-9/2026",
+        "okres": "60 dni",
+        "dataPublikacji": "08.09.2026",
+        "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
