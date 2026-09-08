@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-07T10:23:36.757Z",
+  "checkedAt": "2026-09-08T09:45:40.955Z",
   "links": [
     {
       "nip": "1180093066",
@@ -1828,6 +1828,28 @@
       ]
     },
     {
+      "nip": "5223088543",
+      "krs": "0000672754",
+      "name": "IT SOLUTION FACTOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "K*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W******",
+          "firstMasked": "M******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "K*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "5242750411",
       "krs": "0000416991",
       "name": "ROKOM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1993,6 +2015,33 @@
           "lastMasked": "B****",
           "firstMasked": "A***",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6422585210",
+      "krs": "0000540215",
+      "name": "LUBAR SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "M****",
+          "firstMasked": "K********",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "D*********",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES"
+        },
+        {
+          "lastMasked": "B****",
+          "firstMasked": "S******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*****",
+          "firstMasked": "K*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
         }
       ]
     },
