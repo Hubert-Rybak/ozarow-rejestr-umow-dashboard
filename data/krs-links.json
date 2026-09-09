@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-08T09:45:40.955Z",
+  "checkedAt": "2026-09-09T09:51:06.955Z",
   "links": [
     {
       "nip": "1180093066",
@@ -1786,6 +1786,33 @@
       ]
     },
     {
+      "nip": "5220000217",
+      "krs": "0000040890",
+      "name": "ALAB LABORATORIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "E**",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "H****",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "L******",
+          "firstMasked": "H***",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "E**",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "5220020266",
       "krs": "0000161908",
       "name": "PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWO-HANDLOWE BUDOWA I NAPRAWA DRÓG EFEKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1936,6 +1963,23 @@
       ]
     },
     {
+      "nip": "5272689998",
+      "krs": "0000450072",
+      "name": "EOFFICE MEDIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "G****",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "5311714135",
       "krs": "0001086537",
       "name": "ATO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -1981,6 +2025,28 @@
           "lastMasked": "K*****",
           "firstMasked": "J*******",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5761586447",
+      "krs": "0001066701",
+      "name": "COCON SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "K***********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L**",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B****",
+          "firstMasked": "J**",
+          "funkcja": "CZŁONEK ZARZĄDU"
         }
       ]
     },
@@ -2090,6 +2156,33 @@
       ]
     },
     {
+      "nip": "7250010782",
+      "krs": "0000116206",
+      "name": "\"PANTA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "J*****",
+          "funkcja": "V-CE PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R*********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R*********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "J*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "7282841948",
       "krs": "0000818239",
       "name": "EVE ENERGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2193,6 +2286,18 @@
       ]
     },
     {
+      "nip": "9511807033",
+      "krs": "0000029722",
+      "name": "AGENCJA PROMOCJI ZIELENI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "F********",
+          "firstMasked": "J*****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "9522259842",
       "krs": "0001121078",
       "name": "HIDALGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2205,6 +2310,28 @@
         {
           "lastMasked": "S******",
           "firstMasked": "W*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9562312057",
+      "krs": "0000565896",
+      "name": "KREATYWNI AKTYWNI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*******",
+          "firstMasked": "W*******",
+          "funkcja": "ZARZĄD"
+        },
+        {
+          "lastMasked": "B*******",
+          "firstMasked": "W*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*******",
+          "firstMasked": "A*********",
           "funkcja": "wspólnik"
         }
       ]
