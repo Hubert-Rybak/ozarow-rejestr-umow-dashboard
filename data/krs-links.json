@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-10T09:49:48.203Z",
+  "checkedAt": "2026-09-11T09:46:44.521Z",
   "links": [
     {
       "nip": "1180093066",
@@ -24,6 +24,48 @@
         {
           "lastMasked": "W*************",
           "firstMasked": "K*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "1180784876",
+      "krs": "0000050053",
+      "name": "TOWARZYSTWO NASZ DOM",
+      "persons": [
+        {
+          "lastMasked": "N******",
+          "firstMasked": "I****",
+          "funkcja": "PRZEWODNICZĄCA ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*********",
+          "firstMasked": "D******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "U********",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "S********",
+          "funkcja": "WICEPRZEWODNICZĄCY ZARZĄDU"
+        },
+        {
+          "lastMasked": "J***********",
+          "firstMasked": "H****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "A********",
           "funkcja": "CZŁONEK ZARZĄDU"
         }
       ]
@@ -230,6 +272,43 @@
         {
           "lastMasked": "M*******",
           "firstMasked": "E***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182332061",
+      "krs": "0001248986",
+      "name": "PIEKARNIA DĄBROWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "D********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "E**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "E**",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "E***",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "S******",
           "funkcja": "wspólnik"
         }
       ]
@@ -1963,6 +2042,53 @@
       ]
     },
     {
+      "nip": "5260250995",
+      "krs": "0000010681",
+      "name": "ORANGE POLSKA SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "N*********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*********",
+          "firstMasked": "B*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "J******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D*****",
+          "firstMasked": "W*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K******",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "L*******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "5272689998",
       "krs": "0000450072",
       "name": "EOFFICE MEDIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2024,6 +2150,28 @@
         {
           "lastMasked": "K*****",
           "firstMasked": "J*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5730008637",
+      "krs": "0000166850",
+      "name": "PRZEDSIĘBIORSTWO SPECJALISTYCZNE 'BOCAR' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K**********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K**********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S***",
+          "firstMasked": "K*****",
           "funkcja": "wspólnik"
         }
       ]
@@ -2195,6 +2343,33 @@
         {
           "lastMasked": "B*********",
           "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7622025195",
+      "krs": "0001173954",
+      "name": "GALERIA SMAKÓW SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "I****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "I****",
           "funkcja": "wspólnik"
         }
       ]
