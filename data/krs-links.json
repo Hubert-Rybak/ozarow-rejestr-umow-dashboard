@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-11T09:46:44.521Z",
+  "checkedAt": "2026-09-12T09:27:38.657Z",
   "links": [
     {
       "nip": "1180093066",
@@ -1951,6 +1951,33 @@
         {
           "lastMasked": "K*********",
           "firstMasked": "K*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5242458834",
+      "krs": "0000160701",
+      "name": "\"DREWA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P********",
+          "firstMasked": "I***",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "I***",
           "funkcja": "wspólnik"
         }
       ]
