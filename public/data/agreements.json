@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T09:45:38.405Z",
+  "fetchedAt": "2026-09-12T09:26:28.831Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,10 +7,74 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 365,
-  "totalMatchingElements": 365,
-  "totalVisibleElements": 365,
+  "totalElements": 373,
+  "totalMatchingElements": 373,
+  "totalVisibleElements": 373,
   "agreements": [
+    {
+      "idUmowy": "187ca189-3045-44b8-a5fe-12fd008ed07b",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "31.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 4800,
+      "przedmiotUmowy": "sprzątanie hali spotowej przy SP1 w Ożarowie Mazowieckim",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/187ca189-3045-44b8-a5fe-12fd008ed07b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Dorota",
+          "nazwisko": "Putkowska",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "GOSiR.215.13.2026",
+        "okres": "122 dni",
+        "dataPublikacji": "11.09.2026",
+        "dataModyfikacji": "11.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "4ef6e03d-0921-4c83-86a9-2b651f583dbd",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
@@ -9247,6 +9311,70 @@
       }
     },
     {
+      "idUmowy": "3c086104-b196-414c-9a31-67a3fc035930",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "18.08.2026",
+      "dataZakonczeniaUmowy": "11.09.2026",
+      "wartoscPrzedmiotuUmowy": 734.62,
+      "przedmiotUmowy": "Dostawa dwóch przewodów ciśnieniowych DN 2SC - 5mb oraz DN 2SC - 5mb.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/3c086104-b196-414c-9a31-67a3fc035930",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "HYDROTEAM Wiesław Rębiś",
+          "nip": "5691840879",
+          "regon": "540332600",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Powstańców",
+            "numerNieruchomosci": "38A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Błonie",
+            "miejscowosc": "Błonie",
+            "kodPocztowy": "05-870"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "5 dni",
+        "dataPublikacji": "11.09.2026",
+        "dataModyfikacji": "11.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "aeae7b35-d834-4865-9dfd-7569f7756f78",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -9563,6 +9691,134 @@
         "okres": "1 dzień",
         "dataPublikacji": "27.07.2026",
         "dataModyfikacji": "27.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "11546bc1-3eb3-4bde-822d-e36d22c010ca",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "17.08.2026",
+      "dataZakonczeniaUmowy": "11.09.2026",
+      "wartoscPrzedmiotuUmowy": 121.95,
+      "przedmiotUmowy": "Wynajem sprzętu budowlanego - wiertnica",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/11546bc1-3eb3-4bde-822d-e36d22c010ca",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WYPOŻYCZALNIA BABICE JAROSŁAW OSTROWSKI",
+          "nip": "1180194442",
+          "regon": "363598447",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. gen. Władysława Sikorskiego",
+            "numerNieruchomosci": "6",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Stare Babice",
+            "miejscowosc": "Stare Babice",
+            "kodPocztowy": "05-082"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "11.09.2026",
+        "dataModyfikacji": "11.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "baedc10d-e07f-46a1-96f4-28885e1aed7a",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "17.08.2026",
+      "dataZakonczeniaUmowy": "11.09.2026",
+      "wartoscPrzedmiotuUmowy": 304,
+      "przedmiotUmowy": "Dostawa czterech luster szlifowanych",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/baedc10d-e07f-46a1-96f4-28885e1aed7a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"Zakład Szklarski Jerzy Cienkusz, Beata Cienkusz, Patryk Cienkusz spółka cywilna\"",
+          "nip": "1181590855",
+          "regon": "017245487",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Warszawska",
+            "numerNieruchomosci": "706",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Stare Babice",
+            "miejscowosc": "Wojcieszyn",
+            "kodPocztowy": "05-083"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "5 dni",
+        "dataPublikacji": "11.09.2026",
+        "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -14237,6 +14493,70 @@
       }
     },
     {
+      "idUmowy": "1f88370e-9f51-4c50-b6e0-bad5442f1a5b",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "10.08.2026",
+      "dataZakonczeniaUmowy": "11.09.2026",
+      "wartoscPrzedmiotuUmowy": 1690,
+      "przedmiotUmowy": "Naprawa szafy sterującej pompami w pływalni GOSiR",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/1f88370e-9f51-4c50-b6e0-bad5442f1a5b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"DREWA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5242458834",
+          "regon": "015479235",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Moniuszki",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "wołomiński",
+            "gminaMiastoDzielnica": "Marki",
+            "miejscowosc": "Marki",
+            "kodPocztowy": "05-270"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "3 dni",
+        "dataPublikacji": "11.09.2026",
+        "dataModyfikacji": "11.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "c5ddd316-57a0-4452-9154-434f89c65f78",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -16387,6 +16707,70 @@
         "okres": "60 dni",
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "9c5b054a-ca3d-4dc3-8547-73600a5c0a6a",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "07.08.2026",
+      "dataZakonczeniaUmowy": "11.09.2026",
+      "wartoscPrzedmiotuUmowy": 2459.75,
+      "przedmiotUmowy": "Dostawa czterech przewodów ciśnieniowych DN06 o długości 25mb, 27 mb, 32mb, 30mb",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/9c5b054a-ca3d-4dc3-8547-73600a5c0a6a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "HYDROTEAM Wiesław Rębiś",
+          "nip": "5691840879",
+          "regon": "540332600",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Powstańców",
+            "numerNieruchomosci": "38A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Błonie",
+            "miejscowosc": "Błonie",
+            "kodPocztowy": "05-870"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "6 dni",
+        "dataPublikacji": "11.09.2026",
+        "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -21207,6 +21591,134 @@
         "okres": "8 dni",
         "dataPublikacji": "03.07.2026",
         "dataModyfikacji": "15.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "11da613c-f6ed-4a8b-9359-fa475443fe15",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "02.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 26400,
+      "przedmiotUmowy": "Wykonanie operatów szacunkowych.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/11da613c-f6ed-4a8b-9359-fa475443fe15",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "GRZEGORZ CHMIEL WYCENA NIERUCHOMOŚCI",
+          "nip": "5222711879",
+          "regon": "385423423",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Za Lipami",
+            "numerNieruchomosci": "45",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Wolica",
+            "kodPocztowy": "05-860"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WGP.272.56.2026",
+        "okres": "44 dni",
+        "dataPublikacji": "11.09.2026",
+        "dataModyfikacji": "11.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "416b1fcb-26a9-426c-b12d-b35a559ec8d0",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "02.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 800,
+      "przedmiotUmowy": "Tyczenie działki nr 66 w obr. Kaputy",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/416b1fcb-26a9-426c-b12d-b35a559ec8d0",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "USŁUGI GEODEZYJNE DANIEL WASIAK",
+          "nip": "1230863484",
+          "regon": "141002060",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Michała Drzymały",
+            "numerNieruchomosci": "23",
+            "numerLokalu": "2",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Pruszków",
+            "miejscowosc": "Pruszków",
+            "kodPocztowy": "05-800"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WGP.272.58.2026.AG",
+        "okres": "3 dni",
+        "dataPublikacji": "11.09.2026",
+        "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
