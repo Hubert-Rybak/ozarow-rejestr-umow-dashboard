@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-13T10:23:48.459Z",
+  "checkedAt": "2026-09-14T10:49:44.417Z",
   "links": [
     {
       "nip": "1180093066",
@@ -2128,6 +2128,33 @@
         {
           "lastMasked": "G****",
           "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5291858278",
+      "krs": "0001140766",
+      "name": "MALTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S******",
+          "firstMasked": "Z******",
+          "funkcja": "PREZES ZARZĄDU SPÓŁKI"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "A*********",
+          "funkcja": "CZŁONEK ZARZĄDU SPÓŁKI"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "Z******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "A*********",
           "funkcja": "wspólnik"
         }
       ]

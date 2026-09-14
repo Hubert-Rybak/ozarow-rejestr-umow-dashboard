@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T10:22:34.621Z",
+  "fetchedAt": "2026-09-14T10:48:27.507Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 373,
-  "totalMatchingElements": 373,
-  "totalVisibleElements": 373,
+  "totalElements": 375,
+  "totalMatchingElements": 375,
+  "totalVisibleElements": 375,
   "agreements": [
     {
       "idUmowy": "187ca189-3045-44b8-a5fe-12fd008ed07b",
@@ -9691,6 +9691,70 @@
         "okres": "1 dzień",
         "dataPublikacji": "27.07.2026",
         "dataModyfikacji": "27.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "35b6a10b-5425-4465-b074-30cc80563431",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "17.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 9046.04,
+      "przedmiotUmowy": "Konserwacja ksiąg meldunkowych",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/35b6a10b-5425-4465-b074-30cc80563431",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "KONSPAK WOJCIECH MIERZEJEWSKI",
+          "nip": "1231024449",
+          "regon": "142108960",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Sosnowa",
+            "numerNieruchomosci": "11",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "piaseczyński",
+            "gminaMiastoDzielnica": "Konstancin-Jeziorna",
+            "miejscowosc": "Konstancin-Jeziorna",
+            "kodPocztowy": "05-520"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "RSO/1/2026",
+        "okres": "91 dni",
+        "dataPublikacji": "14.09.2026",
+        "dataModyfikacji": "14.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -19778,6 +19842,70 @@
         "okres": "1 dzień",
         "dataPublikacji": "21.07.2026",
         "dataModyfikacji": "21.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "6e7b169d-cc62-49a2-8072-7cb146daaa3a",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "04.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 9800,
+      "przedmiotUmowy": "Aktualizacja projektu oraz przedmiaru/kosztorysu – ścieżka w zadrzewieniach śródpolnych w miejscowości Kręczki Kaputy i Strzykuły uwzględniając koncepcję budowy drogi gminnej na dz. ewid. nr.6/181 obręb PGR Kręczki Kaputy, 8/143, 8/148, 211 w obrębie PGR Strzykuły z podziałem na etapy.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/6e7b169d-cc62-49a2-8072-7cb146daaa3a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MALTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5291858278",
+          "regon": "540472212",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. T. Chałubińskiego",
+            "numerNieruchomosci": "12",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "grodziski",
+            "gminaMiastoDzielnica": "Grodzisk Mazowiecki",
+            "miejscowosc": "Grodzisk Mazowiecki",
+            "kodPocztowy": "05-825"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "zlecenie 15/2026",
+        "okres": "58 dni",
+        "dataPublikacji": "14.09.2026",
+        "dataModyfikacji": "14.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
