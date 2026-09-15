@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-14T10:49:44.417Z",
+  "checkedAt": "2026-09-15T10:13:04.648Z",
   "links": [
     {
       "nip": "1180093066",
@@ -2380,6 +2380,75 @@
         {
           "lastMasked": "B*********",
           "firstMasked": "J*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7250013378",
+      "krs": "0000109353",
+      "name": "'NOWA SZKOŁA' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7251933448",
+      "krs": "0000961115",
+      "name": "MOJE BAMBINO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "A****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ś******",
+          "firstMasked": "K****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R******",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S**********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ś******",
+          "firstMasked": "K****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "D******",
           "funkcja": "wspólnik"
         }
       ]
