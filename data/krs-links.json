@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-15T10:13:04.648Z",
+  "checkedAt": "2026-09-16T10:06:02.696Z",
   "links": [
     {
       "nip": "1180093066",
@@ -2116,6 +2116,112 @@
       ]
     },
     {
+      "nip": "5260251049",
+      "krs": "0000009831",
+      "name": "POWSZECHNY ZAKŁAD UBEZPIECZEŃ SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "J**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "H*****",
+          "firstMasked": "E*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "T********",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "B*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "F*****",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5262349108",
+      "krs": "0000010623",
+      "name": "GENERALI TOWARZYSTWO UBEZPIECZEŃ SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "J*******",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "H*******",
+          "firstMasked": "R****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "B****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ś********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "M********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D*****",
+          "firstMasked": "M***",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5272260025",
+      "krs": "0000944043",
+      "name": "\"OCHRONA JUWENTUS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S****",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G********",
+          "firstMasked": "D******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "R******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "5272689998",
       "krs": "0000450072",
       "name": "EOFFICE MEDIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2261,6 +2367,23 @@
           "lastMasked": "Z******",
           "firstMasked": "G*******",
           "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5840305419",
+      "krs": "0000453341",
+      "name": "ODDK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": [
+        {
+          "lastMasked": "P********",
+          "firstMasked": "B******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "A******",
+          "funkcja": "członek organu"
         }
       ]
     },

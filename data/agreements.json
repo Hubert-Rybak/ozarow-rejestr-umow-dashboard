@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-15T10:11:45.682Z",
+  "fetchedAt": "2026-09-16T10:04:31.438Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 380,
-  "totalMatchingElements": 380,
-  "totalVisibleElements": 380,
+  "totalElements": 404,
+  "totalMatchingElements": 404,
+  "totalVisibleElements": 404,
   "agreements": [
     {
       "idUmowy": "187ca189-3045-44b8-a5fe-12fd008ed07b",
@@ -2439,6 +2439,70 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "d1a6f83a-48ea-43df-aafd-540711faabdc",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "27.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1521,
+      "przedmiotUmowy": "Szkolenie pracownika dot. kosztorysowania w programie Norma",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d1a6f83a-48ea-43df-aafd-540711faabdc",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TNT Systemy Informatyczne MAREK MISTARZ",
+          "nip": "5421287697",
+          "regon": "052121230",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. św. Andrzeja Boboli",
+            "numerNieruchomosci": "24",
+            "numerLokalu": null,
+            "wojewodztwo": "PODLASKIE",
+            "powiat": "Białystok",
+            "gminaMiastoDzielnica": "Białystok",
+            "miejscowosc": "Białystok",
+            "kodPocztowy": "15-649"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "9 dni",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -6666,6 +6730,70 @@
       }
     },
     {
+      "idUmowy": "bf60479a-abbe-4775-aa89-cbc85e380f72",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "21.08.2026",
+      "dataZakonczeniaUmowy": "15.09.2026",
+      "wartoscPrzedmiotuUmowy": 269.5,
+      "przedmiotUmowy": "Warsztaty \"Budujemy świat pociągów\" dla dzieci z klas 0-6, filia Bronisze",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/bf60479a-abbe-4775-aa89-cbc85e380f72",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Bartłomiej Bugajak EduCrafts",
+          "nip": "7162629281",
+          "regon": "526461350",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "1 PLM Warszawa",
+            "numerNieruchomosci": "14",
+            "numerLokalu": "9",
+            "wojewodztwo": "mazowieckie",
+            "powiat": "miński",
+            "gminaMiastoDzielnica": "Mińsk Mazowiecki",
+            "miejscowosc": "Mińsk Mazowiecki",
+            "kodPocztowy": "05-300"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.42.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "e9754312-fb28-43b2-8f5c-b4d8f7f00cca",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -6983,6 +7111,134 @@
         "dataPublikacji": "21.08.2026",
         "dataModyfikacji": "21.08.2026",
         "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "825ad992-5f67-4d04-bb9a-0f401213ca01",
+      "nazwa": "PRZEDSZKOLE PUBLICZNE NR 1 Z ODDZIAŁAMI INTEGRACYJNYMI",
+      "regon": "013003830",
+      "dataZawarciaUmowy": "21.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 65,
+      "przedmiotUmowy": "umowa o świadczenie usług ochrony",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/825ad992-5f67-4d04-bb9a-0f401213ca01",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"OCHRONA JUWENTUS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272260025",
+          "regon": "016133711",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poloneza",
+            "numerNieruchomosci": "91",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ursynów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-826"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "PRZEDSZKOLE PUBLICZNE NR 1 Z ODDZIAŁAMI INTEGRACYJNYMI",
+          "nip": "1181766159",
+          "regon": "013003830",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Ożarowska",
+            "numerNieruchomosci": "34",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "391868/26/MH",
+        "okres": null,
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": true
+      }
+    },
+    {
+      "idUmowy": "ebf3c608-08b7-4e41-84f5-b308d237bc28",
+      "nazwa": "PRZEDSZKOLE PUBLICZNE NR 1 Z ODDZIAŁAMI INTEGRACYJNYMI",
+      "regon": "013003830",
+      "dataZawarciaUmowy": "21.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 65,
+      "przedmiotUmowy": "umowa o świadczenie usług ochrony",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ebf3c608-08b7-4e41-84f5-b308d237bc28",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"OCHRONA JUWENTUS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272260025",
+          "regon": "016133711",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poloneza",
+            "numerNieruchomosci": "91",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ursynów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-826"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "PRZEDSZKOLE PUBLICZNE NR 1 Z ODDZIAŁAMI INTEGRACYJNYMI",
+          "nip": "1181766159",
+          "regon": "013003830",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Ożarowska",
+            "numerNieruchomosci": "34",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "391869/26/MH",
+        "okres": null,
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": true
       }
     },
     {
@@ -11357,6 +11613,70 @@
       }
     },
     {
+      "idUmowy": "9a05ca35-6214-4ea2-abc9-182f31bfd481",
+      "nazwa": "OŚRODEK POMOCY SPOŁECZNEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "002008945",
+      "dataZawarciaUmowy": "15.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 5600,
+      "przedmiotUmowy": "sprzątanie pomieszczeń zajmowanych przez Ośrodek Pomocy Społecznej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/9a05ca35-6214-4ea2-abc9-182f31bfd481",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Oksana",
+          "nazwisko": "Borodii",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "OŚRODEK POMOCY SPOŁECZNEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "5341940155",
+          "regon": "002008945",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "OPS/12/2026",
+        "okres": "108 dni",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "896dd9df-192d-4927-8bbc-fbb047a1085a",
       "nazwa": "PRZEDSZKOLE PUBLICZNE NR 1 Z ODDZIAŁAMI INTEGRACYJNYMI",
       "regon": "013003830",
@@ -12317,6 +12637,518 @@
       }
     },
     {
+      "idUmowy": "42f4855c-e26c-459d-a19e-d52ee5a88d91",
+      "nazwa": "OŚRODEK POMOCY SPOŁECZNEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "002008945",
+      "dataZawarciaUmowy": "14.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2000,
+      "przedmiotUmowy": "administracja i utrzymanie strony internetowej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/42f4855c-e26c-459d-a19e-d52ee5a88d91",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Paweł",
+          "nazwisko": "Krupa",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "OŚRODEK POMOCY SPOŁECZNEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "5341940155",
+          "regon": "002008945",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "OPS/11/2026",
+        "okres": "13 dni",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "8b5954a0-322c-480f-9f99-398fbdecbcc9",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "14.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 6512,
+      "przedmiotUmowy": "Prowadzenie warsztatów twórczych dla dzieci w Filii Domu Kultury \"Uśmiech\" w Broniszach przy ul. Przyparkowej 15",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/8b5954a0-322c-480f-9f99-398fbdecbcc9",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Magdalena",
+          "nazwisko": "Fitał",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.64.2026",
+        "okres": "271 dni",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "e45c3a1b-ef1a-40b0-84a6-524709666b26",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "14.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 3658.54,
+      "przedmiotUmowy": "Naprawa orynnowania",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e45c3a1b-ef1a-40b0-84a6-524709666b26",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PETRUS Piotr Tarczyński",
+          "nip": "9591558163",
+          "regon": "522081260",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Arcangela Corellego",
+            "numerNieruchomosci": "3",
+            "numerLokalu": "11",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Białołęka",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "03-289"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIiR.7014.371.2026.PW",
+        "okres": "17 dni",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "0d3d01a0-b205-4278-aa5e-de765d581abc",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "14.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 500,
+      "przedmiotUmowy": "Szkolenie dla pracownika pt: \"Naliczanie stypendium stażowego dla osób posiadających prawo do zasiłku\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/0d3d01a0-b205-4278-aa5e-de765d581abc",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SYGNITY SPÓŁKA AKCYJNA",
+          "nip": "5860005293",
+          "regon": "190407926",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Postępu",
+            "numerNieruchomosci": "17B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-676"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "4426a658-ccb9-476c-9df0-86ee18f18990",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "14.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 790,
+      "przedmiotUmowy": "Szkolenie: Klasyfikacja budżetowa 2027",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/4426a658-ccb9-476c-9df0-86ee18f18990",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ODDK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+          "nip": "5840305419",
+          "regon": "001272309",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Obrońców Westerplatte",
+            "numerNieruchomosci": "32",
+            "numerLokalu": "A",
+            "wojewodztwo": "POMORSKIE",
+            "powiat": "Gdańsk",
+            "gminaMiastoDzielnica": "Gdańsk",
+            "miejscowosc": "Gdańsk",
+            "kodPocztowy": "80-317"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr szkoleń nr 43/2026",
+        "okres": "2 dni",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "62ac6b93-3102-4f7c-a3ad-34ebb392f9de",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "14.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 600,
+      "przedmiotUmowy": "Szkolenie dla pracownika pt.: \"Oświadczenia i zezwolenia na prace sezonowe - lifting czy nowy model? Regulacje prawne po 01.06.2025 r.\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/62ac6b93-3102-4f7c-a3ad-34ebb392f9de",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Best Szkolenia Magdalena Dacyna",
+          "nip": "9691305817",
+          "regon": "529793821",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Stanisława Konarskiego",
+            "numerNieruchomosci": "18C",
+            "numerLokalu": null,
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "Gliwice",
+            "gminaMiastoDzielnica": "Gliwice",
+            "miejscowosc": "Gliwice",
+            "kodPocztowy": "44-100"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "9348cbb5-cb96-48b0-8196-6c427fb6d096",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "14.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 600,
+      "przedmiotUmowy": "Szkolenie dla pracownika pt.\" Realizacja zadania kontroli form pomocy krok po kroku - dokumentacja, procedura, metodologia i standard pracy kontrolera.\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/9348cbb5-cb96-48b0-8196-6c427fb6d096",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"PROFESJONALISTA\" FIRMA SZKOLENIOWO - KONSULTINGOWA KWAŚNIEWSKI JÓZEF",
+          "nip": "5591406439",
+          "regon": "093049465",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. gen. Franciszka Kleeberga",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "KUJAWSKO-POMORSKIE",
+            "powiat": "Bydgoszcz",
+            "gminaMiastoDzielnica": "Bydgoszcz",
+            "miejscowosc": "Bydgoszcz",
+            "kodPocztowy": "85-791"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "b554e5fa-2b10-49d8-97da-36d7df5b433c",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "14.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 600,
+      "przedmiotUmowy": "Szkolenia pracownika pt.: \"Status prawny bezrobotnego i poszukującego pracy - od rejestracji do utraty statusu. Praktyczny warsztat decyzyjny PUP - w świetle procedury administracyjnej i najnowszego orzecznictwa sądowego\".",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/b554e5fa-2b10-49d8-97da-36d7df5b433c",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"PROFESJONALISTA\" FIRMA SZKOLENIOWO - KONSULTINGOWA KWAŚNIEWSKI JÓZEF",
+          "nip": "5591406439",
+          "regon": "093049465",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. gen. Franciszka Kleeberga",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "KUJAWSKO-POMORSKIE",
+            "powiat": "Bydgoszcz",
+            "gminaMiastoDzielnica": "Bydgoszcz",
+            "miejscowosc": "Bydgoszcz",
+            "kodPocztowy": "85-791"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "1f793d11-021e-44ec-98d3-b886cacd80e1",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -12953,6 +13785,134 @@
         "okres": "18 dni",
         "dataPublikacji": "15.07.2026",
         "dataModyfikacji": "15.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "56237755-2945-4605-9be7-a384fa8b36af",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "13.09.2026",
+      "dataZakonczeniaUmowy": "15.09.2026",
+      "wartoscPrzedmiotuUmowy": 8129.27,
+      "przedmiotUmowy": "Usługa konferansjerska - Elektromobilne zakończenie lata",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/56237755-2945-4605-9be7-a384fa8b36af",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MOTOSPORT MEDIA Adam Kornacki",
+          "nip": "1130818691",
+          "regon": "017422050",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Cylichowska",
+            "numerNieruchomosci": "69A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Wawer",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "04-769"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.43.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "cdf3a51d-87fa-4b2f-ba8e-73c4936180c5",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "13.09.2026",
+      "dataZakonczeniaUmowy": "15.09.2026",
+      "wartoscPrzedmiotuUmowy": 3219.51,
+      "przedmiotUmowy": "Udostępnienie do korzystania przez uczestników wydarzenia dmuchanych atrakcji - Elektromobilne zakończenie lata",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/cdf3a51d-87fa-4b2f-ba8e-73c4936180c5",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DREAMFUN PRZEMYSŁAW LEWIŃSKI",
+          "nip": "1231160170",
+          "regon": "361627713",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Gościniec Warecki",
+            "numerNieruchomosci": "57",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "piaseczyński",
+            "gminaMiastoDzielnica": "Piaseczno",
+            "miejscowosc": "Nowinki",
+            "kodPocztowy": "05-540"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.44.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -14173,6 +15133,262 @@
       }
     },
     {
+      "idUmowy": "34808f97-472a-414b-9ba7-ecba09c19851",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "11.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 7326,
+      "przedmiotUmowy": "Prowadzenie warsztatów kulinarnych dla dzieci w Domu Kultury \"Uśmiech\" przy ul. Poznańskiej 165",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/34808f97-472a-414b-9ba7-ecba09c19851",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Wanda",
+          "nazwisko": "Gryżewska",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.62.2026",
+        "okres": "271 dni",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "3c544b5d-6335-4636-8be6-2c3abc700b1a",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "11.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 8549,
+      "przedmiotUmowy": "Prowadzenie warsztatów kulinarnych dla dzieci w Domu Kultury \"Uśmiech\" przy ul. Poznańskiej 165",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/3c544b5d-6335-4636-8be6-2c3abc700b1a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Teresa",
+          "nazwisko": "Żurawska",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.63.2026",
+        "okres": "271 dni",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "f5a3de2e-077e-425f-91fd-e63a4aead743",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "11.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 51290.93,
+      "przedmiotUmowy": "Prowadzenie zajęć muzycznych - nauki gry na skrzypcach w Domu Kultury \"Uśmiech\" w Ożarowie Mazowieckim ul. Poznańska 165",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f5a3de2e-077e-425f-91fd-e63a4aead743",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Anna",
+          "nazwisko": "Góral-Tomaszewska",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.60.2026",
+        "okres": "271 dni",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "a4da866d-1f6e-4dc0-96dd-0d084a45db37",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "11.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 22924.5,
+      "przedmiotUmowy": "Wynajem Sal w Domu Kultury Uśmiech w Ożarowie Mazowieckim i Józefowie w sezonie 2026/2027",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a4da866d-1f6e-4dc0-96dd-0d084a45db37",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "GLINIARNIA CERAMIKA ARTYSTYCZNA ALEKSANDRA WOLAŃSKA; GLINIARNIA CERAMIKA ARTYSTYCZNA ALEKSANDRA WOLAŃSKA",
+          "nip": "7541140354",
+          "regon": "140755968",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "54",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.072.1.2026",
+        "okres": "278 dni",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "d353c174-3d0a-4ea7-afcb-3059fdbd3e86",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -14617,6 +15833,198 @@
         "okres": "9 dni",
         "dataPublikacji": "14.08.2026",
         "dataModyfikacji": "14.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "13f8125d-7e4e-44a1-abb8-856e08606705",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "10.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 10546,
+      "przedmiotUmowy": "Prowadzenie zajęć plastycznych dla dzieci \"Sensoplastyka\" w Filii Domu Kultury \"Uśmiech\" w Józefowie przy ul. Fabrycznej 15",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/13f8125d-7e4e-44a1-abb8-856e08606705",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Elżbieta",
+          "nazwisko": "Książczak",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.57.2026",
+        "okres": "271 dni",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "5570b368-63ef-4604-b9e2-d0bc11c24888",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "10.09.2026",
+      "dataZakonczeniaUmowy": "15.09.2026",
+      "wartoscPrzedmiotuUmowy": 440.78,
+      "przedmiotUmowy": "Ubezpieczenie OC - Elektromobilne zakończenie lata",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5570b368-63ef-4604-b9e2-d0bc11c24888",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "POWSZECHNY ZAKŁAD UBEZPIECZEŃ SPÓŁKA AKCYJNA",
+          "nip": "5260251049",
+          "regon": "010001345",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "Rondo Ignacego Daszyńskiego",
+            "numerNieruchomosci": "4",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Wola",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "00-843"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.40.2026",
+        "okres": "2 dni",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "c18680c0-07d4-4e2a-a52e-a2327382a9bc",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "10.09.2026",
+      "dataZakonczeniaUmowy": "15.09.2026",
+      "wartoscPrzedmiotuUmowy": 442.68,
+      "przedmiotUmowy": "Ubezpieczenie NNW - Elektromobilne zakończenie lata",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c18680c0-07d4-4e2a-a52e-a2327382a9bc",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "GENERALI TOWARZYSTWO UBEZPIECZEŃ SPÓŁKA AKCYJNA",
+          "nip": "5262349108",
+          "regon": "016029008",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Senatorska",
+            "numerNieruchomosci": "18",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Śródmieście",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "00-082"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.41.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "15.09.2026",
+        "dataModyfikacji": "15.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -16259,6 +17667,134 @@
         "okres": "1 dzień",
         "dataPublikacji": "09.07.2026",
         "dataModyfikacji": "09.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "a316ad53-1eed-4fcc-941b-c520f65e4677",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "08.09.2026",
+      "dataZakonczeniaUmowy": "16.09.2026",
+      "wartoscPrzedmiotuUmowy": 704.15,
+      "przedmiotUmowy": "Oprawa muzyczna podczas gali finałowej \"Ożarowskich Ogrodów Sztuki\" w Hotelu Mazurkas przy ul. Poznańskiej 177.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a316ad53-1eed-4fcc-941b-c520f65e4677",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Joanna",
+          "nazwisko": "Kaczyńska",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.55.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "c5238336-403d-4e37-b55a-8ced1ea52b9b",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "08.09.2026",
+      "dataZakonczeniaUmowy": "16.09.2026",
+      "wartoscPrzedmiotuUmowy": 704.15,
+      "przedmiotUmowy": "Oprawa muzyczna podczas gali finałowej \"Ożarowskich Ogrodów Sztuki\" w Hotelu Mazurkas przy ul. Poznańskiej 177.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c5238336-403d-4e37-b55a-8ced1ea52b9b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Justyna",
+          "nazwisko": "Przybysz",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.56.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "16.09.2026",
+        "dataModyfikacji": "16.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
