@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-16T10:06:02.696Z",
+  "checkedAt": "2026-09-17T10:07:47.273Z",
   "links": [
     {
       "nip": "1180093066",
@@ -2069,6 +2069,28 @@
       ]
     },
     {
+      "nip": "5252247599",
+      "krs": "0000140213",
+      "name": "ACSS ID SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "J******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "5260250995",
       "krs": "0000010681",
       "name": "ORANGE POLSKA SPÓŁKA AKCYJNA",
@@ -2154,6 +2176,28 @@
           "lastMasked": "M******",
           "firstMasked": "P****",
           "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5261004620",
+      "krs": "0000295857",
+      "name": "TIME SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "R******",
+          "firstMasked": "A*********",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R********",
+          "firstMasked": "E**",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
         }
       ]
     },
@@ -2454,6 +2498,28 @@
       ]
     },
     {
+      "nip": "6793252454",
+      "krs": "0001000590",
+      "name": "NETART.COM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "R****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "7123447989",
       "krs": "0001013505",
       "name": "PW SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2589,6 +2655,50 @@
         {
           "lastMasked": "B*********",
           "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7282847247",
+      "krs": "0000861984",
+      "name": "TAFETEX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G****",
+          "firstMasked": "B*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G****",
+          "firstMasked": "B*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "J******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7542984373",
+      "krs": "0000336140",
+      "name": "LUCA LOGISTIC SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G***",
+          "firstMasked": "B*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G***",
+          "firstMasked": "B*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "S*******",
           "funkcja": "wspólnik"
         }
       ]
