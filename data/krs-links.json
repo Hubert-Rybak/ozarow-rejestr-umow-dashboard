@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-17T10:07:47.273Z",
+  "checkedAt": "2026-09-18T09:54:49.450Z",
   "links": [
     {
       "nip": "1180093066",
@@ -2091,6 +2091,163 @@
       ]
     },
     {
+      "nip": "5260016609",
+      "krs": "0000033968",
+      "name": "POLSKIE TOWARZYSTWO HIGIENICZNE",
+      "persons": [
+        {
+          "lastMasked": "M***********",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK PREZYDIUM ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "E*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "H****",
+          "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "A****",
+          "funkcja": "SKARBNIK"
+        },
+        {
+          "lastMasked": "M*****",
+          "firstMasked": "M****",
+          "funkcja": "ZASTĘPCA SEKRETARZA ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W******",
+          "firstMasked": "P******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "Ż********",
+          "firstMasked": "J****",
+          "funkcja": "PREZES ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "P*****",
+          "firstMasked": "U******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "O********",
+          "firstMasked": "B*****",
+          "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "B********",
+          "firstMasked": "E**",
+          "funkcja": "SEKRETARZ ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "M*********",
+          "firstMasked": "P****",
+          "funkcja": "ZASTĘPCA SKARBNIKA ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W**",
+          "firstMasked": "M****",
+          "funkcja": "CZŁONEK PREZYDIUM ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "J*****",
+          "firstMasked": "Z******",
+          "funkcja": "CZŁONEK PREZYDIUM ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK PREZYDIUM ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "M*********",
+          "firstMasked": "M******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "D*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "A******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "E*******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "G********",
+          "firstMasked": "E******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "M****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "Ż***",
+          "firstMasked": "C******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "C********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "W*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "5260250995",
       "krs": "0000010681",
       "name": "ORANGE POLSKA SPÓŁKA AKCYJNA",
@@ -2278,6 +2435,23 @@
         {
           "lastMasked": "G****",
           "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5291829992",
+      "krs": "0000825780",
+      "name": "MLECZNA KRÓWKA Z MILANÓWKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S******",
+          "firstMasked": "J*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "J*****",
           "funkcja": "wspólnik"
         }
       ]
