@@ -1,12 +1,12 @@
 {
   "1130818691": {
-    "checkedAt": "2026-09-18T09:53:16.702Z",
+    "checkedAt": "2026-09-19T09:36:43.923Z",
     "name": "ADAM KORNACKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "1180093066": {
-    "checkedAt": "2026-09-18T09:53:17.253Z",
+    "checkedAt": "2026-09-19T09:36:44.536Z",
     "name": "INFOR PL SPÓŁKA AKCYJNA",
     "krs": "0000225279",
     "statusVat": "Czynny",
@@ -32,22 +32,22 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:18.774Z"
+    "personsCheckedAt": "2026-09-19T09:36:46.301Z"
   },
   "1180194442": {
-    "checkedAt": "2026-09-18T09:53:19.315Z",
+    "checkedAt": "2026-09-19T09:36:46.931Z",
     "name": "JAROSŁAW OSTROWSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "1180196984": {
-    "checkedAt": "2026-09-18T09:53:19.831Z",
+    "checkedAt": "2026-09-19T09:36:47.853Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "1180784876": {
-    "checkedAt": "2026-09-18T09:53:20.359Z",
+    "checkedAt": "2026-09-19T09:36:48.652Z",
     "name": "TOWARZYSTWO NASZ DOM",
     "krs": "0000050053",
     "statusVat": "Czynny",
@@ -88,10 +88,10 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:20.825Z"
+    "personsCheckedAt": "2026-09-19T09:36:49.174Z"
   },
   "1180959927": {
-    "checkedAt": "2026-09-18T09:53:21.365Z",
+    "checkedAt": "2026-09-19T09:36:49.799Z",
     "name": "MIECZYSŁAW WASILEWSKI",
     "krs": null,
     "statusVat": "Czynny"
@@ -109,7 +109,7 @@
     "statusVat": "Czynny"
   },
   "1181541294": {
-    "checkedAt": "2026-09-18T09:53:21.924Z",
+    "checkedAt": "2026-09-19T09:36:50.388Z",
     "name": "ZBIGNIEW RĘBIŚ",
     "krs": null,
     "statusVat": "Czynny"
@@ -121,19 +121,19 @@
     "statusVat": "Czynny"
   },
   "1181566259": {
-    "checkedAt": "2026-09-18T09:53:22.472Z",
+    "checkedAt": "2026-09-19T09:36:50.989Z",
     "name": "KRZYSZTOF DZIEKAŃSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "1181590855": {
-    "checkedAt": "2026-09-18T09:53:23.026Z",
+    "checkedAt": "2026-09-19T09:36:51.606Z",
     "name": "ZAKŁAD SZKLARSKI JERZY CIENKUSZ, BEATA CIENKUSZ, PATRYK CIENKUSZ S.C",
     "krs": null,
     "statusVat": "Czynny"
   },
   "1181670525": {
-    "checkedAt": "2026-09-18T09:53:23.567Z",
+    "checkedAt": "2026-09-19T09:36:52.204Z",
     "name": "BARTŁOMIEJ JOCZ",
     "krs": null,
     "statusVat": "Czynny"
@@ -145,13 +145,13 @@
     "statusVat": null
   },
   "1181693288": {
-    "checkedAt": "2026-09-18T09:53:24.099Z",
+    "checkedAt": "2026-09-19T09:36:52.971Z",
     "name": "GRZEGORZ FALIŃSKI",
     "krs": null,
     "statusVat": "Zwolniony"
   },
   "1181810009": {
-    "checkedAt": "2026-09-18T09:53:24.659Z",
+    "checkedAt": "2026-09-19T09:36:53.570Z",
     "name": "MACIEJ RĄCZKOWSKI",
     "krs": null,
     "statusVat": "Czynny"
@@ -169,7 +169,7 @@
     "statusVat": null
   },
   "1181927160": {
-    "checkedAt": "2026-09-18T09:53:25.219Z",
+    "checkedAt": "2026-09-19T09:36:54.306Z",
     "name": "BARTŁOMIEJ NOWAK",
     "krs": null,
     "statusVat": "Czynny"
@@ -204,13 +204,13 @@
     "personsCheckedAt": "2026-08-22T12:39:50.164Z"
   },
   "1181952672": {
-    "checkedAt": "2026-09-18T09:53:25.766Z",
+    "checkedAt": "2026-09-19T09:36:54.905Z",
     "name": "MICHAŁ GRELUS",
     "krs": null,
     "statusVat": "Czynny"
   },
   "1182009897": {
-    "checkedAt": "2026-09-18T09:53:26.318Z",
+    "checkedAt": "2026-09-19T09:36:55.517Z",
     "name": "\"POINT\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000337671",
     "statusVat": "Czynny",
@@ -241,10 +241,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:27.426Z"
+    "personsCheckedAt": "2026-09-19T09:36:56.739Z"
   },
   "1182016101": {
-    "checkedAt": "2026-09-18T09:53:27.945Z",
+    "checkedAt": "2026-09-19T09:36:57.366Z",
     "name": null,
     "krs": null,
     "statusVat": null
@@ -316,7 +316,7 @@
     "statusVat": null
   },
   "1182115317": {
-    "checkedAt": "2026-09-18T09:53:28.502Z",
+    "checkedAt": "2026-09-19T09:36:57.958Z",
     "name": "ARAM SOFTWARE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000588087",
     "statusVat": "Czynny",
@@ -327,7 +327,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:28.984Z"
+    "personsCheckedAt": "2026-09-19T09:36:58.477Z"
   },
   "1182218922": {
     "checkedAt": "2026-08-22T12:39:56.208Z",
@@ -439,7 +439,7 @@
     "personsCheckedAt": "2026-08-22T12:40:04.158Z"
   },
   "1182332061": {
-    "checkedAt": "2026-09-18T09:53:29.525Z",
+    "checkedAt": "2026-09-19T09:36:59.066Z",
     "name": "PIEKARNIA DĄBROWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001248986",
     "statusVat": "Czynny",
@@ -475,10 +475,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:29.990Z"
+    "personsCheckedAt": "2026-09-19T09:36:59.610Z"
   },
   "1182333468": {
-    "checkedAt": "2026-09-18T09:53:30.735Z",
+    "checkedAt": "2026-09-19T09:37:00.299Z",
     "name": "ADB.INVEST SPÓŁKA Z SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001254781",
     "statusVat": "Czynny",
@@ -494,7 +494,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:31.195Z"
+    "personsCheckedAt": "2026-09-19T09:37:00.817Z"
   },
   "1230059813": {
     "checkedAt": "2026-08-22T12:40:04.567Z",
@@ -503,7 +503,7 @@
     "statusVat": "Czynny"
   },
   "1230850240": {
-    "checkedAt": "2026-09-18T09:53:31.757Z",
+    "checkedAt": "2026-09-19T09:37:01.414Z",
     "name": "WOJCIECH JĘDRZEJCZYK",
     "krs": null,
     "statusVat": "Czynny"
@@ -515,7 +515,7 @@
     "statusVat": "Czynny"
   },
   "1231024449": {
-    "checkedAt": "2026-09-18T09:53:32.296Z",
+    "checkedAt": "2026-09-19T09:37:02.006Z",
     "name": "WOJCIECH MIERZEJEWSKI",
     "krs": null,
     "statusVat": "Czynny"
@@ -527,13 +527,13 @@
     "statusVat": "Czynny"
   },
   "1231187393": {
-    "checkedAt": "2026-09-18T09:53:32.837Z",
+    "checkedAt": "2026-09-19T09:37:02.670Z",
     "name": "PIOTR PIELASZEK",
     "krs": null,
     "statusVat": "Czynny"
   },
   "1231406033": {
-    "checkedAt": "2026-09-18T09:53:33.380Z",
+    "checkedAt": "2026-09-19T09:37:03.267Z",
     "name": "MICHAŁ DĘBSKI",
     "krs": null,
     "statusVat": "Czynny"
@@ -2566,13 +2566,13 @@
     "statusVat": "Czynny"
   },
   "5213458079": {
-    "checkedAt": "2026-09-18T09:53:33.915Z",
+    "checkedAt": "2026-09-19T09:37:03.890Z",
     "name": "DAWID JACZEWSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5214033011": {
-    "checkedAt": "2026-09-18T09:53:34.455Z",
+    "checkedAt": "2026-09-19T09:37:04.495Z",
     "name": "WYBORCZA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001053885",
     "statusVat": "Czynny",
@@ -2598,10 +2598,10 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:34.920Z"
+    "personsCheckedAt": "2026-09-19T09:37:05.512Z"
   },
   "5220000217": {
-    "checkedAt": "2026-09-18T09:53:35.458Z",
+    "checkedAt": "2026-09-19T09:37:06.101Z",
     "name": "ALAB LABORATORIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000040890",
     "statusVat": "Czynny",
@@ -2627,10 +2627,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:35.922Z"
+    "personsCheckedAt": "2026-09-19T09:37:06.784Z"
   },
   "5220020266": {
-    "checkedAt": "2026-09-18T09:53:36.727Z",
+    "checkedAt": "2026-09-19T09:37:07.492Z",
     "name": "PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWO-HANDLOWE BUDOWA I NAPRAWA DRÓG EFEKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000161908",
     "statusVat": "Czynny",
@@ -2671,22 +2671,22 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:37.189Z"
+    "personsCheckedAt": "2026-09-19T09:37:08.012Z"
   },
   "5222570640": {
-    "checkedAt": "2026-09-18T09:53:37.753Z",
+    "checkedAt": "2026-09-19T09:37:08.871Z",
     "name": "MARCIN GĘDZIOROWSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5222711879": {
-    "checkedAt": "2026-09-18T09:53:38.290Z",
+    "checkedAt": "2026-09-19T09:37:09.462Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "5223088543": {
-    "checkedAt": "2026-09-18T09:53:38.925Z",
+    "checkedAt": "2026-09-19T09:37:10.184Z",
     "name": "IT SOLUTION FACTOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000672754",
     "statusVat": "Czynny",
@@ -2707,16 +2707,16 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:39.397Z"
+    "personsCheckedAt": "2026-09-19T09:37:10.703Z"
   },
   "5242409356": {
-    "checkedAt": "2026-09-18T09:53:40.026Z",
+    "checkedAt": "2026-09-19T09:37:11.519Z",
     "name": "ALBERT ŚPIEWAKOWSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5242458834": {
-    "checkedAt": "2026-09-18T09:53:40.560Z",
+    "checkedAt": "2026-09-19T09:37:12.107Z",
     "name": "\"DREWA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000160701",
     "statusVat": "Czynny",
@@ -2742,10 +2742,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:41.067Z"
+    "personsCheckedAt": "2026-09-19T09:37:12.627Z"
   },
   "5242750411": {
-    "checkedAt": "2026-09-18T09:53:41.604Z",
+    "checkedAt": "2026-09-19T09:37:13.241Z",
     "name": "ROKOM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000416991",
     "statusVat": "Czynny",
@@ -2766,10 +2766,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:42.076Z"
+    "personsCheckedAt": "2026-09-19T09:37:13.761Z"
   },
   "5242906497": {
-    "checkedAt": "2026-09-18T09:53:42.646Z",
+    "checkedAt": "2026-09-19T09:37:14.391Z",
     "name": "NRT PROJEKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000859165",
     "statusVat": "Czynny",
@@ -2805,10 +2805,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:43.105Z"
+    "personsCheckedAt": "2026-09-19T09:37:14.910Z"
   },
   "5250005662": {
-    "checkedAt": "2026-09-18T09:53:43.641Z",
+    "checkedAt": "2026-09-19T09:37:15.499Z",
     "name": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE SPÓŁKA AKCYJNA",
     "krs": "0000146138",
     "statusVat": "Czynny",
@@ -2834,10 +2834,10 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:44.100Z"
+    "personsCheckedAt": "2026-09-19T09:37:16.031Z"
   },
   "5252247599": {
-    "checkedAt": "2026-09-18T09:53:44.660Z",
+    "checkedAt": "2026-09-19T09:37:16.635Z",
     "name": "ACSS ID SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000140213",
     "statusVat": "Czynny",
@@ -2858,10 +2858,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:45.125Z"
+    "personsCheckedAt": "2026-09-19T09:37:17.153Z"
   },
   "5260016609": {
-    "checkedAt": "2026-09-18T09:53:45.677Z",
+    "checkedAt": "2026-09-19T09:37:17.739Z",
     "name": "POLSKIE TOWARZYSTWO HIGIENICZNE",
     "krs": "0000033968",
     "statusVat": "Czynny",
@@ -3017,10 +3017,10 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:46.136Z"
+    "personsCheckedAt": "2026-09-19T09:37:18.257Z"
   },
   "5260250995": {
-    "checkedAt": "2026-09-18T09:53:46.711Z",
+    "checkedAt": "2026-09-19T09:37:19.040Z",
     "name": "ORANGE POLSKA SPÓŁKA AKCYJNA",
     "krs": "0000010681",
     "statusVat": "Czynny",
@@ -3066,10 +3066,10 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:47.181Z"
+    "personsCheckedAt": "2026-09-19T09:37:19.561Z"
   },
   "5260251049": {
-    "checkedAt": "2026-09-18T09:53:47.743Z",
+    "checkedAt": "2026-09-19T09:37:20.166Z",
     "name": "POWSZECHNY ZAKŁAD UBEZPIECZEŃ SPÓŁKA AKCYJNA",
     "krs": "0000009831",
     "statusVat": "Niezarejestrowany",
@@ -3110,10 +3110,10 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:48.204Z"
+    "personsCheckedAt": "2026-09-19T09:37:20.685Z"
   },
   "5261004620": {
-    "checkedAt": "2026-09-18T09:53:48.743Z",
+    "checkedAt": "2026-09-19T09:37:21.268Z",
     "name": "TIME SPÓŁKA AKCYJNA",
     "krs": "0000295857",
     "statusVat": "Czynny",
@@ -3134,10 +3134,10 @@
         "funkcja": "WICEPREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:49.211Z"
+    "personsCheckedAt": "2026-09-19T09:37:21.788Z"
   },
   "5262349108": {
-    "checkedAt": "2026-09-18T09:53:49.746Z",
+    "checkedAt": "2026-09-19T09:37:22.379Z",
     "name": "GENERALI TOWARZYSTWO UBEZPIECZEŃ SPÓŁKA AKCYJNA",
     "krs": "0000010623",
     "statusVat": "Czynny",
@@ -3178,10 +3178,10 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:50.218Z"
+    "personsCheckedAt": "2026-09-19T09:37:22.898Z"
   },
   "5272260025": {
-    "checkedAt": "2026-09-18T09:53:50.801Z",
+    "checkedAt": "2026-09-19T09:37:23.484Z",
     "name": "\"OCHRONA JUWENTUS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000944043",
     "statusVat": "Czynny",
@@ -3202,16 +3202,16 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:51.260Z"
+    "personsCheckedAt": "2026-09-19T09:37:24.004Z"
   },
   "5272596601": {
-    "checkedAt": "2026-09-18T09:53:51.801Z",
+    "checkedAt": "2026-09-19T09:37:24.593Z",
     "name": "MARIOLA FALKIEWICZ",
     "krs": null,
     "statusVat": "Zwolniony"
   },
   "5272689998": {
-    "checkedAt": "2026-09-18T09:53:52.343Z",
+    "checkedAt": "2026-09-19T09:37:25.228Z",
     "name": "EOFFICE MEDIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000450072",
     "statusVat": "Czynny",
@@ -3227,10 +3227,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:52.802Z"
+    "personsCheckedAt": "2026-09-19T09:37:25.748Z"
   },
   "5291829992": {
-    "checkedAt": "2026-09-18T09:53:53.339Z",
+    "checkedAt": "2026-09-19T09:37:26.347Z",
     "name": "MLECZNA KRÓWKA Z MILANÓWKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000825780",
     "statusVat": "Czynny",
@@ -3246,10 +3246,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:53.800Z"
+    "personsCheckedAt": "2026-09-19T09:37:26.890Z"
   },
   "5291858278": {
-    "checkedAt": "2026-09-18T09:53:54.345Z",
+    "checkedAt": "2026-09-19T09:37:27.485Z",
     "name": "MALTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001140766",
     "statusVat": "Czynny",
@@ -3275,16 +3275,16 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:54.805Z"
+    "personsCheckedAt": "2026-09-19T09:37:28.009Z"
   },
   "5311276646": {
-    "checkedAt": "2026-09-18T09:53:55.346Z",
+    "checkedAt": "2026-09-19T09:37:28.596Z",
     "name": "WIKTOR SZWARC",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5311714135": {
-    "checkedAt": "2026-09-18T09:53:55.877Z",
+    "checkedAt": "2026-09-19T09:37:29.193Z",
     "name": "ATO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001086537",
     "statusVat": "Czynny",
@@ -3310,64 +3310,64 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:53:56.340Z"
+    "personsCheckedAt": "2026-09-19T09:37:29.712Z"
   },
   "5340200284": {
-    "checkedAt": "2026-09-18T09:53:56.907Z",
+    "checkedAt": "2026-09-19T09:37:30.366Z",
     "name": "ZDZISŁAW BUŹNIAK",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5341091130": {
-    "checkedAt": "2026-09-18T09:53:57.447Z",
+    "checkedAt": "2026-09-19T09:37:30.952Z",
     "name": "HENRYK PRYBA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5341331752": {
-    "checkedAt": "2026-09-18T09:53:58.002Z",
+    "checkedAt": "2026-09-19T09:37:31.540Z",
     "name": "KRZYSZTOF JARZYNA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5341524445": {
-    "checkedAt": "2026-09-18T09:53:58.532Z",
+    "checkedAt": "2026-09-19T09:37:32.351Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "5341688342": {
-    "checkedAt": "2026-09-18T09:53:59.177Z",
+    "checkedAt": "2026-09-19T09:37:33.033Z",
     "name": "MIROSŁAW OŚKO",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5341964948": {
-    "checkedAt": "2026-09-18T09:53:59.732Z",
+    "checkedAt": "2026-09-19T09:37:33.973Z",
     "name": "ADAM SZWONDER",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5342268180": {
-    "checkedAt": "2026-09-18T09:54:00.286Z",
+    "checkedAt": "2026-09-19T09:37:34.561Z",
     "name": "KAMIL BOJANEK",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5342362973": {
-    "checkedAt": "2026-09-18T09:54:00.836Z",
+    "checkedAt": "2026-09-19T09:37:35.159Z",
     "name": "ARTUR GAŁĄZKA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5342468269": {
-    "checkedAt": "2026-09-18T09:54:01.367Z",
+    "checkedAt": "2026-09-19T09:37:35.753Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "5342643672": {
-    "checkedAt": "2026-09-18T09:54:01.906Z",
+    "checkedAt": "2026-09-19T09:37:36.342Z",
     "name": "JPK INŻYNIERIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000924531",
     "statusVat": "Czynny",
@@ -3388,46 +3388,46 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:02.916Z"
+    "personsCheckedAt": "2026-09-19T09:37:37.530Z"
   },
   "5361545611": {
-    "checkedAt": "2026-09-18T09:54:03.526Z",
+    "checkedAt": "2026-09-19T09:37:38.113Z",
     "name": "ADAM DYMIANOW",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5372056293": {
-    "checkedAt": "2026-09-18T09:54:04.219Z",
+    "checkedAt": "2026-09-19T09:37:39.074Z",
     "name": "IGA OLSZANOWSKA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5421287697": {
-    "checkedAt": "2026-09-18T09:54:04.763Z",
+    "checkedAt": "2026-09-19T09:37:39.671Z",
     "name": "MAREK MISTARZ",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5591406439": {
-    "checkedAt": "2026-09-18T09:54:05.307Z",
+    "checkedAt": "2026-09-19T09:37:40.276Z",
     "name": "JÓZEF KWAŚNIEWSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5681254453": {
-    "checkedAt": "2026-09-18T09:54:05.879Z",
+    "checkedAt": "2026-09-19T09:37:40.865Z",
     "name": "RENATA MISZCZUK",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5691840879": {
-    "checkedAt": "2026-09-18T09:54:06.434Z",
+    "checkedAt": "2026-09-19T09:37:41.502Z",
     "name": "WIESŁAW RĘBIŚ",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5730008637": {
-    "checkedAt": "2026-09-18T09:54:06.975Z",
+    "checkedAt": "2026-09-19T09:37:42.091Z",
     "name": "PRZEDSIĘBIORSTWO SPECJALISTYCZNE 'BOCAR' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000166850",
     "statusVat": "Czynny",
@@ -3448,10 +3448,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:07.897Z"
+    "personsCheckedAt": "2026-09-19T09:37:43.289Z"
   },
   "5761586447": {
-    "checkedAt": "2026-09-18T09:54:08.442Z",
+    "checkedAt": "2026-09-19T09:37:43.877Z",
     "name": "COCON SPÓŁKA AKCYJNA",
     "krs": "0001066701",
     "statusVat": "Czynny",
@@ -3472,16 +3472,16 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:08.899Z"
+    "personsCheckedAt": "2026-09-19T09:37:44.396Z"
   },
   "5791572496": {
-    "checkedAt": "2026-09-18T09:54:11.383Z",
+    "checkedAt": "2026-09-19T09:37:44.996Z",
     "name": "SEBASTIAN WRÓBLEWSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "5833165070": {
-    "checkedAt": "2026-09-18T09:54:11.992Z",
+    "checkedAt": "2026-09-19T09:37:45.601Z",
     "name": "PEZAL PRODUCT LINE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000497840",
     "statusVat": "Czynny",
@@ -3492,10 +3492,10 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:12.449Z"
+    "personsCheckedAt": "2026-09-19T09:37:46.121Z"
   },
   "5840305419": {
-    "checkedAt": "2026-09-18T09:54:12.991Z",
+    "checkedAt": "2026-09-19T09:37:46.713Z",
     "name": "ODDK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
     "krs": "0000453341",
     "statusVat": "Czynny",
@@ -3511,10 +3511,10 @@
         "funkcja": "członek organu"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:13.451Z"
+    "personsCheckedAt": "2026-09-19T09:37:47.239Z"
   },
   "5842812758": {
-    "checkedAt": "2026-09-18T09:54:13.984Z",
+    "checkedAt": "2026-09-19T09:37:47.828Z",
     "name": "KURYŁOWICZ PROJECT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000946336",
     "statusVat": "Czynny",
@@ -3535,16 +3535,16 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:14.442Z"
+    "personsCheckedAt": "2026-09-19T09:37:48.346Z"
   },
   "5993003235": {
-    "checkedAt": "2026-09-18T09:54:14.965Z",
+    "checkedAt": "2026-09-19T09:37:48.931Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "6422585210": {
-    "checkedAt": "2026-09-18T09:54:15.497Z",
+    "checkedAt": "2026-09-19T09:37:49.574Z",
     "name": "LUBAR SPÓŁKA AKCYJNA",
     "krs": "0000540215",
     "statusVat": "Czynny",
@@ -3570,10 +3570,10 @@
         "funkcja": "WICEPREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:15.956Z"
+    "personsCheckedAt": "2026-09-19T09:37:50.102Z"
   },
   "6462926077": {
-    "checkedAt": "2026-09-18T09:54:16.497Z",
+    "checkedAt": "2026-09-19T09:37:50.703Z",
     "name": "GRUPA E SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000400903",
     "statusVat": "Czynny",
@@ -3589,22 +3589,22 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:16.957Z"
+    "personsCheckedAt": "2026-09-19T09:37:51.222Z"
   },
   "6792704948": {
-    "checkedAt": "2026-09-18T09:54:17.498Z",
+    "checkedAt": "2026-09-19T09:37:51.811Z",
     "name": "GRAŻYNA SZEWCZYK-KUC",
     "krs": null,
     "statusVat": "Czynny"
   },
   "6792943630": {
-    "checkedAt": "2026-09-18T09:54:18.062Z",
+    "checkedAt": "2026-09-19T09:37:52.401Z",
     "name": "GEOMATYKA - KRAKÓW S.C.",
     "krs": null,
     "statusVat": "Czynny"
   },
   "6793252454": {
-    "checkedAt": "2026-09-18T09:54:18.604Z",
+    "checkedAt": "2026-09-19T09:37:53.500Z",
     "name": "NETART.COM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001000590",
     "statusVat": "Czynny",
@@ -3625,16 +3625,16 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:19.067Z"
+    "personsCheckedAt": "2026-09-19T09:37:54.040Z"
   },
   "6912256726": {
-    "checkedAt": "2026-09-18T09:54:19.613Z",
+    "checkedAt": "2026-09-19T09:37:54.764Z",
     "name": "MATEUSZ GOŁDA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7123447989": {
-    "checkedAt": "2026-09-18T09:54:20.165Z",
+    "checkedAt": "2026-09-19T09:37:55.350Z",
     "name": "PW SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001013505",
     "statusVat": "Czynny",
@@ -3660,28 +3660,28 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:20.625Z"
+    "personsCheckedAt": "2026-09-19T09:37:56.195Z"
   },
   "7162629281": {
-    "checkedAt": "2026-09-18T09:54:21.221Z",
+    "checkedAt": "2026-09-19T09:37:56.765Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "7182164052": {
-    "checkedAt": "2026-09-18T09:54:21.750Z",
+    "checkedAt": "2026-09-19T09:37:57.337Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "7221027136": {
-    "checkedAt": "2026-09-18T09:54:22.305Z",
+    "checkedAt": "2026-09-19T09:37:57.978Z",
     "name": "ANNA SIEKIERKO",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7250010782": {
-    "checkedAt": "2026-09-18T09:54:22.856Z",
+    "checkedAt": "2026-09-19T09:37:58.568Z",
     "name": "\"PANTA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000116206",
     "statusVat": "Czynny",
@@ -3707,10 +3707,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:23.315Z"
+    "personsCheckedAt": "2026-09-19T09:37:59.083Z"
   },
   "7250013378": {
-    "checkedAt": "2026-09-18T09:54:24.267Z",
+    "checkedAt": "2026-09-19T09:37:59.675Z",
     "name": "'NOWA SZKOŁA' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000109353",
     "statusVat": "Czynny",
@@ -3726,10 +3726,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:24.745Z"
+    "personsCheckedAt": "2026-09-19T09:38:00.190Z"
   },
   "7251933448": {
-    "checkedAt": "2026-09-18T09:54:25.273Z",
+    "checkedAt": "2026-09-19T09:38:00.799Z",
     "name": "MOJE BAMBINO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000961115",
     "statusVat": "Czynny",
@@ -3780,10 +3780,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:25.744Z"
+    "personsCheckedAt": "2026-09-19T09:38:01.313Z"
   },
   "7282841948": {
-    "checkedAt": "2026-09-18T09:54:26.280Z",
+    "checkedAt": "2026-09-19T09:38:01.900Z",
     "name": "EVE ENERGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000818239",
     "statusVat": "Czynny",
@@ -3799,10 +3799,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:26.780Z"
+    "personsCheckedAt": "2026-09-19T09:38:02.415Z"
   },
   "7282847247": {
-    "checkedAt": "2026-09-18T09:54:27.333Z",
+    "checkedAt": "2026-09-19T09:38:03.079Z",
     "name": "TAFETEX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000861984",
     "statusVat": "Czynny",
@@ -3823,46 +3823,46 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:27.792Z"
+    "personsCheckedAt": "2026-09-19T09:38:03.593Z"
   },
   "7322180916": {
-    "checkedAt": "2026-09-18T09:54:28.353Z",
+    "checkedAt": "2026-09-19T09:38:04.194Z",
     "name": "EVI S.C. ILONA JACHUŁOWSKA, ADAM JACHUŁOWSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7381214947": {
-    "checkedAt": "2026-09-18T09:54:28.907Z",
+    "checkedAt": "2026-09-19T09:38:04.796Z",
     "name": "MAREK MOTYKA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7392440742": {
-    "checkedAt": "2026-09-18T09:54:29.468Z",
+    "checkedAt": "2026-09-19T09:38:05.394Z",
     "name": "IZABELA NIEPOKÓLCZYCKA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7481279171": {
-    "checkedAt": "2026-09-18T09:54:29.999Z",
+    "checkedAt": "2026-09-19T09:38:06.034Z",
     "name": "MAREK MATUSZKIEWICZ",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7541140354": {
-    "checkedAt": "2026-09-18T09:54:30.535Z",
+    "checkedAt": "2026-09-19T09:38:06.609Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "7542609899": {
-    "checkedAt": "2026-09-18T09:54:31.088Z",
+    "checkedAt": "2026-09-19T09:38:07.205Z",
     "name": "JADWIGA KRZACZKOWSKA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7542984373": {
-    "checkedAt": "2026-09-18T09:54:31.772Z",
+    "checkedAt": "2026-09-19T09:38:07.790Z",
     "name": "LUCA LOGISTIC SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000336140",
     "statusVat": "Czynny",
@@ -3883,10 +3883,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:32.753Z"
+    "personsCheckedAt": "2026-09-19T09:38:08.793Z"
   },
   "7622025195": {
-    "checkedAt": "2026-09-18T09:54:33.297Z",
+    "checkedAt": "2026-09-19T09:38:09.386Z",
     "name": "GALERIA SMAKÓW SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001173954",
     "statusVat": "Czynny",
@@ -3912,28 +3912,28 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:33.782Z"
+    "personsCheckedAt": "2026-09-19T09:38:09.902Z"
   },
   "7771304380": {
-    "checkedAt": "2026-09-18T09:54:34.356Z",
+    "checkedAt": "2026-09-19T09:38:10.492Z",
     "name": "CEZARY BERA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "7831692091": {
-    "checkedAt": "2026-09-18T09:54:34.885Z",
+    "checkedAt": "2026-09-19T09:38:11.068Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "8212542158": {
-    "checkedAt": "2026-09-18T09:54:35.432Z",
+    "checkedAt": "2026-09-19T09:38:11.651Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "8222352962": {
-    "checkedAt": "2026-09-18T09:54:35.981Z",
+    "checkedAt": "2026-09-19T09:38:12.238Z",
     "name": "UNIQUE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000607934",
     "statusVat": "Czynny",
@@ -3964,52 +3964,52 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:36.440Z"
+    "personsCheckedAt": "2026-09-19T09:38:12.754Z"
   },
   "8251459869": {
-    "checkedAt": "2026-09-18T09:54:37.066Z",
+    "checkedAt": "2026-09-19T09:38:13.365Z",
     "name": "MARIUSZ LENDZION",
     "krs": null,
     "statusVat": "Czynny"
   },
   "8361123633": {
-    "checkedAt": "2026-09-18T09:54:37.751Z",
+    "checkedAt": "2026-09-19T09:38:13.974Z",
     "name": "MAREK NAJUCH",
     "krs": null,
     "statusVat": "Czynny"
   },
   "8381889692": {
-    "checkedAt": "2026-09-18T09:54:38.281Z",
+    "checkedAt": "2026-09-19T09:38:14.543Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "8621644399": {
-    "checkedAt": "2026-09-18T09:54:38.810Z",
+    "checkedAt": "2026-09-19T09:38:15.132Z",
     "name": "MARCIN FLIS",
     "krs": null,
     "statusVat": "Czynny"
   },
   "8631678158": {
-    "checkedAt": "2026-09-18T09:54:39.345Z",
+    "checkedAt": "2026-09-19T09:38:15.729Z",
     "name": "KAMIL SOJA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9181757897": {
-    "checkedAt": "2026-09-18T09:54:39.890Z",
+    "checkedAt": "2026-09-19T09:38:16.344Z",
     "name": "MAREK POSTRZECH",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9372509153": {
-    "checkedAt": "2026-09-18T09:54:40.432Z",
+    "checkedAt": "2026-09-19T09:38:17.009Z",
     "name": "KRZYSZTOF MAZGAJ",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9372725106": {
-    "checkedAt": "2026-09-18T09:54:40.982Z",
+    "checkedAt": "2026-09-19T09:38:17.606Z",
     "name": "MB SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000806493",
     "statusVat": "Czynny",
@@ -4035,16 +4035,16 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:42.220Z"
+    "personsCheckedAt": "2026-09-19T09:38:18.604Z"
   },
   "9451961077": {
-    "checkedAt": "2026-09-18T09:54:42.763Z",
+    "checkedAt": "2026-09-19T09:38:19.180Z",
     "name": null,
     "krs": null,
     "statusVat": null
   },
   "9462662289": {
-    "checkedAt": "2026-09-18T09:54:43.319Z",
+    "checkedAt": "2026-09-19T09:38:19.769Z",
     "name": "BASTET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000633056",
     "statusVat": "Czynny",
@@ -4070,10 +4070,10 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:43.778Z"
+    "personsCheckedAt": "2026-09-19T09:38:20.281Z"
   },
   "9511807033": {
-    "checkedAt": "2026-09-18T09:54:44.385Z",
+    "checkedAt": "2026-09-19T09:38:20.994Z",
     "name": "AGENCJA PROMOCJI ZIELENI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000029722",
     "statusVat": "Czynny",
@@ -4084,10 +4084,10 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:44.868Z"
+    "personsCheckedAt": "2026-09-19T09:38:21.509Z"
   },
   "9522259842": {
-    "checkedAt": "2026-09-18T09:54:45.406Z",
+    "checkedAt": "2026-09-19T09:38:22.095Z",
     "name": "HIDALGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0001121078",
     "statusVat": "Czynny",
@@ -4103,16 +4103,16 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:45.865Z"
+    "personsCheckedAt": "2026-09-19T09:38:22.610Z"
   },
   "9551033632": {
-    "checkedAt": "2026-09-18T09:54:46.420Z",
+    "checkedAt": "2026-09-19T09:38:23.219Z",
     "name": "\"VERSO\" S.C., BOGDAN MARKIEWICZ, CEZARY WEISBRODT",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9562312057": {
-    "checkedAt": "2026-09-18T09:54:47.009Z",
+    "checkedAt": "2026-09-19T09:38:23.811Z",
     "name": "KREATYWNI AKTYWNI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000565896",
     "statusVat": "Czynny",
@@ -4133,22 +4133,22 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-09-18T09:54:47.467Z"
+    "personsCheckedAt": "2026-09-19T09:38:24.325Z"
   },
   "9671303896": {
-    "checkedAt": "2026-09-18T09:54:48.012Z",
+    "checkedAt": "2026-09-19T09:38:24.920Z",
     "name": "DAWID CIECIERSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9680923871": {
-    "checkedAt": "2026-09-18T09:54:48.566Z",
+    "checkedAt": "2026-09-19T09:38:25.524Z",
     "name": "MAGDALENA KOZŁOWSKA",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9691305817": {
-    "checkedAt": "2026-09-18T09:54:49.098Z",
+    "checkedAt": "2026-09-19T09:38:26.092Z",
     "name": null,
     "krs": null,
     "statusVat": null
