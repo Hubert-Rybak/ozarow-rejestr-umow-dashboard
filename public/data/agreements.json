@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-20T09:53:56.525Z",
+  "fetchedAt": "2026-09-21T10:51:20.624Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 432,
-  "totalMatchingElements": 432,
-  "totalVisibleElements": 432,
+  "totalElements": 433,
+  "totalMatchingElements": 433,
+  "totalVisibleElements": 433,
   "agreements": [
     {
       "idUmowy": "187ca189-3045-44b8-a5fe-12fd008ed07b",
@@ -9755,6 +9755,70 @@
         "okres": "22 dni",
         "dataPublikacji": "27.07.2026",
         "dataModyfikacji": "27.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ce571ee3-7117-4cc2-9c3d-8e2a56d3dd31",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "18.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1401.62,
+      "przedmiotUmowy": "Wykonanie spektaklu dla dzieci w Ożarowie Mazowieckim oraz w Filii Macierzysz",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce571ee3-7117-4cc2-9c3d-8e2a56d3dd31",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Dariusz",
+          "nazwisko": "Szymor",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.66.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "20.09.2026",
+        "dataModyfikacji": "20.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
