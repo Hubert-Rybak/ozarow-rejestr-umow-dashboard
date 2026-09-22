@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-21T10:53:05.084Z",
+  "checkedAt": "2026-09-22T10:11:13.728Z",
   "links": [
     {
       "nip": "1180093066",
@@ -52,11 +52,6 @@
           "lastMasked": "S****",
           "firstMasked": "S********",
           "funkcja": "WICEPRZEWODNICZĄCY ZARZĄDU"
-        },
-        {
-          "lastMasked": "J***********",
-          "firstMasked": "H****",
-          "funkcja": "CZŁONEK ZARZĄDU"
         },
         {
           "lastMasked": "L*****",
@@ -693,17 +688,17 @@
         {
           "lastMasked": "G*****",
           "firstMasked": "M******",
-          "funkcja": "CZŁONEK ZARZĄDU\nPREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OLSZTYNIE"
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
         },
         {
           "lastMasked": "B******",
           "firstMasked": "M*****",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO; WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
         },
         {
           "lastMasked": "W***",
           "firstMasked": "J*****",
-          "funkcja": "PREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
         },
         {
           "lastMasked": "P******",
@@ -711,54 +706,14 @@
           "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
         },
         {
-          "lastMasked": "R*****",
-          "firstMasked": "T*****",
-          "funkcja": "CZŁONEK ZARZĄDU - PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ŁODZI"
-        },
-        {
           "lastMasked": "P*******",
           "firstMasked": "L******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SUWAŁKACH"
-        },
-        {
-          "lastMasked": "K**********",
-          "firstMasked": "B*******",
-          "funkcja": "CZŁONEK ZARZĄDU PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W BYDGOSZCZY"
-        },
-        {
-          "lastMasked": "T*****",
-          "firstMasked": "B*****",
-          "funkcja": "CZŁONEK ZARZĄDU PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH WE WROCŁAWIU"
-        },
-        {
-          "lastMasked": "S******",
-          "firstMasked": "J******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OPOLU"
-        },
-        {
-          "lastMasked": "S*****",
-          "firstMasked": "V*******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KATOWICACH"
-        },
-        {
-          "lastMasked": "R********",
-          "firstMasked": "Z*******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W TORUNIU"
-        },
-        {
-          "lastMasked": "R**",
-          "firstMasked": "R******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W GDAŃSKU"
-        },
-        {
-          "lastMasked": "B****",
-          "firstMasked": "M*********",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+          "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH,"
         },
         {
           "lastMasked": "P********",
           "firstMasked": "I******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+          "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ŁODZI"
         },
         {
           "lastMasked": "K*******",
@@ -766,34 +721,9 @@
           "funkcja": "SEKRETARZ GENERALNY"
         },
         {
-          "lastMasked": "S******",
-          "firstMasked": "M*********",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SZCZECINIE"
-        },
-        {
           "lastMasked": "J****",
           "firstMasked": "P*********",
           "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-        },
-        {
-          "lastMasked": "Ł*******",
-          "firstMasked": "S*******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-        },
-        {
-          "lastMasked": "R*****",
-          "firstMasked": "S*****",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-        },
-        {
-          "lastMasked": "M*********",
-          "firstMasked": "T*****",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH"
-        },
-        {
-          "lastMasked": "B*******",
-          "firstMasked": "A******",
-          "funkcja": "CZŁONEK ZARZADU; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W LUBLINIE"
         },
         {
           "lastMasked": "S*********",
@@ -803,7 +733,7 @@
         {
           "lastMasked": "M*********",
           "firstMasked": "J****",
-          "funkcja": "CZŁONEK ZARZĄDU; SKARBNIK STOWARZYSZENIA GEODETÓW POLSKICH; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KALISZU"
+          "funkcja": "CZŁONEK ZARZĄDU; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KALISZU"
         },
         {
           "lastMasked": "Z***",
@@ -813,7 +743,7 @@
         {
           "lastMasked": "W*********",
           "firstMasked": "D******",
-          "funkcja": "CZŁONEK ZARZĄDU STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+          "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO,"
         },
         {
           "lastMasked": "S*****",
@@ -833,7 +763,7 @@
         {
           "lastMasked": "M*********",
           "firstMasked": "A****",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+          "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OLSZTYNIE"
         },
         {
           "lastMasked": "M******",
@@ -848,7 +778,7 @@
         {
           "lastMasked": "C****",
           "firstMasked": "S*******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH"
+          "funkcja": "SKARBNIK STOWARZYSZENIA GEODETÓW POLSKICH; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W GDAŃSKU"
         },
         {
           "lastMasked": "B**",
@@ -874,6 +804,101 @@
           "lastMasked": "K***********",
           "firstMasked": "R*****",
           "funkcja": "CZŁONEK ZARZĄDU SGP, PREZES ODDZIAŁU SGP W RZESZOWIE"
+        },
+        {
+          "lastMasked": "H****",
+          "firstMasked": "P****",
+          "funkcja": "PREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+        },
+        {
+          "lastMasked": "W*******",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES CTOWARZYSZENIA GEODETÓW POLSKICH, CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "M****",
+          "firstMasked": "A*****",
+          "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU WE WROCŁAWIU"
+        },
+        {
+          "lastMasked": "W***",
+          "firstMasked": "S*******",
+          "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W BYDGOSZCZY"
+        },
+        {
+          "lastMasked": "D*********",
+          "firstMasked": "D*****",
+          "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KATOWICACH"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "M******",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W LUBLINIE"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH  W OPOLU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SUWAŁKACH"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "A******",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SZCZECINIE"
+        },
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "M********",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W TORUNIU"
+        },
+        {
+          "lastMasked": "S*****",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZADU, WICEPREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ZIELONEJ GÓRZE"
+        },
+        {
+          "lastMasked": "B********",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "H****",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "M****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "A*****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "M*****",
+          "firstMasked": "K****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "M*****",
+          "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "K******",
+          "firstMasked": "R*****",
+          "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "M****",
+          "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
         }
       ]
     },
@@ -1698,16 +1723,6 @@
       "name": "ESV6 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
       "persons": [
         {
-          "lastMasked": "K********",
-          "firstMasked": "T******",
-          "funkcja": "CZŁONEK ZARZĄDU"
-        },
-        {
-          "lastMasked": "N******",
-          "firstMasked": "S*******",
-          "funkcja": "CZŁONEK ZARZĄDU"
-        },
-        {
           "lastMasked": "W*********",
           "firstMasked": "R*****",
           "funkcja": "WICEPREZES ZARZĄDU"
@@ -1951,6 +1966,33 @@
         {
           "lastMasked": "K*********",
           "firstMasked": "K*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5223218081",
+      "krs": "0000948957",
+      "name": "KG BUDOWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K******",
+          "firstMasked": "P*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K******",
+          "firstMasked": "P*********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "P****",
           "funkcja": "wspólnik"
         }
       ]
