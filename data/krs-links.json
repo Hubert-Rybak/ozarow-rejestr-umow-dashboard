@@ -1,6 +1,50 @@
 {
-  "checkedAt": "2026-09-22T10:11:13.728Z",
+  "checkedAt": "2026-09-23T10:15:38.329Z",
   "links": [
+    {
+      "nip": "1130122021",
+      "krs": "0000082102",
+      "name": "'SEKA' SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "E*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***********",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "R*****",
+          "firstMasked": "P****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "1131896687",
+      "krs": "0000035122",
+      "name": "\"ATHENASOFT\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "K****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "C**********",
+          "firstMasked": "S********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "T******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
     {
       "nip": "1180093066",
       "krs": "0000225279",
@@ -2111,6 +2155,58 @@
       ]
     },
     {
+      "nip": "5250007738",
+      "krs": "0000026438",
+      "name": "POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "M****",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*****",
+          "firstMasked": "S*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "D******",
+          "firstMasked": "K********",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "M******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "F****",
+          "firstMasked": "L******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P**",
+          "firstMasked": "T*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "W*******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "5252247599",
       "krs": "0000140213",
       "name": "ACSS ID SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2619,6 +2715,18 @@
       ]
     },
     {
+      "nip": "5833153397",
+      "krs": "0000425318",
+      "name": "CSW MADKOM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S***********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "5833165070",
       "krs": "0000497840",
       "name": "PEZAL PRODUCT LINE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2732,6 +2840,33 @@
           "lastMasked": "K***",
           "firstMasked": "M*****",
           "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "7010224851",
+      "krs": "0000350772",
+      "name": "PRIVATE CORPORATE CONSULTING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P***********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P***********",
+          "firstMasked": "E****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P***********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P***********",
+          "firstMasked": "E****",
+          "funkcja": "wspólnik"
         }
       ]
     },
@@ -2943,6 +3078,23 @@
           "lastMasked": "P*******",
           "firstMasked": "I****",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7792274046",
+      "krs": "0000751883",
+      "name": "WIELKOPOLSKA AKADEMIA NAUKI I ROZWOJU\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": [
+        {
+          "lastMasked": "M**********",
+          "firstMasked": "J****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "K********",
+          "funkcja": "członek organu"
         }
       ]
     },
