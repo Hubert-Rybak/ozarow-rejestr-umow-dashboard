@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-23T10:15:38.329Z",
+  "checkedAt": "2026-09-25T10:23:38.355Z",
   "links": [
     {
       "nip": "1130122021",
@@ -3131,6 +3131,35 @@
       ]
     },
     {
+      "nip": "8471613479",
+      "krs": "0000620114",
+      "name": "PRZEDSIĘBIORSTWO INŻYNIERYJNE SAN-SYSTEM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B********",
+          "firstMasked": "K****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "L***",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "8992863500",
+      "krs": "0000788860",
+      "name": "WCTRON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "L********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "9372725106",
       "krs": "0000806493",
       "name": "MB SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -3209,6 +3238,28 @@
         {
           "lastMasked": "S******",
           "firstMasked": "W*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9552264351",
+      "krs": "0000333641",
+      "name": "GSG INDUSTRIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S************",
+          "firstMasked": "S********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S************",
+          "firstMasked": "S********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "A********",
           "funkcja": "wspólnik"
         }
       ]
