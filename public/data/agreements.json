@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-25T10:20:06.501Z",
+  "fetchedAt": "2026-09-26T10:01:38.335Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 474,
-  "totalMatchingElements": 474,
-  "totalVisibleElements": 474,
+  "totalElements": 476,
+  "totalMatchingElements": 476,
+  "totalVisibleElements": 476,
   "agreements": [
     {
       "idUmowy": "7ef7cf4b-4553-4934-8d17-e8e6fc453fc1",
@@ -17821,6 +17821,70 @@
       }
     },
     {
+      "idUmowy": "502a101f-ec54-47ef-ae43-e21ccdc8019a",
+      "nazwa": "ZAKŁAD USŁUG KOMUNALNYCH",
+      "regon": "523589485",
+      "dataZawarciaUmowy": "11.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 860,
+      "przedmiotUmowy": "Dostawa i montaż bezpieczników ogniowych w stacji gazowej przy ulicy Fabrycznej 8F w Józefowie.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/502a101f-ec54-47ef-ae43-e21ccdc8019a",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "FIRMA USŁUGOWO HANDLOWA \"GAZ TECH\" Maciej Kokosza",
+          "nip": "7961791874",
+          "regon": "673021162",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Stanisława Lema",
+            "numerNieruchomosci": "4",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Radom",
+            "gminaMiastoDzielnica": "Radom",
+            "miejscowosc": "Radom",
+            "kodPocztowy": "26-613"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD USŁUG KOMUNALNYCH",
+          "nip": "1182254102",
+          "regon": "523589485",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "22 dni",
+        "dataPublikacji": "25.09.2026",
+        "dataModyfikacji": "25.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "26ecf134-20b5-4015-8b03-cd639a50030a",
       "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
       "regon": "016279633",
@@ -27415,6 +27479,70 @@
         "okres": "8 dni",
         "dataPublikacji": "03.07.2026",
         "dataModyfikacji": "15.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ed9dab9a-cce2-4fd2-899c-0803b4a42db5",
+      "nazwa": "POWIATOWA STACJA SANITARNO-EPIDEMIOLOGICZNA W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "016081055",
+      "dataZawarciaUmowy": "02.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 7872,
+      "przedmiotUmowy": "Świadczenie usług prawniczych",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ed9dab9a-cce2-4fd2-899c-0803b4a42db5",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "KANCELARIA PRAWNA - MAŁGORZATA BORKOWSKA RADCA PRAWNY",
+          "nip": "4990463645",
+          "regon": "142815686",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Przyczółkowa",
+            "numerNieruchomosci": "142F",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Wilanów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-968"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWA STACJA SANITARNO-EPIDEMIOLOGICZNA W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "1181469562",
+          "regon": "016081055",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "8/2026",
+        "okres": "122 dni",
+        "dataPublikacji": "25.09.2026",
+        "dataModyfikacji": "25.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
