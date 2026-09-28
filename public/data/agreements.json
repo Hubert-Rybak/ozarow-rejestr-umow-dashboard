@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-27T10:40:47.548Z",
+  "fetchedAt": "2026-09-28T11:49:13.532Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 476,
-  "totalMatchingElements": 476,
-  "totalVisibleElements": 476,
+  "totalElements": 485,
+  "totalMatchingElements": 485,
+  "totalVisibleElements": 485,
   "agreements": [
     {
       "idUmowy": "7ef7cf4b-4553-4934-8d17-e8e6fc453fc1",
@@ -2823,6 +2823,70 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "b7017db1-ee2a-4064-8313-41644cca3999",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "27.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 7300,
+      "przedmiotUmowy": "Usługa konferencyjna i gastronomiczna na potrzeby organizacji Dożynek Gminnych 28.08.2026",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/b7017db1-ee2a-4064-8313-41644cca3999",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MCC MAZURKAS CONFERENCE CENTRE & HOTEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182025554",
+          "regon": "142346352",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "177",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.50.2026",
+        "okres": "3 dni",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -11871,6 +11935,134 @@
       }
     },
     {
+      "idUmowy": "18d5bf84-6717-4b4a-8ce9-a3d29a1eb61c",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "17.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1626.02,
+      "przedmiotUmowy": "Wydarzenie w zakresie wspierania i upowszechniania idei samorządowej w tym pobudzenia aktywności obywatelskiej we wsi Święcice ( w tym: Mikołajki dla dzieci, Dzień Babci i Dziadka, Spotkanie mieszkańców)",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/18d5bf84-6717-4b4a-8ce9-a3d29a1eb61c",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Roman Żemierowski",
+          "nip": "1182016101",
+          "regon": "360232881",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Piotra Skargi",
+            "numerNieruchomosci": "17",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Stare Babice",
+            "miejscowosc": "Blizne Jasińskiego",
+            "kodPocztowy": "05-082"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.376.2026.RF",
+        "okres": "13 dni",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "dd45305d-9b8a-453d-8378-68d91ba98345",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "17.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 7557.45,
+      "przedmiotUmowy": "Wydarzenie kulturalne mieszkańców wsi Michałówek",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/dd45305d-9b8a-453d-8378-68d91ba98345",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "HEDERA BEATA BOGUSZ, MAGDALENA PANEK SPÓŁKA CYWILNA",
+          "nip": "1182096117",
+          "regon": "147048487",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Warszawska",
+            "numerNieruchomosci": "344",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Stare Babice",
+            "miejscowosc": "Stare Babice",
+            "kodPocztowy": "05-082"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.375.2026.RF",
+        "okres": "19 dni",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "8a5a93e4-f83f-4688-8fc0-2ac84b33a28d",
       "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
       "regon": "016279633",
@@ -12699,6 +12891,70 @@
         "okres": "111 dni",
         "dataPublikacji": "20.07.2026",
         "dataModyfikacji": "20.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "bcf16530-c3b2-4aa0-88e9-8c0882d74097",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "16.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 74250,
+      "przedmiotUmowy": "Organizacja i prowadzenie zajęć \"Music Baby Art\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/bcf16530-c3b2-4aa0-88e9-8c0882d74097",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "FORKIDS&PARENTS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272948112",
+          "regon": "388059662",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Nowolipki",
+            "numerNieruchomosci": "29",
+            "numerLokalu": "45",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Wola",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-010"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.45/2026",
+        "okres": "271 dni",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -13913,6 +14169,70 @@
         "okres": "9 dni",
         "dataPublikacji": "17.07.2026",
         "dataModyfikacji": "17.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "52ade51e-7368-489f-8c3a-8e803654e0f1",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "15.09.2026",
+      "dataZakonczeniaUmowy": "28.09.2026",
+      "wartoscPrzedmiotuUmowy": 450,
+      "przedmiotUmowy": "Dokumentacja SZBI",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/52ade51e-7368-489f-8c3a-8e803654e0f1",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "A&M AGNIESZKA JANASZCZYK-SUSZYŃSKA",
+          "nip": "8762273752",
+          "regon": "302042364",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Sportowa",
+            "numerNieruchomosci": "15",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "poznański",
+            "gminaMiastoDzielnica": "Kleszczewo",
+            "miejscowosc": "Gowarzewo",
+            "kodPocztowy": "63-004"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Numer KSeF: 8762273752-20260915-558FFEC00005-57",
+        "okres": "1 dzień",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -18845,6 +19165,70 @@
       }
     },
     {
+      "idUmowy": "2ec12461-c1b6-4fed-b325-a4d3b16cfc4e",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "10.09.2026",
+      "dataZakonczeniaUmowy": "28.09.2026",
+      "wartoscPrzedmiotuUmowy": 1370.33,
+      "przedmiotUmowy": "Zakup środków czystości",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/2ec12461-c1b6-4fed-b325-a4d3b16cfc4e",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Clean up Bartłomiej Jocz",
+          "nip": "1181670525",
+          "regon": "387904693",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Witolda Lutosławskiego",
+            "numerNieruchomosci": "43",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Stare Babice",
+            "miejscowosc": "Klaudyn",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "48718650-f800-497a-889b-9a257a15354a",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -20355,6 +20739,70 @@
         "okres": "1 dzień",
         "dataPublikacji": "13.07.2026",
         "dataModyfikacji": "13.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "4c21c28f-b906-448f-8337-12aa5ff3c7cf",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "09.09.2026",
+      "dataZakonczeniaUmowy": "28.09.2026",
+      "wartoscPrzedmiotuUmowy": 1194.55,
+      "przedmiotUmowy": "Zakup artykułów biurowych i przemysłowych",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/4c21c28f-b906-448f-8337-12aa5ff3c7cf",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MERITUS BOGUSŁAW WINSZTAL",
+          "nip": "5242077859",
+          "regon": "147391877",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Cypriana Godebskiego",
+            "numerNieruchomosci": "19",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Piastów",
+            "miejscowosc": "Piastów",
+            "kodPocztowy": "05-820"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Numer KSeF: 5242077859-20260915-65A6F4400005-17",
+        "okres": "10 dni",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -25222,6 +25670,70 @@
       }
     },
     {
+      "idUmowy": "c4c14b9c-f620-4a30-8176-0e8df45901ad",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "04.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 738,
+      "przedmiotUmowy": "Wymian a akumulatorów w centrali oddymiania.Naprawa elementu SSP",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c4c14b9c-f620-4a30-8176-0e8df45901ad",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ADMI FIRE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182276859",
+          "regon": "527456321",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Jana Zamoyskiego",
+            "numerNieruchomosci": "3",
+            "numerLokalu": "2",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Stare Babice",
+            "miejscowosc": "Lipków",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "ef28c48a-d64c-4f68-b713-4089bf36e25c",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -27483,6 +27995,70 @@
       }
     },
     {
+      "idUmowy": "ec757a52-9fac-4a07-a597-8f554e6133a2",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "02.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 6800,
+      "przedmiotUmowy": "Usługi konferencyjne i gastronomiczne na potrzeby organizacji uroczystej Gali dla Artystów Ożarowskich Ogrodów Sztuki",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ec757a52-9fac-4a07-a597-8f554e6133a2",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MCC MAZURKAS CONFERENCE CENTRE & HOTEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182025554",
+          "regon": "142346352",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "177",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.51.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "28.09.2026",
+        "dataModyfikacji": "28.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "ed9dab9a-cce2-4fd2-899c-0803b4a42db5",
       "nazwa": "POWIATOWA STACJA SANITARNO-EPIDEMIOLOGICZNA W POWIECIE WARSZAWSKIM ZACHODNIM",
       "regon": "016081055",
@@ -27615,10 +28191,10 @@
       "nazwa": "POWIATOWA STACJA SANITARNO-EPIDEMIOLOGICZNA W POWIECIE WARSZAWSKIM ZACHODNIM",
       "regon": "016081055",
       "dataZawarciaUmowy": "02.09.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "28.09.2026",
       "wartoscPrzedmiotuUmowy": 1000,
       "przedmiotUmowy": "Przeprowadzenie kursu specjalistycznego dla kandydata na klasyfikatora grzybów wraz z zapewnieniem noclegu i wyżywienia w dniach 21-23.09.2026 r.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9997aa49-b92c-4a9d-b300-5269d063bfae",
       "contractors": [
         {
@@ -27670,7 +28246,7 @@
         "numerUmowy": "7/2026",
         "okres": "3 dni",
         "dataPublikacji": "17.09.2026",
-        "dataModyfikacji": "17.09.2026",
+        "dataModyfikacji": "28.09.2026",
         "finansowanaZeSrodkow": false
       }
     },
