@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-27T10:44:28.043Z",
+  "checkedAt": "2026-09-28T11:53:45.254Z",
   "links": [
     {
       "nip": "1130122021",
@@ -256,6 +256,33 @@
         },
         {
           "lastMasked": "L*******",
+          "firstMasked": "A********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182276859",
+      "krs": "0001081371",
+      "name": "ADMI FIRE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z********",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Z********",
           "firstMasked": "A********",
           "funkcja": "wspólnik"
         }
