@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-28T11:53:45.254Z",
+  "checkedAt": "2026-09-30T11:28:38.145Z",
   "links": [
     {
       "nip": "1130122021",
@@ -1924,6 +1924,33 @@
       ]
     },
     {
+      "nip": "5213589769",
+      "krs": "0000374958",
+      "name": "VEOLIA ENERGY CONTRACTING POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "R*****",
+          "firstMasked": "K*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D**********",
+          "firstMasked": "R****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z*****",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "5214033011",
       "krs": "0001053885",
       "name": "WYBORCZA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2676,6 +2703,33 @@
       ]
     },
     {
+      "nip": "5322094937",
+      "krs": "0000921900",
+      "name": "PZM WIMET JÓZEFÓW SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Z****",
+          "firstMasked": "H*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "Ł*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z****",
+          "firstMasked": "H*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "Ł*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "5342643672",
       "krs": "0000924531",
       "name": "JPK INŻYNIERIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -2800,6 +2854,57 @@
         {
           "lastMasked": "B****",
           "firstMasked": "A***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5862272756",
+      "krs": "0000394954",
+      "name": "MADKOM SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "S***********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "6342622989",
+      "krs": "0001104202",
+      "name": "LIBRUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "6412566978",
+      "krs": "0001103601",
+      "name": "AKUMULATORY24.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P***",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P***",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P***",
+          "firstMasked": "J******",
           "funkcja": "wspólnik"
         }
       ]
@@ -3126,6 +3231,28 @@
       ]
     },
     {
+      "nip": "7792537126",
+      "krs": "0000959946",
+      "name": "AGRO SZNAJDER WKP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "R*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*******",
+          "firstMasked": "I******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "L***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "8222352962",
       "krs": "0000607934",
       "name": "UNIQUE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -3249,6 +3376,38 @@
           "lastMasked": "F********",
           "firstMasked": "J*****",
           "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "9522236456",
+      "krs": "0001013493",
+      "name": "WILLA NOVA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W***********",
+          "firstMasked": "I*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W***********",
+          "firstMasked": "I*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
         }
       ]
     },
