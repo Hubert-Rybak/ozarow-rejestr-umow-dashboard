@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-30T11:24:24.717Z",
+  "fetchedAt": "2026-10-01T11:46:40.306Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 511,
-  "totalMatchingElements": 511,
-  "totalVisibleElements": 511,
+  "totalElements": 526,
+  "totalMatchingElements": 526,
+  "totalVisibleElements": 526,
   "agreements": [
     {
       "idUmowy": "602a8ed7-3253-4c7a-97cf-6727420d2cd8",
@@ -1100,6 +1100,70 @@
       }
     },
     {
+      "idUmowy": "30048ac5-a7be-4c75-9cb1-bb7ccdc6968b",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "30.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 900,
+      "przedmiotUmowy": "Przeniesienie na wysięgnik wyświetlacza prędkości na ul. Poniatowskiego.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/30048ac5-a7be-4c75-9cb1-bb7ccdc6968b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"BUDWEX\" WASILEWSKI MIECZYSŁAW",
+          "nip": "1180959927",
+          "regon": "012662619",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. 3 Maja",
+            "numerNieruchomosci": "89",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Izabelin",
+            "miejscowosc": "Truskaw",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.411.2026.RF",
+        "okres": "10 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "045ac400-1b6c-48db-b92f-89a0fe1f527a",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -1288,6 +1352,134 @@
         "okres": "60 dni",
         "dataPublikacji": "30.07.2026",
         "dataModyfikacji": "30.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "1050d9e8-a554-4e4d-98d3-08c5eaf1d519",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "29.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 10638.24,
+      "przedmiotUmowy": "Dobudowa oświetlenia ulicznego w m. Ożarów Mazowiecki na ul. Radziwiłów",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/1050d9e8-a554-4e4d-98d3-08c5eaf1d519",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"BUDWEX\" WASILEWSKI MIECZYSŁAW",
+          "nip": "1180959927",
+          "regon": "012662619",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. 3 Maja",
+            "numerNieruchomosci": "89",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Izabelin",
+            "miejscowosc": "Truskaw",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.407.2026.RF",
+        "okres": "25 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "52a0eddd-e99d-4517-8447-ec7da73124f4",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "29.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2018.28,
+      "przedmiotUmowy": "Dobudowa oświetlenia ulicznego ul. Kusocińskiego",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/52a0eddd-e99d-4517-8447-ec7da73124f4",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"BUDWEX\" WASILEWSKI MIECZYSŁAW",
+          "nip": "1180959927",
+          "regon": "012662619",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. 3 Maja",
+            "numerNieruchomosci": "89",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Izabelin",
+            "miejscowosc": "Truskaw",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.408.2026.RF",
+        "okres": "25 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -1906,6 +2098,134 @@
         "okres": "2 dni",
         "dataPublikacji": "05.08.2026",
         "dataModyfikacji": "05.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "8d98459d-4549-47b9-9481-0b0086dd7a2b",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "28.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1134.96,
+      "przedmiotUmowy": "Dostawa siatek na bramki.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/8d98459d-4549-47b9-9481-0b0086dd7a2b",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SPORTPOLAND.COM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5860005382",
+          "regon": "190523762",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Gdyńska",
+            "numerNieruchomosci": "45",
+            "numerLokalu": null,
+            "wojewodztwo": "POMORSKIE",
+            "powiat": "kartuski",
+            "gminaMiastoDzielnica": "Żukowo",
+            "miejscowosc": "Tuchom",
+            "kodPocztowy": "80-209"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.406.2026.MM",
+        "okres": "34 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "96c07399-7157-4353-8307-d6779bb44caa",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "28.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 5186.64,
+      "przedmiotUmowy": "Dobudowa oświetlenia ul. Żytnia, Gmina Ożarów Mazowiecki.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/96c07399-7157-4353-8307-d6779bb44caa",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"BUDWEX\" WASILEWSKI MIECZYSŁAW",
+          "nip": "1180959927",
+          "regon": "012662619",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. 3 Maja",
+            "numerNieruchomosci": "89",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Izabelin",
+            "miejscowosc": "Truskaw",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.403.2026.RF",
+        "okres": "5 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -5899,6 +6219,70 @@
       }
     },
     {
+      "idUmowy": "a586273e-01b9-41d6-b9b3-cd6d6e2cdd1d",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "25.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 399,
+      "przedmiotUmowy": "System Informacji Oświatowej –wprowadzanie i aktualizacja danych na początku roku szkolnego 2026/2027-szkolenie\nonline",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a586273e-01b9-41d6-b9b3-cd6d6e2cdd1d",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "VERTE CENTRUM SZKOLEŃ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "8982334556",
+          "regon": "544926740",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Mieszczańska",
+            "numerNieruchomosci": "29",
+            "numerLokalu": "13",
+            "wojewodztwo": "DOLNOŚLĄSKIE",
+            "powiat": "Wrocław",
+            "gminaMiastoDzielnica": "Wrocław-Śródmieście",
+            "miejscowosc": "Wrocław",
+            "kodPocztowy": "50-201"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "30.09.2026",
+        "dataModyfikacji": "30.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "1015ac79-50fc-4509-b369-307544bd51da",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -6023,6 +6407,262 @@
         "okres": "1 dzień",
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "3fd74919-26ce-4655-9e08-cd78ee20744e",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "24.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 325.2,
+      "przedmiotUmowy": "Zakup wraz z montażem koszy we wsi Duchnice.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/3fd74919-26ce-4655-9e08-cd78ee20744e",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "INTATTO MICHAŁ GRELUS",
+          "nip": "1181952672",
+          "regon": "146680792",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Stefana Żeromskiego",
+            "numerNieruchomosci": "27",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.395.2026.RF",
+        "okres": "23 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "43bfdb6d-c10b-42e6-98a1-a55b6c7c5069",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "24.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2010.57,
+      "przedmiotUmowy": "FS Piotrkówek Mały, Strzykuły - Zakup tablic informacyjnych dla wsi Piotrkówek Mały + Strzykuły",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/43bfdb6d-c10b-42e6-98a1-a55b6c7c5069",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "INTATTO MICHAŁ GRELUS",
+          "nip": "1181952672",
+          "regon": "146680792",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Stefana Żeromskiego",
+            "numerNieruchomosci": "27",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.396.2026.RF",
+        "okres": "9 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "4b109ea4-4783-4120-a6e6-b46988f452a5",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "24.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 325.2,
+      "przedmiotUmowy": "FS Gołaszew - Zakup kosza na odpady we wsi Gołaszew",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/4b109ea4-4783-4120-a6e6-b46988f452a5",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "INTATTO MICHAŁ GRELUS",
+          "nip": "1181952672",
+          "regon": "146680792",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Stefana Żeromskiego",
+            "numerNieruchomosci": "27",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.394.2026.RF",
+        "okres": "16 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "7fa486a3-f59f-4e66-87c5-ae608a02da77",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "24.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 8250,
+      "przedmiotUmowy": "Wymiana uszkodzonego słupa oświetlenia ulicznego w miejscowości Wolskie, Gmina Ożarów Mazowiecki.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7fa486a3-f59f-4e66-87c5-ae608a02da77",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"BUDWEX\" WASILEWSKI MIECZYSŁAW",
+          "nip": "1180959927",
+          "regon": "012662619",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. 3 Maja",
+            "numerNieruchomosci": "89",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Izabelin",
+            "miejscowosc": "Truskaw",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.404.2026.RF",
+        "okres": "9 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -8582,6 +9222,70 @@
         "okres": "2 dni",
         "dataPublikacji": "23.07.2026",
         "dataModyfikacji": "24.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "c6b4b489-d85a-45fa-9af2-64db9979390e",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "21.09.2026",
+      "dataZakonczeniaUmowy": "30.09.2026",
+      "wartoscPrzedmiotuUmowy": 414.49,
+      "przedmiotUmowy": "adaptery DisplayPort-VGA - 17 sztuk",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c6b4b489-d85a-45fa-9af2-64db9979390e",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TERG SPÓŁKA AKCYJNA",
+          "nip": "7671004218",
+          "regon": "570217011",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Za Dworcem",
+            "numerNieruchomosci": "1D",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "złotowski",
+            "gminaMiastoDzielnica": "Złotów",
+            "miejscowosc": "Złotów",
+            "kodPocztowy": "77-400"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WA.2601.30.2026",
+        "okres": "10 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -12895,6 +13599,70 @@
       }
     },
     {
+      "idUmowy": "d8f6803f-ed1a-4c0a-aa20-bebbb72622ec",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "17.09.2026",
+      "dataZakonczeniaUmowy": "30.09.2026",
+      "wartoscPrzedmiotuUmowy": 1258,
+      "przedmiotUmowy": "podpisy kwalifikowane - Zarząd i Przewodnicząca Rady",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d8f6803f-ed1a-4c0a-aa20-bebbb72622ec",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DRAGON COMPUTER Tomasz Jedynak",
+          "nip": "6481045403",
+          "regon": "272589230",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Zielona",
+            "numerNieruchomosci": "31",
+            "numerLokalu": null,
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "częstochowski",
+            "gminaMiastoDzielnica": "Koniecpol",
+            "miejscowosc": "Koniecpol",
+            "kodPocztowy": "42-230"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WA.1334.5.2026.AM",
+        "okres": "1 dzień",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "18d5bf84-6717-4b4a-8ce9-a3d29a1eb61c",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -13851,6 +14619,70 @@
         "okres": "111 dni",
         "dataPublikacji": "20.07.2026",
         "dataModyfikacji": "20.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "82ce2aab-51f0-445c-90e5-d91b8da57fb6",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "16.09.2026",
+      "dataZakonczeniaUmowy": "01.10.2026",
+      "wartoscPrzedmiotuUmowy": 5800,
+      "przedmiotUmowy": "INSTALACJA I KONFIGURACJA SYSTEMU ELS",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/82ce2aab-51f0-445c-90e5-d91b8da57fb6",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"KOMA NORD\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5861029611",
+          "regon": "190471769",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Łużycka",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "POMORSKIE",
+            "powiat": "Gdynia",
+            "gminaMiastoDzielnica": "Gdynia",
+            "miejscowosc": "Gdynia",
+            "kodPocztowy": "81-537"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/235/2026",
+        "okres": "17 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -16886,10 +17718,10 @@
       "nazwa": "OŚRODEK POMOCY SPOŁECZNEJ W OŻAROWIE MAZOWIECKIM",
       "regon": "002008945",
       "dataZawarciaUmowy": "14.09.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "01.10.2026",
       "wartoscPrzedmiotuUmowy": 2000,
       "przedmiotUmowy": "administracja i utrzymanie strony internetowej",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/42f4855c-e26c-459d-a19e-d52ee5a88d91",
       "contractors": [
         {
@@ -16941,7 +17773,7 @@
         "numerUmowy": "OPS/11/2026",
         "okres": "13 dni",
         "dataPublikacji": "16.09.2026",
-        "dataModyfikacji": "16.09.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -18742,10 +19574,10 @@
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "13.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "01.10.2026",
       "wartoscPrzedmiotuUmowy": 45265,
       "przedmiotUmowy": "DOSTAWA DRUKAREK I SKANERÓW",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/29e6ee51-e7e1-450c-965c-1dbdf654aa8f",
       "contractors": [
         {
@@ -18797,7 +19629,7 @@
         "numerUmowy": "SPWZ/200/2026",
         "okres": "50 dni",
         "dataPublikacji": "21.07.2026",
-        "dataModyfikacji": "21.07.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -23597,6 +24429,70 @@
         "okres": "3 dni",
         "dataPublikacji": "14.07.2026",
         "dataModyfikacji": "14.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "5eee518a-06ff-41e3-a2e8-c17a7f5c2264",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "07.09.2026",
+      "dataZakonczeniaUmowy": "30.09.2026",
+      "wartoscPrzedmiotuUmowy": 8845,
+      "przedmiotUmowy": "prace remontowe",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5eee518a-06ff-41e3-a2e8-c17a7f5c2264",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BREMAR Marcel Brejdakowski",
+          "nip": "7441832199",
+          "regon": "524179536",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Saturna",
+            "numerNieruchomosci": "28",
+            "numerLokalu": null,
+            "wojewodztwo": "WARMIŃSKO-MAZURSKIE",
+            "powiat": "iławski",
+            "gminaMiastoDzielnica": "Iława",
+            "miejscowosc": "Nowa Wieś",
+            "kodPocztowy": "14-200"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/233B/2026",
+        "okres": "24 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -29633,6 +30529,70 @@
         "okres": "8 dni",
         "dataPublikacji": "03.07.2026",
         "dataModyfikacji": "15.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "1a735d0c-8893-474a-9a4f-054fb1c287b0",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "02.09.2026",
+      "dataZakonczeniaUmowy": "30.09.2026",
+      "wartoscPrzedmiotuUmowy": 15700,
+      "przedmiotUmowy": "wykonanie mebli na wymiar",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/1a735d0c-8893-474a-9a4f-054fb1c287b0",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DEKOR Daniel Ślesik",
+          "nip": "7622011218",
+          "regon": "387434589",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Jana Pawła II",
+            "numerNieruchomosci": "53",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "wyszkowski",
+            "gminaMiastoDzielnica": "Somianka",
+            "miejscowosc": "Somianka",
+            "kodPocztowy": "07-203"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/230/2026",
+        "okres": "29 dni",
+        "dataPublikacji": "01.10.2026",
+        "dataModyfikacji": "01.10.2026",
         "finansowanaZeSrodkow": false
       }
     },

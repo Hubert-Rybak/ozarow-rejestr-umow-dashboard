@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-30T11:28:38.145Z",
+  "checkedAt": "2026-10-01T11:50:29.917Z",
   "links": [
     {
       "nip": "1130122021",
@@ -2859,6 +2859,28 @@
       ]
     },
     {
+      "nip": "5860005382",
+      "krs": "0000138055",
+      "name": "SPORTPOLAND.COM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Ż********",
+          "firstMasked": "J**",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ż********",
+          "firstMasked": "J**",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ż********",
+          "firstMasked": "M*********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "5862272756",
       "krs": "0000394954",
       "name": "MADKOM SPÓŁKA AKCYJNA",
@@ -3210,6 +3232,43 @@
           "lastMasked": "P*******",
           "firstMasked": "I****",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7671004218",
+      "krs": "0000427063",
+      "name": "TERG SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "G*******",
+          "firstMasked": "M****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "F*********",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G*******",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "A******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W****",
+          "firstMasked": "A****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "N*******",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
         }
       ]
     },
