@@ -244,6 +244,12 @@ export async function collectPaginated(fetchPage) {
     } else if (matchingCount !== declaredMatchingTotal) {
       throw new Error(`CRU pagination matching total changed from ${declaredMatchingTotal} to ${matchingCount}`);
     }
+    // CRU reports totalElements capped at its search window (10 000) while
+    // totalMatchingElements keeps the real count. Records past the window
+    // cannot be paged, so fail instead of publishing a silently truncated set.
+    if (declaredTotalElements !== undefined && declaredMatchingTotal > declaredTotalElements) {
+      throw new Error(`CRU search window holds ${declaredTotalElements} of ${declaredMatchingTotal} matching records; narrow CRU_FILTER_JSON`);
+    }
 
     const content = page.content;
     if (content.length === 0) {
@@ -296,4 +302,130 @@ export async function mapSequentiallyWithDelay(items, mapper, options = {}) {
   }
 
   return results;
+}
+
+/**
+ * Fields present in a search summary. When any of them differs from the
+ * previously published record, the agreement detail must be fetched again.
+ */
+export const SUMMARY_FIELDS = Object.freeze([
+  'nazwa',
+  'regon',
+  'dataZawarciaUmowy',
+  'dataZakonczeniaUmowy',
+  'wartoscPrzedmiotuUmowy',
+  'przedmiotUmowy',
+  'statusUmowy',
+]);
+
+const DETAIL_PRIORITY = Object.freeze({ new: 0, pending: 1, changed: 2, stale: 3 });
+
+function summaryChanged(summary, previous) {
+  return SUMMARY_FIELDS.some((field) => (summary[field] ?? null) !== (previous[field] ?? null));
+}
+
+function timestamp(value) {
+  const parsed = typeof value === 'string' ? Date.parse(value) : Number.NaN;
+  return Number.isNaN(parsed) ? null : parsed;
+}
+
+/**
+ * Decide which agreement details have to be (re)downloaded. Re-downloading
+ * every detail on each run no longer fits in the CRU rate limit, so details
+ * are reused when the search summary is unchanged and the detail is younger
+ * than maxAgeMs. Every summary is always part of the plan: an agreement is
+ * either reused or queued, never dropped.
+ *
+ * The queue is ordered by importance: new agreements, details left pending by
+ * an earlier run, agreements whose summary changed, then the oldest stale ones.
+ */
+export function planDetailFetches(summaries, previousRecords, options = {}) {
+  const { now = Date.now(), maxAgeMs, fallbackFetchedAt = null } = options;
+  if (!Number.isInteger(maxAgeMs) || maxAgeMs < 0) {
+    throw new TypeError('maxAgeMs must be a non-negative integer');
+  }
+
+  const previousById = new Map();
+  for (const record of previousRecords ?? []) {
+    if (typeof record?.idUmowy === 'string') previousById.set(record.idUmowy, record);
+  }
+
+  const reuse = new Map();
+  const queue = [];
+  for (const summary of summaries) {
+    const previous = previousById.get(summary.idUmowy);
+    if (!previous) {
+      queue.push({ summary, previous: null, reason: 'new', fetchedAt: null });
+      continue;
+    }
+
+    const fetchedAt = timestamp(previous.detailsFetchedAt)
+      ?? (previous.detailsPending ? null : timestamp(fallbackFetchedAt));
+    if (previous.detailsPending || fetchedAt === null) {
+      queue.push({ summary, previous, reason: 'pending', fetchedAt });
+    } else if (summaryChanged(summary, previous)) {
+      queue.push({ summary, previous, reason: 'changed', fetchedAt });
+    } else if (now - fetchedAt >= maxAgeMs) {
+      queue.push({ summary, previous, reason: 'stale', fetchedAt });
+    } else {
+      reuse.set(summary.idUmowy, previous);
+    }
+  }
+
+  queue.sort((a, b) => (DETAIL_PRIORITY[a.reason] - DETAIL_PRIORITY[b.reason])
+    || ((a.fetchedAt ?? 0) - (b.fetchedAt ?? 0)));
+  return { reuse, queue };
+}
+
+/**
+ * Run sequential, paced requests until the time budget runs out. Work that
+ * did not fit (or failed) is returned so the caller can keep the agreement
+ * and retry its detail on the next run instead of failing the whole sync.
+ * After maxConsecutiveFailures failures in a row the API is treated as
+ * unavailable for the rest of this run.
+ */
+export async function mapWithinBudget(items, mapper, options = {}) {
+  const {
+    delayMs = 0,
+    budgetMs,
+    maxConsecutiveFailures = 3,
+    sleep = defaultSleep,
+    now = Date.now,
+    logger = console,
+  } = options;
+  assertTimerDelay('delayMs', delayMs);
+  if (!Number.isInteger(budgetMs) || budgetMs < 0) {
+    throw new TypeError('budgetMs must be a non-negative integer');
+  }
+
+  const deadline = now() + budgetMs;
+  const results = new Map();
+  const failed = [];
+  let consecutiveFailures = 0;
+  let index = 0;
+  let stopReason = null;
+
+  for (; index < items.length; index += 1) {
+    if (now() >= deadline) {
+      stopReason = 'budget';
+      break;
+    }
+    if (consecutiveFailures >= maxConsecutiveFailures) {
+      stopReason = 'failures';
+      break;
+    }
+    if (index > 0 && delayMs > 0) await sleep(delayMs);
+    try {
+      results.set(index, await mapper(items[index], index));
+      consecutiveFailures = 0;
+    } catch (error) {
+      consecutiveFailures += 1;
+      failed.push(index);
+      logger.warn(`${error instanceof Error ? error.message : String(error)}; will retry on the next run`);
+    }
+  }
+
+  const remaining = [];
+  for (let rest = index; rest < items.length; rest += 1) remaining.push(rest);
+  return { results, failed, remaining, stopReason };
 }

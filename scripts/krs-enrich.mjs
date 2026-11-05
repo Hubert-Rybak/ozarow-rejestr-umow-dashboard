@@ -19,11 +19,21 @@ const DATA = path.join(ROOT, 'public', 'data');
 const CACHE_FILE = path.join(DATA, 'krs-cache.json');
 const OUT_FILE = path.join(DATA, 'krs-links.json');
 const CACHE_TTL_DAYS = 30;
+// Biała Lista po ok. 60 zapytaniach z jednego IP zaczyna po cichu zwracać
+// `subject: null` (HTTP 200). Dlatego: limit zapytań na przebieg, a seria
+// pustych odpowiedzi z rzędu jest traktowana jako limit, nie jako „brak firmy”.
+const BL_MAX_LOOKUPS = Number(process.env.KRS_BL_MAX_LOOKUPS ?? 45);
+const BL_NULL_STREAK_LIMIT = 5;
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36';
 
 const today = new Date().toISOString().slice(0, 10);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/**
+ * JSON albo null, gdy API odpowiedziało definitywnie (np. 400/404);
+ * undefined, gdy mimo ponowień był błąd przejściowy — takiego wyniku
+ * nie wolno zapisać w cache jako „brak danych”.
+ */
 async function getJson(url, tries = 3) {
   for (let i = 0; i < tries; i++) {
     try {
@@ -35,7 +45,7 @@ async function getJson(url, tries = 3) {
       await sleep(1500 * (i + 1));
     }
   }
-  return null;
+  return undefined;
 }
 
 function loadCache() {
@@ -74,31 +84,72 @@ async function main() {
     }
   }
   const cache = loadCache();
-  let fetchedBl = 0, fetchedKrs = 0;
+  let fetchedBl = 0, fetchedKrs = 0, failed = 0;
 
-  for (const nip of [...nips].sort()) {
+  const age = (iso) => (iso ? Date.now() - new Date(iso).getTime() : Number.POSITIVE_INFINITY);
+  const isFresh = (iso) => age(iso) < CACHE_TTL_DAYS * 864e5;
+
+  // 1) Biała Lista: najpierw NIP-y nigdy nie sprawdzone, potem najdawniej sprawdzone.
+  const blQueue = [...nips]
+    .filter((nip) => !isFresh(cache[nip]?.checkedAt))
+    .sort((x, y) => age(cache[y]?.checkedAt) - age(cache[x]?.checkedAt) || x.localeCompare(y));
+  let nullStreak = [];
+  let blStopped = null;
+  for (const nip of blQueue) {
+    if (fetchedBl + failed >= BL_MAX_LOOKUPS) { blStopped = 'limit zapytań na przebieg'; break; }
     const cached = cache[nip];
-    const fresh = cached && cached.checkedAt && Date.now() - new Date(cached.checkedAt).getTime() < CACHE_TTL_DAYS * 864e5;
-    if (!fresh) {
-      const bl = await getJson(`https://wl-api.mf.gov.pl/api/search/nip/${nip}?date=${today}`);
-      const subject = bl?.result?.subject ?? null;
-      cache[nip] = {
-        checkedAt: new Date().toISOString(),
-        name: subject?.name ?? null,
-        krs: subject?.krs ?? null,
-        statusVat: subject?.statusVat ?? null,
-      };
-      fetchedBl++;
-      await sleep(350);
+    const bl = await getJson(`https://wl-api.mf.gov.pl/api/search/nip/${nip}?date=${today}`);
+    await sleep(350);
+    if (bl === undefined) {
+      failed++;
+      continue;
     }
+    fetchedBl++;
+    const subject = bl?.result?.subject ?? null;
+    if (!subject) {
+      nullStreak.push(nip);
+      if (nullStreak.length >= BL_NULL_STREAK_LIMIT) {
+        // Prawdopodobnie limit API — nie zapisuj tych pustych wyników do cache.
+        blStopped = `${nullStreak.length} pustych odpowiedzi z rzędu (limit API?)`;
+        failed += nullStreak.length;
+        nullStreak = [];
+        break;
+      }
+      continue;
+    }
+    for (const empty of nullStreak) {
+      // Pusta odpowiedź pomiędzy poprawnymi — to rzeczywisty brak w wykazie.
+      // Wpisu z nazwą nie nadpisujemy pustym (np. po wykreśleniu z VAT KRS się nie zmienia).
+      if (!cache[empty]?.name) cache[empty] = { checkedAt: new Date().toISOString(), name: null, krs: null, statusVat: null };
+    }
+    nullStreak = [];
+    const krsChanged = cached && cached.krs !== (subject.krs ?? null);
+    cache[nip] = {
+      ...(krsChanged ? {} : cached),
+      checkedAt: new Date().toISOString(),
+      name: subject.name ?? null,
+      krs: subject.krs ?? null,
+      statusVat: subject.statusVat ?? null,
+    };
+  }
+  for (const empty of nullStreak) {
+    if (!cache[empty]?.name) cache[empty] = { checkedAt: new Date().toISOString(), name: null, krs: null, statusVat: null };
+  }
+  const blPending = blQueue.filter((nip) => !isFresh(cache[nip]?.checkedAt)).length;
+
+  // 2) Odpisy KRS dla spółek z numerem KRS.
+  for (const nip of [...nips].sort()) {
     const entry = cache[nip];
-    if (entry.krs && !entry.personsCheckedAt) {
-      const odpis = await getJson(`https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/${entry.krs}?rejestr=P&format=json`);
-      entry.persons = odpis ? extractPersons(odpis.odpis) : null;
-      entry.personsCheckedAt = new Date().toISOString();
-      fetchedKrs++;
-      await sleep(350);
+    if (!entry?.krs || isFresh(entry.personsCheckedAt)) continue;
+    const odpis = await getJson(`https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/${entry.krs}?rejestr=P&format=json`);
+    await sleep(350);
+    if (odpis === undefined) {
+      failed++;
+      continue;
     }
+    entry.persons = odpis ? extractPersons(odpis.odpis) : null;
+    entry.personsCheckedAt = new Date().toISOString();
+    fetchedKrs++;
   }
 
   writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
@@ -106,7 +157,10 @@ async function main() {
     .filter(([, v]) => v.krs && Array.isArray(v.persons))
     .map(([nip, v]) => ({ nip, krs: v.krs, name: v.name, persons: v.persons }));
   writeFileSync(OUT_FILE, JSON.stringify({ checkedAt: new Date().toISOString(), links }, null, 2));
-  console.log(`KRS enrichment: ${nips.size} NIP-ów (BL: ${fetchedBl}, KRS: ${fetchedKrs}), spółek z osobami: ${links.length} -> public/data/krs-links.json`);
+  console.log(`KRS enrichment: ${nips.size} NIP-ów (BL: ${fetchedBl}, KRS: ${fetchedKrs}, nieudane: ${failed}), spółek z osobami: ${links.length} -> public/data/krs-links.json`);
+  if (blPending > 0) {
+    console.warn(`Biała Lista: ${blPending} NIP-ów czeka na sprawdzenie w kolejnych przebiegach${blStopped ? ` (zatrzymano: ${blStopped})` : ''}`);
+  }
 }
 
 if (process.argv[1] && process.argv[1].endsWith('krs-enrich.mjs')) main();
