@@ -1,7 +1,159 @@
 {
+  "1130122021": {
+    "checkedAt": "2026-11-05T06:45:33.612Z",
+    "name": "'SEKA' SPÓŁKA AKCYJNA",
+    "krs": "0000082102",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "Z*******",
+        "firstMasked": "E*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "K***********",
+        "firstMasked": "A****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "R*****",
+        "firstMasked": "P****",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:45:57.755Z"
+  },
+  "1130818691": {
+    "checkedAt": "2026-11-05T06:45:34.123Z",
+    "name": "ADAM KORNACKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1131872126": {
+    "checkedAt": "2026-11-05T06:45:35.142Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1131896687": {
+    "checkedAt": "2026-11-05T06:45:35.142Z",
+    "name": "\"ATHENASOFT\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000035122",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "M********",
+        "firstMasked": "K****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "C**********",
+        "firstMasked": "S********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "M*******",
+        "firstMasked": "T******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:45:58.242Z"
+  },
+  "1180093066": {
+    "checkedAt": "2026-11-05T06:45:35.652Z",
+    "name": "INFOR PL SPÓŁKA AKCYJNA",
+    "krs": "0000225279",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "P*********",
+        "firstMasked": "R******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K*******",
+        "firstMasked": "M*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S****",
+        "firstMasked": "W*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "W*************",
+        "firstMasked": "K*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:45:58.861Z"
+  },
+  "1180194442": {
+    "checkedAt": "2026-11-05T06:45:36.191Z",
+    "name": "JAROSŁAW OSTROWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1180196984": {
+    "checkedAt": "2026-11-05T06:45:37.222Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1180784876": {
+    "checkedAt": "2026-11-05T06:45:37.222Z",
+    "name": "TOWARZYSTWO NASZ DOM",
+    "krs": "0000050053",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "N******",
+        "firstMasked": "I****",
+        "funkcja": "PRZEWODNICZĄCA ZARZĄDU"
+      },
+      {
+        "lastMasked": "M*********",
+        "firstMasked": "D******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "U********",
+        "firstMasked": "A********",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "S****",
+        "firstMasked": "S********",
+        "funkcja": "WICEPRZEWODNICZĄCY ZARZĄDU"
+      },
+      {
+        "lastMasked": "L*****",
+        "firstMasked": "K********",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "K*******",
+        "firstMasked": "A********",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:45:59.345Z"
+  },
+  "1180959927": {
+    "checkedAt": "2026-11-05T06:45:37.732Z",
+    "name": "MIECZYSŁAW WASILEWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
   "1181025977": {
     "checkedAt": "2026-08-22T12:39:47.327Z",
     "name": "JAKUB LUBAŃSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1181260980": {
+    "checkedAt": "2026-11-05T06:45:38.299Z",
+    "name": "MAREK LUBAŃSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
@@ -11,9 +163,39 @@
     "krs": null,
     "statusVat": "Czynny"
   },
+  "1181531025": {
+    "checkedAt": "2026-11-05T06:45:39.311Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1181541294": {
+    "checkedAt": "2026-11-05T06:45:39.311Z",
+    "name": "ZBIGNIEW RĘBIŚ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
   "1181561931": {
     "checkedAt": "2026-08-22T12:39:48.142Z",
     "name": "MICHAŁ STACHLEWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1181566259": {
+    "checkedAt": "2026-11-05T06:45:39.822Z",
+    "name": "KRZYSZTOF DZIEKAŃSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1181590855": {
+    "checkedAt": "2026-11-05T06:45:40.331Z",
+    "name": "ZAKŁAD SZKLARSKI JERZY CIENKUSZ, BEATA CIENKUSZ, PATRYK CIENKUSZ S.C",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1181670525": {
+    "checkedAt": "2026-11-05T06:45:40.858Z",
+    "name": "BARTŁOMIEJ JOCZ",
     "krs": null,
     "statusVat": "Czynny"
   },
@@ -23,8 +205,44 @@
     "krs": null,
     "statusVat": null
   },
+  "1181685900": {
+    "checkedAt": "2026-11-05T06:45:42.387Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1181689536": {
+    "checkedAt": "2026-11-05T06:45:42.387Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1181693288": {
+    "checkedAt": "2026-11-05T06:45:42.387Z",
+    "name": "GRZEGORZ FALIŃSKI",
+    "krs": null,
+    "statusVat": "Zwolniony"
+  },
+  "1181789539": {
+    "checkedAt": "2026-11-05T06:45:42.935Z",
+    "name": "GMINA LESZNO",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1181810009": {
+    "checkedAt": "2026-11-05T06:45:43.457Z",
+    "name": "MACIEJ RĄCZKOWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
   "1181820924": {
     "checkedAt": "2026-08-22T12:39:48.946Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1181860148": {
+    "checkedAt": "2026-11-05T06:45:44.478Z",
     "name": null,
     "krs": null,
     "statusVat": null
@@ -34,6 +252,31 @@
     "name": null,
     "krs": null,
     "statusVat": null
+  },
+  "1181895626": {
+    "checkedAt": "2026-11-05T06:45:44.478Z",
+    "name": "DREMARK SPÓŁKA JAWNA B. KOCIUBA",
+    "krs": "0000631015",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K******",
+        "firstMasked": "B****",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "S********",
+        "firstMasked": "I****",
+        "funkcja": "członek organu"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:45:59.825Z"
+  },
+  "1181927160": {
+    "checkedAt": "2026-11-05T06:45:44.992Z",
+    "name": "BARTŁOMIEJ NOWAK",
+    "krs": null,
+    "statusVat": "Czynny"
   },
   "1181932126": {
     "checkedAt": "2026-08-22T12:39:49.742Z",
@@ -62,7 +305,59 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:39:50.164Z"
+    "personsCheckedAt": "2026-11-05T06:46:00.308Z"
+  },
+  "1181952672": {
+    "checkedAt": "2026-11-05T06:45:45.506Z",
+    "name": "MICHAŁ GRELUS",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1181979694": {
+    "checkedAt": "2026-11-05T06:45:46.525Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1182009897": {
+    "checkedAt": "2026-11-05T06:45:46.525Z",
+    "name": "\"POINT\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000337671",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "P*********",
+        "firstMasked": "P****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "B*****",
+        "firstMasked": "M*****",
+        "funkcja": "V-CE PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K*********",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "K*********",
+        "firstMasked": "A******",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "B*****",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:46:00.788Z"
+  },
+  "1182016101": {
+    "checkedAt": "2026-11-05T06:45:48.051Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
   },
   "1182024342": {
     "checkedAt": "2026-08-22T12:39:50.572Z",
@@ -81,7 +376,7 @@
         "funkcja": "członek organu"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:39:51.336Z"
+    "personsCheckedAt": "2026-11-05T06:46:01.268Z"
   },
   "1182025554": {
     "checkedAt": "2026-08-22T12:39:51.740Z",
@@ -110,7 +405,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:39:54.581Z"
+    "personsCheckedAt": "2026-11-05T06:46:01.752Z"
   },
   "1182033826": {
     "checkedAt": "2026-08-22T12:39:54.991Z",
@@ -124,8 +419,76 @@
     "krs": null,
     "statusVat": "Czynny"
   },
+  "1182058393": {
+    "checkedAt": "2026-11-05T06:45:48.051Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1182090592": {
+    "checkedAt": "2026-11-05T06:45:48.051Z",
+    "name": "DOMBRUK TOMASZ BOŃCZAK SPÓŁKA JAWNA",
+    "krs": "0000452040",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B******",
+        "firstMasked": "T*****",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "B******",
+        "firstMasked": "M*****",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "B******",
+        "firstMasked": "W*******",
+        "funkcja": "członek organu"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:46:02.234Z"
+  },
+  "1182096117": {
+    "checkedAt": "2026-11-05T06:45:48.562Z",
+    "name": "HEDERA BEATA BOGUSZ, MAGDALENA PANEK SPÓŁKA CYWILNA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
   "1182107387": {
     "checkedAt": "2026-08-22T12:39:55.801Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1182115317": {
+    "checkedAt": "2026-11-05T06:45:49.074Z",
+    "name": "ARAM SOFTWARE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000588087",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "M********",
+        "firstMasked": "T*****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:46:02.723Z"
+  },
+  "1182145560": {
+    "checkedAt": "2026-11-05T06:45:49.592Z",
+    "name": "SUN CITY SPÓŁKA CYWILNA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1182149374": {
+    "checkedAt": "2026-11-05T06:45:52.131Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1182187280": {
+    "checkedAt": "2026-11-05T06:45:52.131Z",
     "name": null,
     "krs": null,
     "statusVat": null
@@ -167,7 +530,19 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:39:58.928Z"
+    "personsCheckedAt": "2026-11-05T06:46:03.210Z"
+  },
+  "1182240152": {
+    "checkedAt": "2026-11-05T06:45:52.131Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1182241068": {
+    "checkedAt": "2026-11-05T06:45:52.131Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
   },
   "1182248685": {
     "checkedAt": "2026-08-22T12:39:59.322Z",
@@ -180,6 +555,84 @@
     "name": null,
     "krs": null,
     "statusVat": null
+  },
+  "1182271218": {
+    "checkedAt": "2026-11-05T06:45:52.131Z",
+    "name": "RYŚ IZABELIN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001063288",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K******",
+        "firstMasked": "A********",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:46:03.691Z"
+  },
+  "1182274493": {
+    "checkedAt": "2026-11-05T06:45:52.651Z",
+    "name": "HOTEL LAMBERTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001073864",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B********",
+        "firstMasked": "M*********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "T******",
+        "firstMasked": "A****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "B********",
+        "firstMasked": "M*********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "T******",
+        "firstMasked": "A****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:46:04.182Z"
+  },
+  "1182276457": {
+    "checkedAt": "2026-11-05T06:45:53.698Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "1182276859": {
+    "checkedAt": "2026-11-05T06:45:53.698Z",
+    "name": "ADMI FIRE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001081371",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "P********",
+        "firstMasked": "M*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "Z********",
+        "firstMasked": "A********",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "P********",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "Z********",
+        "firstMasked": "A********",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:46:04.663Z"
   },
   "1182304946": {
     "checkedAt": "2026-08-22T12:40:00.149Z",
@@ -208,7 +661,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:02.941Z"
+    "personsCheckedAt": "2026-11-05T06:46:05.149Z"
   },
   "1182321494": {
     "checkedAt": "2026-08-22T12:40:03.343Z",
@@ -237,11 +690,81 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:04.158Z"
+    "personsCheckedAt": "2026-11-05T06:46:05.629Z"
+  },
+  "1182332061": {
+    "checkedAt": "2026-11-05T06:45:54.210Z",
+    "name": "PIEKARNIA DĄBROWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001248986",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "D********",
+        "firstMasked": "K********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "D********",
+        "firstMasked": "E**",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "D********",
+        "firstMasked": "K********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "D********",
+        "firstMasked": "E**",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "D********",
+        "firstMasked": "E***",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "D********",
+        "firstMasked": "S******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:46:06.110Z"
+  },
+  "1182333468": {
+    "checkedAt": "2026-11-05T06:45:54.726Z",
+    "name": "ADB.INVEST SPÓŁKA Z SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001254781",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B*****",
+        "firstMasked": "A***",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "B*****",
+        "firstMasked": "A***",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-05T06:46:06.597Z"
   },
   "1230059813": {
     "checkedAt": "2026-08-22T12:40:04.567Z",
     "name": "ANNA UTRATA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1230787369": {
+    "checkedAt": "2026-11-05T06:45:55.242Z",
+    "name": "JOANNA KACZAN",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1230850240": {
+    "checkedAt": "2026-11-05T06:45:55.754Z",
+    "name": "WOJCIECH JĘDRZEJCZYK",
     "krs": null,
     "statusVat": "Czynny"
   },
@@ -250,6 +773,12 @@
     "name": "DANIEL WASIAK",
     "krs": null,
     "statusVat": "Czynny"
+  },
+  "1230888805": {
+    "checkedAt": "2026-11-05T06:45:56.260Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
   },
   "1231160170": {
     "checkedAt": "2026-08-22T12:40:05.392Z",
@@ -284,7 +813,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:07.360Z"
+    "personsCheckedAt": "2026-11-05T06:46:07.081Z"
   },
   "1250426048": {
     "checkedAt": "2026-08-22T12:40:07.783Z",
@@ -335,7 +864,7 @@
         "funkcja": "WICEPREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:09.890Z"
+    "personsCheckedAt": "2026-11-05T06:46:07.562Z"
   },
   "5210412987": {
     "checkedAt": "2026-08-22T12:40:10.305Z",
@@ -343,7 +872,7 @@
     "krs": "0000100679",
     "statusVat": "Czynny",
     "persons": [],
-    "personsCheckedAt": "2026-08-22T12:40:12.145Z"
+    "personsCheckedAt": "2026-11-05T06:46:08.053Z"
   },
   "5210420047": {
     "checkedAt": "2026-08-22T12:40:12.549Z",
@@ -392,7 +921,7 @@
         "funkcja": "WICEPREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:13.093Z"
+    "personsCheckedAt": "2026-11-05T06:46:08.555Z"
   },
   "5210527420": {
     "checkedAt": "2026-08-22T12:40:13.511Z",
@@ -400,7 +929,7 @@
     "krs": "0000415909",
     "statusVat": "Czynny",
     "persons": [],
-    "personsCheckedAt": "2026-08-22T12:40:13.912Z"
+    "personsCheckedAt": "2026-11-05T06:46:09.041Z"
   },
   "5211001909": {
     "checkedAt": "2026-08-22T12:40:14.315Z",
@@ -419,7 +948,7 @@
         "funkcja": "WICEPREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:14.698Z"
+    "personsCheckedAt": "2026-11-05T06:46:09.523Z"
   },
   "5212001001": {
     "checkedAt": "2026-08-22T12:40:15.102Z",
@@ -444,7 +973,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:15.940Z"
+    "personsCheckedAt": "2026-11-05T06:46:10.003Z"
   },
   "5213609383": {
     "checkedAt": "2026-08-22T12:40:16.346Z",
@@ -464,7 +993,7 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:17.281Z"
+    "personsCheckedAt": "2026-11-05T06:46:10.487Z"
   },
   "5220001895": {
     "checkedAt": "2026-08-22T12:40:17.715Z",
@@ -488,7 +1017,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:19.511Z"
+    "personsCheckedAt": "2026-11-05T06:46:10.968Z"
   },
   "5222351547": {
     "checkedAt": "2026-08-22T12:40:19.941Z",
@@ -510,7 +1039,7 @@
     "persons": [
       {
         "lastMasked": "K*********",
-        "firstMasked": "J****",
+        "firstMasked": "E**",
         "funkcja": "PREZES ZARZĄDU"
       },
       {
@@ -529,7 +1058,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:21.162Z"
+    "personsCheckedAt": "2026-11-05T06:46:11.451Z"
   },
   "5223070000": {
     "checkedAt": "2026-08-22T12:40:21.650Z",
@@ -548,7 +1077,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:24.291Z"
+    "personsCheckedAt": "2026-11-05T06:46:11.932Z"
   },
   "5223071270": {
     "checkedAt": "2026-08-22T12:40:24.883Z",
@@ -588,7 +1117,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:28.304Z"
+    "personsCheckedAt": "2026-11-05T06:46:12.415Z"
   },
   "5241052573": {
     "checkedAt": "2026-08-22T12:40:28.707Z",
@@ -619,7 +1148,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:29.925Z"
+    "personsCheckedAt": "2026-11-05T06:46:12.897Z"
   },
   "5251562577": {
     "checkedAt": "2026-08-22T12:40:30.338Z",
@@ -658,7 +1187,7 @@
         "funkcja": "WICEPRZEWODNICZĄCY ZARZĄDU GŁÓWNEGO"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:30.777Z"
+    "personsCheckedAt": "2026-11-05T06:46:13.656Z"
   },
   "5252584606": {
     "checkedAt": "2026-08-22T12:40:31.191Z",
@@ -672,7 +1201,7 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:32.315Z"
+    "personsCheckedAt": "2026-11-05T06:46:14.139Z"
   },
   "5252674798": {
     "checkedAt": "2026-08-22T12:40:32.716Z",
@@ -696,7 +1225,7 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:33.143Z"
+    "personsCheckedAt": "2026-11-05T06:46:14.625Z"
   },
   "5260000962": {
     "checkedAt": "2026-08-22T12:40:33.548Z",
@@ -707,17 +1236,17 @@
       {
         "lastMasked": "G*****",
         "firstMasked": "M******",
-        "funkcja": "CZŁONEK ZARZĄDU\nPREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OLSZTYNIE"
+        "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
       },
       {
         "lastMasked": "B******",
         "firstMasked": "M*****",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO; WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+        "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
       },
       {
         "lastMasked": "W***",
         "firstMasked": "J*****",
-        "funkcja": "PREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+        "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
       },
       {
         "lastMasked": "P******",
@@ -725,54 +1254,14 @@
         "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
       },
       {
-        "lastMasked": "R*****",
-        "firstMasked": "T*****",
-        "funkcja": "CZŁONEK ZARZĄDU - PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ŁODZI"
-      },
-      {
         "lastMasked": "P*******",
         "firstMasked": "L******",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SUWAŁKACH"
-      },
-      {
-        "lastMasked": "K**********",
-        "firstMasked": "B*******",
-        "funkcja": "CZŁONEK ZARZĄDU PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W BYDGOSZCZY"
-      },
-      {
-        "lastMasked": "T*****",
-        "firstMasked": "B*****",
-        "funkcja": "CZŁONEK ZARZĄDU PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH WE WROCŁAWIU"
-      },
-      {
-        "lastMasked": "S******",
-        "firstMasked": "J******",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OPOLU"
-      },
-      {
-        "lastMasked": "S*****",
-        "firstMasked": "V*******",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KATOWICACH"
-      },
-      {
-        "lastMasked": "R********",
-        "firstMasked": "Z*******",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W TORUNIU"
-      },
-      {
-        "lastMasked": "R**",
-        "firstMasked": "R******",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W GDAŃSKU"
-      },
-      {
-        "lastMasked": "B****",
-        "firstMasked": "M*********",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+        "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH,"
       },
       {
         "lastMasked": "P********",
         "firstMasked": "I******",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+        "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ŁODZI"
       },
       {
         "lastMasked": "K*******",
@@ -780,34 +1269,9 @@
         "funkcja": "SEKRETARZ GENERALNY"
       },
       {
-        "lastMasked": "S******",
-        "firstMasked": "M*********",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SZCZECINIE"
-      },
-      {
         "lastMasked": "J****",
         "firstMasked": "P*********",
         "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-      },
-      {
-        "lastMasked": "Ł*******",
-        "firstMasked": "S*******",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-      },
-      {
-        "lastMasked": "R*****",
-        "firstMasked": "S*****",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-      },
-      {
-        "lastMasked": "M*********",
-        "firstMasked": "T*****",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH"
-      },
-      {
-        "lastMasked": "B*******",
-        "firstMasked": "A******",
-        "funkcja": "CZŁONEK ZARZADU; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W LUBLINIE"
       },
       {
         "lastMasked": "S*********",
@@ -817,7 +1281,7 @@
       {
         "lastMasked": "M*********",
         "firstMasked": "J****",
-        "funkcja": "CZŁONEK ZARZĄDU; SKARBNIK STOWARZYSZENIA GEODETÓW POLSKICH; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KALISZU"
+        "funkcja": "CZŁONEK ZARZĄDU; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KALISZU"
       },
       {
         "lastMasked": "Z***",
@@ -827,7 +1291,7 @@
       {
         "lastMasked": "W*********",
         "firstMasked": "D******",
-        "funkcja": "CZŁONEK ZARZĄDU STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+        "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO,"
       },
       {
         "lastMasked": "S*****",
@@ -847,7 +1311,7 @@
       {
         "lastMasked": "M*********",
         "firstMasked": "A****",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+        "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OLSZTYNIE"
       },
       {
         "lastMasked": "M******",
@@ -862,7 +1326,7 @@
       {
         "lastMasked": "C****",
         "firstMasked": "S*******",
-        "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH"
+        "funkcja": "SKARBNIK STOWARZYSZENIA GEODETÓW POLSKICH; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W GDAŃSKU"
       },
       {
         "lastMasked": "B**",
@@ -888,9 +1352,104 @@
         "lastMasked": "K***********",
         "firstMasked": "R*****",
         "funkcja": "CZŁONEK ZARZĄDU SGP, PREZES ODDZIAŁU SGP W RZESZOWIE"
+      },
+      {
+        "lastMasked": "H****",
+        "firstMasked": "P****",
+        "funkcja": "PREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+      },
+      {
+        "lastMasked": "W*******",
+        "firstMasked": "P****",
+        "funkcja": "WICEPREZES CTOWARZYSZENIA GEODETÓW POLSKICH, CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+      },
+      {
+        "lastMasked": "M****",
+        "firstMasked": "A*****",
+        "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU WE WROCŁAWIU"
+      },
+      {
+        "lastMasked": "W***",
+        "firstMasked": "S*******",
+        "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W BYDGOSZCZY"
+      },
+      {
+        "lastMasked": "D*********",
+        "firstMasked": "D*****",
+        "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KATOWICACH"
+      },
+      {
+        "lastMasked": "D********",
+        "firstMasked": "M******",
+        "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W LUBLINIE"
+      },
+      {
+        "lastMasked": "K****",
+        "firstMasked": "J****",
+        "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH  W OPOLU"
+      },
+      {
+        "lastMasked": "K*********",
+        "firstMasked": "J****",
+        "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SUWAŁKACH"
+      },
+      {
+        "lastMasked": "K********",
+        "firstMasked": "A******",
+        "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SZCZECINIE"
+      },
+      {
+        "lastMasked": "W*********",
+        "firstMasked": "M********",
+        "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W TORUNIU"
+      },
+      {
+        "lastMasked": "S*****",
+        "firstMasked": "T*****",
+        "funkcja": "CZŁONEK ZARZADU, WICEPREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ZIELONEJ GÓRZE"
+      },
+      {
+        "lastMasked": "B********",
+        "firstMasked": "J****",
+        "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+      },
+      {
+        "lastMasked": "H****",
+        "firstMasked": "A****",
+        "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+      },
+      {
+        "lastMasked": "K****",
+        "firstMasked": "M****",
+        "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+      },
+      {
+        "lastMasked": "K****",
+        "firstMasked": "A*****",
+        "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+      },
+      {
+        "lastMasked": "M*****",
+        "firstMasked": "K****",
+        "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+      },
+      {
+        "lastMasked": "B*********",
+        "firstMasked": "M*****",
+        "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
+      },
+      {
+        "lastMasked": "K******",
+        "firstMasked": "R*****",
+        "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
+      },
+      {
+        "lastMasked": "W*********",
+        "firstMasked": "M****",
+        "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:33.998Z"
+    "personsCheckedAt": "2026-11-05T06:46:15.111Z"
   },
   "5260152531": {
     "checkedAt": "2026-08-22T12:40:34.403Z",
@@ -989,7 +1548,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:35.202Z"
+    "personsCheckedAt": "2026-11-05T06:46:15.597Z"
   },
   "5260211386": {
     "checkedAt": "2026-08-22T12:40:35.623Z",
@@ -1008,7 +1567,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:37.505Z"
+    "personsCheckedAt": "2026-11-05T06:46:16.096Z"
   },
   "5261029614": {
     "checkedAt": "2026-08-22T12:40:37.949Z",
@@ -1032,7 +1591,7 @@
         "funkcja": "WICEPREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:38.413Z"
+    "personsCheckedAt": "2026-11-05T06:46:16.578Z"
   },
   "5270204040": {
     "checkedAt": "2026-08-22T12:40:38.841Z",
@@ -1046,7 +1605,7 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:39.273Z"
+    "personsCheckedAt": "2026-11-05T06:46:17.064Z"
   },
   "5270210164": {
     "checkedAt": "2026-08-22T12:40:39.684Z",
@@ -1086,7 +1645,7 @@
         "funkcja": "WICEPREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:40.475Z"
+    "personsCheckedAt": "2026-11-05T06:46:17.563Z"
   },
   "5271201598": {
     "checkedAt": "2026-08-22T12:40:40.879Z",
@@ -1115,7 +1674,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:41.315Z"
+    "personsCheckedAt": "2026-11-05T06:46:18.175Z"
   },
   "5272397698": {
     "checkedAt": "2026-08-22T12:40:41.738Z",
@@ -1132,9 +1691,14 @@
         "lastMasked": "L*********",
         "firstMasked": "A***",
         "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S********",
+        "firstMasked": "P****",
+        "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:42.111Z"
+    "personsCheckedAt": "2026-11-05T06:46:18.823Z"
   },
   "5272438859": {
     "checkedAt": "2026-08-22T12:40:42.528Z",
@@ -1163,7 +1727,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:43.075Z"
+    "personsCheckedAt": "2026-11-05T06:46:19.304Z"
   },
   "5272865892": {
     "checkedAt": "2026-08-22T12:40:43.482Z",
@@ -1197,7 +1761,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:44.874Z"
+    "personsCheckedAt": "2026-11-05T06:46:19.784Z"
   },
   "5291000934": {
     "checkedAt": "2026-08-22T12:40:45.292Z",
@@ -1250,7 +1814,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:48.885Z"
+    "personsCheckedAt": "2026-11-05T06:46:20.266Z"
   },
   "5291850710": {
     "checkedAt": "2026-08-22T12:40:49.289Z",
@@ -1284,7 +1848,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:49.649Z"
+    "personsCheckedAt": "2026-11-05T06:46:20.746Z"
   },
   "5340206306": {
     "checkedAt": "2026-08-22T12:40:50.060Z",
@@ -1350,7 +1914,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:53.675Z"
+    "personsCheckedAt": "2026-11-05T06:46:21.241Z"
   },
   "5342660908": {
     "checkedAt": "2026-08-22T12:40:54.090Z",
@@ -1379,7 +1943,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:54.477Z"
+    "personsCheckedAt": "2026-11-05T06:46:21.722Z"
   },
   "5372639818": {
     "checkedAt": "2026-08-22T12:40:54.889Z",
@@ -1398,7 +1962,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:55.295Z"
+    "personsCheckedAt": "2026-11-05T06:46:22.206Z"
   },
   "5471483561": {
     "checkedAt": "2026-08-22T12:40:55.696Z",
@@ -1423,7 +1987,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:56.552Z"
+    "personsCheckedAt": "2026-11-05T06:46:22.689Z"
   },
   "5750008327": {
     "checkedAt": "2026-08-22T12:40:56.968Z",
@@ -1453,7 +2017,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:57.786Z"
+    "personsCheckedAt": "2026-11-05T06:46:23.294Z"
   },
   "5860005293": {
     "checkedAt": "2026-08-22T12:40:58.189Z",
@@ -1492,7 +2056,7 @@
         "funkcja": "WICEPREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:58.922Z"
+    "personsCheckedAt": "2026-11-05T06:46:24.154Z"
   },
   "5861029611": {
     "checkedAt": "2026-08-22T12:40:59.327Z",
@@ -1516,7 +2080,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:40:59.763Z"
+    "personsCheckedAt": "2026-11-05T06:46:24.652Z"
   },
   "5932478381": {
     "checkedAt": "2026-08-22T12:41:00.176Z",
@@ -1576,7 +2140,7 @@
         "funkcja": "SKARBNIK"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:03.309Z"
+    "personsCheckedAt": "2026-11-05T06:46:25.134Z"
   },
   "6661503333": {
     "checkedAt": "2026-08-22T12:41:03.714Z",
@@ -1639,7 +2203,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:05.834Z"
+    "personsCheckedAt": "2026-11-05T06:46:25.618Z"
   },
   "6772134258": {
     "checkedAt": "2026-08-22T12:41:06.302Z",
@@ -1710,7 +2274,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:09.844Z"
+    "personsCheckedAt": "2026-11-05T06:46:26.097Z"
   },
   "7393910693": {
     "checkedAt": "2026-08-22T12:41:10.259Z",
@@ -1739,7 +2303,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:10.660Z"
+    "personsCheckedAt": "2026-11-05T06:46:26.581Z"
   },
   "7571178947": {
     "checkedAt": "2026-08-22T12:41:11.064Z",
@@ -1781,7 +2345,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:13.132Z"
+    "personsCheckedAt": "2026-11-05T06:46:27.065Z"
   },
   "7722338172": {
     "checkedAt": "2026-08-22T12:41:13.527Z",
@@ -1811,7 +2375,7 @@
         "funkcja": "CZŁONEK ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:14.650Z"
+    "personsCheckedAt": "2026-11-05T06:46:27.673Z"
   },
   "7830007561": {
     "checkedAt": "2026-08-22T12:41:15.059Z",
@@ -1850,7 +2414,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:15.419Z"
+    "personsCheckedAt": "2026-11-05T06:46:28.156Z"
   },
   "7831699408": {
     "checkedAt": "2026-08-22T12:41:15.825Z",
@@ -1864,7 +2428,7 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:16.252Z"
+    "personsCheckedAt": "2026-11-05T06:46:28.642Z"
   },
   "7831751238": {
     "checkedAt": "2026-08-22T12:41:16.659Z",
@@ -1893,7 +2457,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:17.062Z"
+    "personsCheckedAt": "2026-11-05T06:46:29.128Z"
   },
   "8121450195": {
     "checkedAt": "2026-08-22T12:41:17.479Z",
@@ -1965,7 +2529,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:21.135Z"
+    "personsCheckedAt": "2026-11-05T06:46:29.660Z"
   },
   "8371872980": {
     "checkedAt": "2026-08-22T12:41:21.544Z",
@@ -1994,7 +2558,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:21.912Z"
+    "personsCheckedAt": "2026-11-05T06:46:30.145Z"
   },
   "8381014054": {
     "checkedAt": "2026-08-22T12:41:22.475Z",
@@ -2053,7 +2617,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:25.121Z"
+    "personsCheckedAt": "2026-11-05T06:46:30.626Z"
   },
   "8791613972": {
     "checkedAt": "2026-08-22T12:41:25.558Z",
@@ -2080,16 +2644,6 @@
     "statusVat": "Niezarejestrowany",
     "persons": [
       {
-        "lastMasked": "K********",
-        "firstMasked": "T******",
-        "funkcja": "CZŁONEK ZARZĄDU"
-      },
-      {
-        "lastMasked": "N******",
-        "firstMasked": "S*******",
-        "funkcja": "CZŁONEK ZARZĄDU"
-      },
-      {
         "lastMasked": "W*********",
         "firstMasked": "R*****",
         "funkcja": "WICEPREZES ZARZĄDU"
@@ -2105,7 +2659,7 @@
         "funkcja": "PREZES ZARZĄDU"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:27.215Z"
+    "personsCheckedAt": "2026-11-05T06:46:31.106Z"
   },
   "8971688084": {
     "checkedAt": "2026-08-22T12:41:27.617Z",
@@ -2134,7 +2688,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:28.669Z"
+    "personsCheckedAt": "2026-11-05T06:46:31.592Z"
   },
   "8982334556": {
     "checkedAt": "2026-08-22T12:41:29.080Z",
@@ -2153,7 +2707,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:29.483Z"
+    "personsCheckedAt": "2026-11-05T06:46:32.077Z"
   },
   "9372740241": {
     "checkedAt": "2026-08-22T12:41:29.887Z",
@@ -2173,7 +2727,7 @@
     "krs": "0000096809",
     "statusVat": "Zwolniony",
     "persons": null,
-    "personsCheckedAt": "2026-08-22T12:41:31.197Z"
+    "personsCheckedAt": "2026-11-05T06:46:32.557Z"
   },
   "9492025653": {
     "checkedAt": "2026-08-22T12:41:31.604Z",
@@ -2215,7 +2769,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:33.284Z"
+    "personsCheckedAt": "2026-11-05T06:46:33.070Z"
   },
   "9512609186": {
     "checkedAt": "2026-08-22T12:41:33.678Z",
@@ -2270,7 +2824,7 @@
         "funkcja": "wspólnik"
       }
     ],
-    "personsCheckedAt": "2026-08-22T12:41:34.480Z"
+    "personsCheckedAt": "2026-11-05T06:46:33.549Z"
   },
   "9591558163": {
     "checkedAt": "2026-08-22T12:41:34.890Z",

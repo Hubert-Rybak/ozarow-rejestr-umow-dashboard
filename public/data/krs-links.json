@@ -1,6 +1,131 @@
 {
-  "checkedAt": "2026-08-22T12:41:35.652Z",
+  "checkedAt": "2026-11-05T06:46:33.550Z",
   "links": [
+    {
+      "nip": "1130122021",
+      "krs": "0000082102",
+      "name": "'SEKA' SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "E*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***********",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "R*****",
+          "firstMasked": "P****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "1131896687",
+      "krs": "0000035122",
+      "name": "\"ATHENASOFT\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "K****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "C**********",
+          "firstMasked": "S********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "T******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1180093066",
+      "krs": "0000225279",
+      "name": "INFOR PL SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "R******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "W*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "W*************",
+          "firstMasked": "K*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "1180784876",
+      "krs": "0000050053",
+      "name": "TOWARZYSTWO NASZ DOM",
+      "persons": [
+        {
+          "lastMasked": "N******",
+          "firstMasked": "I****",
+          "funkcja": "PRZEWODNICZĄCA ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*********",
+          "firstMasked": "D******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "U********",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "S********",
+          "funkcja": "WICEPRZEWODNICZĄCY ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "1181895626",
+      "krs": "0000631015",
+      "name": "DREMARK SPÓŁKA JAWNA B. KOCIUBA",
+      "persons": [
+        {
+          "lastMasked": "K******",
+          "firstMasked": "B****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "I****",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
     {
       "nip": "1181932126",
       "krs": "0000297415",
@@ -24,6 +149,38 @@
         {
           "lastMasked": "S*******",
           "firstMasked": "R******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182009897",
+      "krs": "0000337671",
+      "name": "\"POINT\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "P****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "M*****",
+          "funkcja": "V-CE PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "A******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "M*****",
           "funkcja": "wspólnik"
         }
       ]
@@ -73,6 +230,40 @@
       ]
     },
     {
+      "nip": "1182090592",
+      "krs": "0000452040",
+      "name": "DOMBRUK TOMASZ BOŃCZAK SPÓŁKA JAWNA",
+      "persons": [
+        {
+          "lastMasked": "B******",
+          "firstMasked": "T*****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "M*****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "W*******",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "1182115317",
+      "krs": "0000588087",
+      "name": "ARAM SOFTWARE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
       "nip": "1182218922",
       "krs": "0000880520",
       "name": "CEZAR A&J SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
@@ -104,6 +295,72 @@
         },
         {
           "lastMasked": "L*******",
+          "firstMasked": "A********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182271218",
+      "krs": "0001063288",
+      "name": "RYŚ IZABELIN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K******",
+          "firstMasked": "A********",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "1182274493",
+      "krs": "0001073864",
+      "name": "HOTEL LAMBERTON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B********",
+          "firstMasked": "M*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "T******",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B********",
+          "firstMasked": "M*********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "T******",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182276859",
+      "krs": "0001081371",
+      "name": "ADMI FIRE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z********",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Z********",
           "firstMasked": "A********",
           "funkcja": "wspólnik"
         }
@@ -159,6 +416,60 @@
         {
           "lastMasked": "M*******",
           "firstMasked": "E***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182332061",
+      "krs": "0001248986",
+      "name": "PIEKARNIA DĄBROWSCY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "D********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "E**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "E**",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "E***",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "S******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182333468",
+      "krs": "0001254781",
+      "name": "ADB.INVEST SPÓŁKA Z SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "A***",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "A***",
           "funkcja": "wspólnik"
         }
       ]
@@ -361,7 +672,7 @@
       "persons": [
         {
           "lastMasked": "K*********",
-          "firstMasked": "J****",
+          "firstMasked": "E**",
           "funkcja": "PREZES ZARZĄDU"
         },
         {
@@ -526,17 +837,17 @@
         {
           "lastMasked": "G*****",
           "firstMasked": "M******",
-          "funkcja": "CZŁONEK ZARZĄDU\nPREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OLSZTYNIE"
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
         },
         {
           "lastMasked": "B******",
           "firstMasked": "M*****",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO; WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
         },
         {
           "lastMasked": "W***",
           "firstMasked": "J*****",
-          "funkcja": "PREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
         },
         {
           "lastMasked": "P******",
@@ -544,54 +855,14 @@
           "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
         },
         {
-          "lastMasked": "R*****",
-          "firstMasked": "T*****",
-          "funkcja": "CZŁONEK ZARZĄDU - PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ŁODZI"
-        },
-        {
           "lastMasked": "P*******",
           "firstMasked": "L******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SUWAŁKACH"
-        },
-        {
-          "lastMasked": "K**********",
-          "firstMasked": "B*******",
-          "funkcja": "CZŁONEK ZARZĄDU PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W BYDGOSZCZY"
-        },
-        {
-          "lastMasked": "T*****",
-          "firstMasked": "B*****",
-          "funkcja": "CZŁONEK ZARZĄDU PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH WE WROCŁAWIU"
-        },
-        {
-          "lastMasked": "S******",
-          "firstMasked": "J******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OPOLU"
-        },
-        {
-          "lastMasked": "S*****",
-          "firstMasked": "V*******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ZARZĄDU ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KATOWICACH"
-        },
-        {
-          "lastMasked": "R********",
-          "firstMasked": "Z*******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W TORUNIU"
-        },
-        {
-          "lastMasked": "R**",
-          "firstMasked": "R******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W GDAŃSKU"
-        },
-        {
-          "lastMasked": "B****",
-          "firstMasked": "M*********",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+          "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH,"
         },
         {
           "lastMasked": "P********",
           "firstMasked": "I******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+          "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ŁODZI"
         },
         {
           "lastMasked": "K*******",
@@ -599,34 +870,9 @@
           "funkcja": "SEKRETARZ GENERALNY"
         },
         {
-          "lastMasked": "S******",
-          "firstMasked": "M*********",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SZCZECINIE"
-        },
-        {
           "lastMasked": "J****",
           "firstMasked": "P*********",
           "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-        },
-        {
-          "lastMasked": "Ł*******",
-          "firstMasked": "S*******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-        },
-        {
-          "lastMasked": "R*****",
-          "firstMasked": "S*****",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
-        },
-        {
-          "lastMasked": "M*********",
-          "firstMasked": "T*****",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH, WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH"
-        },
-        {
-          "lastMasked": "B*******",
-          "firstMasked": "A******",
-          "funkcja": "CZŁONEK ZARZADU; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W LUBLINIE"
         },
         {
           "lastMasked": "S*********",
@@ -636,7 +882,7 @@
         {
           "lastMasked": "M*********",
           "firstMasked": "J****",
-          "funkcja": "CZŁONEK ZARZĄDU; SKARBNIK STOWARZYSZENIA GEODETÓW POLSKICH; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KALISZU"
+          "funkcja": "CZŁONEK ZARZĄDU; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KALISZU"
         },
         {
           "lastMasked": "Z***",
@@ -646,7 +892,7 @@
         {
           "lastMasked": "W*********",
           "firstMasked": "D******",
-          "funkcja": "CZŁONEK ZARZĄDU STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+          "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO,"
         },
         {
           "lastMasked": "S*****",
@@ -666,7 +912,7 @@
         {
           "lastMasked": "M*********",
           "firstMasked": "A****",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH Z WYBORU IMIENNEGO"
+          "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W OLSZTYNIE"
         },
         {
           "lastMasked": "M******",
@@ -681,7 +927,7 @@
         {
           "lastMasked": "C****",
           "firstMasked": "S*******",
-          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO STOWARZYSZENIA GEODETÓW POLSKICH"
+          "funkcja": "SKARBNIK STOWARZYSZENIA GEODETÓW POLSKICH; PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W GDAŃSKU"
         },
         {
           "lastMasked": "B**",
@@ -707,6 +953,101 @@
           "lastMasked": "K***********",
           "firstMasked": "R*****",
           "funkcja": "CZŁONEK ZARZĄDU SGP, PREZES ODDZIAŁU SGP W RZESZOWIE"
+        },
+        {
+          "lastMasked": "H****",
+          "firstMasked": "P****",
+          "funkcja": "PREZES STOWARZYSZENIA GEODETÓW POLSKICH"
+        },
+        {
+          "lastMasked": "W*******",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES CTOWARZYSZENIA GEODETÓW POLSKICH, CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "M****",
+          "firstMasked": "A*****",
+          "funkcja": "WICEPREZES STOWARZYSZENIA GEODETÓW POLSKICH, PREZES ODDZIAŁU WE WROCŁAWIU"
+        },
+        {
+          "lastMasked": "W***",
+          "firstMasked": "S*******",
+          "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W BYDGOSZCZY"
+        },
+        {
+          "lastMasked": "D*********",
+          "firstMasked": "D*****",
+          "funkcja": "CZŁONEK ZARZĄDU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W KATOWICACH"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "M******",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W LUBLINIE"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH  W OPOLU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SUWAŁKACH"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "A******",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W SZCZECINIE"
+        },
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "M********",
+          "funkcja": "CZŁONEK ZARZADU, PREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W TORUNIU"
+        },
+        {
+          "lastMasked": "S*****",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZADU, WICEPREZES ODDZIAŁU STOWARZYSZENIA GEODETÓW POLSKICH W ZIELONEJ GÓRZE"
+        },
+        {
+          "lastMasked": "B********",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "H****",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "M****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "A*****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "M*****",
+          "firstMasked": "K****",
+          "funkcja": "CZŁONEK ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "M*****",
+          "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "K******",
+          "firstMasked": "R*****",
+          "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
+        },
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "M****",
+          "funkcja": "ZASTĘPCA CZŁONKA ZARZĄDU Z WYBORU IMIENNEGO"
         }
       ]
     },
@@ -931,6 +1272,11 @@
           "lastMasked": "L*********",
           "firstMasked": "A***",
           "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
         }
       ]
     },
@@ -1530,16 +1876,6 @@
       "krs": "0000513554",
       "name": "ESV6 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
       "persons": [
-        {
-          "lastMasked": "K********",
-          "firstMasked": "T******",
-          "funkcja": "CZŁONEK ZARZĄDU"
-        },
-        {
-          "lastMasked": "N******",
-          "firstMasked": "S*******",
-          "funkcja": "CZŁONEK ZARZĄDU"
-        },
         {
           "lastMasked": "W*********",
           "firstMasked": "R*****",
