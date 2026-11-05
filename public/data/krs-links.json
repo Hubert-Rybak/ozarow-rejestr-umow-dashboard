@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-05T06:46:33.550Z",
+  "checkedAt": "2026-11-05T13:25:47.805Z",
   "links": [
     {
       "nip": "1130122021",
@@ -42,6 +42,18 @@
           "lastMasked": "M*******",
           "firstMasked": "T******",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1132480641",
+      "krs": "0000205318",
+      "name": "POLSKA IZBA STACJI KONTROLI POJAZDÓW",
+      "persons": [
+        {
+          "lastMasked": "Ź*********",
+          "firstMasked": "J******",
+          "funkcja": "PREZES ZARZĄDU"
         }
       ]
     },
@@ -230,6 +242,23 @@
       ]
     },
     {
+      "nip": "1182038806",
+      "krs": "0000988090",
+      "name": "INSTALNIKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
       "nip": "1182090592",
       "krs": "0000452040",
       "name": "DOMBRUK TOMASZ BOŃCZAK SPÓŁKA JAWNA",
@@ -262,6 +291,12 @@
           "funkcja": "CZŁONEK ZARZĄDU"
         }
       ]
+    },
+    {
+      "nip": "1182212523",
+      "krs": "0000856176",
+      "name": "LW BMG BACCARA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": []
     },
     {
       "nip": "1182218922",
@@ -497,6 +532,28 @@
         {
           "lastMasked": "G******",
           "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "2220906258",
+      "krs": "0000714175",
+      "name": "ZPUH WIKO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W********",
+          "firstMasked": "D******",
           "funkcja": "wspólnik"
         }
       ]
@@ -2002,6 +2059,268 @@
         {
           "lastMasked": "C*****",
           "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5213589769",
+      "krs": "0000374958",
+      "name": "VEOLIA ENERGY CONTRACTING POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "R*****",
+          "firstMasked": "K*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D**********",
+          "firstMasked": "R****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z*****",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5213617218",
+      "krs": "0000396267",
+      "name": "APEX.IT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K******",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "B******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5214033011",
+      "krs": "0001053885",
+      "name": "WYBORCZA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "M******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "W****",
+          "firstMasked": "E**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "A*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "B*********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5220000217",
+      "krs": "0000040890",
+      "name": "ALAB LABORATORIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "E**",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "H****",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "L******",
+          "firstMasked": "H***",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "E**",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5220020266",
+      "krs": "0000161908",
+      "name": "PRZEDSIĘBIORSTWO PRODUKCYJNO-USŁUGOWO-HANDLOWE BUDOWA I NAPRAWA DRÓG EFEKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "R****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "A*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "W*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "R****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "A*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5220101148",
+      "krs": "0000125918",
+      "name": "FESTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Z******",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5220103650",
+      "krs": "0000051582",
+      "name": "POLYPHARM SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "M**********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5223014349",
+      "krs": "0000503615",
+      "name": "AJHMEDIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "H****",
+          "firstMasked": "S*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "R*******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "H****",
+          "firstMasked": "S*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "R*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5223088543",
+      "krs": "0000672754",
+      "name": "IT SOLUTION FACTOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "K*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W******",
+          "firstMasked": "M******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "K*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5223130908",
+      "krs": "0000739881",
+      "name": "PROMEDIO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5223218081",
+      "krs": "0000948957",
+      "name": "KG BUDOWA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K******",
+          "firstMasked": "P*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K******",
+          "firstMasked": "P*********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "P****",
           "funkcja": "wspólnik"
         }
       ]
