@@ -17,7 +17,7 @@ concurrency:
 jobs:
   update-and-build:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -35,6 +35,8 @@ jobs:
           CRU_RETRY_BASE_DELAY_MS: ${{ vars.CRU_RETRY_BASE_DELAY_MS || '2000' }}
           CRU_RETRY_MAX_DELAY_MS: ${{ vars.CRU_RETRY_MAX_DELAY_MS || '60000' }}
           CRU_REQUEST_TIMEOUT_MS: ${{ vars.CRU_REQUEST_TIMEOUT_MS || '30000' }}
+          CRU_DETAIL_BUDGET_MS: ${{ vars.CRU_DETAIL_BUDGET_MS || '720000' }}
+          CRU_DETAIL_MAX_AGE_DAYS: ${{ vars.CRU_DETAIL_MAX_AGE_DAYS || '14' }}
       - run: npm test
       - run: npm run build
       - name: Commit refreshed data
@@ -42,7 +44,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore(data): refresh CRU agreements'
-          file_pattern: public/data/agreements.json public/data/compliance.json
+          file_pattern: public/data/agreements.json public/data/compliance.json public/data/krs-cache.json public/data/krs-links.json
       - name: Deploy static dashboard to gh-pages
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v4

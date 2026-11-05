@@ -14,7 +14,9 @@
   (lista w `src/officials.ts`, źródła: BIP gminy oraz pwz.pl; wymaga odświeżenia po wyborach),
 - dodatkowe sprawdzenie KRS przez NIP: Biała Lista VAT (MF) podaje numer KRS, a publiczne
   API KRS (MS) — zanonimizowany skład zarządu i wspólników (`scripts/krs-enrich.mjs`,
-  cache 30 dni); maska KRS zachowuje pierwszą literę i długość imienia/nazwiska, co daje
+  cache 30 dni, commitowany; Biała Lista po ok. 60 zapytaniach z jednego IP po cichu zwraca puste
+  wyniki, więc skrypt robi max `KRS_BL_MAX_LOOKUPS` (domyślnie 45) zapytań na przebieg i nie zapisuje
+  serii pustych odpowiedzi jako „brak firmy”); maska KRS zachowuje pierwszą literę i długość imienia/nazwiska, co daje
   bardzo selektywne dopasowanie do listy urzędników,
 - dashboard ze statystykami: suma, liczba umów, średnia, największa umowa,
 - agregacja per miesiąc i per rok,
@@ -57,6 +59,15 @@ Endpoint używany przez oficjalną aplikację CRU:
 
 Odpowiedź wyszukiwania zawiera `content`, `totalElements`, `totalMatchingElements`, `offset` i `limit`. CRU ogranicza pojedynczą stronę do 50 rekordów także wtedy, gdy klient zażąda większej liczby. Fetcher przesuwa więc `offset` o rzeczywistą długość zwróconej strony i kończy dopiero po pobraniu dokładnie `totalMatchingElements`; odrzuca zmienne liczniki, błędne offsety, duplikaty i niepełne strony. Szczegóły są pobierane sekwencyjnie z odstępem; przejściowe `429`, wybrane `5xx`, błędy sieci i przerwane odpowiedzi są ponawiane z ograniczonym exponential backoff.
 
+Szczegóły są pobierane **przyrostowo**: pobieranie szczegółów wszystkich umów przy każdym uruchomieniu przestało się mieścić w limicie żądań CRU (od października 2026 każdy przebieg był przerywany po 20 minutach i dane przestały się aktualizować). Teraz fetcher:
+
+1. zawsze pobiera pełną listę z wyszukiwarki i publikuje **wszystkie** umowy (liczba musi się zgadzać z `totalMatchingElements`),
+2. ponownie używa zapisanych szczegółów, jeśli dane z listy się nie zmieniły, a szczegóły mają mniej niż `CRU_DETAIL_MAX_AGE_DAYS` dni (pole `detailsFetchedAt`),
+3. pobiera szczegóły w kolejności: nowe umowy → zaległe z poprzedniego przebiegu → zmienione → najstarsze do odświeżenia, aż do wyczerpania budżetu czasu `CRU_DETAIL_BUDGET_MS`,
+4. umowy, których szczegółów nie udało się pobrać, są publikowane z danymi z listy i flagą `detailsPending: true` (licznik `detailsPending` w pliku), a w GitHub Actions pojawia się ostrzeżenie; kolejny przebieg uzupełnia je w pierwszej kolejności.
+
+Fetcher odmawia też publikacji, gdy wyniki przekraczają okno wyszukiwania CRU (`totalElements` jest obcinane do 10 000).
+
 ### Konfiguracja fetchera
 
 | Zmienna | Domyślnie | Dozwolone wartości |
@@ -68,6 +79,8 @@ Odpowiedź wyszukiwania zawiera `content`, `totalElements`, `totalMatchingElemen
 | `CRU_RETRY_BASE_DELAY_MS` | `2000` | liczba całkowita `0–2147483647` ms |
 | `CRU_RETRY_MAX_DELAY_MS` | `60000` | liczba całkowita `0–2147483647` ms |
 | `CRU_REQUEST_TIMEOUT_MS` | `30000` | liczba całkowita `0–2147483647` ms; `0` wyłącza timeout |
+| `CRU_DETAIL_BUDGET_MS` | `720000` | liczba całkowita ≥ 0 ms; czas na pobieranie szczegółów w jednym przebiegu |
+| `CRU_DETAIL_MAX_AGE_DAYS` | `14` | liczba całkowita ≥ 0; po ilu dniach szczegóły niezmienionej umowy są odświeżane |
 
 Wartości spoza zakresu przerywają aktualizację przed opublikowaniem danych.
 
@@ -88,7 +101,7 @@ Workflow `.github/workflows/update-data.yml` uruchamia się codziennie o 05:17 U
 1. instaluje zależności,
 2. pobiera dane z CRU,
 3. uruchamia testy i build,
-4. commituje zmieniony `public/data/agreements.json`,
+4. commituje zmienione `public/data/agreements.json`, `compliance.json` oraz cache KRS (`krs-cache.json`, `krs-links.json`),
 5. publikuje `dist/` na GitHub Pages.
 
 Po pierwszym pushu włącz Pages w ustawieniach repo: **Settings → Pages → Build and deployment → GitHub Actions**.

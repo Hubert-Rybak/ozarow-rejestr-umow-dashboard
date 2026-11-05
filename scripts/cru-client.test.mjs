@@ -3,6 +3,8 @@ import {
   collectPaginated,
   fetchJsonWithRetry,
   mapSequentiallyWithDelay,
+  mapWithinBudget,
+  planDetailFetches,
   validatePageSize,
 } from './cru-client.mjs';
 
@@ -515,5 +517,113 @@ describe('mapSequentiallyWithDelay', () => {
   ])('rejects invalid delayMs value %s', async (delayMs) => {
     await expect(mapSequentiallyWithDelay([1], async (value) => value, { delayMs }))
       .rejects.toThrow(`delayMs must be an integer between 0 and ${MAX_TIMER_DELAY_MS}`);
+  });
+});
+
+describe('collectPaginated search window', () => {
+  it('rejects result sets larger than the pageable CRU search window', async () => {
+    const fetchPage = vi.fn().mockResolvedValue({
+      content: [{ idUmowy: 'one' }],
+      totalElements: 10_000,
+      totalMatchingElements: 10_001,
+      offset: 0,
+      limit: 1,
+    });
+
+    await expect(collectPaginated(fetchPage)).rejects.toThrow('search window holds 10000 of 10001');
+  });
+});
+
+describe('planDetailFetches', () => {
+  const now = Date.parse('2026-11-04T12:00:00.000Z');
+  const day = 86_400_000;
+  const summary = (id, extra = {}) => ({ idUmowy: id, statusUmowy: 'Aktywna', wartoscPrzedmiotuUmowy: 100, ...extra });
+
+  it('reuses fresh unchanged details and queues everything else by priority', () => {
+    const summaries = [
+      summary('fresh'),
+      summary('stale-old'),
+      summary('changed', { statusUmowy: 'Zakończona' }),
+      summary('new'),
+      summary('pending'),
+      summary('stale-older'),
+    ];
+    const previous = [
+      { ...summary('fresh'), detailsFetchedAt: new Date(now - day).toISOString() },
+      { ...summary('stale-old'), detailsFetchedAt: new Date(now - 20 * day).toISOString() },
+      { ...summary('changed'), detailsFetchedAt: new Date(now - day).toISOString() },
+      { ...summary('pending'), detailsFetchedAt: null, detailsPending: true },
+      { ...summary('stale-older'), detailsFetchedAt: new Date(now - 30 * day).toISOString() },
+      { ...summary('removed-from-cru'), detailsFetchedAt: new Date(now - day).toISOString() },
+    ];
+
+    const { reuse, queue } = planDetailFetches(summaries, previous, { now, maxAgeMs: 14 * day });
+
+    expect([...reuse.keys()]).toEqual(['fresh']);
+    expect(queue.map((entry) => [entry.summary.idUmowy, entry.reason])).toEqual([
+      ['new', 'new'],
+      ['pending', 'pending'],
+      ['changed', 'changed'],
+      ['stale-older', 'stale'],
+      ['stale-old', 'stale'],
+    ]);
+    expect(reuse.size + queue.length).toBe(summaries.length);
+  });
+
+  it('treats records without detailsFetchedAt as fetched at the previous payload time', () => {
+    const { reuse, queue } = planDetailFetches([summary('legacy')], [summary('legacy')], {
+      now,
+      maxAgeMs: 14 * day,
+      fallbackFetchedAt: new Date(now - 2 * day).toISOString(),
+    });
+
+    expect([...reuse.keys()]).toEqual(['legacy']);
+    expect(queue).toEqual([]);
+  });
+
+  it('compares missing and null summary fields as equal', () => {
+    const { reuse } = planDetailFetches([{ idUmowy: 'a', dataZakonczeniaUmowy: null }], [
+      { idUmowy: 'a', detailsFetchedAt: new Date(now).toISOString() },
+    ], { now, maxAgeMs: day });
+
+    expect(reuse.has('a')).toBe(true);
+  });
+});
+
+describe('mapWithinBudget', () => {
+  it('stops starting new requests once the time budget is spent', async () => {
+    let clock = 0;
+    const now = () => clock;
+    const mapper = vi.fn(async (value) => {
+      clock += 400;
+      return value * 2;
+    });
+
+    const result = await mapWithinBudget([1, 2, 3, 4], mapper, { budgetMs: 1_000, now, sleep: vi.fn() });
+
+    expect([...result.results.entries()]).toEqual([[0, 2], [1, 4], [2, 6]]);
+    expect(result.remaining).toEqual([3]);
+    expect(result.stopReason).toBe('budget');
+  });
+
+  it('keeps going after an isolated failure and stops after repeated failures', async () => {
+    const mapper = vi.fn(async (value) => {
+      if (value !== 2) throw new Error(`boom ${value}`);
+      return value;
+    });
+    const logger = { warn: vi.fn() };
+
+    const result = await mapWithinBudget([1, 2, 3, 4, 5, 6], mapper, {
+      budgetMs: 60_000,
+      maxConsecutiveFailures: 3,
+      sleep: vi.fn(),
+      logger,
+    });
+
+    expect([...result.results.keys()]).toEqual([1]);
+    expect(result.failed).toEqual([0, 2, 3, 4]);
+    expect(result.remaining).toEqual([5]);
+    expect(result.stopReason).toBe('failures');
+    expect(logger.warn).toHaveBeenCalledWith('boom 1; will retry on the next run');
   });
 });
