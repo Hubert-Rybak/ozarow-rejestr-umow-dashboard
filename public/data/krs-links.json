@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-05T13:25:47.805Z",
+  "checkedAt": "2026-11-06T13:10:38.815Z",
   "links": [
     {
       "nip": "1130122021",
@@ -2321,6 +2321,871 @@
         {
           "lastMasked": "G*****",
           "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5242458834",
+      "krs": "0000160701",
+      "name": "\"DREWA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P********",
+          "firstMasked": "I***",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "I***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5242625887",
+      "krs": "0000287731",
+      "name": "TRAMCO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "D****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R*********",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5242750411",
+      "krs": "0000416991",
+      "name": "ROKOM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S****",
+          "firstMasked": "J*****",
+          "funkcja": "PREZES ZARZĄDU SPÓŁKI"
+        },
+        {
+          "lastMasked": "R******",
+          "firstMasked": "R*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "J*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5242906497",
+      "krs": "0000859165",
+      "name": "NRT PROJEKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G********",
+          "firstMasked": "R*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "H*****",
+          "firstMasked": "V********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "G********",
+          "firstMasked": "R*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "H*****",
+          "firstMasked": "V********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5250001090",
+      "krs": "0000062594",
+      "name": "POLSKA WYTWÓRNIA PAPIERÓW WARTOŚCIOWYCH SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "T**********",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K**********",
+          "firstMasked": "Z******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W********",
+          "firstMasked": "M*********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*****",
+          "firstMasked": "H*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5250004220",
+      "krs": "0000154178",
+      "name": "CENTRALA FARMACEUTYCZNA 'CEFARM' SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "O*******",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5250005662",
+      "krs": "0000146138",
+      "name": "MIEJSKIE PRZEDSIĘBIORSTWO WODOCIĄGÓW I KANALIZACJI W M.ST. WARSZAWIE SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "T*******",
+          "firstMasked": "R*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "I*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "J******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5250007738",
+      "krs": "0000026438",
+      "name": "POWSZECHNA KASA OSZCZĘDNOŚCI BANK POLSKI SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "M****",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*****",
+          "firstMasked": "S*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "D******",
+          "firstMasked": "K********",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "M******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "F****",
+          "firstMasked": "L******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P**",
+          "firstMasked": "T*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "W*******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5250008040",
+      "krs": "0000122099",
+      "name": "PAŃSTWOWY INSTYTUT GEOLOGICZNY - PAŃSTWOWY INSTYTUT BADAWCZY",
+      "persons": []
+    },
+    {
+      "nip": "5252247599",
+      "krs": "0000140213",
+      "name": "ACSS ID SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "J******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5252580198",
+      "krs": "0000498869",
+      "name": "ABM GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S********",
+          "firstMasked": "B******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*****",
+          "firstMasked": "D*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "B******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5252723692",
+      "krs": "0000695664",
+      "name": "PRIMARIO GRANDE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "T*********",
+          "firstMasked": "R****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5252982637",
+      "krs": "0001072276",
+      "name": "PM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "A******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "A******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5260016609",
+      "krs": "0000033968",
+      "name": "POLSKIE TOWARZYSTWO HIGIENICZNE",
+      "persons": [
+        {
+          "lastMasked": "M***********",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK PREZYDIUM ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "E*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "H****",
+          "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "A****",
+          "funkcja": "SKARBNIK"
+        },
+        {
+          "lastMasked": "M*****",
+          "firstMasked": "M****",
+          "funkcja": "ZASTĘPCA SEKRETARZA ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W******",
+          "firstMasked": "P******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "Ż********",
+          "firstMasked": "J****",
+          "funkcja": "PREZES ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "P*****",
+          "firstMasked": "U******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "O********",
+          "firstMasked": "B*****",
+          "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "B********",
+          "firstMasked": "E**",
+          "funkcja": "SEKRETARZ ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "M*********",
+          "firstMasked": "P****",
+          "funkcja": "ZASTĘPCA SKARBNIKA ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W**",
+          "firstMasked": "M****",
+          "funkcja": "CZŁONEK PREZYDIUM ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "J*****",
+          "firstMasked": "Z******",
+          "funkcja": "CZŁONEK PREZYDIUM ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK PREZYDIUM ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "M*********",
+          "firstMasked": "M******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "D*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "A******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "E*******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "G********",
+          "firstMasked": "E******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "M****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "Ż***",
+          "firstMasked": "C******",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "C********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "W*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5260250995",
+      "krs": "0000010681",
+      "name": "ORANGE POLSKA SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "N*********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "J******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D*****",
+          "firstMasked": "W*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K******",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "L*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S**********",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5260251049",
+      "krs": "0000009831",
+      "name": "POWSZECHNY ZAKŁAD UBEZPIECZEŃ SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "Z*******",
+          "firstMasked": "J**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "H*****",
+          "firstMasked": "E*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "T********",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B******",
+          "firstMasked": "B*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "F*****",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M******",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5261004620",
+      "krs": "0000295857",
+      "name": "TIME SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "R******",
+          "firstMasked": "A*********",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R********",
+          "firstMasked": "E**",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5262349108",
+      "krs": "0000010623",
+      "name": "GENERALI TOWARZYSTWO UBEZPIECZEŃ SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "J*******",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "H*******",
+          "firstMasked": "R****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "B****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ś********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "M********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D*****",
+          "firstMasked": "M***",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5272260025",
+      "krs": "0000944043",
+      "name": "\"OCHRONA JUWENTUS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S****",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G********",
+          "firstMasked": "D******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "R******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5272617616",
+      "krs": "0000344600",
+      "name": "LASERMAX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S********",
+          "firstMasked": "B*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "D*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "B*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5272689998",
+      "krs": "0000450072",
+      "name": "EOFFICE MEDIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "G****",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5290009057",
+      "krs": "0000067559",
+      "name": "'PRZEDSIĘBIORSTWO GOSPODARKI WODNO-ŚCIEKOWEJ GEA-NOVA' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P***",
+          "firstMasked": "Z****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B********",
+          "firstMasked": "K*******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P***",
+          "firstMasked": "Z****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*******",
+          "firstMasked": "K*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5291829992",
+      "krs": "0000825780",
+      "name": "MLECZNA KRÓWKA Z MILANÓWKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S******",
+          "firstMasked": "J*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "J*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5291858278",
+      "krs": "0001140766",
+      "name": "MALTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S******",
+          "firstMasked": "Z******",
+          "funkcja": "PREZES ZARZĄDU SPÓŁKI"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "A*********",
+          "funkcja": "CZŁONEK ZARZĄDU SPÓŁKI"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "Z******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "A*********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5311714135",
+      "krs": "0001086537",
+      "name": "ATO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C*******",
+          "firstMasked": "A***",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ż*****",
+          "firstMasked": "E**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C*******",
+          "firstMasked": "A***",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ż*****",
+          "firstMasked": "E**",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5322064296",
+      "krs": "0000661925",
+      "name": "SMARTDIGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "P*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "Z******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "P*********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "A********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5322094937",
+      "krs": "0000921900",
+      "name": "PZM WIMET JÓZEFÓW SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Z****",
+          "firstMasked": "H*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "Ł*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z****",
+          "firstMasked": "H*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "Ł*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5322105782",
+      "krs": "0001043925",
+      "name": "BBS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "B****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*****",
+          "firstMasked": "B****",
           "funkcja": "wspólnik"
         }
       ]
