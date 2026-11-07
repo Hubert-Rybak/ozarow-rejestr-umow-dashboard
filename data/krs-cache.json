@@ -73,6 +73,12 @@
     ],
     "personsCheckedAt": "2026-11-05T13:25:40.673Z"
   },
+  "1132736000": {
+    "checkedAt": "2026-11-07T11:56:21.673Z",
+    "name": "MAGDALENA MARGAS",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
   "1133177927": {
     "checkedAt": "2026-11-05T13:25:15.856Z",
     "name": null,
@@ -107,6 +113,12 @@
       }
     ],
     "personsCheckedAt": "2026-11-05T06:45:58.861Z"
+  },
+  "1180094315": {
+    "checkedAt": "2026-11-07T11:56:22.180Z",
+    "name": "WOJCIECH BYŚKINIEWICZ",
+    "krs": null,
+    "statusVat": "Czynny"
   },
   "1180194442": {
     "checkedAt": "2026-11-05T06:45:36.191Z",
@@ -192,6 +204,12 @@
   "1181428439": {
     "checkedAt": "2026-08-22T12:39:47.730Z",
     "name": "DOM KULTURY \"UŚMIECH\" MIASTA I GMINY OŻARÓW MAZOWIECKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1181473262": {
+    "checkedAt": "2026-11-07T11:56:22.689Z",
+    "name": "MARCIN JANKOWSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
@@ -722,6 +740,45 @@
       }
     ],
     "personsCheckedAt": "2026-11-05T06:46:04.663Z"
+  },
+  "1182277669": {
+    "checkedAt": "2026-11-07T11:56:23.197Z",
+    "name": "BLOW MEBLE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001084143",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K***",
+        "firstMasked": "K****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "O*******",
+        "firstMasked": "T*****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "M********",
+        "firstMasked": "M*****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "K***",
+        "firstMasked": "K****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "O*******",
+        "firstMasked": "T*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "M********",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:45.835Z"
   },
   "1182304946": {
     "checkedAt": "2026-08-22T12:40:00.149Z",
@@ -4391,5 +4448,414 @@
     "name": "HENRYK PRYBA",
     "krs": null,
     "statusVat": "Czynny"
+  },
+  "5210337458": {
+    "checkedAt": "2026-11-07T11:56:23.730Z",
+    "name": "KIER - WRZESIEŃ, MŁYNARSKI SPÓŁKA JAWNA",
+    "krs": "0000075005",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "W*******",
+        "firstMasked": "J****",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "M********",
+        "firstMasked": "A******",
+        "funkcja": "członek organu"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:46.306Z"
+  },
+  "5211040513": {
+    "checkedAt": "2026-11-07T11:56:24.778Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "5213499196": {
+    "checkedAt": "2026-11-07T11:56:24.778Z",
+    "name": "ALEKSANDRA TUREWICZ-NOWACKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5252880078": {
+    "checkedAt": "2026-11-07T11:56:25.289Z",
+    "name": "GIERZYŃSKI ENGINEERING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000926156",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "G*********",
+        "firstMasked": "R****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "G*********",
+        "firstMasked": "R****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "G*********",
+        "firstMasked": "M******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:46.780Z"
+  },
+  "5341231217": {
+    "checkedAt": "2026-11-07T11:56:25.816Z",
+    "name": "LESZEK WRZOSEK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341331752": {
+    "checkedAt": "2026-11-07T11:56:26.338Z",
+    "name": "KRZYSZTOF JARZYNA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341427920": {
+    "checkedAt": "2026-11-07T11:56:26.841Z",
+    "name": "PIOTR BARTOCHA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341434512": {
+    "checkedAt": "2026-11-07T11:56:27.381Z",
+    "name": "KRYSTYNA SZEWCZYK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341524445": {
+    "checkedAt": "2026-11-07T11:56:28.386Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "5341524617": {
+    "checkedAt": "2026-11-07T11:56:28.386Z",
+    "name": "MARZENA STAROSZ-ZALEWSKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341688342": {
+    "checkedAt": "2026-11-07T11:56:28.886Z",
+    "name": "MIROSŁAW OŚKO",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341814114": {
+    "checkedAt": "2026-11-07T11:56:29.389Z",
+    "name": "MARIUSZ WALCZAK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341922619": {
+    "checkedAt": "2026-11-07T11:56:29.991Z",
+    "name": "GRZEGORZ JEZIERSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341943260": {
+    "checkedAt": "2026-11-07T11:56:30.552Z",
+    "name": "MARIAN DZIEKANOWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341964948": {
+    "checkedAt": "2026-11-07T11:56:31.102Z",
+    "name": "ADAM SZWONDER",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5342235364": {
+    "checkedAt": "2026-11-07T11:56:31.604Z",
+    "name": "PAWEŁ DZIEDZICKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5342268180": {
+    "checkedAt": "2026-11-07T11:56:32.138Z",
+    "name": "KAMIL BOJANEK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5342359764": {
+    "checkedAt": "2026-11-07T11:56:32.641Z",
+    "name": "RADOSŁAW WIETESKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5342362973": {
+    "checkedAt": "2026-11-07T11:56:33.153Z",
+    "name": "ARTUR GAŁĄZKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5342468269": {
+    "checkedAt": "2026-11-07T11:56:34.151Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "5342488993": {
+    "checkedAt": "2026-11-07T11:56:34.151Z",
+    "name": "PEJPE GÓRECKI, KACZMARSKI, KROŚNICKI SPÓŁKA JAWNA",
+    "krs": "0000442069",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K********",
+        "firstMasked": "J*******",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "K*********",
+        "firstMasked": "P****",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "G******",
+        "firstMasked": "P****",
+        "funkcja": "członek organu"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:47.262Z"
+  },
+  "5342590272": {
+    "checkedAt": "2026-11-07T11:56:34.689Z",
+    "name": "PRI INSBUD-BIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000760984",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B*********",
+        "firstMasked": "R****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "B*********",
+        "firstMasked": "R****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:47.733Z"
+  },
+  "5342643672": {
+    "checkedAt": "2026-11-07T11:56:35.205Z",
+    "name": "JPK INŻYNIERIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000924531",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K*****",
+        "firstMasked": "J*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "K***********",
+        "firstMasked": "P****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "K*****",
+        "firstMasked": "J*******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:48.204Z"
+  },
+  "5361097644": {
+    "checkedAt": "2026-11-07T11:56:35.704Z",
+    "name": "GRODNO SPÓŁKA AKCYJNA",
+    "krs": "0000341683",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "J******",
+        "firstMasked": "A******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "G*****",
+        "firstMasked": "M*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S****",
+        "firstMasked": "P****",
+        "funkcja": "CZŁONEK ZARZADU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:48.678Z"
+  },
+  "5361545611": {
+    "checkedAt": "2026-11-07T11:56:36.214Z",
+    "name": "ADAM DYMIANOW",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5372056293": {
+    "checkedAt": "2026-11-07T11:56:36.761Z",
+    "name": "IGA OLSZANOWSKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5421287697": {
+    "checkedAt": "2026-11-07T11:56:37.271Z",
+    "name": "MAREK MISTARZ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5423257909": {
+    "checkedAt": "2026-11-07T11:56:37.779Z",
+    "name": "SVITLANA KOSTIUCHENKO",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5511594411": {
+    "checkedAt": "2026-11-07T11:56:38.784Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "5540236252": {
+    "checkedAt": "2026-11-07T11:56:38.784Z",
+    "name": "ZAKŁAD PRODUKCYJNO-USŁUGOWY ROMEX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000112529",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "P*****",
+        "firstMasked": "R****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "P*****",
+        "firstMasked": "R****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:49.164Z"
+  },
+  "5591406439": {
+    "checkedAt": "2026-11-07T11:56:39.288Z",
+    "name": "JÓZEF KWAŚNIEWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5671848949": {
+    "checkedAt": "2026-11-07T11:56:39.792Z",
+    "name": "RADOSŁAW RUMIANOWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5681254453": {
+    "checkedAt": "2026-11-07T11:56:40.348Z",
+    "name": "RENATA MISZCZUK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5691840879": {
+    "checkedAt": "2026-11-07T11:56:40.963Z",
+    "name": "WIESŁAW RĘBIŚ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5730008637": {
+    "checkedAt": "2026-11-07T11:56:41.525Z",
+    "name": "PRZEDSIĘBIORSTWO SPECJALISTYCZNE 'BOCAR' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000166850",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K**********",
+        "firstMasked": "K********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K**********",
+        "firstMasked": "K********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "S***",
+        "firstMasked": "K*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:49.636Z"
+  },
+  "5761586447": {
+    "checkedAt": "2026-11-07T11:56:42.058Z",
+    "name": "COCON SPÓŁKA AKCYJNA",
+    "krs": "0001066701",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K***********",
+        "firstMasked": "G*******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "L**",
+        "firstMasked": "P****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "B****",
+        "firstMasked": "J**",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:50.109Z"
+  },
+  "5791572496": {
+    "checkedAt": "2026-11-07T11:56:42.580Z",
+    "name": "SEBASTIAN WRÓBLEWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5791857193": {
+    "checkedAt": "2026-11-07T11:56:43.101Z",
+    "name": "KATARZYNA PRZYBYSZ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5811650680": {
+    "checkedAt": "2026-11-07T11:56:43.614Z",
+    "name": "PAWEŁ PRACZ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5833153397": {
+    "checkedAt": "2026-11-07T11:56:44.126Z",
+    "name": "CSW MADKOM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000425318",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "S***********",
+        "firstMasked": "G*******",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:50.579Z"
+  },
+  "5833165070": {
+    "checkedAt": "2026-11-07T11:56:44.630Z",
+    "name": "PEZAL PRODUCT LINE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000497840",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "Z******",
+        "firstMasked": "G*******",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-07T11:56:51.049Z"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06T13:10:38.815Z",
+  "checkedAt": "2026-11-07T11:56:51.051Z",
   "links": [
     {
       "nip": "1130122021",
@@ -397,6 +397,43 @@
         {
           "lastMasked": "Z********",
           "firstMasked": "A********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1182277669",
+      "krs": "0001084143",
+      "name": "BLOW MEBLE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K***",
+          "firstMasked": "K****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "O*******",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "K****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "O*******",
+          "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M*****",
           "funkcja": "wspólnik"
         }
       ]
@@ -3187,6 +3224,213 @@
           "lastMasked": "B*****",
           "firstMasked": "B****",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5210337458",
+      "krs": "0000075005",
+      "name": "KIER - WRZESIEŃ, MŁYNARSKI SPÓŁKA JAWNA",
+      "persons": [
+        {
+          "lastMasked": "W*******",
+          "firstMasked": "J****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "A******",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "5252880078",
+      "krs": "0000926156",
+      "name": "GIERZYŃSKI ENGINEERING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G*********",
+          "firstMasked": "R****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G*********",
+          "firstMasked": "R****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "G*********",
+          "firstMasked": "M******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5342488993",
+      "krs": "0000442069",
+      "name": "PEJPE GÓRECKI, KACZMARSKI, KROŚNICKI SPÓŁKA JAWNA",
+      "persons": [
+        {
+          "lastMasked": "K********",
+          "firstMasked": "J*******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "P****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "G******",
+          "firstMasked": "P****",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "5342590272",
+      "krs": "0000760984",
+      "name": "PRI INSBUD-BIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "R****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "R****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5342643672",
+      "krs": "0000924531",
+      "name": "JPK INŻYNIERIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "J*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***********",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "J*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5361097644",
+      "krs": "0000341683",
+      "name": "GRODNO SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "J******",
+          "firstMasked": "A******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZADU"
+        }
+      ]
+    },
+    {
+      "nip": "5540236252",
+      "krs": "0000112529",
+      "name": "ZAKŁAD PRODUKCYJNO-USŁUGOWY ROMEX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P*****",
+          "firstMasked": "R****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P*****",
+          "firstMasked": "R****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5730008637",
+      "krs": "0000166850",
+      "name": "PRZEDSIĘBIORSTWO SPECJALISTYCZNE 'BOCAR' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K**********",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K**********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S***",
+          "firstMasked": "K*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5761586447",
+      "krs": "0001066701",
+      "name": "COCON SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "K***********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L**",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B****",
+          "firstMasked": "J**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5833153397",
+      "krs": "0000425318",
+      "name": "CSW MADKOM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S***********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5833165070",
+      "krs": "0000497840",
+      "name": "PEZAL PRODUCT LINE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Z******",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
         }
       ]
     }

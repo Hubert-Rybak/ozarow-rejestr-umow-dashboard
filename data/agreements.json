@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T13:09:52.244Z",
+  "fetchedAt": "2026-11-07T11:56:20.645Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,11 +7,141 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 855,
-  "totalMatchingElements": 855,
-  "totalVisibleElements": 855,
+  "totalElements": 888,
+  "totalMatchingElements": 888,
+  "totalVisibleElements": 888,
   "detailsPending": 0,
   "agreements": [
+    {
+      "idUmowy": "9f862678-a2ac-4ff0-a355-a40e5104c25a",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "31.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 628.11,
+      "przedmiotUmowy": "zakup książek (lektur) do biblioteki szkolnej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/9f862678-a2ac-4ff0-a355-a40e5104c25a",
+      "detailsFetchedAt": "2026-11-07T11:43:57.194Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WYDAWNICTWO LITERATURA W.W.JĘDRZEJCZYK SPÓŁKA JAWNA",
+          "nip": "7250020125",
+          "regon": "004316237",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Srebrna",
+            "numerNieruchomosci": "41",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "Łódź",
+            "gminaMiastoDzielnica": "Łódź-Bałuty",
+            "miejscowosc": "Łódź",
+            "kodPocztowy": "91-334"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "e4bb9476-4450-4dcc-8d3c-3e7d0b462ce5",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "31.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 3151.05,
+      "przedmiotUmowy": "dostawa lamp do projektorów multimedialnych i innych artykułów do serwisu sprzętu multimedialnego i komputerowego w szkole, naprawa laptopa",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e4bb9476-4450-4dcc-8d3c-3e7d0b462ce5",
+      "detailsFetchedAt": "2026-11-07T11:45:18.711Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MARINO MARCIN JANKOWSKI",
+          "nip": "1181473262",
+          "regon": "016086986",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "280",
+            "numerLokalu": "paw. 1",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "fc8f2cc1-8b97-4c8f-b04d-e2b3b6e43686",
       "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
@@ -519,6 +649,7 @@
       "przedmiotUmowy": "sprzątanie hali spotowej przy SP1 w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/187ca189-3045-44b8-a5fe-12fd008ed07b",
+      "detailsFetchedAt": "2026-11-07T11:46:36.790Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -571,8 +702,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "4ef6e03d-0921-4c83-86a9-2b651f583dbd",
@@ -649,6 +779,7 @@
       "przedmiotUmowy": "Zastępstwa pracowników etatowych zatrudnionych w Gminnym Punkcie Zbierania Odpadów Problemowych w Umiastowie oraz sprzątanie terenu i czyszczenie kontenerów.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a5b6f1e6-b93b-41f9-ba7c-cf946fe7e364",
+      "detailsFetchedAt": "2026-11-07T11:50:51.207Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -701,8 +832,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "efdd68b5-dd40-41af-ab3c-4b2d727a967b",
@@ -714,6 +844,7 @@
       "przedmiotUmowy": "SERWIS OKIEN I DRZWI W BUDYNKACH SPWZ",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/efdd68b5-dd40-41af-ab3c-4b2d727a967b",
+      "detailsFetchedAt": "2026-11-07T11:50:55.591Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -766,8 +897,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "d43a1c1e-03fe-44cd-a14b-13d27130c4ce",
@@ -779,6 +909,7 @@
       "przedmiotUmowy": "Zakup urządzeń z zakresu ochrony ludności i obrony cywilnej dla Powiatu Warszawskiego Zachodniego - Dostawa wraz z montażem agregatu prądotwórczego stacjonarnego o mocy 80 kW wraz z układem automatyki w Błoniu",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d43a1c1e-03fe-44cd-a14b-13d27130c4ce",
+      "detailsFetchedAt": "2026-11-07T11:52:20.097Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -831,8 +962,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "ec1c8a22-1454-44d8-af73-c9dd647e5bc7",
@@ -844,6 +974,7 @@
       "przedmiotUmowy": "Zakup urządzeń z zakresu ochrony ludności i obrony cywilnej dla Powiatu Warszawskiego\nZachodniego – agregaty prądotwórcze",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ec1c8a22-1454-44d8-af73-c9dd647e5bc7",
+      "detailsFetchedAt": "2026-11-07T11:52:20.752Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -896,8 +1027,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "28e5bb9e-392c-400f-a64a-7b5d42ffa402",
@@ -1481,6 +1611,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "02.11.2026",
         "dataModyfikacji": "02.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "08e3a2e9-3cd4-4a86-aa8b-23ff75ff0ce1",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "30.09.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 3149.5,
+      "przedmiotUmowy": "dostawa 5 stolików do świetlicy szkolnej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/08e3a2e9-3cd4-4a86-aa8b-23ff75ff0ce1",
+      "detailsFetchedAt": "2026-11-07T11:43:46.131Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MOJE BAMBINO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "7251933448",
+          "regon": "100283710",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Graniczna",
+            "numerNieruchomosci": "46",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "Łódź",
+            "gminaMiastoDzielnica": "Łódź-Górna",
+            "miejscowosc": "Łódź",
+            "kodPocztowy": "93-428"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -3045,6 +3240,71 @@
       }
     },
     {
+      "idUmowy": "820abefb-3432-46df-890c-7b0ae51124a3",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "29.09.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 872.22,
+      "przedmiotUmowy": "dostawa sztućców i talerzy dla oddziałów \"0\"",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/820abefb-3432-46df-890c-7b0ae51124a3",
+      "detailsFetchedAt": "2026-11-07T11:43:52.622Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Dagmar Słowiński GASTROPROCES",
+          "nip": "7281130240",
+          "regon": "140388381",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Władysława Reymonta",
+            "numerNieruchomosci": "4",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "Łódź",
+            "gminaMiastoDzielnica": "Łódź-Górna",
+            "miejscowosc": "Łódź",
+            "kodPocztowy": "93-491"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "cdd2d2d4-22f5-4bc2-bf44-ddc96a048880",
       "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
       "regon": "000939243",
@@ -3314,6 +3574,7 @@
       "przedmiotUmowy": "Prowadzenie warsztatów z wyplatania kószek podczas \"Dożynek Gminnych\" 2026",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/dc18bafe-8ba8-4416-a016-cb6d2d6d0332",
+      "detailsFetchedAt": "2026-11-07T11:48:07.957Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -3366,8 +3627,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "afd51c9f-5fe4-40a0-a949-806b538afce3",
@@ -3444,6 +3704,7 @@
       "przedmiotUmowy": "Określenie zasad współfinansowania przewozu zespołu z Boliwii, uczestniczącego w festiwalach folkloru w Ożarowie Mazowieckim i Strzegomiu",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4cc0c92a-cdc3-487a-8b24-9f6937d74589",
+      "detailsFetchedAt": "2026-11-07T11:54:11.835Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -3538,8 +3799,7 @@
         "dataPublikacji": "20.08.2026",
         "dataModyfikacji": "20.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "ffd17a59-b2a4-45a7-adc3-452c8dc9c48b",
@@ -5492,6 +5752,71 @@
       }
     },
     {
+      "idUmowy": "2a3b954e-2387-4911-8d86-396332bab940",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "28.08.2026",
+      "dataZakonczeniaUmowy": "03.11.2026",
+      "wartoscPrzedmiotuUmowy": 842.7,
+      "przedmiotUmowy": "dostawa artykułów do remontu instalacji oświetleniowo - elektrycznej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/2a3b954e-2387-4911-8d86-396332bab940",
+      "detailsFetchedAt": "2026-11-07T11:43:47.426Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "GRODNO SPÓŁKA AKCYJNA",
+          "nip": "5361097644",
+          "regon": "012144675",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Kwiatowa",
+            "numerNieruchomosci": "14",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "legionowski",
+            "gminaMiastoDzielnica": "Nieporęt",
+            "miejscowosc": "Michałów-Grabina",
+            "kodPocztowy": "05-126"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "103e378e-21a7-47ae-82c3-516c7702d0f2",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -5761,6 +6086,7 @@
       "przedmiotUmowy": "Zakup kostki brukowej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/425ffe31-0416-478f-beb6-29d44ecd0a95",
+      "detailsFetchedAt": "2026-11-07T11:48:11.206Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -5813,8 +6139,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "fb235c8d-8b8b-4ebd-b2b0-073cf7f8fd0d",
@@ -5826,6 +6151,7 @@
       "przedmiotUmowy": "Książki do księgozbioru Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/fb235c8d-8b8b-4ebd-b2b0-073cf7f8fd0d",
+      "detailsFetchedAt": "2026-11-07T11:49:30.472Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -5878,8 +6204,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "16f927eb-99ec-4978-8b57-740b7d92491f",
@@ -5891,6 +6216,7 @@
       "przedmiotUmowy": "ZAKUP FOTELA DLA WICESTAROSTY",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/16f927eb-99ec-4978-8b57-740b7d92491f",
+      "detailsFetchedAt": "2026-11-07T11:49:36.286Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -5943,8 +6269,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "29.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "5cf5e09e-4926-4422-8d7d-7985d3ef9d26",
@@ -5956,6 +6281,7 @@
       "przedmiotUmowy": "Wzmocnienie nawierzchni jezdni drogi powiatowej nr 4129W na odcinku o dł. ok. 500 m od skrzyżowania z drogą krajową nr 92 w m. Bronisze, gm. Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5cf5e09e-4926-4422-8d7d-7985d3ef9d26",
+      "detailsFetchedAt": "2026-11-07T11:52:14.868Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -6008,8 +6334,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "64e223c9-d7c8-49eb-b838-eadc38abb5d1",
@@ -6086,6 +6411,7 @@
       "przedmiotUmowy": "Wzmocnienie nawierzchni jezdni drogi powiatowej nr 4120W na odcinku o dł. ok. 1600 m od skrzyżowania z drogą powiatową nr 4121W w m. Pogroszew do drogi wojewódzkiej nr 718 w m. Umiastów, gm. Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9081ab33-b472-4499-8fea-081b80b5df4a",
+      "detailsFetchedAt": "2026-11-07T11:52:18.138Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -6138,8 +6464,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "5daf5aa5-e163-4064-a333-02284a8648e9",
@@ -6151,6 +6476,7 @@
       "przedmiotUmowy": "Wykonanie modernizacji rozdzielni w celu możliwości podłączenia agregatu prądotwórczego",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5daf5aa5-e163-4064-a333-02284a8648e9",
+      "detailsFetchedAt": "2026-11-07T11:52:33.214Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -6203,8 +6529,7 @@
         "dataPublikacji": "28.08.2026",
         "dataModyfikacji": "28.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "c857b047-5b8d-4d0a-a5cf-dbb91ed10212",
@@ -6216,6 +6541,7 @@
       "przedmiotUmowy": "Wykonanie modernizacji rozdzielni w 3 lokalizacjach w celu możliwości podłączenia agregatu prądotwórczego.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c857b047-5b8d-4d0a-a5cf-dbb91ed10212",
+      "detailsFetchedAt": "2026-11-07T11:53:09.197Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -6268,8 +6594,7 @@
         "dataPublikacji": "28.08.2026",
         "dataModyfikacji": "28.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "11d245e8-d409-48f6-b8dd-48f86aee76c2",
@@ -6346,6 +6671,7 @@
       "przedmiotUmowy": "usługa geodezyjna",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/806312fc-baff-4a50-bfd5-16052fdd7f3a",
+      "detailsFetchedAt": "2026-11-07T11:53:11.176Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -6419,8 +6745,7 @@
         "dataPublikacji": "27.08.2026",
         "dataModyfikacji": "27.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "38a43bad-ead0-42f5-8a6c-b59d08b41d60",
@@ -6432,6 +6757,7 @@
       "przedmiotUmowy": "Utrzymanie czystości w pomieszczeniach biurowych i sanitarnych Straży Miejskiej w Ożarowie Mazowieckim.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/38a43bad-ead0-42f5-8a6c-b59d08b41d60",
+      "detailsFetchedAt": "2026-11-07T11:55:41.673Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -6484,8 +6810,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "7d900b30-447d-486b-8d87-2afb4cad471e",
@@ -6497,6 +6822,7 @@
       "przedmiotUmowy": "Utrzymanie czystości w pomieszczeniach biurowych i sanitarnych Straży Miejskiej w Ożarowie Mazowieckim.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/7d900b30-447d-486b-8d87-2afb4cad471e",
+      "detailsFetchedAt": "2026-11-07T11:55:44.329Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -6549,8 +6875,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "7bfa24ea-fccc-4832-8c1f-206895f1b61f",
@@ -7333,6 +7658,136 @@
       }
     },
     {
+      "idUmowy": "39a07e30-0758-48e2-801b-9211d4f0af7b",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "27.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1200,
+      "przedmiotUmowy": "odbiór odpadów wielkogabarytowych",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/39a07e30-0758-48e2-801b-9211d4f0af7b",
+      "detailsFetchedAt": "2026-11-07T11:43:48.080Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"BYŚ\" WOJCIECH BYŚKINIEWICZ",
+          "nip": "1180094315",
+          "regon": "011773311",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Arkuszowa",
+            "numerNieruchomosci": "43",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Bielany",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-934"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "5 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "42ac7828-c5bc-4440-8b7f-d1a0b993b25e",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "27.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 7534.98,
+      "przedmiotUmowy": "przegląd i kontrola systemu detekcji gazu, wymiana akumulatora do systemu detekcji",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/42ac7828-c5bc-4440-8b7f-d1a0b993b25e",
+      "detailsFetchedAt": "2026-11-07T11:43:48.729Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "GIERZYŃSKI ENGINEERING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5252880078",
+          "regon": "520159330",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Zygmunta Krasińskiego",
+            "numerNieruchomosci": "58",
+            "numerLokalu": "23",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Żoliborz",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-755"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "6 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "b7017db1-ee2a-4064-8313-41644cca3999",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -7537,6 +7992,7 @@
       "przedmiotUmowy": "Zakup samochodu ratowniczego dla OSP Święcice",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2ac0dbe9-862c-4ec4-8662-fc475d5b6183",
+      "detailsFetchedAt": "2026-11-07T11:46:38.081Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7589,8 +8045,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "4d515f1d-9e7f-4b80-bcd4-51dfd6581fe0",
@@ -7862,6 +8317,7 @@
       "przedmiotUmowy": "Zapewnienie zamawiającemu możliwości korzystania z rozwiązania informatycznego pn. \"System do przeprowadzania wyborów do Młodzieżowej Rady w Ożarowie Mazowieckim, służącego do obsługi Młodzieżowej Rady w Ożarowie Mazowieckim e edycji na rok 2026 , w tym zgłaszania kandydatów i głosowania na nie poprzez sieć Internet.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0f65ce1d-dbd9-4520-b65d-59966983f30f",
+      "detailsFetchedAt": "2026-11-07T11:49:32.408Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7914,8 +8370,7 @@
         "dataPublikacji": "04.09.2026",
         "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "69a52261-9748-4008-b42a-131ad2d6454a",
@@ -7992,6 +8447,7 @@
       "przedmiotUmowy": "Kolacja dla kierowników zespołów folklorystycznych i przedstawicieli władz samorządowych oraz przygotowanie sprzętu konferencyjnego podczas kolacji z okazji X Międzynarodowego Festiwalu Folkloru - Ożarów Mazowiecki 2026",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/96806114-68d1-4e7a-b2b2-f40097d38a58",
+      "detailsFetchedAt": "2026-11-07T11:54:36.814Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -8044,8 +8500,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "1f10b10f-1790-402c-8e17-fb8cf0cf3fa4",
@@ -9283,6 +9738,71 @@
       "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
     },
     {
+      "idUmowy": "c760dd31-dce9-43a4-bc21-3b778aad2d55",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "26.10.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 543.6,
+      "przedmiotUmowy": "dostarczenie magnesów do oddziałów \"0\"",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c760dd31-dce9-43a4-bc21-3b778aad2d55",
+      "detailsFetchedAt": "2026-11-07T11:45:13.187Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MOJE BAMBINO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "7251933448",
+          "regon": "100283710",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Graniczna",
+            "numerNieruchomosci": "46",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "Łódź",
+            "gminaMiastoDzielnica": "Łódź-Górna",
+            "miejscowosc": "Łódź",
+            "kodPocztowy": "93-428"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "3 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "ebc092a9-f884-4153-85bc-e2fc406b4198",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -9409,6 +9929,136 @@
         "okres": "25 dni",
         "dataPublikacji": "29.10.2026",
         "dataModyfikacji": "29.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "953ac22b-458f-4cee-8f9a-192e6e906abe",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "26.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2200,
+      "przedmiotUmowy": "pranie dywanów w oddziałach \"0\" - 7 szt.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/953ac22b-458f-4cee-8f9a-192e6e906abe",
+      "detailsFetchedAt": "2026-11-07T11:43:56.526Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Będzie Pan Zadowolony Szymon Chmielewski",
+          "nip": "7681842524",
+          "regon": "383987676",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Herbu Oksza",
+            "numerNieruchomosci": "2",
+            "numerLokalu": "36",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ursus",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-495"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "8 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "b2fc6e2b-3953-4520-ba01-d2b062cc186f",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "26.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2808.09,
+      "przedmiotUmowy": "naprawa urządzenia czyszczącego powierzchnie płaskie na halach sportowych wraz z częściami",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/b2fc6e2b-3953-4520-ba01-d2b062cc186f",
+      "detailsFetchedAt": "2026-11-07T11:45:11.867Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ROBEX SERWIS 2 Marzena Starosz-Zalewska",
+          "nip": "5341524617",
+          "regon": "142369040",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wygonowa",
+            "numerNieruchomosci": "10B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Brwinów",
+            "miejscowosc": "Brwinów",
+            "kodPocztowy": "05-840"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -9812,6 +10462,7 @@
       "przedmiotUmowy": "Komponenty do przypinek",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/38ad0bce-49ef-4f5a-8200-6aedf64df29c",
+      "detailsFetchedAt": "2026-11-07T11:50:49.262Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -9864,8 +10515,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "14d30a1f-838b-48e4-af1b-254f2f786e62",
@@ -10462,6 +11112,7 @@
       "przedmiotUmowy": "Zakup artykułów biurowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/fd2e4742-f5e3-4729-8c6b-baf961d593b9",
+      "detailsFetchedAt": "2026-11-07T11:52:22.067Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -10514,8 +11165,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "5710ab9f-cb33-4beb-bc0e-cc9dcda57217",
@@ -10843,6 +11493,71 @@
       }
     },
     {
+      "idUmowy": "7f18b179-39f8-4d7e-9750-8646d1462760",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "25.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1250.16,
+      "przedmiotUmowy": "dostawa gier i pomocy dydaktycznych do świetlicy szkolnej na potrzeby akcji \"lato w miescie\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7f18b179-39f8-4d7e-9750-8646d1462760",
+      "detailsFetchedAt": "2026-11-07T11:43:51.970Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "KIER- WRZESIEŃ, MŁYNARSKI SPÓŁKA JAWNA",
+          "nip": "5210337458",
+          "regon": "011830983",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Tkaczy",
+            "numerNieruchomosci": "7C",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Bemowo",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-346"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "d388b0d8-5216-45c1-ab0c-aa35a101357b",
       "nazwa": "GMINNY SAMODZIELNY PUBLICZNY ZAKŁAD LECZNICTWA OTWARTEGO W OŻAROWIE MAZOWIECKIM",
       "regon": "016263572",
@@ -10967,6 +11682,71 @@
       "details": {
         "numerUmowy": "07/08/2026/1a",
         "okres": "2 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "d846c963-908c-4cfa-89f9-6ab311f22b93",
+      "nazwa": "GMINNY SAMODZIELNY PUBLICZNY ZAKŁAD LECZNICTWA OTWARTEGO W OŻAROWIE MAZOWIECKIM",
+      "regon": "016263572",
+      "dataZawarciaUmowy": "25.08.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 1113.01,
+      "przedmiotUmowy": "szczepionka PREVENAR 13 0,5ml amp.- strz.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d846c963-908c-4cfa-89f9-6ab311f22b93",
+      "detailsFetchedAt": "2026-11-07T11:45:16.728Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TRAMCO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5242625887",
+          "regon": "141098662",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wolska",
+            "numerNieruchomosci": "14",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Wolskie",
+            "kodPocztowy": "05-860"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY SAMODZIELNY PUBLICZNY ZAKŁAD LECZNICTWA OTWARTEGO W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181531025",
+          "regon": "016263572",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Marii Konopnickiej",
+            "numerNieruchomosci": "9",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "08/08/2026/1",
+        "okres": "1 dzień",
         "dataPublikacji": "06.11.2026",
         "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
@@ -11294,6 +12074,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "05.11.2026",
         "dataModyfikacji": "05.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "d5a27906-22fa-4903-8072-68820cc4404e",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "24.09.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 1291.5,
+      "przedmiotUmowy": "naprawa zmywarko - wyparzarki wraz częściami zamiennymi",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d5a27906-22fa-4903-8072-68820cc4404e",
+      "detailsFetchedAt": "2026-11-07T11:45:15.406Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "1.MPM SERWIS Mateusz Zaborowski 2. Zabez s.c. Mateusz Zaborowski wspólnik spółki cywilnej 3. KAPARA S.C. Mateusz Zaborowski wspólnik spółki cywilnej",
+          "nip": "8451917940",
+          "regon": "360131772",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Mikołaja Kopernika",
+            "numerNieruchomosci": "8",
+            "numerLokalu": "1",
+            "wojewodztwo": "WARMIŃSKO-MAZURSKIE",
+            "powiat": "węgorzewski",
+            "gminaMiastoDzielnica": "Węgorzewo",
+            "miejscowosc": "Węgorzewo",
+            "kodPocztowy": "11-600"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -11883,6 +12728,71 @@
       }
     },
     {
+      "idUmowy": "4833086c-0397-4900-8c93-b7b6794e2e8c",
+      "nazwa": "GMINNY SAMODZIELNY PUBLICZNY ZAKŁAD LECZNICTWA OTWARTEGO W OŻAROWIE MAZOWIECKIM",
+      "regon": "016263572",
+      "dataZawarciaUmowy": "24.08.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 7073.13,
+      "przedmiotUmowy": "Materiały biurowe i higieniczne",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/4833086c-0397-4900-8c93-b7b6794e2e8c",
+      "detailsFetchedAt": "2026-11-07T11:43:49.377Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PEJPE GÓRECKI, KACZMARSKI, KROŚNICKI SPÓŁKA JAWNA",
+          "nip": "5342488993",
+          "regon": "146413810",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Józefa Sułkowskiego",
+            "numerNieruchomosci": "71",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Piastów",
+            "miejscowosc": "Piastów",
+            "kodPocztowy": "05-820"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY SAMODZIELNY PUBLICZNY ZAKŁAD LECZNICTWA OTWARTEGO W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181531025",
+          "regon": "016263572",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Marii Konopnickiej",
+            "numerNieruchomosci": "9",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "03/08/2026/2",
+        "okres": "4 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "13951e33-c286-4d04-a72f-7882e3eaad76",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -12152,6 +13062,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć muzyczno-ruchowych z wykorzystaniem perkusji - Neurorytmy",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c111cbae-5a49-4c53-90bd-3f1d299a2d95",
+      "detailsFetchedAt": "2026-11-07T11:48:06.013Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12204,8 +13115,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "e0b197db-fde3-40b6-b7da-1ade017ec451",
@@ -12217,6 +13127,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć z krawiectwa i projektowania odzieży dla dzieci, mlodzieży i dorosłych oraz prowadzenie zajęć z malarstwa dla dorosłych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e0b197db-fde3-40b6-b7da-1ade017ec451",
+      "detailsFetchedAt": "2026-11-07T11:48:08.615Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12269,8 +13180,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "f1100cba-012a-449e-9285-07404a66bbd7",
@@ -12282,6 +13192,7 @@
       "przedmiotUmowy": "Szkolenie online",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f1100cba-012a-449e-9285-07404a66bbd7",
+      "detailsFetchedAt": "2026-11-07T11:52:21.410Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12334,8 +13245,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "01f6c3ee-7c6d-42c8-a071-f14bb3f7eafc",
@@ -12347,6 +13257,7 @@
       "przedmiotUmowy": "Białe logowane koperty",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/01f6c3ee-7c6d-42c8-a071-f14bb3f7eafc",
+      "detailsFetchedAt": "2026-11-07T11:52:22.718Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12399,8 +13310,7 @@
         "dataPublikacji": "31.08.2026",
         "dataModyfikacji": "31.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "89a8eb68-dbcf-4954-ae9d-7511be6f3546",
@@ -12412,6 +13322,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć \"balet dla dzieci\", \"akrobatyka dla dzieci\"",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/89a8eb68-dbcf-4954-ae9d-7511be6f3546",
+      "detailsFetchedAt": "2026-11-07T11:52:31.917Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12464,8 +13375,7 @@
         "dataPublikacji": "31.08.2026",
         "dataModyfikacji": "31.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "609329f9-5e00-4007-a4f0-34957b316fc8",
@@ -12477,6 +13387,7 @@
       "przedmiotUmowy": "szkolenie",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/609329f9-5e00-4007-a4f0-34957b316fc8",
+      "detailsFetchedAt": "2026-11-07T11:53:08.526Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12550,8 +13461,7 @@
         "dataPublikacji": "28.08.2026",
         "dataModyfikacji": "28.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "d5f2daa0-2a8b-4d62-add8-0903a29a1706",
@@ -12563,6 +13473,7 @@
       "przedmiotUmowy": "szkolenia dla pracowników OPS",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d5f2daa0-2a8b-4d62-add8-0903a29a1706",
+      "detailsFetchedAt": "2026-11-07T11:53:30.326Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12615,8 +13526,7 @@
         "dataPublikacji": "27.08.2026",
         "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "eb6a24c8-7f65-4a2a-a148-277e6c3f4540",
@@ -12628,6 +13538,7 @@
       "przedmiotUmowy": "Szkolenie dla pracowników OPS",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/eb6a24c8-7f65-4a2a-a148-277e6c3f4540",
+      "detailsFetchedAt": "2026-11-07T11:53:31.021Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12680,8 +13591,7 @@
         "dataPublikacji": "27.08.2026",
         "dataModyfikacji": "27.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "fa4af984-a91b-4a9b-a2c9-cd238a205596",
@@ -12888,6 +13798,7 @@
       "przedmiotUmowy": "Określenie zasad współfinansowania przewozu zespołu z Kanady, uczestniczącego w festiwalach folkloru w Koszęcinie i Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1d374f4b-cbfd-4176-b6a5-f1ee8ac6207d",
+      "detailsFetchedAt": "2026-11-07T11:53:35.712Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12982,8 +13893,7 @@
         "dataPublikacji": "21.08.2026",
         "dataModyfikacji": "21.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "50c49bb3-1f8c-461e-a302-fc33d0fb4995",
@@ -13896,6 +14806,71 @@
       }
     },
     {
+      "idUmowy": "7840f9ae-587a-436f-98af-6c0967fdcdad",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "23.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 659.96,
+      "przedmiotUmowy": "dostawa poradników dla nauczycieli edukacji zdrowotnej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7840f9ae-587a-436f-98af-6c0967fdcdad",
+      "detailsFetchedAt": "2026-11-07T11:43:51.325Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "EduThinkUp - Katarzyna Przybysz",
+          "nip": "5791857193",
+          "regon": "542415856",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "ce638fdc-0f5d-4530-bbe6-91b0702db506",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -13905,6 +14880,7 @@
       "przedmiotUmowy": "WYMIANA FILTRÓW OCZYSZCZAJĄCYCH WODĘ",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce638fdc-0f5d-4530-bbe6-91b0702db506",
+      "detailsFetchedAt": "2026-11-07T11:54:28.911Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -13957,8 +14933,7 @@
         "dataPublikacji": "20.08.2026",
         "dataModyfikacji": "20.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "f83428e4-e3d4-4912-84b6-cb6d87aa6a76",
@@ -13970,6 +14945,7 @@
       "przedmiotUmowy": "Współpraca przy przeprowadzeniu kampanii - Międzynarodowy Festiwal Folkloru",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f83428e4-e3d4-4912-84b6-cb6d87aa6a76",
+      "detailsFetchedAt": "2026-11-07T11:56:20.636Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -14022,8 +14998,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "6ecf734c-2173-4d54-9d21-2253e59fd802",
@@ -17664,6 +18639,71 @@
       }
     },
     {
+      "idUmowy": "a43b98b7-d506-41c1-bbcc-fa552bdccce4",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "21.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 7900,
+      "przedmiotUmowy": "dostawa i montaż monitora interaktywnego myBoard White Arrow 75\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a43b98b7-d506-41c1-bbcc-fa552bdccce4",
+      "detailsFetchedAt": "2026-11-07T11:43:57.840Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MENTOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+          "nip": "8522608259",
+          "regon": "321536232",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": "29A",
+            "numerLokalu": null,
+            "wojewodztwo": "ZACHODNIOPOMORSKIE",
+            "powiat": "policki",
+            "gminaMiastoDzielnica": "Kołbaskowo",
+            "miejscowosc": "Będargowo",
+            "kodPocztowy": "72-005"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "bf60479a-abbe-4775-aa89-cbc85e380f72",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -17738,6 +18778,7 @@
       "przedmiotUmowy": "Remont nawierzchni bezpiecznej z płyt prefabrykowanych EPDM na placu zabaw w Duchnicach.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e9754312-fb28-43b2-8f5c-b4d8f7f00cca",
+      "detailsFetchedAt": "2026-11-07T11:46:41.976Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -17790,8 +18831,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "934324cb-3c24-41b9-94c3-98a2b3f200f0",
@@ -17803,6 +18843,7 @@
       "przedmiotUmowy": "usługa usunięcia awarii na sieci wodociągowej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Ogrodowej 1 w miejscowości Płochocin",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/934324cb-3c24-41b9-94c3-98a2b3f200f0",
+      "detailsFetchedAt": "2026-11-07T11:50:50.560Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -17855,8 +18896,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "678b122d-be2a-4c99-addb-e48cf68b2a97",
@@ -17998,6 +19038,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć z akrobatyki w Broniszach w sezonie kulturalnym 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/3d18581d-028e-48de-87a6-5237d67e7bf9",
+      "detailsFetchedAt": "2026-11-07T11:53:36.375Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -18050,8 +19091,137 @@
         "dataPublikacji": "21.08.2026",
         "dataModyfikacji": "21.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
+    },
+    {
+      "idUmowy": "882ae5f0-81ae-492b-a00c-e7516fc27233",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "21.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 959.4,
+      "przedmiotUmowy": "aktywacja sieci monitoringu, monitorowanie sygnałów z systemu zabezpieczeń elektronicznych - Ochrona Standard Biznes, gotowość i podejmowanie interwencji zgodnie z pakietem usług - budynek dużej szkoły",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/882ae5f0-81ae-492b-a00c-e7516fc27233",
+      "detailsFetchedAt": "2026-11-07T11:43:53.921Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"OCHRONA JUWENTUS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272260025",
+          "regon": "016133711",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poloneza",
+            "numerNieruchomosci": "91",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ursynów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-826"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "391873/26/MZ",
+        "okres": null,
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ac622f23-a2a9-4e1a-8bba-4d55480f7b86",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "21.07.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 959.4,
+      "przedmiotUmowy": "aktywacja sieci monitoringu, monitorowanie sygnałów z systemu zabezpieczeń elektronicznych - Ochrona Standard Biznes, gotowość i podejmowanie interwencji zgodnie z pakietem usług - budynek małej szkoły",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ac622f23-a2a9-4e1a-8bba-4d55480f7b86",
+      "detailsFetchedAt": "2026-11-07T11:43:58.488Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"OCHRONA JUWENTUS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272260025",
+          "regon": "016133711",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poloneza",
+            "numerNieruchomosci": "91",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ursynów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-826"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "391874/26/MZ",
+        "okres": null,
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
     },
     {
       "idUmowy": "b1aed1fa-76b5-48c5-94de-09822544abdd",
@@ -18388,6 +19558,7 @@
       "przedmiotUmowy": "Świadczenie usługi serwisu eksploatacyjnego oprogramowania komputerowego: (SELWIN, SELWIN_WOJSKO, SELWIN_WYBORY)",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a22de965-600d-4661-8f61-afbc902cb1c2",
+      "detailsFetchedAt": "2026-11-07T11:49:34.346Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -18440,8 +19611,7 @@
         "dataPublikacji": "04.09.2026",
         "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "62a48a8f-d9e1-45b3-bc5d-0408c5f7b1ec",
@@ -18453,6 +19623,7 @@
       "przedmiotUmowy": "zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzenie ścieków na terenie miasta i gminy Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/62a48a8f-d9e1-45b3-bc5d-0408c5f7b1ec",
+      "detailsFetchedAt": "2026-11-07T11:53:35.055Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -18505,8 +19676,7 @@
         "dataPublikacji": "24.08.2026",
         "dataModyfikacji": "24.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "249506db-b889-492c-9638-8870f4de2718",
@@ -18518,6 +19688,7 @@
       "przedmiotUmowy": "WYMIANA OPRAW AWARYJNYCH I USZKODZONEJ CZUJKI",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/249506db-b889-492c-9638-8870f4de2718",
+      "detailsFetchedAt": "2026-11-07T11:54:29.571Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -18570,8 +19741,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "20.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "ef2db14f-352f-4430-a4d7-415499373153",
@@ -18583,6 +19753,7 @@
       "przedmiotUmowy": "Naprawa-korekta lakieru",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ef2db14f-352f-4430-a4d7-415499373153",
+      "detailsFetchedAt": "2026-11-07T11:55:12.630Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -18635,8 +19806,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "6ac4500e-aa09-411f-90b3-e905e62314a0",
@@ -18648,6 +19818,7 @@
       "przedmiotUmowy": "Szkolenie online",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6ac4500e-aa09-411f-90b3-e905e62314a0",
+      "detailsFetchedAt": "2026-11-07T11:55:43.661Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -18700,8 +19871,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "b24fa12f-7c60-4060-871e-dfe95df144b1",
@@ -19111,6 +20281,71 @@
         "okres": "90 dni",
         "dataPublikacji": "22.07.2026",
         "dataModyfikacji": "30.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ce5d4f9c-a600-44f3-834f-1d71e06535f9",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "20.10.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 921.5,
+      "przedmiotUmowy": "dostarczenie dywanu 2m x 3m do świetlicy szkolnej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce5d4f9c-a600-44f3-834f-1d71e06535f9",
+      "detailsFetchedAt": "2026-11-07T11:45:14.506Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MOJE BAMBINO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "7251933448",
+          "regon": "100283710",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Graniczna",
+            "numerNieruchomosci": "46",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "Łódź",
+            "gminaMiastoDzielnica": "Łódź-Górna",
+            "miejscowosc": "Łódź",
+            "kodPocztowy": "93-428"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -19839,6 +21074,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć szachowych w sezonie kulturalnym 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/b5b97bf7-03ff-43ac-9d3b-e0c5dd3ac81d",
+      "detailsFetchedAt": "2026-11-07T11:48:04.683Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -19891,8 +21127,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "dbf932ed-cbe6-49b0-807a-cd764565c105",
@@ -19904,6 +21139,7 @@
       "przedmiotUmowy": "Zakup artykułów gospodarczych i biurowych.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/dbf932ed-cbe6-49b0-807a-cd764565c105",
+      "detailsFetchedAt": "2026-11-07T11:49:27.888Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -19956,8 +21192,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "6035e9ff-15ce-4523-9c04-f35f85b9b696",
@@ -20034,6 +21269,7 @@
       "przedmiotUmowy": "Elementy ochronne do telefonów służbowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/acdb16e1-31b6-4ceb-8f4c-bf162b463162",
+      "detailsFetchedAt": "2026-11-07T11:53:31.706Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20086,8 +21322,7 @@
         "dataPublikacji": "26.08.2026",
         "dataModyfikacji": "26.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "37ea0a06-53a9-48dc-8e96-a15c1e7426b8",
@@ -20099,6 +21334,7 @@
       "przedmiotUmowy": "Wykonanie inwentaryzacji zieleni na terenie działki nr ew. 61/9 obręb 0023 Umiastów jednostka ewidencyjna 143206_5 Ożarów Mazowiecki w związku z budową boiska szkolnego przy SP Umiastów.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/37ea0a06-53a9-48dc-8e96-a15c1e7426b8",
+      "detailsFetchedAt": "2026-11-07T11:50:48.614Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20151,8 +21387,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "878353c1-2b9f-47d8-8aee-252554feb215",
@@ -20164,6 +21399,7 @@
       "przedmiotUmowy": "MEBLE NA WYMIAR",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/878353c1-2b9f-47d8-8aee-252554feb215",
+      "detailsFetchedAt": "2026-11-07T11:54:35.526Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20216,8 +21452,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "31.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "950c05f6-9c82-4b5a-8524-a24bd0864786",
@@ -20229,6 +21464,7 @@
       "przedmiotUmowy": "Teczki akt ewidencyjnych kierowcy KS-127",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/950c05f6-9c82-4b5a-8524-a24bd0864786",
+      "detailsFetchedAt": "2026-11-07T11:54:36.169Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20281,8 +21517,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "341aab9d-d78a-41b5-8714-3d79eac18f76",
@@ -22026,6 +23261,7 @@
       "przedmiotUmowy": "Wydruk plakatów informacyjno-promocyjnych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d69aad09-a2b8-4992-bfce-f80b291b4b32",
+      "detailsFetchedAt": "2026-11-07T11:53:33.036Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -22078,8 +23314,7 @@
         "dataPublikacji": "25.08.2026",
         "dataModyfikacji": "25.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "c9938ca9-4934-4794-8fe9-ba96db12e461",
@@ -22091,6 +23326,7 @@
       "przedmiotUmowy": "Usługa wydania kaszanki i kiełbasy grillowej oraz zapewnienia sprzętu eventowego w trakcie Dożynek Gminnych 2026",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c9938ca9-4934-4794-8fe9-ba96db12e461",
+      "detailsFetchedAt": "2026-11-07T11:55:11.286Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -22143,8 +23379,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "e5d9bceb-cb0e-4c88-bd3f-20944864b2ed",
@@ -22156,6 +23391,7 @@
       "przedmiotUmowy": "Usługa przygotowania i obsługi 7 sztuk garderób dla Artystów występujących podczas Dożynek Gminnych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e5d9bceb-cb0e-4c88-bd3f-20944864b2ed",
+      "detailsFetchedAt": "2026-11-07T11:55:11.944Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -22208,8 +23444,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "fc987128-314e-4293-8f09-801422bb3209",
@@ -22221,6 +23456,7 @@
       "przedmiotUmowy": "Usługa przygotowania i obsługi namiotu VIP wraz z cateringiem w trakcie Dożynek Gminnych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/fc987128-314e-4293-8f09-801422bb3209",
+      "detailsFetchedAt": "2026-11-07T11:55:13.292Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -22273,8 +23509,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "da6fb4b4-c3b5-4709-ae05-325e39e66048",
@@ -22848,6 +24083,7 @@
       "przedmiotUmowy": "Dostawa dwóch przewodów ciśnieniowych DN 2SC - 5mb oraz DN 2SC - 5mb.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/3c086104-b196-414c-9a31-67a3fc035930",
+      "detailsFetchedAt": "2026-11-07T11:46:38.731Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -22900,8 +24136,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "aeae7b35-d834-4865-9dfd-7569f7756f78",
@@ -22978,6 +24213,7 @@
       "przedmiotUmowy": "szkolenie dla pracownika pt.: \"Cyberbezpieczeństwo - nowe przepisy 2026\".",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5a5af559-cdb1-47cf-b28a-4b28b42e5354",
+      "detailsFetchedAt": "2026-11-07T11:53:32.373Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -23030,8 +24266,7 @@
         "dataPublikacji": "25.08.2026",
         "dataModyfikacji": "25.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "266768ce-40b4-4158-b756-4ada2120af89",
@@ -23043,6 +24278,7 @@
       "przedmiotUmowy": "Udostępnienie do korzystania przez uczestników wydarzenia dmuchanych atrakcji - Dożynki Gminne 2026",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/266768ce-40b4-4158-b756-4ada2120af89",
+      "detailsFetchedAt": "2026-11-07T11:55:40.350Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -23095,8 +24331,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "3fe76de0-3b40-4717-9cca-9332884023d0",
@@ -23108,6 +24343,7 @@
       "przedmiotUmowy": "\"Lalki motanki\" - warsztaty dla dorosłych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/3fe76de0-3b40-4717-9cca-9332884023d0",
+      "detailsFetchedAt": "2026-11-07T11:55:42.334Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -23160,8 +24396,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "c51080a2-fc1b-41b7-bd19-6aa5ae99e9f8",
@@ -23290,6 +24525,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "20.10.2026",
         "dataModyfikacji": "20.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "19c138c1-4cb1-4745-a6f6-49911b432989",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "17.09.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 385.65,
+      "przedmiotUmowy": "dostawa podręczników dla uczniów",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/19c138c1-4cb1-4745-a6f6-49911b432989",
+      "detailsFetchedAt": "2026-11-07T11:43:46.780Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BONITO.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "6762400623",
+          "regon": "120954264",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Komandosów",
+            "numerNieruchomosci": "1",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "krakowski",
+            "gminaMiastoDzielnica": "Wielka Wieś",
+            "miejscowosc": "Modlniczka",
+            "kodPocztowy": "32-085"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -24083,6 +25383,7 @@
       "przedmiotUmowy": "Wynajem sprzętu budowlanego - wiertnica",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/11546bc1-3eb3-4bde-822d-e36d22c010ca",
+      "detailsFetchedAt": "2026-11-07T11:45:25.659Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -24135,8 +25436,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "baedc10d-e07f-46a1-96f4-28885e1aed7a",
@@ -24148,6 +25448,7 @@
       "przedmiotUmowy": "Dostawa czterech luster szlifowanych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/baedc10d-e07f-46a1-96f4-28885e1aed7a",
+      "detailsFetchedAt": "2026-11-07T11:46:41.332Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -24200,8 +25501,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "bad54501-51f8-45a1-ab61-2a8b73c580b2",
@@ -24213,6 +25513,7 @@
       "przedmiotUmowy": "ZLOKALIZOWANIE PRZYCZYNY URUCHAMIANIA SIĘ ALARMU W POMIESZCZENIU A304a w BUDYNKU GŁÓWNYM SPWZ",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/bad54501-51f8-45a1-ab61-2a8b73c580b2",
+      "detailsFetchedAt": "2026-11-07T11:50:58.184Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -24265,8 +25566,7 @@
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "02.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "9808c7d6-c852-4924-90dd-c9b907cffdae",
@@ -24343,6 +25643,7 @@
       "przedmiotUmowy": "Sprzątanie pomieszczeń biurowych i sanitarnych w Urzędzie Miejskim w Ożarowie Mazowieckim, ul. Kolejowa 2 i ul. Poznańska 165",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ac7e7568-1b03-41e6-a679-171832476f58",
+      "detailsFetchedAt": "2026-11-07T11:53:29.644Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -24395,8 +25696,7 @@
         "dataPublikacji": "27.08.2026",
         "dataModyfikacji": "27.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "f7700e64-a865-41b8-9859-4f8599bfcea7",
@@ -25135,6 +26435,71 @@
       }
     },
     {
+      "idUmowy": "87f51a39-0924-4524-aa09-53aec743f418",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "16.09.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 1296.64,
+      "przedmiotUmowy": "pomoce dydaktyczne, gry i zabawy na akcję \"lato/zima w mieście\"",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/87f51a39-0924-4524-aa09-53aec743f418",
+      "detailsFetchedAt": "2026-11-07T11:43:53.273Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "KIER- WRZESIEŃ, MŁYNARSKI SPÓŁKA JAWNA",
+          "nip": "5210337458",
+          "regon": "011830983",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Tkaczy",
+            "numerNieruchomosci": "7C",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Bemowo",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-346"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "24958d7a-52f5-485d-af10-248be1586e85",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -25859,6 +27224,7 @@
       "przedmiotUmowy": "Zakup książek do księgozbioru",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/66d88583-c54e-4325-9eee-af0d7b23e73e",
+      "detailsFetchedAt": "2026-11-07T11:52:31.268Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -25911,8 +27277,7 @@
         "dataPublikacji": "31.08.2026",
         "dataModyfikacji": "31.08.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "9612ff7f-a2eb-41a7-8470-1a3128d46559",
@@ -27471,6 +28836,71 @@
       }
     },
     {
+      "idUmowy": "c5c75e51-aa72-4347-8ce0-506c4474bd6e",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "15.09.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 800,
+      "przedmiotUmowy": "szkolenie: rola, odpowiedzialność i zadania Rady Pedagogicznej w systemie kontroli zarządczej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c5c75e51-aa72-4347-8ce0-506c4474bd6e",
+      "detailsFetchedAt": "2026-11-07T11:45:12.526Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MENTORIO MARIA LUIZA WRONKA",
+          "nip": "6331995244",
+          "regon": "277819521",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Pomorska",
+            "numerNieruchomosci": "8",
+            "numerLokalu": "15",
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "Jastrzębie-Zdrój",
+            "gminaMiastoDzielnica": "Jastrzębie-Zdrój",
+            "miejscowosc": "Jastrzębie-Zdrój",
+            "kodPocztowy": "44-335"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "14 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "30ff2772-9a10-4645-aa1a-4c1adce4d555",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -27891,6 +29321,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/896dd9df-192d-4927-8bbc-fbb047a1085a",
+      "detailsFetchedAt": "2026-11-07T11:46:44.052Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -27943,8 +29374,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "8b5f0ba7-470e-4919-ac63-6417c7347e72",
@@ -27956,6 +29386,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/8b5f0ba7-470e-4919-ac63-6417c7347e72",
+      "detailsFetchedAt": "2026-11-07T11:46:44.697Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28008,8 +29439,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "9c7f4c30-2168-4db5-96a3-0806112364b6",
@@ -28021,6 +29451,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9c7f4c30-2168-4db5-96a3-0806112364b6",
+      "detailsFetchedAt": "2026-11-07T11:46:45.347Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28073,8 +29504,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "a788de3e-ee5e-40ce-b453-c3af657586b5",
@@ -28086,6 +29516,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a788de3e-ee5e-40ce-b453-c3af657586b5",
+      "detailsFetchedAt": "2026-11-07T11:46:46.651Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28138,8 +29569,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "eafb1e34-3e5b-42b6-bbd3-081121166dbe",
@@ -28151,6 +29581,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/eafb1e34-3e5b-42b6-bbd3-081121166dbe",
+      "detailsFetchedAt": "2026-11-07T11:46:47.971Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28203,8 +29634,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "ffa0c936-813b-4ce5-8952-51f47a083ecb",
@@ -28216,6 +29646,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ffa0c936-813b-4ce5-8952-51f47a083ecb",
+      "detailsFetchedAt": "2026-11-07T11:46:48.618Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28268,8 +29699,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "3012fc0a-760c-494d-91f5-1818fafa8c4c",
@@ -28281,6 +29711,7 @@
       "przedmiotUmowy": "Zastępstwo pracowników etatowych zatrudnionych w Gminnym Punkcie Zbierania Odpadów Problemowych w Umiastowie oraz sprzątanie terenu i czyszczenie kontenerów.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/3012fc0a-760c-494d-91f5-1818fafa8c4c",
+      "detailsFetchedAt": "2026-11-07T11:53:33.703Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28333,8 +29764,7 @@
         "dataPublikacji": "24.08.2026",
         "dataModyfikacji": "24.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "317df48e-8915-478e-9c83-3e06d2640798",
@@ -28411,6 +29841,7 @@
       "przedmiotUmowy": "Kompleksowa usługa związana z usuwaniem wyrobów zawierających azbest z terenu Gminy Ożarów Mazowiecki.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/499a3152-f281-4abd-b6bb-15c481401486",
+      "detailsFetchedAt": "2026-11-07T11:53:34.396Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28459,12 +29890,11 @@
       ],
       "details": {
         "numerUmowy": "WOŚiR.272.20.2026",
-        "okres": "109 dni",
+        "okres": "129 dni",
         "dataPublikacji": "24.08.2026",
-        "dataModyfikacji": "24.08.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "dae7846b-bbba-4946-9ec1-491ece8a64d5",
@@ -30881,6 +32311,7 @@
       "przedmiotUmowy": "Wykonanie dodatkowej studzienki wraz z odejściem w miejscowości Wolskie ul. Agrestowa",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1f793d11-021e-44ec-98d3-b886cacd80e1",
+      "detailsFetchedAt": "2026-11-07T11:51:03.852Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -30933,8 +32364,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "6d6a5e29-f765-45f9-994e-3554220970e3",
@@ -30946,6 +32376,7 @@
       "przedmiotUmowy": "Naprawa 2 koszy na Osiedlu Płochocin, naprawa 10szt. ławek w miasteczku ruchu w Płochocinie, naprawa daszku w tablicy informacyjnej na ul. Zaborowskiej",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6d6a5e29-f765-45f9-994e-3554220970e3",
+      "detailsFetchedAt": "2026-11-07T11:52:15.515Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -30998,8 +32429,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "83445233-c19f-4742-96fe-40487c97537c",
@@ -31011,6 +32441,7 @@
       "przedmiotUmowy": "Montaż 10szt tablic na słupach w Szkole Podstawowej nr 1 w Ożarowie Mazowieckim i Szkole Podstawowej w Płochocinie.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/83445233-c19f-4742-96fe-40487c97537c",
+      "detailsFetchedAt": "2026-11-07T11:52:17.470Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -31063,8 +32494,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "bebed2e5-d6a1-4a32-9eb2-7f10c90435cf",
@@ -31076,6 +32506,7 @@
       "przedmiotUmowy": "Zakup siedzisk kubełkowych i siedzisk płaskich do huśtawek na placach zabaw.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/bebed2e5-d6a1-4a32-9eb2-7f10c90435cf",
+      "detailsFetchedAt": "2026-11-07T11:52:18.786Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -31128,8 +32559,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "cfc806d1-df74-4f5e-bbcb-b9c11ac53c58",
@@ -31141,6 +32571,7 @@
       "przedmiotUmowy": "Wykonanie prac polegających na wymianie okienka \"bulaj\" i naprawa ławki i siedziska tyrolki plac zabaw w Ołtarzewie, naprawa zestawu zabawkowego plac zabaw w Wolskich, naprawa linek drabinki i wymiana 4 podestów w zestawie zabawkowym.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/cfc806d1-df74-4f5e-bbcb-b9c11ac53c58",
+      "detailsFetchedAt": "2026-11-07T11:52:19.450Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -31193,8 +32624,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "efd593b1-7c99-49cf-8ba6-4b4f40066c1e",
@@ -31986,6 +33416,7 @@
       "przedmiotUmowy": "Szkolenie - Koordynacja opieki długoterminowej",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6d0fed89-e771-46aa-af5d-3b4f8d5c170b",
+      "detailsFetchedAt": "2026-11-07T11:49:33.700Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -32038,8 +33469,7 @@
         "dataPublikacji": "04.09.2026",
         "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "244fcf80-d490-4c44-b546-7c1bec6d32fd",
@@ -32051,6 +33481,7 @@
       "przedmiotUmowy": "zakup książek do księgozbioru",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/244fcf80-d490-4c44-b546-7c1bec6d32fd",
+      "detailsFetchedAt": "2026-11-07T11:52:29.968Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -32103,8 +33534,7 @@
         "dataPublikacji": "31.08.2026",
         "dataModyfikacji": "31.08.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "31da2d72-a06f-4d0d-a60c-9ac4fcab09fe",
@@ -32116,6 +33546,7 @@
       "przedmiotUmowy": "Zakup książek do Księgozbioru Filii nr 1 w Józefowie",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/31da2d72-a06f-4d0d-a60c-9ac4fcab09fe",
+      "detailsFetchedAt": "2026-11-07T11:52:30.618Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -32168,8 +33599,7 @@
         "dataPublikacji": "31.08.2026",
         "dataModyfikacji": "31.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "bdd4693f-6573-4ad3-afd9-8eade9373ac7",
@@ -32181,6 +33611,7 @@
       "przedmiotUmowy": "Wydruk plakatów B1 oraz B2 na Dożynki Gminne 2026",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/bdd4693f-6573-4ad3-afd9-8eade9373ac7",
+      "detailsFetchedAt": "2026-11-07T11:55:45.674Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -32233,8 +33664,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "0314ea99-8717-460e-b0f8-4354267d875e",
@@ -32961,6 +34391,7 @@
       "przedmiotUmowy": "zakup czytników kodów kreskowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ee1269fa-5d3f-4255-97fc-f0d37c14dd81",
+      "detailsFetchedAt": "2026-11-07T11:49:29.178Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33013,8 +34444,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "0d7fde7d-0865-4ee5-ac18-30e2aef5eac3",
@@ -33026,6 +34456,7 @@
       "przedmiotUmowy": "Program antywirusowy",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0d7fde7d-0865-4ee5-ac18-30e2aef5eac3",
+      "detailsFetchedAt": "2026-11-07T11:49:31.762Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33078,8 +34509,7 @@
         "dataPublikacji": "04.09.2026",
         "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "1d300aa9-14c4-4498-b0e7-5c37d0897549",
@@ -33091,6 +34521,7 @@
       "przedmiotUmowy": "Zakup kostek do ładowarek",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1d300aa9-14c4-4498-b0e7-5c37d0897549",
+      "detailsFetchedAt": "2026-11-07T11:53:09.857Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33143,8 +34574,7 @@
         "dataPublikacji": "27.08.2026",
         "dataModyfikacji": "27.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "ac346104-7525-4af7-94f9-56cc06c7fb1a",
@@ -33156,6 +34586,7 @@
       "przedmiotUmowy": "Zakup artykułów spożywczych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ac346104-7525-4af7-94f9-56cc06c7fb1a",
+      "detailsFetchedAt": "2026-11-07T11:53:28.986Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33208,8 +34639,7 @@
         "dataPublikacji": "27.08.2026",
         "dataModyfikacji": "27.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "17aa7734-d284-4c25-80e0-6b789920353b",
@@ -33221,6 +34651,7 @@
       "przedmiotUmowy": "PRZEDŁUŻENIE LICENCJI XDR OPROGRAMOWANIA ESET PROTECT",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/17aa7734-d284-4c25-80e0-6b789920353b",
+      "detailsFetchedAt": "2026-11-07T11:54:09.853Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33273,8 +34704,7 @@
         "dataPublikacji": "20.08.2026",
         "dataModyfikacji": "20.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "68596790-6d24-4636-8afe-54ce04cab70d",
@@ -33286,6 +34716,7 @@
       "przedmiotUmowy": "Wymiana pompek skroplin w PCPR POK 214. i WTiK pok. C007 oraz naprawa 5 odpływów",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/68596790-6d24-4636-8afe-54ce04cab70d",
+      "detailsFetchedAt": "2026-11-07T11:54:32.888Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33338,8 +34769,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "0e8d20b8-dff4-41fb-8271-9920e1c4d6ac",
@@ -33351,6 +34781,7 @@
       "przedmiotUmowy": "Element ochronny do telefonu służbowego",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0e8d20b8-dff4-41fb-8271-9920e1c4d6ac",
+      "detailsFetchedAt": "2026-11-07T11:55:21.812Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33403,8 +34834,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "2fd85c91-c77d-4fdb-8fe4-c9203da259c9",
@@ -33416,6 +34846,7 @@
       "przedmiotUmowy": "Elementy ochronne do telefonów służbowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2fd85c91-c77d-4fdb-8fe4-c9203da259c9",
+      "detailsFetchedAt": "2026-11-07T11:55:41.012Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33468,8 +34899,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "4c26abcf-18bd-49c0-a576-7e430b4c816a",
@@ -33481,6 +34911,7 @@
       "przedmiotUmowy": "Projekt i wydruk ulotek - Ogrody Sztuki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4c26abcf-18bd-49c0-a576-7e430b4c816a",
+      "detailsFetchedAt": "2026-11-07T11:55:42.998Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33533,8 +34964,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "369028f9-3abf-498e-9399-de844e1399b1",
@@ -33663,6 +35093,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "13.10.2026",
         "dataModyfikacji": "13.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "cb0cb614-9509-4f07-a4b8-33a62ad4b9fb",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "11.09.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 383.64,
+      "przedmiotUmowy": "dostawa podręczników dla uczniów",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/cb0cb614-9509-4f07-a4b8-33a62ad4b9fb",
+      "detailsFetchedAt": "2026-11-07T11:45:13.847Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BONITO.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "6762400623",
+          "regon": "120954264",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Komandosów",
+            "numerNieruchomosci": "1",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "krakowski",
+            "gminaMiastoDzielnica": "Wielka Wieś",
+            "miejscowosc": "Modlniczka",
+            "kodPocztowy": "32-085"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -34521,6 +36016,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć tanecznych i gimnastycznych w sezonie kulturalnym 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/13ad7752-74aa-4506-8f01-3e8bd3572581",
+      "detailsFetchedAt": "2026-11-07T11:45:26.325Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -34573,8 +36069,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "fa946122-5d21-446d-bf3e-83dd3c45cd1e",
@@ -34716,6 +36211,7 @@
       "przedmiotUmowy": "Zakup monitorów do Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/15ce9b49-e24b-4547-8c59-bd8ce77941f5",
+      "detailsFetchedAt": "2026-11-07T11:48:09.914Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -34768,8 +36264,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "f5f4f4eb-a91b-420c-ae90-9f827f7ffffa",
@@ -34781,6 +36276,7 @@
       "przedmiotUmowy": "Zakup komputerów do Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f5f4f4eb-a91b-420c-ae90-9f827f7ffffa",
+      "detailsFetchedAt": "2026-11-07T11:49:29.823Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -34833,8 +36329,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "f67be0f0-a303-435b-b95e-456bace08266",
@@ -34846,6 +36341,7 @@
       "przedmiotUmowy": "Odnowienie subskrypcji i wsparcia technicznego dla urządzenia FortiWiFi-71G z pakietem licencyjnym na kolejnych 12 miesięcy.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f67be0f0-a303-435b-b95e-456bace08266",
+      "detailsFetchedAt": "2026-11-07T11:49:31.117Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -34898,8 +36394,7 @@
         "dataPublikacji": "07.09.2026",
         "dataModyfikacji": "07.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "214f67c5-8979-4bed-9b47-5d501092c91b",
@@ -34911,6 +36406,7 @@
       "przedmiotUmowy": "usługa usunięcia awarii wodociągowej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Zabytkowej 4 m 5 w miejscowości Płochocin",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/214f67c5-8979-4bed-9b47-5d501092c91b",
+      "detailsFetchedAt": "2026-11-07T11:49:36.933Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -34963,8 +36459,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "9049bfa3-3d91-4428-859c-4f394f8b8dc7",
@@ -35928,6 +37423,7 @@
       "przedmiotUmowy": "Naprawa szafy sterującej pompami w pływalni GOSiR",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1f88370e-9f51-4c50-b6e0-bad5442f1a5b",
+      "detailsFetchedAt": "2026-11-07T11:46:37.435Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -35980,8 +37476,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "c5ddd316-57a0-4452-9154-434f89c65f78",
@@ -35993,6 +37488,7 @@
       "przedmiotUmowy": "WYSADZENIE 300 SZT KLEMATISÓW WZDŁUŻ OGRODZENIA BOISKA SPORTOWEGO |(70M), WYSYPANIE RABAT ZRĘBKAMI",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c5ddd316-57a0-4452-9154-434f89c65f78",
+      "detailsFetchedAt": "2026-11-07T11:50:58.835Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -36045,8 +37541,7 @@
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "02.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "79d77d39-92f0-4ce3-aa4a-326f32167833",
@@ -37456,6 +38951,71 @@
       }
     },
     {
+      "idUmowy": "d5e209f0-548e-48c0-8166-5f7cb9ecc60b",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "09.09.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 2214,
+      "przedmiotUmowy": "remont instalacji elektrycznej w sali lekcyjnej wraz z materiałami",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d5e209f0-548e-48c0-8166-5f7cb9ecc60b",
+      "detailsFetchedAt": "2026-11-07T11:45:16.070Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Artur Gałązka ELBRO ARTUR GAŁĄZKA",
+          "nip": "5342362973",
+          "regon": "141987161",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Orla",
+            "numerNieruchomosci": "1A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Brwinów",
+            "miejscowosc": "Brwinów",
+            "kodPocztowy": "05-840"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "f01f343d-95fb-47fe-b185-21f785354ed7",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -37725,6 +39285,7 @@
       "przedmiotUmowy": "Zakup podręczników PRIDE",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/66eba2cc-e4e5-4d3a-8575-63f9c80f7cb5",
+      "detailsFetchedAt": "2026-11-07T11:46:43.302Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -37777,8 +39338,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "4847bfb2-08be-4432-bbdd-8f5d336fac95",
@@ -37790,6 +39350,7 @@
       "przedmiotUmowy": "Opracowanie Programu\nFunkcjonalno – Użytkowego obiektu budowlanego, pełniącego funkcję ukrycia kategorii\nU-1 oraz garażu podziemnego, wraz z niezbędną infrastrukturą techniczną.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4847bfb2-08be-4432-bbdd-8f5d336fac95",
+      "detailsFetchedAt": "2026-11-07T11:48:00.747Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -37842,8 +39403,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "7b839348-0747-422f-a5df-015226143b5b",
@@ -39056,6 +40616,71 @@
       }
     },
     {
+      "idUmowy": "f006635b-5902-4d84-a87e-330697128ac6",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "08.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2000,
+      "przedmiotUmowy": "licencja partnerska PIXBLOCKS - 12 m-cy, do 300 kont ucznia",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f006635b-5902-4d84-a87e-330697128ac6",
+      "detailsFetchedAt": "2026-11-07T11:45:19.370Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PIXBLOCKS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "9721304226",
+          "regon": "384602230",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "al. Zwycięstwa",
+            "numerNieruchomosci": "241",
+            "numerLokalu": "13",
+            "wojewodztwo": "POMORSKIE",
+            "powiat": "Gdynia",
+            "gminaMiastoDzielnica": "Gdynia",
+            "miejscowosc": "Gdynia",
+            "kodPocztowy": "81-521"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 rok",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "d10cc479-81d9-40e9-808b-0eae834ec10b",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -39476,6 +41101,7 @@
       "przedmiotUmowy": "Projekt graficzny plakatu\ninformacyjnego",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5fef319d-f596-4440-a566-0b92357c3718",
+      "detailsFetchedAt": "2026-11-07T11:48:02.701Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39528,8 +41154,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "876fbe2e-d53b-493e-9bec-8f6d1c90ce2b",
@@ -40419,6 +42044,71 @@
       }
     },
     {
+      "idUmowy": "58f1150e-2481-4f28-b867-fb15424867bd",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "07.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 22017,
+      "przedmiotUmowy": "wykonanie zabudowy meblowej recepcji w budynku dużej szkoły",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/58f1150e-2481-4f28-b867-fb15424867bd",
+      "detailsFetchedAt": "2026-11-07T11:43:50.025Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BLOW MEBLE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182277669",
+          "regon": "527556703",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Ożarowska",
+            "numerNieruchomosci": "83 I",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "c2dc5dd7-568a-4f84-ad0b-77eda6d968d1",
       "nazwa": "GMINNY SAMODZIELNY PUBLICZNY ZAKŁAD LECZNICTWA OTWARTEGO W OŻAROWIE MAZOWIECKIM",
       "regon": "016263572",
@@ -41120,6 +42810,7 @@
       "przedmiotUmowy": "Remont terenu rekreacyjnego i placu zabaw w Broniszach. -rekonstrukcja piaskownicy - naprawa i odnowienie zjeżdżalni wraz z drabinką - prace wykończeniowe i uporządkowanie terenu",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6bc5bde2-f1bb-4f67-8282-b423136a0507",
+      "detailsFetchedAt": "2026-11-07T11:46:39.378Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41172,8 +42863,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "982fbbfd-9146-4188-80d3-0c26613aac30",
@@ -41185,6 +42875,7 @@
       "przedmiotUmowy": "dostawa solanki do tężni solankowej w Ołtarzewie.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/982fbbfd-9146-4188-80d3-0c26613aac30",
+      "detailsFetchedAt": "2026-11-07T11:46:40.023Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41237,8 +42928,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "0db7a8c3-4bd1-4582-b19a-9ad8883e8419",
@@ -41250,6 +42940,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć muzycznych - nauka gry na keyboardzie i nauka gry na skrzypcach w Domu Kultury \"Uśmiech\" ul. Poznańska 165 w Ożarowie Mazowieckim.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0db7a8c3-4bd1-4582-b19a-9ad8883e8419",
+      "detailsFetchedAt": "2026-11-07T11:47:59.438Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41302,8 +42993,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "be1c6dae-3768-4707-adc0-ee7324e9e747",
@@ -41380,6 +43070,7 @@
       "przedmiotUmowy": "Wzmocnienie nawierzchni jezdni drogi powiatowej nr 4103W na odcinku o dł. ok. 300 mb. w m. Konstantów, Nowe Faszczyce i Stare Faszczyce, gm. Błonie (etap II)",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/77d7459c-28db-4322-94e9-a19695c12acc",
+      "detailsFetchedAt": "2026-11-07T11:49:24.391Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41432,8 +43123,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "9c5b054a-ca3d-4dc3-8547-73600a5c0a6a",
@@ -41445,6 +43135,7 @@
       "przedmiotUmowy": "Dostawa czterech przewodów ciśnieniowych DN06 o długości 25mb, 27 mb, 32mb, 30mb",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9c5b054a-ca3d-4dc3-8547-73600a5c0a6a",
+      "detailsFetchedAt": "2026-11-07T11:46:40.671Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41497,8 +43188,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "50f6d021-0d1a-4289-830d-fd200a0348cb",
@@ -41510,6 +43200,7 @@
       "przedmiotUmowy": "usługa usunięcia awarii na sieci wodociągowej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Fabrycznej w miejscowości Płochocin",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/50f6d021-0d1a-4289-830d-fd200a0348cb",
+      "detailsFetchedAt": "2026-11-07T11:50:49.910Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41562,8 +43253,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "ce812123-f397-4509-8e6f-d07b07179476",
@@ -41575,6 +43265,7 @@
       "przedmiotUmowy": "usunięcia awarii na sieci wodociągowej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Wiejskiej 11 w miejscowości Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce812123-f397-4509-8e6f-d07b07179476",
+      "detailsFetchedAt": "2026-11-07T11:50:51.858Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41627,8 +43318,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "de23c4fc-a410-492b-96a7-bf7995422fb2",
@@ -41640,6 +43330,7 @@
       "przedmiotUmowy": "ZAKUP PIECZĄTEK W SIERPNIU 2006",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/de23c4fc-a410-492b-96a7-bf7995422fb2",
+      "detailsFetchedAt": "2026-11-07T11:50:54.943Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41692,8 +43383,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "77ef214c-f580-46d7-9161-1332a07d30d9",
@@ -41705,6 +43395,7 @@
       "przedmiotUmowy": "Powtórzenie podobnych usług projektowych do umowy Nr RZP.272.19.35.B.2025 z dnia 08 lipca 2025 r., polegających na przygotowaniu dokumentacji projektowej wraz z uzyskaniem wszelkiej dokumentacji formalno – prawnej umożliwiającej zrealizowanie inwestycji polegającej na: Rozbudowie dróg gminnych ulic Strumykowej, Poprzecznej, Karłowicza w Wolicy – Rozszerzenie umowy podstawowej o rozbudowę projektowanego skrzyżowania drogi gminnej 19KDD oraz ul. Parkowej z drogą wojewódzką nr 700 ulicą Warszawską w związku z uzgodnieniem z MZDW w Warszawie konieczności rozbudowy skrzyżowania celem prawidłowej i bezpiecznej obsługi komunikacyjnej",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/77ef214c-f580-46d7-9161-1332a07d30d9",
+      "detailsFetchedAt": "2026-11-07T11:52:16.824Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41757,8 +43448,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "a8ae775a-acde-4382-b525-2cab6e86cc64",
@@ -41835,6 +43525,7 @@
       "przedmiotUmowy": "Zakup magnesów na samochód",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/15f35be4-7eba-41ae-9df8-c584d38dfcb4",
+      "detailsFetchedAt": "2026-11-07T11:54:09.189Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41887,8 +43578,7 @@
         "dataPublikacji": "20.08.2026",
         "dataModyfikacji": "20.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "81072992-b53b-4fab-b1b3-6361dc6a5610",
@@ -41900,6 +43590,7 @@
       "przedmiotUmowy": "Mycie okien i przeszkleń na elewacji budynków SPWZ",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/81072992-b53b-4fab-b1b3-6361dc6a5610",
+      "detailsFetchedAt": "2026-11-07T11:54:34.875Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41952,8 +43643,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "e77eb490-9c91-4560-9524-f2e573747ab6",
@@ -43414,6 +45104,7 @@
       "przedmiotUmowy": "Wykonanie projektu plakatu wydarzenia: I Powiatowa Konferencja Senioralna \"Profilaktyka a Zdrowie Seniora\" oraz II turniej brydża sportowego dla zaawansowanych seniorów z powiatu warszawskiego zachodniego",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/40ab4a31-abaa-47c8-88e2-daccc0bac258",
+      "detailsFetchedAt": "2026-11-07T11:49:33.054Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -43466,8 +45157,7 @@
         "dataPublikacji": "04.09.2026",
         "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "83da6326-0966-499b-b17a-efdddba82c2d",
@@ -43544,6 +45234,7 @@
       "przedmiotUmowy": "ZAKUP I AKTYWACJA PODPISU KWALIFIKOWANEGO - DLA SKARBNIKA POWIATU",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6d7ba970-c565-4566-a915-fc2fb40592df",
+      "detailsFetchedAt": "2026-11-07T11:54:33.584Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -43596,8 +45287,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "9f7cb072-e8d9-47a9-bd87-0aa5356ea15e",
@@ -43609,6 +45299,7 @@
       "przedmiotUmowy": "ZAKUP DEFLEKTORÓW DO KLIMATYZACJI",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9f7cb072-e8d9-47a9-bd87-0aa5356ea15e",
+      "detailsFetchedAt": "2026-11-07T11:54:37.462Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -43661,8 +45352,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "6fb0d738-d2f9-4fe9-9d97-fe99638a448f",
@@ -43999,6 +45689,7 @@
       "przedmiotUmowy": "zakup pieczątek w miesiącu Lipcu 2026",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/7b0204bf-1e22-4332-b9ea-3a01ec70ad04",
+      "detailsFetchedAt": "2026-11-07T11:54:34.231Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -44051,8 +45742,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "33fc489a-807a-4319-9894-5c477bc247c9",
@@ -44525,6 +46215,71 @@
       "details": {
         "numerUmowy": null,
         "okres": "20 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "5c4157f8-a5f4-49dc-b7a4-9baf354e1a37",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "05.10.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 456.08,
+      "przedmiotUmowy": "wykonanie legitymacji szkolnych wraz z hologramami dla uczniów (46 osób)",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5c4157f8-a5f4-49dc-b7a4-9baf354e1a37",
+      "detailsFetchedAt": "2026-11-07T11:43:50.677Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Magdalena Margas Fotografia i Reklama",
+          "nip": "1132736000",
+          "regon": "142538778",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Żytnia",
+            "numerNieruchomosci": "21D",
+            "numerLokalu": "1",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Michałowice",
+            "miejscowosc": "Reguły",
+            "kodPocztowy": "05-816"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
         "dataPublikacji": "06.11.2026",
         "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
@@ -45450,6 +47205,7 @@
       "przedmiotUmowy": "MODERNIZACJA NAWIERZCHNI DRÓG W GMINIE OŻARÓW MAZOWIECKI Z PODZIAŁEM NA 2 CZĘŚCI: A – MODERNIZACJA UL. REYMONTA – OD ZAMOYSKIEGO DO KOŚCIUSZKI ORAZ MODERNIZACJA UL. REYMONTA – OD UL. SOWIŃSKIEGO DO HALLERA B - MODERNIZACJA UL. WIOSENNEJ",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/717978ea-8d20-4a86-a4db-99cff1fbd3d9",
+      "detailsFetchedAt": "2026-11-07T11:52:16.175Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45502,8 +47258,7 @@
         "dataPublikacji": "01.09.2026",
         "dataModyfikacji": "01.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "2221e1c4-9efd-49c3-8246-ddc42b0436c5",
@@ -45515,6 +47270,7 @@
       "przedmiotUmowy": "Promocja Gminy Ożarów Mazowiecki podczas przygotowań i startu w Spartathlon Ultra Race w dniach 26-27.09.2026r. w Grecji",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2221e1c4-9efd-49c3-8246-ddc42b0436c5",
+      "detailsFetchedAt": "2026-11-07T11:54:10.514Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45567,8 +47323,7 @@
         "dataPublikacji": "20.08.2026",
         "dataModyfikacji": "20.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "4b7d51c1-9707-4c36-93c0-fdb929aee3c1",
@@ -45580,6 +47335,7 @@
       "przedmiotUmowy": "Promowanie kultury i tradycji kulinarnych przez Koło Gospodyń Wiejskich Galimatjas",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4b7d51c1-9707-4c36-93c0-fdb929aee3c1",
+      "detailsFetchedAt": "2026-11-07T11:54:11.175Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45632,8 +47388,7 @@
         "dataPublikacji": "20.08.2026",
         "dataModyfikacji": "20.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "b95d1d51-4626-4cc4-89c1-7e77af4e46d7",
@@ -45645,6 +47400,7 @@
       "przedmiotUmowy": "Ożarowscy seniorzy poznają atrakcje polskiego wybrzeża",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/b95d1d51-4626-4cc4-89c1-7e77af4e46d7",
+      "detailsFetchedAt": "2026-11-07T11:54:28.252Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45697,8 +47453,7 @@
         "dataPublikacji": "20.08.2026",
         "dataModyfikacji": "20.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "fe4c94d1-3c86-4900-9d16-640d75afeb77",
@@ -45710,6 +47465,7 @@
       "przedmiotUmowy": "ZAKUP SEPARATORÓW DO SKANERÓW 17 SZT",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/fe4c94d1-3c86-4900-9d16-640d75afeb77",
+      "detailsFetchedAt": "2026-11-07T11:55:13.948Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45762,8 +47518,7 @@
         "dataPublikacji": "19.08.2026",
         "dataModyfikacji": "19.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "9d971ec6-33c9-4a49-9896-8799fc8f4d7f",
@@ -45775,6 +47530,7 @@
       "przedmiotUmowy": "Zakup artykułów spożywczych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9d971ec6-33c9-4a49-9896-8799fc8f4d7f",
+      "detailsFetchedAt": "2026-11-07T11:55:45.002Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45827,8 +47583,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "2a557bf0-adda-48d6-abc8-8abfd9b8eb27",
@@ -47335,6 +49090,7 @@
       "przedmiotUmowy": "Aktualizacja projektu oraz przedmiaru/kosztorysu – ścieżka w zadrzewieniach śródpolnych w miejscowości Kręczki Kaputy i Strzykuły uwzględniając koncepcję budowy drogi gminnej na dz. ewid. nr.6/181 obręb PGR Kręczki Kaputy, 8/143, 8/148, 211 w obrębie PGR Strzykuły z podziałem na etapy.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6e7b169d-cc62-49a2-8072-7cb146daaa3a",
+      "detailsFetchedAt": "2026-11-07T11:45:20.691Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -47387,8 +49143,7 @@
         "dataPublikacji": "14.09.2026",
         "dataModyfikacji": "14.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "51120e6e-3f8a-4811-a6de-401d64a91d1c",
@@ -47400,6 +49155,7 @@
       "przedmiotUmowy": "SZKOLENIE ZEWNĘTRZNE \"KLASYFIKACJA BUDŻETOWA 2027-PRAKTYCZNE ASPEKTY DLA JEDNOSTEK SEKTORA PUBLICZNEGO PO ZMIANACH PRZEPISÓW",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/51120e6e-3f8a-4811-a6de-401d64a91d1c",
+      "detailsFetchedAt": "2026-11-07T11:48:02.055Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -47452,8 +49208,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "75c89144-37a2-4c81-b02c-d53d437080e0",
@@ -47465,6 +49220,7 @@
       "przedmiotUmowy": "Szkolenie Zmiany w VAT od 1 października 2026r oraz w raportowaniu schematów podatkowych przez JST i JO",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/75c89144-37a2-4c81-b02c-d53d437080e0",
+      "detailsFetchedAt": "2026-11-07T11:48:03.348Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -47517,8 +49273,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "b8d2929e-180c-401b-897e-1116d18a0063",
@@ -47530,6 +49285,7 @@
       "przedmiotUmowy": "Przewóz pracowników DK Uśmiech do Osady Puszczańskiej w ramach organizacji wyjazdu integracyjnego",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/b8d2929e-180c-401b-897e-1116d18a0063",
+      "detailsFetchedAt": "2026-11-07T11:48:05.363Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -47582,8 +49338,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "5ce74e8c-6327-4900-a133-12756e42cb72",
@@ -47595,6 +49350,7 @@
       "przedmiotUmowy": "Zakup gier planszowych do Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5ce74e8c-6327-4900-a133-12756e42cb72",
+      "detailsFetchedAt": "2026-11-07T11:49:23.742Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -47647,8 +49403,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "59af39d3-3d79-4505-9f97-6693072b46b7",
@@ -48106,6 +49861,71 @@
       }
     },
     {
+      "idUmowy": "93e86301-0722-4f85-b1e8-efb27169a18b",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "03.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 861,
+      "przedmiotUmowy": "przeprowadzenie szkolenia Dyrektora z zakresu zmian przepisów prawa oświatowego mających wpływ na statut jednostki oraz zasad techniki prawodawczej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/93e86301-0722-4f85-b1e8-efb27169a18b",
+      "detailsFetchedAt": "2026-11-07T11:43:55.874Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Aldona Stanek EMPIRIA DUO",
+          "nip": "6331547735",
+          "regon": "541267827",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "Aleja Józefa Piłsudskiego",
+            "numerNieruchomosci": "10",
+            "numerLokalu": "A",
+            "wojewodztwo": "ŚLĄSKIE",
+            "powiat": "Jastrzębie-Zdrój",
+            "gminaMiastoDzielnica": "Jastrzębie-Zdrój",
+            "miejscowosc": "Jastrzębie-Zdrój",
+            "kodPocztowy": "44-335"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "e1688634-835a-4d01-9810-99f249e25d43",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -48245,6 +50065,7 @@
       "przedmiotUmowy": "Wymiana oświetlenia ulicznego na energooszczędne w zakresie istniejącej sieci oświetleniowej na terenie Gminy Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0ecaa0b4-9ded-4b54-bcb3-5dcc1929d045",
+      "detailsFetchedAt": "2026-11-07T11:45:25.000Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48297,8 +50118,7 @@
         "dataPublikacji": "11.09.2026",
         "dataModyfikacji": "11.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "0181627c-ccb7-4464-9275-a973cad17609",
@@ -48310,6 +50130,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć nauki tańca - \"Zumba\" w Domu Kultury \"Uśmiech\"w Ożarowie Maz. I w Filii DK \"Uśmiech\" w Józefowie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0181627c-ccb7-4464-9275-a973cad17609",
+      "detailsFetchedAt": "2026-11-07T11:46:49.263Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48362,8 +50183,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "d419cfc5-378d-44a3-adde-ef7d73aeac3f",
@@ -48375,6 +50195,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć \"Akwarela dla młodzieży i dorosłych\" w sezonie kulturalnym 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d419cfc5-378d-44a3-adde-ef7d73aeac3f",
+      "detailsFetchedAt": "2026-11-07T11:48:07.306Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48427,8 +50248,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "cf642779-9034-4c9a-a279-646e71e48479",
@@ -48440,6 +50260,7 @@
       "przedmiotUmowy": "Szkolenie Nowa klasyfikacja budżetowa 2027 - od przepisów do praktyki - najczęstsze problemy interpretacyjne",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/cf642779-9034-4c9a-a279-646e71e48479",
+      "detailsFetchedAt": "2026-11-07T11:49:34.994Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48492,8 +50313,7 @@
         "dataPublikacji": "04.09.2026",
         "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "6ef6bb0b-16cd-407f-9e1b-62e46eff572c",
@@ -48570,6 +50390,7 @@
       "przedmiotUmowy": "usługa usunięcia awarii na sieci kanalizacyjnej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Kapucka 16 w miejscowości Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/316c203a-ced4-4cba-a82c-ddffaa3f2caf",
+      "detailsFetchedAt": "2026-11-07T11:49:37.583Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48622,8 +50443,7 @@
         "dataPublikacji": "03.09.2026",
         "dataModyfikacji": "03.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "e7a2ea35-235b-4773-ab53-c170b7989c0a",
@@ -48700,6 +50520,7 @@
       "przedmiotUmowy": "USUNIĘCIE USCHNIĘTYCH KRZEWÓW I PRZYGOTOWANIE RABATKI POD NOWE NASADZENIA",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0e436f36-e905-40f0-939f-4c930de1f55b",
+      "detailsFetchedAt": "2026-11-07T11:50:56.238Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48752,8 +50573,7 @@
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "02.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "dfcd4133-ad1b-4992-b965-343f1c181721",
@@ -48765,6 +50585,7 @@
       "przedmiotUmowy": "NAPRAWA NAWODNIENIA W TYM ZAŁATANIE PRZECIEKAJĄCEJ INSTALACJI I WYMIANA 8 SZT USZKODZONYCH TRYSKACZY",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/dfcd4133-ad1b-4992-b965-343f1c181721",
+      "detailsFetchedAt": "2026-11-07T11:51:00.132Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48817,8 +50638,7 @@
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "02.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "f16d1715-1f07-4bf6-9052-edce72ad1153",
@@ -48830,6 +50650,7 @@
       "przedmiotUmowy": "Ograniczenie szkód i zagrożeń powodowanych przez bobry na terenie Gminy Ożarów Mazowiecki.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f16d1715-1f07-4bf6-9052-edce72ad1153",
+      "detailsFetchedAt": "2026-11-07T11:52:32.566Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48882,8 +50703,7 @@
         "dataPublikacji": "31.08.2026",
         "dataModyfikacji": "31.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "6bec58d2-7247-475c-aaf4-10c79eb60a6a",
@@ -48895,6 +50715,7 @@
       "przedmiotUmowy": "usługa",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6bec58d2-7247-475c-aaf4-10c79eb60a6a",
+      "detailsFetchedAt": "2026-11-07T11:53:10.515Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48968,8 +50789,7 @@
         "dataPublikacji": "27.08.2026",
         "dataModyfikacji": "27.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "303ead7c-ffca-481c-af60-158459d7e87e",
@@ -49176,6 +50996,7 @@
       "przedmiotUmowy": "Montaż oraz serwis klimatyzacji",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/22df64f2-34df-411d-8e63-c8b8220f9ffe",
+      "detailsFetchedAt": "2026-11-07T11:55:22.594Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -49228,8 +51049,7 @@
         "dataPublikacji": "18.08.2026",
         "dataModyfikacji": "18.08.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "37101697-123b-4380-99a2-12b06109905b",
@@ -49817,6 +51637,136 @@
       }
     },
     {
+      "idUmowy": "89bd3838-68c8-4872-ad77-4d65f2c2591a",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "02.10.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 2600,
+      "przedmiotUmowy": "przeprowadzenie szkolenia dla Rady Pedagogicznej: ocenianie, klasyfikacja i promowanie uczniów - aspekt prawny i psychologiczny",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/89bd3838-68c8-4872-ad77-4d65f2c2591a",
+      "detailsFetchedAt": "2026-11-07T11:43:54.569Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PrimoPsyche ALEKSANDRA TUREWICZ-NOWACKA",
+          "nip": "5213499196",
+          "regon": "142464531",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Ludwika Nabielaka",
+            "numerNieruchomosci": "15",
+            "numerLokalu": "1a",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "00-743"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "14 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "acb814a0-6f82-44f4-a6ed-5831b658b2c9",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "02.10.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 2600,
+      "przedmiotUmowy": "przeprowadzenie szkolenia dla Rady Pedagogicznej: ocenianie, klasyfikacja i promowanie uczniów - aspekt prawny i psychologiczny",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/acb814a0-6f82-44f4-a6ed-5831b658b2c9",
+      "detailsFetchedAt": "2026-11-07T11:43:59.137Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Wojciech Turewicz Instytut Kształcenia Eko-Tur",
+          "nip": "5211040513",
+          "regon": "010144056",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "Aleja Promienistych",
+            "numerNieruchomosci": "6",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-648"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "14 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "fa0d1e59-5d73-49e3-a7fc-5c1a37ac3634",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -50333,6 +52283,71 @@
         "okres": "29 dni",
         "dataPublikacji": "06.10.2026",
         "dataModyfikacji": "05.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "e1f76b3a-6045-411a-9c35-9b965ab94e7c",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "02.09.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 999.27,
+      "przedmiotUmowy": "dostawa książek (lektur) do biblioteki publicznej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e1f76b3a-6045-411a-9c35-9b965ab94e7c",
+      "detailsFetchedAt": "2026-11-07T11:45:17.390Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BONITO.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "6762400623",
+          "regon": "120954264",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Komandosów",
+            "numerNieruchomosci": "1",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "krakowski",
+            "gminaMiastoDzielnica": "Wielka Wieś",
+            "miejscowosc": "Modlniczka",
+            "kodPocztowy": "32-085"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -51256,6 +53271,7 @@
       "przedmiotUmowy": "Zabezpieczenie medyczne podczas pikniku integracyjnego - Dom Kultury Uśmiech filia Bronisze",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ad6337b1-0951-48a3-9374-e8054341afac",
+      "detailsFetchedAt": "2026-11-07T11:46:47.326Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51308,8 +53324,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "03dc308a-5ccb-420a-b8f4-ed2f9a159776",
@@ -51321,6 +53336,7 @@
       "przedmiotUmowy": "Wykonanie badań profilaktycznych w ramach projektu „Profilaktyka nowotworowa mieszkańców powiatu warszawskiego zachodniego poprzez\nocenę poziomu pierwiastków śladowych oraz markerów nowotworowych, w tym diagnostykę kobiet w kierunku raka jajnika (CA 125) oraz badania prostaty u mężczyzn (PSA)”",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/03dc308a-5ccb-420a-b8f4-ed2f9a159776",
+      "detailsFetchedAt": "2026-11-07T11:47:58.792Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51373,8 +53389,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "49ffba4e-54de-4f84-bac5-a5570317171b",
@@ -51386,6 +53401,7 @@
       "przedmiotUmowy": "Udostępnienie do korzystania przez uczestników wydarzenia dmuchanych atrakcji - Filia Domu Kultury \"Uśmiech\" w Macierzyszu",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/49ffba4e-54de-4f84-bac5-a5570317171b",
+      "detailsFetchedAt": "2026-11-07T11:48:01.393Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51438,8 +53454,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "7ebcc2fc-bd36-4858-ac93-1c19449d6253",
@@ -51451,6 +53466,7 @@
       "przedmiotUmowy": "Zamówienie książek - nagród na Narodowe Czytanie",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/7ebcc2fc-bd36-4858-ac93-1c19449d6253",
+      "detailsFetchedAt": "2026-11-07T11:49:25.040Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51503,8 +53519,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "d1e44074-d332-4c5f-915c-4e56ce777527",
@@ -51516,6 +53531,7 @@
       "przedmiotUmowy": "Zakup licencji antywirusowej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d1e44074-d332-4c5f-915c-4e56ce777527",
+      "detailsFetchedAt": "2026-11-07T11:49:35.640Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51568,8 +53584,7 @@
         "dataPublikacji": "04.09.2026",
         "dataModyfikacji": "04.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "64a2f476-d4ad-404f-acbc-ef352a9f5ff2",
@@ -51646,6 +53661,7 @@
       "przedmiotUmowy": "Dostawa i montaż 4 szt. ławek na ul. Kasztanowa w Józefowie.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1d7e23e8-13c1-4ce1-9b04-893ed3c06c72",
+      "detailsFetchedAt": "2026-11-07T11:50:56.885Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51698,8 +53714,7 @@
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "02.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "72be0c18-adbb-4e05-8a41-b2ba3244f602",
@@ -51711,6 +53726,7 @@
       "przedmiotUmowy": "Utwardzenie terenu pod Oktagon w Kręczkach Zakres prac: - prace przygotowawcze - roboty ziemne - warstwy konstrukcyjne - warstwa wykończeniowa - odwodnienie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/72be0c18-adbb-4e05-8a41-b2ba3244f602",
+      "detailsFetchedAt": "2026-11-07T11:50:57.535Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51763,8 +53779,7 @@
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "02.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "d8f3f76e-38b2-428e-af79-cf105ef88236",
@@ -51776,6 +53791,7 @@
       "przedmiotUmowy": "Rozwiezienie 50szt. koszy na terenie Gminy Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d8f3f76e-38b2-428e-af79-cf105ef88236",
+      "detailsFetchedAt": "2026-11-07T11:50:59.483Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51828,8 +53844,7 @@
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "02.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "f3436f21-de94-41d4-a627-4e0856717c19",
@@ -51841,6 +53856,7 @@
       "przedmiotUmowy": "Wykonanie usługi konserwacji, oczyszczania i pielęgnacji nawierzchni piaskowej - na placu zabaw w Wolicy - na placu zabaw Osiedle Zientarówka Zakres prac: - usunięcie zanieczyszczeń stałych, takich jak: liście, gałęzie, kamienie, szkło, odpady komunalne oraz elementy niebezpieczne, - wygrabienie i przesianie warstwy piasku w celu eliminacji drobnych zanieczyszczeń. - dosypanie piasku w miejscach ubytków - uporządkowanie strefy wokół urządzeń zabawowych, - wywóz i utylizacja zebranych odpadów",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f3436f21-de94-41d4-a627-4e0856717c19",
+      "detailsFetchedAt": "2026-11-07T11:51:00.792Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51893,8 +53909,7 @@
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "02.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "a68b11e3-46a9-42b0-8619-3183d420e528",
@@ -52155,6 +54170,71 @@
         "finansowanaZeSrodkow": false
       },
       "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+    },
+    {
+      "idUmowy": "8ecc9e5a-ce7f-4e53-b6f6-5076d38701a2",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "01.10.2026",
+      "dataZakonczeniaUmowy": "06.11.2026",
+      "wartoscPrzedmiotuUmowy": 4920,
+      "przedmiotUmowy": "przeprowadzenie Audytu Krajowych Ram Interoperacyjności",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/8ecc9e5a-ce7f-4e53-b6f6-5076d38701a2",
+      "detailsFetchedAt": "2026-11-07T11:43:55.221Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SafeGuard Arkadiusz Zieliński",
+          "nip": "8471517830",
+          "regon": "364101041",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Adama Mickiewicza",
+            "numerNieruchomosci": "33",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "kozienicki",
+            "gminaMiastoDzielnica": "Garbatka-Letnisko",
+            "miejscowosc": "Garbatka-Letnisko",
+            "kodPocztowy": "26-930"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "15 dni",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
+        "finansowanaZeSrodkow": false
+      }
     },
     {
       "idUmowy": "f508a197-e179-45e7-8190-1aaf072c58c7",
@@ -54590,6 +56670,7 @@
       "przedmiotUmowy": "sprzątanie hal sportowych przy SP w Płochocinie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/58f4f4ce-a354-4549-8d5f-d8b10bd1c26c",
+      "detailsFetchedAt": "2026-11-07T11:45:20.033Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54642,8 +56723,7 @@
         "dataPublikacji": "14.09.2026",
         "dataModyfikacji": "14.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "c3957b6c-c375-4368-8489-30bf87eb5b84",
@@ -54655,6 +56735,7 @@
       "przedmiotUmowy": "sprzątanie hal sportowych przy SP w Płochocinie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c3957b6c-c375-4368-8489-30bf87eb5b84",
+      "detailsFetchedAt": "2026-11-07T11:45:23.680Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54707,8 +56788,7 @@
         "dataPublikacji": "14.09.2026",
         "dataModyfikacji": "14.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "e115e0c9-6cf3-4e22-adf7-89e0ab1c9c67",
@@ -54720,6 +56800,7 @@
       "przedmiotUmowy": "sprzątanie hal sportowych przy SP w Płochocinie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e115e0c9-6cf3-4e22-adf7-89e0ab1c9c67",
+      "detailsFetchedAt": "2026-11-07T11:45:24.342Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54772,8 +56853,7 @@
         "dataPublikacji": "14.09.2026",
         "dataModyfikacji": "14.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "58a5421e-55d9-446f-95f7-cc007c8b2460",
@@ -54785,6 +56865,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć z emisji głosu z Chórem Kameralnym \"Ab Imo Pectore\" oraz z zespołem ludowym \"Ożarowiacy\"w Domu Kultury \"Uśmiech\" w Ożarowie Mazowieckim.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/58a5421e-55d9-446f-95f7-cc007c8b2460",
+      "detailsFetchedAt": "2026-11-07T11:46:42.623Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54837,8 +56918,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "0ecf58ca-9f67-4444-b85d-fb8219bb345d",
@@ -54850,6 +56930,7 @@
       "przedmiotUmowy": "Bilet wstępu",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0ecf58ca-9f67-4444-b85d-fb8219bb345d",
+      "detailsFetchedAt": "2026-11-07T11:48:00.087Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54902,8 +56983,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "9bc0e892-8323-40ef-8a59-3ddbadde7760",
@@ -54915,6 +56995,7 @@
       "przedmiotUmowy": "Bilet wstępu",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9bc0e892-8323-40ef-8a59-3ddbadde7760",
+      "detailsFetchedAt": "2026-11-07T11:48:04.037Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54967,8 +57048,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "d0ae06e5-49ae-4cb9-a15b-6a816e7827ac",
@@ -54980,6 +57060,7 @@
       "przedmiotUmowy": "Prowadzenie chóru kameralnego \"Ab Imo Pectore\" w Domu Kultury \"Uśmiech\" oraz dobór, opracowanie i przygotowanie programów dla chóru.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d0ae06e5-49ae-4cb9-a15b-6a816e7827ac",
+      "detailsFetchedAt": "2026-11-07T11:48:06.659Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -55032,8 +57113,7 @@
         "dataPublikacji": "09.09.2026",
         "dataModyfikacji": "09.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "0064edee-b2a5-4313-9368-6c3fe8d34131",
@@ -55045,6 +57125,7 @@
       "przedmiotUmowy": "zakup lokomotywy z kartonu na warsztaty z dziećmi w Bibliotece Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0064edee-b2a5-4313-9368-6c3fe8d34131",
+      "detailsFetchedAt": "2026-11-07T11:48:09.269Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -55097,8 +57178,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "2ca74674-9dd7-4fb8-b45d-9c8bd0b46752",
@@ -55110,6 +57190,7 @@
       "przedmiotUmowy": "zakup materiałów biurowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2ca74674-9dd7-4fb8-b45d-9c8bd0b46752",
+      "detailsFetchedAt": "2026-11-07T11:48:10.561Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -55162,8 +57243,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "e2a25bb9-162d-4c2b-87fe-a4ec40fb2353",
@@ -55175,6 +57255,7 @@
       "przedmiotUmowy": "zakup folii PCV do konserwacji zbiorów",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e2a25bb9-162d-4c2b-87fe-a4ec40fb2353",
+      "detailsFetchedAt": "2026-11-07T11:49:28.533Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -55227,8 +57308,7 @@
         "dataPublikacji": "08.09.2026",
         "dataModyfikacji": "08.09.2026",
         "finansowanaZeSrodkow": false
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "b3a15fd7-4962-425a-a0c2-c284490e3916",
@@ -55357,6 +57437,71 @@
         "okres": "11 dni",
         "dataPublikacji": "02.09.2026",
         "dataModyfikacji": "05.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "e449c94c-3be6-4514-b30d-7782bed9d972",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "01.08.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 10184.4,
+      "przedmiotUmowy": "udzielenie licencji na korzystanie z programu Dobry Plan, służącego do układania tygodniowego planu zajęć lekcyjnych",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e449c94c-3be6-4514-b30d-7782bed9d972",
+      "detailsFetchedAt": "2026-11-07T11:45:18.053Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DOBRY PLAN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "8971932822",
+          "regon": "527515288",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Stanisława Leszczyńskiego",
+            "numerNieruchomosci": "4",
+            "numerLokalu": "29",
+            "wojewodztwo": "DOLNOŚLĄSKIE",
+            "powiat": "Wrocław",
+            "gminaMiastoDzielnica": "Wrocław-Stare Miasto",
+            "miejscowosc": "Wrocław",
+            "kodPocztowy": "50-078"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 rok",
+        "dataPublikacji": "06.11.2026",
+        "dataModyfikacji": "06.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -55500,6 +57645,7 @@
       "przedmiotUmowy": "usługa biznesowa komunikacja orange",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a7129630-0200-4477-9bb5-af8e2485c183",
+      "detailsFetchedAt": "2026-11-07T11:46:46.002Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -55552,8 +57698,7 @@
         "dataPublikacji": "10.09.2026",
         "dataModyfikacji": "10.09.2026",
         "finansowanaZeSrodkow": true
-      },
-      "detailsFetchedAt": "2026-10-02T11:21:28.660Z"
+      }
     },
     {
       "idUmowy": "39922f97-dc0d-44f5-977f-9706cf5a51cd",
