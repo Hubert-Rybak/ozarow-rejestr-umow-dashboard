@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07T11:56:51.051Z",
+  "checkedAt": "2026-11-08T12:08:01.186Z",
   "links": [
     {
       "nip": "1130122021",
@@ -3431,6 +3431,436 @@
           "lastMasked": "Z******",
           "firstMasked": "G*******",
           "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5840305419",
+      "krs": "0000453341",
+      "name": "ODDK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": [
+        {
+          "lastMasked": "P********",
+          "firstMasked": "B******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "A******",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "5842812758",
+      "krs": "0000946336",
+      "name": "KURYŁOWICZ PROJECT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "A******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "A******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B****",
+          "firstMasked": "A***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5851367424",
+      "krs": "0000220431",
+      "name": "INTERNETOWE CENTRUM DYSTRYBUCJI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "K********",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "D******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "D******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5860005382",
+      "krs": "0000138055",
+      "name": "SPORTPOLAND.COM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Ż********",
+          "firstMasked": "J**",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ż********",
+          "firstMasked": "J**",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ż********",
+          "firstMasked": "M*********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5862272756",
+      "krs": "0000394954",
+      "name": "MADKOM SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "S***********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5992685818",
+      "krs": "0000052107",
+      "name": "WYDAWNICTWO PODATKOWE \"GOFIN\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S******",
+          "firstMasked": "C******",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "T*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z****",
+          "firstMasked": "A********",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "C******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6340125442",
+      "krs": "0000143136",
+      "name": "SALUS INTERNATIONAL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ż****",
+          "firstMasked": "A*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "R****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6342622989",
+      "krs": "0001104202",
+      "name": "LIBRUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "6412566978",
+      "krs": "0001103601",
+      "name": "AKUMULATORY24.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P***",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P***",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P***",
+          "firstMasked": "J******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6422585210",
+      "krs": "0000540215",
+      "name": "LUBAR SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "M****",
+          "firstMasked": "K********",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "D*********",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES"
+        },
+        {
+          "lastMasked": "B****",
+          "firstMasked": "S******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*****",
+          "firstMasked": "K*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "6462926077",
+      "krs": "0000400903",
+      "name": "GRUPA E SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "D****",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6572929289",
+      "krs": "0000672562",
+      "name": "PROKODER STUDIO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": []
+    },
+    {
+      "nip": "6751402920",
+      "krs": "0000594747",
+      "name": "NAZWA.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "R****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "6793252454",
+      "krs": "0001000590",
+      "name": "NETART.COM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C*****",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "R****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "6832101252",
+      "krs": "0000741777",
+      "name": "TECHRAMPS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": []
+    },
+    {
+      "nip": "7010224851",
+      "krs": "0000350772",
+      "name": "PRIVATE CORPORATE CONSULTING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P***********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P***********",
+          "firstMasked": "E****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P***********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P***********",
+          "firstMasked": "E****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7011057102",
+      "krs": "0000928924",
+      "name": "DARDO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "H****",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z****",
+          "firstMasked": "O*********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7011276235",
+      "krs": "0001192443",
+      "name": "FUNDACJA MENTALNIE RÓWNI",
+      "persons": [
+        {
+          "lastMasked": "P********",
+          "firstMasked": "T*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "K*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "7123447989",
+      "krs": "0001013505",
+      "name": "PW SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K***",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ż*******",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ż*******",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7250010782",
+      "krs": "0000116206",
+      "name": "\"PANTA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "J*****",
+          "funkcja": "V-CE PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R*********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R*********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "J*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7250013378",
+      "krs": "0000109353",
+      "name": "'NOWA SZKOŁA' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
         }
       ]
     }
