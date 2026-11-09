@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-08T12:08:01.186Z",
+  "checkedAt": "2026-11-09T13:56:24.423Z",
   "links": [
     {
       "nip": "1130122021",
@@ -568,6 +568,28 @@
         },
         {
           "lastMasked": "G******",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "1231499721",
+      "krs": "0000919584",
+      "name": "RPK GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S******",
+          "firstMasked": "P****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "J****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S******",
           "firstMasked": "P****",
           "funkcja": "wspólnik"
         }
@@ -3860,6 +3882,480 @@
         {
           "lastMasked": "M********",
           "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5342487835",
+      "krs": "0000921749",
+      "name": "MULTIDEKOR SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "T*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "6772389024",
+      "krs": "0001211474",
+      "name": "ALLBOARDS GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "N***",
+          "firstMasked": "P****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "N***",
+          "firstMasked": "A********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "N***",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7250020125",
+      "krs": "0000511242",
+      "name": "WYDAWNICTWO LITERATURA W.W.JĘDRZEJCZYK SPÓŁKA JAWNA",
+      "persons": [
+        {
+          "lastMasked": "Ż******",
+          "firstMasked": "E**",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "J**********",
+          "firstMasked": "W*******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "J**********",
+          "firstMasked": "W**********",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "7251933448",
+      "krs": "0000961115",
+      "name": "MOJE BAMBINO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "A****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ś******",
+          "firstMasked": "K****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R******",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S**********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ś******",
+          "firstMasked": "K****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "D******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7282841948",
+      "krs": "0000818239",
+      "name": "EVE ENERGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "O***",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7282847247",
+      "krs": "0000861984",
+      "name": "TAFETEX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G****",
+          "firstMasked": "B*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G****",
+          "firstMasked": "B*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "J******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7282867818",
+      "krs": "0001269902",
+      "name": "IQ3 GÓRSKI, FIEDOROWICZ SPÓŁKA KOMANDYTOWA",
+      "persons": [
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "L*****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "F**********",
+          "firstMasked": "M*****",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "7382145527",
+      "krs": "0000470596",
+      "name": "TLC CLIPPER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C****",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*********",
+          "firstMasked": "T*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C****",
+          "firstMasked": "J****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7542984373",
+      "krs": "0000336140",
+      "name": "LUCA LOGISTIC SOLUTIONS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G***",
+          "firstMasked": "B*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G***",
+          "firstMasked": "B*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S********",
+          "firstMasked": "S*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7582387459",
+      "krs": "0001007012",
+      "name": "FX DATA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "D********",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "A****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7622025195",
+      "krs": "0001173954",
+      "name": "GALERIA SMAKÓW SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "K********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "I****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "I****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7671004218",
+      "krs": "0000427063",
+      "name": "TERG SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "G*******",
+          "firstMasked": "M****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "F*********",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G*******",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "A******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W****",
+          "firstMasked": "A****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "N*******",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "7792254227",
+      "krs": "0000231231",
+      "name": "GSK SERVICES SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "M*********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "W*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "R******",
+          "firstMasked": "Z*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "J*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C**************",
+          "firstMasked": "G******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "A****",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "O******",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "7792274046",
+      "krs": "0000751883",
+      "name": "WIELKOPOLSKA AKADEMIA NAUKI I ROZWOJU\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": [
+        {
+          "lastMasked": "M**********",
+          "firstMasked": "J****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "K********",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "7792469235",
+      "krs": "0000690323",
+      "name": "EMTIGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "C********",
+          "firstMasked": "P****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "C********",
+          "firstMasked": "E**",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "C********",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "C********",
+          "firstMasked": "E**",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7792537126",
+      "krs": "0000959946",
+      "name": "AGRO SZNAJDER WKP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "R*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*******",
+          "firstMasked": "I******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "L***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7831678932",
+      "krs": "0000392153",
+      "name": "MWC SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "P****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S**********",
+          "firstMasked": "D****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "J****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W*****",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S**********",
+          "firstMasked": "D****",
           "funkcja": "wspólnik"
         }
       ]
