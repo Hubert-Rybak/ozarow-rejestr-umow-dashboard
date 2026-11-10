@@ -23,6 +23,12 @@
     ],
     "personsCheckedAt": "2026-11-05T06:45:57.755Z"
   },
+  "1130409283": {
+    "checkedAt": "2026-11-10T13:31:04.990Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
   "1130818691": {
     "checkedAt": "2026-11-05T06:45:34.123Z",
     "name": "ADAM KORNACKI",
@@ -565,6 +571,12 @@
   "1182145560": {
     "checkedAt": "2026-11-05T06:45:49.592Z",
     "name": "SUN CITY SPÓŁKA CYWILNA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1182148498": {
+    "checkedAt": "2026-11-10T13:31:04.990Z",
+    "name": "VIGO-CAR PLUS S.C. MARIUSZ GOŹDZIEWSKI DARIUSZ GWIAZDA",
     "krs": null,
     "statusVat": "Czynny"
   },
@@ -6167,5 +6179,601 @@
     "name": "MACIEJ KOKOSZA",
     "krs": null,
     "statusVat": "Czynny"
+  },
+  "4660270038": {
+    "checkedAt": "2026-11-10T13:31:05.486Z",
+    "name": "\"DRZEWIARZ-BIS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000161529",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "W*********",
+        "firstMasked": "D*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "R****",
+        "firstMasked": "D******",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "L*********",
+        "firstMasked": "L*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "L*********",
+        "firstMasked": "L*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "W*********",
+        "firstMasked": "D*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "R****",
+        "firstMasked": "D******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:28.349Z"
+  },
+  "5272522063": {
+    "checkedAt": "2026-11-10T13:31:05.979Z",
+    "name": "WALKABOUT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000266633",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "G****",
+        "firstMasked": "B*******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "G****",
+        "firstMasked": "B*******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:28.802Z"
+  },
+  "6762647654": {
+    "checkedAt": "2026-11-10T13:31:06.469Z",
+    "name": "AIDIAN POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001048681",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K******",
+        "firstMasked": "A****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S*******",
+        "firstMasked": "W*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:29.256Z"
+  },
+  "7390206551": {
+    "checkedAt": "2026-11-10T13:31:06.979Z",
+    "name": "PRZEDSIĘBIORSTWO USŁUGOWO-PRODUKCYJNE 'EUROASFALT' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ Z/S W OLSZTYNIE",
+    "krs": "0000206061",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "A*********",
+        "firstMasked": "J**",
+        "funkcja": "ZASTĘPCA PREZESA ZARZĄDU"
+      },
+      {
+        "lastMasked": "A*********",
+        "firstMasked": "B*****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "A*********",
+        "firstMasked": "M*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "A*********",
+        "firstMasked": "P****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "A*********",
+        "firstMasked": "B*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:29.711Z"
+  },
+  "7972080912": {
+    "checkedAt": "2026-11-10T13:31:07.506Z",
+    "name": "ŁUKASZ GAWLIK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8111723740": {
+    "checkedAt": "2026-11-10T13:31:09.035Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "8212542158": {
+    "checkedAt": "2026-11-10T13:31:09.035Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "8221206224": {
+    "checkedAt": "2026-11-10T13:31:09.035Z",
+    "name": "HENRYK ZADROŻNY",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8222352962": {
+    "checkedAt": "2026-11-10T13:31:09.527Z",
+    "name": "UNIQUE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000607934",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "G*****",
+        "firstMasked": "D****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "K****",
+        "firstMasked": "K********",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "S****",
+        "firstMasked": "S*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "J*******",
+        "firstMasked": "J****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "G*****",
+        "firstMasked": "K****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:30.165Z"
+  },
+  "8241722093": {
+    "checkedAt": "2026-11-10T13:31:10.540Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "8241787678": {
+    "checkedAt": "2026-11-10T13:31:10.540Z",
+    "name": "SEBASTIAN KAMIŃSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8251459869": {
+    "checkedAt": "2026-11-10T13:31:11.030Z",
+    "name": "MARIUSZ LENDZION",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8260000780": {
+    "checkedAt": "2026-11-10T13:31:11.511Z",
+    "name": "'OCHNIK' SPÓŁKA AKCYJNA",
+    "krs": "0000604045",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "O*****",
+        "firstMasked": "M*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "O*****",
+        "firstMasked": "J****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "O*****",
+        "firstMasked": "C*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "O*****",
+        "firstMasked": "D*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:30.619Z"
+  },
+  "8341883542": {
+    "checkedAt": "2026-11-10T13:31:12.011Z",
+    "name": "EMKL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001008850",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "Ł*****",
+        "firstMasked": "M*********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "Ł*****",
+        "firstMasked": "M*********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "Ł*****",
+        "firstMasked": "K*******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:31.074Z"
+  },
+  "8361123633": {
+    "checkedAt": "2026-11-10T13:31:12.535Z",
+    "name": "MAREK NAJUCH",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8361676510": {
+    "checkedAt": "2026-11-10T13:31:13.019Z",
+    "name": "BENEFIT SYSTEMS SPÓŁKA AKCYJNA",
+    "krs": "0000370919",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "R*********",
+        "firstMasked": "E*****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "F*******",
+        "firstMasked": "M*****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "T*****",
+        "firstMasked": "M****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "S*********",
+        "firstMasked": "R*****",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:31.642Z"
+  },
+  "8361777984": {
+    "checkedAt": "2026-11-10T13:31:13.507Z",
+    "name": "GRUPA EKOENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000491557",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "S*******",
+        "firstMasked": "A******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K***",
+        "firstMasked": "Ł*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "N**********",
+        "firstMasked": "D******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "D***",
+        "firstMasked": "P****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "S*******",
+        "firstMasked": "A******",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "S*******",
+        "firstMasked": "A********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "D***",
+        "firstMasked": "P****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:32.097Z"
+  },
+  "8371772729": {
+    "checkedAt": "2026-11-10T13:31:14.193Z",
+    "name": "MACIEJ SKRZYNECKI",
+    "krs": null,
+    "statusVat": "Niezarejestrowany"
+  },
+  "8371820227": {
+    "checkedAt": "2026-11-10T13:31:15.190Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "8381034358": {
+    "checkedAt": "2026-11-10T13:31:15.190Z",
+    "name": "ANDRZEJ TOBJASZ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8381577774": {
+    "checkedAt": "2026-11-10T13:31:15.795Z",
+    "name": "JOANNA STASIARCZYK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8381889692": {
+    "checkedAt": "2026-11-10T13:31:16.758Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "8451504847": {
+    "checkedAt": "2026-11-10T13:31:16.758Z",
+    "name": "WIOLETTA WIŚNIEWSKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8451917940": {
+    "checkedAt": "2026-11-10T13:31:17.252Z",
+    "name": "MATEUSZ ZABOROWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8471613479": {
+    "checkedAt": "2026-11-10T13:31:17.739Z",
+    "name": "PRZEDSIĘBIORSTWO INŻYNIERYJNE SAN-SYSTEM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000620114",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B********",
+        "firstMasked": "K****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "D********",
+        "firstMasked": "L***",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:32.556Z"
+  },
+  "8521411879": {
+    "checkedAt": "2026-11-10T13:31:18.224Z",
+    "name": "MARCIN BARANOWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8522608259": {
+    "checkedAt": "2026-11-10T13:31:18.742Z",
+    "name": "MENTOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "krs": "0000603838",
+    "statusVat": "Czynny",
+    "persons": [],
+    "personsCheckedAt": "2026-11-10T13:31:33.014Z"
+  },
+  "8621644399": {
+    "checkedAt": "2026-11-10T13:31:19.580Z",
+    "name": "MARCIN FLIS",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8631678158": {
+    "checkedAt": "2026-11-10T13:31:20.088Z",
+    "name": "KAMIL SOJA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8721993254": {
+    "checkedAt": "2026-11-10T13:31:21.098Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "8762273752": {
+    "checkedAt": "2026-11-10T13:31:21.098Z",
+    "name": "AGNIESZKA JANASZCZYK-SUSZYŃSKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8792050063": {
+    "checkedAt": "2026-11-10T13:31:21.582Z",
+    "name": "TIOMAN GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000965646",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K*********",
+        "firstMasked": "G*******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K*********",
+        "firstMasked": "W*******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:33.704Z"
+  },
+  "8831745540": {
+    "checkedAt": "2026-11-10T13:31:22.553Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "8842239007": {
+    "checkedAt": "2026-11-10T13:31:22.553Z",
+    "name": "EWA SZYMASZKIEWICZ-LĘCZNAR",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8861648534": {
+    "checkedAt": "2026-11-10T13:31:23.040Z",
+    "name": "ROBERT KALINOWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8911135105": {
+    "checkedAt": "2026-11-10T13:31:23.529Z",
+    "name": "ROMAN BAJDALSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8943047864": {
+    "checkedAt": "2026-11-10T13:31:24.017Z",
+    "name": "ESV SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000469780",
+    "statusVat": "Niezarejestrowany",
+    "persons": [
+      {
+        "lastMasked": "O**********",
+        "firstMasked": "M*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "Ś******",
+        "firstMasked": "B*********",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:34.164Z"
+  },
+  "8961538880": {
+    "checkedAt": "2026-11-10T13:31:24.501Z",
+    "name": "PRONAR D. KAWKA SPÓŁKA KOMANDYTOWA",
+    "krs": "0001146794",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K****",
+        "firstMasked": "D******",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "K****",
+        "firstMasked": "B*****",
+        "funkcja": "członek organu"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:34.634Z"
+  },
+  "8971932822": {
+    "checkedAt": "2026-11-10T13:31:25.058Z",
+    "name": "DOBRY PLAN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001082945",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "D****",
+        "firstMasked": "B*********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S******",
+        "firstMasked": "M*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "J****",
+        "firstMasked": "W*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "S******",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "D****",
+        "firstMasked": "B*********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "T****",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:35.093Z"
+  },
+  "8982168193": {
+    "checkedAt": "2026-11-10T13:31:25.543Z",
+    "name": "SKALNIK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000344563",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "F********",
+        "firstMasked": "M*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "R****",
+        "firstMasked": "A*********",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "S*******",
+        "firstMasked": "A***",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:35.554Z"
+  },
+  "8992596795": {
+    "checkedAt": "2026-11-10T13:31:26.052Z",
+    "name": "123DRUKUJ.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000274836",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "Ż***",
+        "firstMasked": "T*****",
+        "funkcja": "PREZES"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:36.014Z"
+  },
+  "8992699302": {
+    "checkedAt": "2026-11-10T13:31:26.543Z",
+    "name": "PAWEŁ SKÓRA",
+    "krs": null,
+    "statusVat": "Zwolniony"
+  },
+  "8992863500": {
+    "checkedAt": "2026-11-10T13:31:27.024Z",
+    "name": "WCTRON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000788860",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "L********",
+        "firstMasked": "M*****",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-10T13:31:36.473Z"
   }
 }

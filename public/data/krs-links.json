@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-09T13:56:24.423Z",
+  "checkedAt": "2026-11-10T13:31:36.475Z",
   "links": [
     {
       "nip": "1130122021",
@@ -4357,6 +4357,416 @@
           "lastMasked": "S**********",
           "firstMasked": "D****",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "4660270038",
+      "krs": "0000161529",
+      "name": "\"DRZEWIARZ-BIS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "D*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R****",
+          "firstMasked": "D******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*********",
+          "firstMasked": "L*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*********",
+          "firstMasked": "L*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "D*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "R****",
+          "firstMasked": "D******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5272522063",
+      "krs": "0000266633",
+      "name": "WALKABOUT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G****",
+          "firstMasked": "B*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G****",
+          "firstMasked": "B*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6762647654",
+      "krs": "0001048681",
+      "name": "AIDIAN POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K******",
+          "firstMasked": "A****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "W*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "7390206551",
+      "krs": "0000206061",
+      "name": "PRZEDSIĘBIORSTWO USŁUGOWO-PRODUKCYJNE 'EUROASFALT' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ Z/S W OLSZTYNIE",
+      "persons": [
+        {
+          "lastMasked": "A*********",
+          "firstMasked": "J**",
+          "funkcja": "ZASTĘPCA PREZESA ZARZĄDU"
+        },
+        {
+          "lastMasked": "A*********",
+          "firstMasked": "B*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "A*********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "A*********",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "A*********",
+          "firstMasked": "B*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "8222352962",
+      "krs": "0000607934",
+      "name": "UNIQUE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "D****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "K********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "S*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "J*******",
+          "firstMasked": "J****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "G*****",
+          "firstMasked": "K****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "8260000780",
+      "krs": "0000604045",
+      "name": "'OCHNIK' SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "O*****",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "O*****",
+          "firstMasked": "J****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "O*****",
+          "firstMasked": "C*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "O*****",
+          "firstMasked": "D*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "8341883542",
+      "krs": "0001008850",
+      "name": "EMKL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Ł*****",
+          "firstMasked": "M*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ł*****",
+          "firstMasked": "M*********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Ł*****",
+          "firstMasked": "K*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "8361676510",
+      "krs": "0000370919",
+      "name": "BENEFIT SYSTEMS SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "R*********",
+          "firstMasked": "E*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "F*******",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "T*****",
+          "firstMasked": "M****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*********",
+          "firstMasked": "R*****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "8361777984",
+      "krs": "0000491557",
+      "name": "GRUPA EKOENERGIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "A******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***",
+          "firstMasked": "Ł*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "N**********",
+          "firstMasked": "D******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D***",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "A******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "A********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D***",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "8471613479",
+      "krs": "0000620114",
+      "name": "PRZEDSIĘBIORSTWO INŻYNIERYJNE SAN-SYSTEM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B********",
+          "firstMasked": "K****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "D********",
+          "firstMasked": "L***",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "8522608259",
+      "krs": "0000603838",
+      "name": "MENTOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": []
+    },
+    {
+      "nip": "8792050063",
+      "krs": "0000965646",
+      "name": "TIOMAN GROUP SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K*********",
+          "firstMasked": "W*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "8943047864",
+      "krs": "0000469780",
+      "name": "ESV SERWIS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "O**********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Ś******",
+          "firstMasked": "B*********",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "8961538880",
+      "krs": "0001146794",
+      "name": "PRONAR D. KAWKA SPÓŁKA KOMANDYTOWA",
+      "persons": [
+        {
+          "lastMasked": "K****",
+          "firstMasked": "D******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "K****",
+          "firstMasked": "B*****",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "8971932822",
+      "krs": "0001082945",
+      "name": "DOBRY PLAN SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "D****",
+          "firstMasked": "B*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "M*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "J****",
+          "firstMasked": "W*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "B*********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "T****",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "8982168193",
+      "krs": "0000344563",
+      "name": "SKALNIK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "F********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "R****",
+          "firstMasked": "A*********",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "A***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "8992596795",
+      "krs": "0000274836",
+      "name": "123DRUKUJ.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Ż***",
+          "firstMasked": "T*****",
+          "funkcja": "PREZES"
+        }
+      ]
+    },
+    {
+      "nip": "8992863500",
+      "krs": "0000788860",
+      "name": "WCTRON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "L********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
         }
       ]
     }
