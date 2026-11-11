@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T13:31:36.475Z",
+  "checkedAt": "2026-11-11T12:44:01.329Z",
   "links": [
     {
       "nip": "1130122021",
@@ -4767,6 +4767,351 @@
           "lastMasked": "L********",
           "firstMasked": "M*****",
           "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "6652778496",
+      "krs": "0000255597",
+      "name": "'DVDMAX.PL' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "D******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "P*********",
+          "firstMasked": "D******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9372701548",
+      "krs": "0000702618",
+      "name": "RAFNAR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "A********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "J**",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P*******",
+          "firstMasked": "A********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9372725106",
+      "krs": "0000806493",
+      "name": "MB SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "M******",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M******",
+          "firstMasked": "E**",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M******",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "M******",
+          "firstMasked": "E**",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9442299791",
+      "krs": "0001223805",
+      "name": "PODAROWANE.PL SP. Z O.O. SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "S*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "S*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "M******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9451978451",
+      "krs": "0000555276",
+      "name": "OTCF SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "K****",
+          "firstMasked": "I***",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*******",
+          "firstMasked": "W*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*******",
+          "firstMasked": "Ł*****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "9462593855",
+      "krs": "0000343124",
+      "name": "PGE DYSTRYBUCJA SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "D****",
+          "firstMasked": "J****",
+          "funkcja": "WICEPREZEZ ZARZĄDU"
+        },
+        {
+          "lastMasked": "C***********",
+          "firstMasked": "A******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "M******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K********",
+          "firstMasked": "B****",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "D*********",
+          "firstMasked": "A****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "T****",
+          "firstMasked": "J****",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "9462662289",
+      "krs": "0000633056",
+      "name": "BASTET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "B*******",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "B*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "P****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "K*****",
+          "firstMasked": "R*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9511807033",
+      "krs": "0000029722",
+      "name": "AGENCJA PROMOCJI ZIELENI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "F********",
+          "firstMasked": "J*****",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "9512139214",
+      "krs": "0000229955",
+      "name": "KAMSOFT MAZOWSZE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "J********",
+          "firstMasked": "G*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "J********",
+          "firstMasked": "G*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9522236456",
+      "krs": "0001013493",
+      "name": "WILLA NOVA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W***********",
+          "firstMasked": "I*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W***********",
+          "firstMasked": "I*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "L*****",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9522259842",
+      "krs": "0001121078",
+      "name": "HIDALGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S******",
+          "firstMasked": "W*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "W*******",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9552264351",
+      "krs": "0000333641",
+      "name": "GSG INDUSTRIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "S************",
+          "firstMasked": "S********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S************",
+          "firstMasked": "S********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "P********",
+          "firstMasked": "A********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9562312057",
+      "krs": "0000565896",
+      "name": "KREATYWNI AKTYWNI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B*******",
+          "firstMasked": "W*******",
+          "funkcja": "ZARZĄD"
+        },
+        {
+          "lastMasked": "B*******",
+          "firstMasked": "W*******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B*******",
+          "firstMasked": "A*********",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9710012649",
+      "krs": "0000180352",
+      "name": "BIURO ROZWOJU I REALIZACJI PROJEKTÓW BUDOWLANYCH 'HOL-BUD' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "R*********",
+          "firstMasked": "T*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S****",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "B****",
+          "firstMasked": "M***",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "R*********",
+          "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "9721304226",
+      "krs": "0000807836",
+      "name": "PIXBLOCKS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W********",
+          "firstMasked": "M*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "K***********",
+          "firstMasked": "K********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
         }
       ]
     }

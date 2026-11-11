@@ -190,7 +190,7 @@
     "statusVat": "Czynny"
   },
   "1181025977": {
-    "checkedAt": "2026-08-22T12:39:47.327Z",
+    "checkedAt": "2026-11-11T12:43:48.181Z",
     "name": "JAKUB LUBAŃSKI",
     "krs": null,
     "statusVat": "Czynny"
@@ -208,7 +208,7 @@
     "statusVat": null
   },
   "1181428439": {
-    "checkedAt": "2026-08-22T12:39:47.730Z",
+    "checkedAt": "2026-11-11T12:43:48.674Z",
     "name": "DOM KULTURY \"UŚMIECH\" MIASTA I GMINY OŻARÓW MAZOWIECKI",
     "krs": null,
     "statusVat": "Czynny"
@@ -232,7 +232,7 @@
     "statusVat": "Czynny"
   },
   "1181561931": {
-    "checkedAt": "2026-08-22T12:39:48.142Z",
+    "checkedAt": "2026-11-11T12:43:49.228Z",
     "name": "MICHAŁ STACHLEWSKI",
     "krs": null,
     "statusVat": "Czynny"
@@ -262,7 +262,7 @@
     "statusVat": "Czynny"
   },
   "1181675586": {
-    "checkedAt": "2026-08-22T12:39:48.551Z",
+    "checkedAt": "2026-11-11T12:43:51.168Z",
     "name": null,
     "krs": null,
     "statusVat": null
@@ -304,7 +304,7 @@
     "statusVat": "Czynny"
   },
   "1181820924": {
-    "checkedAt": "2026-08-22T12:39:48.946Z",
+    "checkedAt": "2026-11-11T12:43:51.168Z",
     "name": null,
     "krs": null,
     "statusVat": null
@@ -322,7 +322,7 @@
     "statusVat": null
   },
   "1181862207": {
-    "checkedAt": "2026-08-22T12:39:49.339Z",
+    "checkedAt": "2026-11-11T12:43:51.168Z",
     "name": null,
     "krs": null,
     "statusVat": null
@@ -353,7 +353,7 @@
     "statusVat": "Czynny"
   },
   "1181932126": {
-    "checkedAt": "2026-08-22T12:39:49.742Z",
+    "checkedAt": "2026-11-11T12:43:51.168Z",
     "name": "AMAD SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000297415",
     "statusVat": "Czynny",
@@ -434,7 +434,7 @@
     "statusVat": null
   },
   "1182024342": {
-    "checkedAt": "2026-08-22T12:39:50.572Z",
+    "checkedAt": "2026-11-11T12:43:51.662Z",
     "name": "A.S. PILAR MILEJ SPÓŁKA JAWNA",
     "krs": "0000350790",
     "statusVat": "Czynny",
@@ -453,7 +453,7 @@
     "personsCheckedAt": "2026-11-05T06:46:01.268Z"
   },
   "1182025554": {
-    "checkedAt": "2026-08-22T12:39:51.740Z",
+    "checkedAt": "2026-11-11T12:43:52.159Z",
     "name": "MCC MAZURKAS CONFERENCE CENTRE & HOTEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000351657",
     "statusVat": "Czynny",
@@ -482,7 +482,7 @@
     "personsCheckedAt": "2026-11-05T06:46:01.752Z"
   },
   "1182033826": {
-    "checkedAt": "2026-08-22T12:39:54.991Z",
+    "checkedAt": "2026-11-11T12:43:52.657Z",
     "name": "MICHAŁ BURATOWSKI",
     "krs": null,
     "statusVat": "Czynny"
@@ -507,7 +507,7 @@
     "personsCheckedAt": "2026-11-05T13:25:41.180Z"
   },
   "1182041234": {
-    "checkedAt": "2026-08-22T12:39:55.406Z",
+    "checkedAt": "2026-11-11T12:43:53.152Z",
     "name": "CENTRUM KULTURY W BŁONIU",
     "krs": null,
     "statusVat": "Czynny"
@@ -549,7 +549,7 @@
     "statusVat": "Czynny"
   },
   "1182107387": {
-    "checkedAt": "2026-08-22T12:39:55.801Z",
+    "checkedAt": "2026-11-11T12:43:53.632Z",
     "name": null,
     "krs": null,
     "statusVat": null
@@ -1024,6 +1024,12 @@
   "1250426048": {
     "checkedAt": "2026-08-22T12:40:07.783Z",
     "name": "KRZYSZTOF CZEJGIS",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "1251637333": {
+    "checkedAt": "2026-11-11T12:43:31.446Z",
+    "name": "PLATFORMA CZYSTOŚCI S.C.",
     "krs": null,
     "statusVat": "Czynny"
   },
@@ -6775,5 +6781,482 @@
       }
     ],
     "personsCheckedAt": "2026-11-10T13:31:36.473Z"
+  },
+  "6652778496": {
+    "checkedAt": "2026-11-11T12:43:31.935Z",
+    "name": "'DVDMAX.PL' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000255597",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "P*********",
+        "firstMasked": "D******",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "P*********",
+        "firstMasked": "D******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:54.667Z"
+  },
+  "7361493832": {
+    "checkedAt": "2026-11-11T12:43:32.432Z",
+    "name": "KATARZYNA GARALOWSKA-TYLKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9181757897": {
+    "checkedAt": "2026-11-11T12:43:32.947Z",
+    "name": "MAREK POSTRZECH",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9372509153": {
+    "checkedAt": "2026-11-11T12:43:33.486Z",
+    "name": "KRZYSZTOF MAZGAJ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9372701548": {
+    "checkedAt": "2026-11-11T12:43:34.036Z",
+    "name": "RAFNAR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000702618",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "P*******",
+        "firstMasked": "A********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "P*******",
+        "firstMasked": "J**",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "P*******",
+        "firstMasked": "A********",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:55.132Z"
+  },
+  "9372725106": {
+    "checkedAt": "2026-11-11T12:43:34.531Z",
+    "name": "MB SYSTEM POLSKA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000806493",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "M******",
+        "firstMasked": "M*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "M******",
+        "firstMasked": "E**",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "M******",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "M******",
+        "firstMasked": "E**",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:55.595Z"
+  },
+  "9442299791": {
+    "checkedAt": "2026-11-11T12:43:35.237Z",
+    "name": "PODAROWANE.PL SP. Z O.O. SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001223805",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B*********",
+        "firstMasked": "S*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "B*********",
+        "firstMasked": "S*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "B*********",
+        "firstMasked": "M******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:56.060Z"
+  },
+  "9451961077": {
+    "checkedAt": "2026-11-11T12:43:36.223Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "9451978451": {
+    "checkedAt": "2026-11-11T12:43:36.223Z",
+    "name": "OTCF SPÓŁKA AKCYJNA",
+    "krs": "0000555276",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K****",
+        "firstMasked": "I***",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "M*******",
+        "firstMasked": "W*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "B*******",
+        "firstMasked": "Ł*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:56.524Z"
+  },
+  "9462593855": {
+    "checkedAt": "2026-11-11T12:43:36.723Z",
+    "name": "PGE DYSTRYBUCJA SPÓŁKA AKCYJNA",
+    "krs": "0000343124",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "D****",
+        "firstMasked": "J****",
+        "funkcja": "WICEPREZEZ ZARZĄDU"
+      },
+      {
+        "lastMasked": "C***********",
+        "firstMasked": "A******",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "P********",
+        "firstMasked": "M******",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K********",
+        "firstMasked": "B****",
+        "funkcja": "PREZES"
+      },
+      {
+        "lastMasked": "D*********",
+        "firstMasked": "A****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "T****",
+        "firstMasked": "J****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:57.096Z"
+  },
+  "9462662289": {
+    "checkedAt": "2026-11-11T12:43:37.225Z",
+    "name": "BASTET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000633056",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K*****",
+        "firstMasked": "B*******",
+        "funkcja": "PREZES"
+      },
+      {
+        "lastMasked": "K*****",
+        "firstMasked": "B*******",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "K*****",
+        "firstMasked": "P****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "K*****",
+        "firstMasked": "R*******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:57.562Z"
+  },
+  "9482384066": {
+    "checkedAt": "2026-11-11T12:43:37.759Z",
+    "name": "ŁUKASZ SKROK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9490839162": {
+    "checkedAt": "2026-11-11T12:43:38.251Z",
+    "name": "BOGDAN KNAPIK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9511807033": {
+    "checkedAt": "2026-11-11T12:43:38.741Z",
+    "name": "AGENCJA PROMOCJI ZIELENI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000029722",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "F********",
+        "firstMasked": "J*****",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:58.028Z"
+  },
+  "9512139214": {
+    "checkedAt": "2026-11-11T12:43:39.234Z",
+    "name": "KAMSOFT MAZOWSZE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000229955",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "J********",
+        "firstMasked": "G*******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "J********",
+        "firstMasked": "G*******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:58.499Z"
+  },
+  "9512155911": {
+    "checkedAt": "2026-11-11T12:43:40.216Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "9521050399": {
+    "checkedAt": "2026-11-11T12:43:40.216Z",
+    "name": "ROBERT PAWŁOWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9522236456": {
+    "checkedAt": "2026-11-11T12:43:40.716Z",
+    "name": "WILLA NOVA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001013493",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "W***********",
+        "firstMasked": "I*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "L*****",
+        "firstMasked": "A****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "S******",
+        "firstMasked": "T*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "W***********",
+        "firstMasked": "I*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "L*****",
+        "firstMasked": "A****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:58.968Z"
+  },
+  "9522259842": {
+    "checkedAt": "2026-11-11T12:43:41.243Z",
+    "name": "HIDALGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001121078",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "S******",
+        "firstMasked": "W*******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S******",
+        "firstMasked": "W*******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:59.433Z"
+  },
+  "9551033632": {
+    "checkedAt": "2026-11-11T12:43:41.735Z",
+    "name": "\"VERSO\" S.C., BOGDAN MARKIEWICZ, CEZARY WEISBRODT",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9552264351": {
+    "checkedAt": "2026-11-11T12:43:42.235Z",
+    "name": "GSG INDUSTRIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000333641",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "S************",
+        "firstMasked": "S********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S************",
+        "firstMasked": "S********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "P********",
+        "firstMasked": "A********",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:43:59.898Z"
+  },
+  "9562312057": {
+    "checkedAt": "2026-11-11T12:43:42.730Z",
+    "name": "KREATYWNI AKTYWNI SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000565896",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B*******",
+        "firstMasked": "W*******",
+        "funkcja": "ZARZĄD"
+      },
+      {
+        "lastMasked": "B*******",
+        "firstMasked": "W*******",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "B*******",
+        "firstMasked": "A*********",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:44:00.361Z"
+  },
+  "9591944937": {
+    "checkedAt": "2026-11-11T12:43:43.221Z",
+    "name": "AGENCJA ROZWOJU PERSONALNEGO S-KADRA S.C. BEATA BARWINEK ROKSANA ZAMOYSKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9660705361": {
+    "checkedAt": "2026-11-11T12:43:43.710Z",
+    "name": "BEATA CZAPLEJEWICZ",
+    "krs": null,
+    "statusVat": "Zwolniony"
+  },
+  "9671303896": {
+    "checkedAt": "2026-11-11T12:43:44.204Z",
+    "name": "DAWID CIECIERSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9680923871": {
+    "checkedAt": "2026-11-11T12:43:44.703Z",
+    "name": "MAGDALENA KOZŁOWSKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9691305817": {
+    "checkedAt": "2026-11-11T12:43:45.683Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "9710012649": {
+    "checkedAt": "2026-11-11T12:43:45.683Z",
+    "name": "BIURO ROZWOJU I REALIZACJI PROJEKTÓW BUDOWLANYCH 'HOL-BUD' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000180352",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "R*********",
+        "firstMasked": "T*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S****",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "B****",
+        "firstMasked": "M***",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "R*********",
+        "firstMasked": "T*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:44:00.861Z"
+  },
+  "9710733745": {
+    "checkedAt": "2026-11-11T12:43:46.669Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "9721304226": {
+    "checkedAt": "2026-11-11T12:43:46.669Z",
+    "name": "PIXBLOCKS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000807836",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "W********",
+        "firstMasked": "M*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K***********",
+        "firstMasked": "K********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "W********",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-11T12:44:01.327Z"
+  },
+  "9930352666": {
+    "checkedAt": "2026-11-11T12:43:47.206Z",
+    "name": "SOFTSTORY G.ZIELIŃSKI,K.JEŻ S.C.",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9930452385": {
+    "checkedAt": "2026-11-11T12:43:48.181Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
   }
 }
