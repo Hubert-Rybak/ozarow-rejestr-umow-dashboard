@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-10T13:31:03.675Z",
+  "fetchedAt": "2026-11-11T12:43:30.557Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 937,
-  "totalMatchingElements": 937,
-  "totalVisibleElements": 937,
+  "totalElements": 942,
+  "totalMatchingElements": 942,
+  "totalVisibleElements": 942,
   "detailsPending": 0,
   "agreements": [
     {
@@ -5496,12 +5496,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "28.10.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "10.11.2026",
       "wartoscPrzedmiotuUmowy": 14715.45,
       "przedmiotUmowy": "Montaż żaluzji i rolet w Przedszkolu nr 3",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/93cf9041-ad1a-43be-9964-16aaf30b45d6",
-      "detailsFetchedAt": "2026-11-05T06:38:29.520Z",
+      "detailsFetchedAt": "2026-11-11T12:43:30.550Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -5552,7 +5552,7 @@
         "numerUmowy": "WIiR.7014.450.2026.RK",
         "okres": "19 dni",
         "dataPublikacji": "29.10.2026",
-        "dataModyfikacji": "29.10.2026",
+        "dataModyfikacji": "10.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -8109,6 +8109,71 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "6efce82e-7876-4d10-b7b7-141e2bd4fe93",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "27.10.2026",
+      "dataZakonczeniaUmowy": "09.11.2026",
+      "wartoscPrzedmiotuUmowy": 499.9,
+      "przedmiotUmowy": "Zakup filmów DVD do Biblioteki Po Kolei.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/6efce82e-7876-4d10-b7b7-141e2bd4fe93",
+      "detailsFetchedAt": "2026-11-11T12:43:25.724Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"DVDMAX.PL\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "6652778496",
+          "regon": "300299142",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Spółdzielców",
+            "numerNieruchomosci": "3",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "Konin",
+            "gminaMiastoDzielnica": "Konin",
+            "miejscowosc": "Konin",
+            "kodPocztowy": "62-510"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "26102358717059 [DVDMAX]",
+        "okres": "4 dni",
+        "dataPublikacji": "10.11.2026",
+        "dataModyfikacji": "10.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -38022,6 +38087,71 @@
       }
     },
     {
+      "idUmowy": "064e219b-8151-4266-a797-25e682b55123",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "10.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 25626.02,
+      "przedmiotUmowy": "Remont gabinetu pielęgniarki.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/064e219b-8151-4266-a797-25e682b55123",
+      "detailsFetchedAt": "2026-11-11T12:43:25.090Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PETRUS Piotr Tarczyński",
+          "nip": "9591558163",
+          "regon": "522081260",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Arcangela Corellego",
+            "numerNieruchomosci": "3",
+            "numerLokalu": "11",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Białołęka",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "03-289"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIiR.7014.463.2026.PW",
+        "okres": "109 dni",
+        "dataPublikacji": "10.11.2026",
+        "dataModyfikacji": "10.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "5b4f6833-aba6-4e88-9423-fd92d972dfd2",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -45898,6 +46028,71 @@
       }
     },
     {
+      "idUmowy": "beac1fb5-7306-4ea1-bca8-553ca2880a28",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "06.11.2026",
+      "dataZakonczeniaUmowy": "10.11.2026",
+      "wartoscPrzedmiotuUmowy": 425.32,
+      "przedmiotUmowy": "Zakup środków czystości na potrzeby Biblioteki Głównej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/beac1fb5-7306-4ea1-bca8-553ca2880a28",
+      "detailsFetchedAt": "2026-11-11T12:43:29.916Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PLATFORMA CZYSTOŚCI S.C.",
+          "nip": "1251637333",
+          "regon": "363211320",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Bukowiecka",
+            "numerNieruchomosci": "92",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Targówek",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "03-893"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "29332",
+        "okres": "5 dni",
+        "dataPublikacji": "10.11.2026",
+        "dataModyfikacji": "10.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "92c0f1a0-bb14-49fe-a20c-1de59e48be6e",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -47911,6 +48106,71 @@
       }
     },
     {
+      "idUmowy": "7a7ae8ca-2fe6-4213-a8b9-3403fafc3809",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "05.11.2026",
+      "dataZakonczeniaUmowy": "10.11.2026",
+      "wartoscPrzedmiotuUmowy": 2776.61,
+      "przedmiotUmowy": "Zakup książek do Biblioteki Po Kolei",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7a7ae8ca-2fe6-4213-a8b9-3403fafc3809",
+      "detailsFetchedAt": "2026-11-11T12:43:26.364Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"PLATON\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5272397698",
+          "regon": "015430128",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Sławęcińska",
+            "numerNieruchomosci": "16",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Macierzysz",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "ZOPC202610011830K",
+        "okres": "1 dzień",
+        "dataPublikacji": "10.11.2026",
+        "dataModyfikacji": "10.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "9f6f5347-4e5e-4d0d-b022-2028ac2f3636",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -47970,6 +48230,71 @@
       "details": {
         "numerUmowy": "WIR.7014.476.2026.TM",
         "okres": "23 dni",
+        "dataPublikacji": "10.11.2026",
+        "dataModyfikacji": "10.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "a6843ca0-4c57-490f-96cc-3768407d5fa8",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "05.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 58333.33,
+      "przedmiotUmowy": "Miejsca noclegowe, wyżywienie, korzystanie z sal tanecznych w OW KAROLCIA - warsztaty taneczne Zespołu Ludowego \"Ożarowiacy\" w dniach 06.02-13.02.2027",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a6843ca0-4c57-490f-96cc-3768407d5fa8",
+      "detailsFetchedAt": "2026-11-11T12:43:27.001Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "F.H.U. WILLA KAROLCIA KARCMA GÓRALSKO KATARZYNA GARALOWSKA-TYLKA",
+          "nip": "7361493832",
+          "regon": "120429345",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Rybkówka",
+            "numerNieruchomosci": "8B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "tatrzański",
+            "gminaMiastoDzielnica": "Zakopane",
+            "miejscowosc": "Zakopane",
+            "kodPocztowy": "34-500"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.71.2026",
+        "okres": "8 dni",
         "dataPublikacji": "10.11.2026",
         "dataModyfikacji": "10.11.2026",
         "finansowanaZeSrodkow": false
