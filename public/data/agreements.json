@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-11T12:43:30.557Z",
+  "fetchedAt": "2026-11-12T13:46:06.035Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 942,
-  "totalMatchingElements": 942,
-  "totalVisibleElements": 942,
+  "totalElements": 948,
+  "totalMatchingElements": 948,
+  "totalVisibleElements": 948,
   "detailsPending": 0,
   "agreements": [
     {
@@ -1481,6 +1481,71 @@
         "okres": "2 dni",
         "dataPublikacji": "04.08.2026",
         "dataModyfikacji": "04.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "06443e1a-13f0-4807-9448-d95676681f99",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "30.10.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 14900,
+      "przedmiotUmowy": "1.przegląd i aktualizacja istniejącej dokumentacji Systemu Zarządzania Bezpieczeństwem Informacji, zwanym dalej \"SZBI\" 2.przegląd oraz podstawowa aktualizacja analizy ryzyka w zakresie bezpieczeństwa informacji 3.przygotowanie regulaminu oraz podstawowej dokumentacji wewnętrznej dotyczącej przeciwdziałania mobbingowi i innym niepożądanym zachowaniom w miejscu pracy 4.przeprowadzenie szkolenia pracowników Zamawiającego z zakresu przeciwdziałaniom mobbingowi oraz stosowania przygotowanej dokumentacji",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/06443e1a-13f0-4807-9448-d95676681f99",
+      "detailsFetchedAt": "2026-11-12T13:46:00.500Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SafeGuard Arkadiusz Zieliński",
+          "nip": "8471517830",
+          "regon": "364101041",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Adama Mickiewicza",
+            "numerNieruchomosci": "33",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "kozienicki",
+            "gminaMiastoDzielnica": "Garbatka-Letnisko",
+            "miejscowosc": "Garbatka-Letnisko",
+            "kodPocztowy": "26-930"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "39 dni",
+        "dataPublikacji": "12.11.2026",
+        "dataModyfikacji": "12.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -3764,12 +3829,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "29.10.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "12.11.2026",
       "wartoscPrzedmiotuUmowy": 1260.16,
       "przedmiotUmowy": "Święto 11 listopada.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e177df57-3348-47d6-8571-bbcdd2b7b6c7",
-      "detailsFetchedAt": "2026-11-05T06:39:45.104Z",
+      "detailsFetchedAt": "2026-11-12T13:46:05.341Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -3820,7 +3885,7 @@
         "numerUmowy": "WIR.7014.447.2026.RF",
         "okres": "16 dni",
         "dataPublikacji": "29.10.2026",
-        "dataModyfikacji": "29.10.2026",
+        "dataModyfikacji": "12.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -5561,12 +5626,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "28.10.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "12.11.2026",
       "wartoscPrzedmiotuUmowy": 2439.02,
       "przedmiotUmowy": "Uroczystość 11 listopada.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9f93eac1-1526-4773-b7e2-83223c88ccf2",
-      "detailsFetchedAt": "2026-11-05T06:38:30.852Z",
+      "detailsFetchedAt": "2026-11-12T13:46:04.652Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -5617,7 +5682,7 @@
         "numerUmowy": "WIR.7014.448.2026.RF",
         "okres": "16 dni",
         "dataPublikacji": "29.10.2026",
-        "dataModyfikacji": "29.10.2026",
+        "dataModyfikacji": "12.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -15261,6 +15326,71 @@
       }
     },
     {
+      "idUmowy": "ba693efe-70c0-4f39-8fde-d4b9f3b4cab2",
+      "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+      "regon": "141221683",
+      "dataZawarciaUmowy": "23.10.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 35600,
+      "przedmiotUmowy": "dostawa, montaż i uruchomienie klimatyzatorów w pomieszczeniach będących w użytkowaniu ZWIK w Ożarowie Mazowieckim (cz.III) zgodnie z ofertą Wykonawcy z dnia 12.10.2026",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ba693efe-70c0-4f39-8fde-d4b9f3b4cab2",
+      "detailsFetchedAt": "2026-11-12T13:46:03.274Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DI.EM DARIUSZ ZUBRZYCKI",
+          "nip": "8371556730",
+          "regon": "017070734",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Długa",
+            "numerNieruchomosci": "31",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "sochaczewski",
+            "gminaMiastoDzielnica": "Rybno",
+            "miejscowosc": "Rybno",
+            "kodPocztowy": "96-514"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181928366",
+          "regon": "141221683",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "39 dni",
+        "dataPublikacji": "12.11.2026",
+        "dataModyfikacji": "12.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "00449bc8-6169-4165-b6bb-81f76a5738dd",
       "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
       "regon": "000939243",
@@ -23401,6 +23531,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "23.07.2026",
         "dataModyfikacji": "23.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "d9fbf174-072b-45c9-bb78-3e2f238c5d37",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "19.10.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 23558.24,
+      "przedmiotUmowy": "FS Konotopa - Nasadzenie i pielęgnacja zieleni we wsi Konotopa.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d9fbf174-072b-45c9-bb78-3e2f238c5d37",
+      "detailsFetchedAt": "2026-11-12T13:46:03.963Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "1) AMARYLIS ANNA BUJNIK 2) ANNA BUJNIK WSPÓLNIK SPÓŁKI CYWILNEJ AMBUD DEVELOPMENT SPÓŁKA CYWILNA",
+          "nip": "5342157782",
+          "regon": "141685773",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. 19 Kwietnia",
+            "numerNieruchomosci": "103",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Raszyn",
+            "miejscowosc": "Rybie",
+            "kodPocztowy": "05-090"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.428.2026.RF",
+        "okres": "33 dni",
+        "dataPublikacji": "12.11.2026",
+        "dataModyfikacji": "12.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -38087,6 +38282,71 @@
       }
     },
     {
+      "idUmowy": "749968b5-c897-4f5b-b6b5-9c1494364352",
+      "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+      "regon": "000939243",
+      "dataZawarciaUmowy": "10.11.2026",
+      "dataZakonczeniaUmowy": "12.11.2026",
+      "wartoscPrzedmiotuUmowy": 1252.02,
+      "przedmiotUmowy": "Zakup ekspresu do kawy na wyposażenie Filii nr Biblioteka Po Kolei",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/749968b5-c897-4f5b-b6b5-9c1494364352",
+      "detailsFetchedAt": "2026-11-12T13:46:02.570Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ME M10 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "7671713995",
+          "regon": "384099268",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Za Dworcem",
+            "numerNieruchomosci": "1D",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "złotowski",
+            "gminaMiastoDzielnica": "Złotów",
+            "miejscowosc": "Złotów",
+            "kodPocztowy": "77-400"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181689536",
+          "regon": "000939243",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "02435156313",
+        "okres": "3 dni",
+        "dataPublikacji": "12.11.2026",
+        "dataModyfikacji": "12.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "064e219b-8151-4266-a797-25e682b55123",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -40182,6 +40442,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "13.07.2026",
         "dataModyfikacji": "13.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "466f33e7-b326-4915-aec6-271f17f1f510",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 9327.67,
+      "przedmiotUmowy": "Wysypanie i utwardzenie kruszywem kamiennym poboczy ul. Wieruchowskiej",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/466f33e7-b326-4915-aec6-271f17f1f510",
+      "detailsFetchedAt": "2026-11-12T13:46:01.882Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "RAD-MAR Marek Wieteska",
+          "nip": "5341992790",
+          "regon": "013101372",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Baśniowa",
+            "numerNieruchomosci": "145",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Brwinów",
+            "miejscowosc": "Domaniewek",
+            "kodPocztowy": "05-840"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIiR.7014.484.2026.RM",
+        "okres": "8 dni",
+        "dataPublikacji": "12.11.2026",
+        "dataModyfikacji": "12.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -46024,6 +46349,71 @@
         "okres": "14 dni",
         "dataPublikacji": "20.07.2026",
         "dataModyfikacji": "20.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "2e0737e4-3779-43fd-aa94-423753fc90fd",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "06.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 3843.86,
+      "przedmiotUmowy": "Prowadzenie warsztatów dla seniorów \"Fitness dla mózgu\" w Filii DK \"Uśmiech\" Centrum Inicjatyw Społecznych - \"Przy Parku\" przy ul. Poznańskiej 292",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/2e0737e4-3779-43fd-aa94-423753fc90fd",
+      "detailsFetchedAt": "2026-11-12T13:46:01.189Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Paulina",
+          "nazwisko": "Kuryłowicz",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.73.2026",
+        "okres": "204 dni",
+        "dataPublikacji": "12.11.2026",
+        "dataModyfikacji": "12.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -52767,12 +53157,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "03.11.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "12.11.2026",
       "wartoscPrzedmiotuUmowy": 719.51,
       "przedmiotUmowy": "Rekultywacja sadzawki w miejscowości Macierzysz.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce96e034-3aee-468e-a425-06b6e7444b77",
-      "detailsFetchedAt": "2026-11-05T13:12:33.426Z",
+      "detailsFetchedAt": "2026-11-12T13:46:06.030Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -52823,7 +53213,7 @@
         "numerUmowy": "WIR.7014.468.2026.RF",
         "okres": "11 dni",
         "dataPublikacji": "05.11.2026",
-        "dataModyfikacji": "05.11.2026",
+        "dataModyfikacji": "12.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
