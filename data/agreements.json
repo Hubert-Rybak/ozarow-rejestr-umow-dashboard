@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T13:46:06.035Z",
+  "fetchedAt": "2026-11-13T13:06:52.355Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 948,
-  "totalMatchingElements": 948,
-  "totalVisibleElements": 948,
+  "totalElements": 954,
+  "totalMatchingElements": 954,
+  "totalVisibleElements": 954,
   "detailsPending": 0,
   "agreements": [
     {
@@ -3309,12 +3309,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "29.10.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 18518.52,
       "przedmiotUmowy": "Prace polegające na usunięciu zalegającej masy roślinnej na terenie Gminy Ożarów Mazowiecki.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c82cb4b2-8bbb-4ff3-8a11-7131c709d0f4",
-      "detailsFetchedAt": "2026-11-06T12:57:28.883Z",
+      "detailsFetchedAt": "2026-11-13T13:06:48.406Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -3365,7 +3365,7 @@
         "numerUmowy": "Zlecenie 20/2026",
         "okres": "48 dni",
         "dataPublikacji": "05.11.2026",
-        "dataModyfikacji": "05.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -4972,6 +4972,71 @@
       }
     },
     {
+      "idUmowy": "1d58c2ec-8940-480c-b02d-1c5c324b3f76",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "28.10.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 160.98,
+      "przedmiotUmowy": "Dostawa elementów zamiennych do drzwi pływalni GOSiR",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/1d58c2ec-8940-480c-b02d-1c5c324b3f76",
+      "detailsFetchedAt": "2026-11-13T13:06:41.833Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ALURIGHT WIKTOR MOSUR",
+          "nip": "6762593970",
+          "regon": "388394691",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Barbary",
+            "numerNieruchomosci": "11",
+            "numerLokalu": null,
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "Kraków",
+            "gminaMiastoDzielnica": "Kraków-Podgórze",
+            "miejscowosc": "Kraków",
+            "kodPocztowy": "30-838"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "3 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "2dcef3d1-c97f-4448-a980-476152cd306f",
       "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
       "regon": "016279633",
@@ -5301,12 +5366,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "28.10.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 0,
       "przedmiotUmowy": "Montaż 5 szt. szyb w wiatach przystankowych",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1c14e8a3-2321-4cf6-b9ef-2daa5ef240f6",
-      "detailsFetchedAt": "2026-11-05T06:34:05.268Z",
+      "detailsFetchedAt": "2026-11-13T13:06:45.114Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -5357,7 +5422,7 @@
         "numerUmowy": "WIiR.7014.455.2026.RM",
         "okres": "10 dni",
         "dataPublikacji": "02.11.2026",
-        "dataModyfikacji": "02.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -10774,6 +10839,71 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "68473e77-b4af-4072-a14f-1840e41112e2",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "26.10.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 122.96,
+      "przedmiotUmowy": "Dostawa zamków do WC w pływalni GOSiR",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/68473e77-b4af-4072-a14f-1840e41112e2",
+      "detailsFetchedAt": "2026-11-13T13:06:43.152Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"DEMITECH\" DARIUSZ KORBIŃSKI",
+          "nip": "6571348828",
+          "regon": "291185459",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wincentego Witosa",
+            "numerNieruchomosci": "80A",
+            "numerLokalu": null,
+            "wojewodztwo": "ŚWIĘTOKRZYSKIE",
+            "powiat": "Kielce",
+            "gminaMiastoDzielnica": "Kielce",
+            "miejscowosc": "Kielce",
+            "kodPocztowy": "25-562"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -23535,6 +23665,71 @@
       }
     },
     {
+      "idUmowy": "8d86ab43-48dc-45ae-92fb-1e784b3ddf04",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "19.10.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 5800,
+      "przedmiotUmowy": "Wykonanie usługi naprawy ogrodzenia Ożarowskich Basenów Letnich",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/8d86ab43-48dc-45ae-92fb-1e784b3ddf04",
+      "detailsFetchedAt": "2026-11-13T13:06:44.460Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MIRSTAL MIROSŁAW GÓRNIAK",
+          "nip": "5341524445",
+          "regon": "013121297",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Święcicka",
+            "numerNieruchomosci": "45A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Płochocin",
+            "kodPocztowy": "05-860"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "10 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "d9fbf174-072b-45c9-bb78-3e2f238c5d37",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -26288,12 +26483,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "17.09.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 2000,
       "przedmiotUmowy": "Realizacja zadania publicznego XL Międzynarodowy Katolicki Festiwal Filmów i Multimediów \"Niepokalana\"2026",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/68a2e083-8b46-4f1e-a9d3-a9a00ab35a16",
-      "detailsFetchedAt": "2026-11-05T13:19:44.639Z",
+      "detailsFetchedAt": "2026-11-13T13:06:45.775Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -26344,7 +26539,7 @@
         "numerUmowy": "WSS/526/31/2026",
         "okres": "29 dni",
         "dataPublikacji": "06.10.2026",
-        "dataModyfikacji": "06.10.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -27133,12 +27328,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "17.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 779.61,
       "przedmiotUmowy": "Sprzątanie pomieszczeń biurowych i sanitarnych w Urzędzie Miejskim w Ożarowie Mazowieckim, ul. Kolejowa 2 i ul. Poznańska 165",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ac7e7568-1b03-41e6-a679-171832476f58",
-      "detailsFetchedAt": "2026-11-07T11:53:29.644Z",
+      "detailsFetchedAt": "2026-11-13T13:06:49.070Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -27189,7 +27384,7 @@
         "numerUmowy": "RK.2150.18.2006",
         "okres": "5 dni",
         "dataPublikacji": "27.08.2026",
-        "dataModyfikacji": "27.08.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -30006,6 +30201,71 @@
       }
     },
     {
+      "idUmowy": "49a27802-6179-40d5-a80d-b53194f348a5",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "15.10.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 16500,
+      "przedmiotUmowy": "Wykonanie przycinki drzew i wykonanie nasadzeń na terenie zewnętrznym Gminnego Ośrodka sportu i rekreacji w Ożarowie Mazowieckim",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/49a27802-6179-40d5-a80d-b53194f348a5",
+      "detailsFetchedAt": "2026-11-13T13:06:42.494Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "KD GARDEN SERVICE Krzysztof Dziekański",
+          "nip": "1181566259",
+          "regon": "527983747",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "Przyłuskiego",
+            "numerNieruchomosci": "20",
+            "numerLokalu": null,
+            "wojewodztwo": "mazowieckie",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Izabelin C",
+            "miejscowosc": "Izabelin C",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "14 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "1262e790-1a5a-49d7-b092-2a6f5f29c37a",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -31591,12 +31851,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "15.07.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 5000,
       "przedmiotUmowy": "Promocja Gminy Ożarów Mazowiecki podczas przygotowania i zawodów",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/72a39c36-8ec0-44b9-9b9c-2850aef6f196",
-      "detailsFetchedAt": "2026-11-08T11:59:07.097Z",
+      "detailsFetchedAt": "2026-11-13T13:06:52.350Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -31647,7 +31907,7 @@
         "numerUmowy": "WSS/28/2026",
         "okres": "78 dni",
         "dataPublikacji": "05.08.2026",
-        "dataModyfikacji": "05.08.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -31908,6 +32168,71 @@
         "okres": null,
         "dataPublikacji": "20.07.2026",
         "dataModyfikacji": "20.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "743b7218-0e6f-4f37-9e97-c7fd5abeb583",
+      "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+      "regon": "140382585",
+      "dataZawarciaUmowy": "14.10.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 3400,
+      "przedmiotUmowy": "Wykonanie przeglądu serwisowego szafy sterującej oświetleniem pływalni GOSiR",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/743b7218-0e6f-4f37-9e97-c7fd5abeb583",
+      "detailsFetchedAt": "2026-11-13T13:06:43.805Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"DREWA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5242458834",
+          "regon": "015479235",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Moniuszki",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "wołomiński",
+            "gminaMiastoDzielnica": "Marki",
+            "miejscowosc": "Marki",
+            "kodPocztowy": "05-270"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINNY OŚRODEK SPORTU I REKREACJI w Ożarowie Mazowieckim",
+          "nip": "1181820924",
+          "regon": "140382585",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -40446,6 +40771,71 @@
       }
     },
     {
+      "idUmowy": "0a6a553a-a830-4ed8-a47e-dfb48aad21c8",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 15010.16,
+      "przedmiotUmowy": "Rozbiórka i odbudowa ogrodzenia",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/0a6a553a-a830-4ed8-a47e-dfb48aad21c8",
+      "detailsFetchedAt": "2026-11-13T13:06:41.178Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"FORTIS OGRÓD\" PAWEŁ PRACZ",
+          "nip": "5811650680",
+          "regon": "146195358",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Graniczna",
+            "numerNieruchomosci": "20A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.482.2026.TM",
+        "okres": "40 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "466f33e7-b326-4915-aec6-271f17f1f510",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -44430,12 +44820,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "07.09.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 30000,
       "przedmiotUmowy": "Promocja Gminy Ożarów Mazowiecki podczas turnieju tańcz Polish Dance Festival",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f41f8747-7677-4687-b591-ed71dd6d2057",
-      "detailsFetchedAt": "2026-11-05T13:20:57.970Z",
+      "detailsFetchedAt": "2026-11-13T13:06:46.439Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -44486,7 +44876,7 @@
         "numerUmowy": "WSS/31/2026",
         "okres": "24 dni",
         "dataPublikacji": "06.10.2026",
-        "dataModyfikacji": "06.10.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -45795,12 +46185,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "07.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 7000,
       "przedmiotUmowy": "Wykonanie kosztorysu robót odtworzeniowych - budynek Fabryczna 7 w Józefowie",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e48ed70c-3412-4e9c-ab8a-3257d7afe894",
-      "detailsFetchedAt": "2026-11-08T11:57:47.255Z",
+      "detailsFetchedAt": "2026-11-13T13:06:51.696Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45851,7 +46241,7 @@
         "numerUmowy": "WIR.7014.305.2026.TM",
         "okres": "18 dni",
         "dataPublikacji": "13.08.2026",
-        "dataModyfikacji": "13.08.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -48825,12 +49215,12 @@
       "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
       "regon": "016279633",
       "dataZawarciaUmowy": "05.11.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "12.11.2026",
       "wartoscPrzedmiotuUmowy": 3572,
       "przedmiotUmowy": "Dostawa obejmująca odnowienie wsparcia technicznego producenta na 12 miesięcy dla oprogramowania Acronis Cyber Protect – Backup Advanced Virtual Host License (Premium Customer Support GESD)",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9b3bcb27-aa1d-4777-aba3-c8a17b517ab0",
-      "detailsFetchedAt": "2026-11-06T12:57:22.586Z",
+      "detailsFetchedAt": "2026-11-13T13:06:47.751Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48881,7 +49271,7 @@
         "numerUmowy": null,
         "okres": "20 dni",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "12.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -49930,12 +50320,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "05.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 5000,
       "przedmiotUmowy": "Promocja Gminy Ożarów Mazowiecki podczas przygotowań i startu w Spartathlon Ultra Race w dniach 26-27.09.2026r. w Grecji",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2221e1c4-9efd-49c3-8246-ddc42b0436c5",
-      "detailsFetchedAt": "2026-11-07T11:54:10.514Z",
+      "detailsFetchedAt": "2026-11-13T13:06:49.729Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -49986,7 +50376,7 @@
         "numerUmowy": "WSS/29/2026",
         "okres": "57 dni",
         "dataPublikacji": "20.08.2026",
-        "dataModyfikacji": "20.08.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -49995,12 +50385,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "05.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 4000,
       "przedmiotUmowy": "Promowanie kultury i tradycji kulinarnych przez Koło Gospodyń Wiejskich Galimatjas",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4b7d51c1-9707-4c36-93c0-fdb929aee3c1",
-      "detailsFetchedAt": "2026-11-07T11:54:11.175Z",
+      "detailsFetchedAt": "2026-11-13T13:06:50.383Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -50051,7 +50441,7 @@
         "numerUmowy": "WSS/526/29/2026",
         "okres": "20 dni",
         "dataPublikacji": "20.08.2026",
-        "dataModyfikacji": "20.08.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -50060,12 +50450,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "05.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 5000,
       "przedmiotUmowy": "Ożarowscy seniorzy poznają atrakcje polskiego wybrzeża",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/b95d1d51-4626-4cc4-89c1-7e77af4e46d7",
-      "detailsFetchedAt": "2026-11-07T11:54:28.252Z",
+      "detailsFetchedAt": "2026-11-13T13:06:51.039Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -50116,7 +50506,7 @@
         "numerUmowy": "WSS/526/28/2026",
         "okres": "19 dni",
         "dataPublikacji": "20.08.2026",
-        "dataModyfikacji": "20.08.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -51165,12 +51555,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "04.11.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "13.11.2026",
       "wartoscPrzedmiotuUmowy": 3500,
       "przedmiotUmowy": "Uszczelnienie dachu szkoły.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/661a812f-5000-41ce-a02c-80f7f3909515",
-      "detailsFetchedAt": "2026-11-06T12:57:21.885Z",
+      "detailsFetchedAt": "2026-11-13T13:06:47.091Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -51221,7 +51611,7 @@
         "numerUmowy": "WIiR.7014.473.2026.PW",
         "okres": "27 dni",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
