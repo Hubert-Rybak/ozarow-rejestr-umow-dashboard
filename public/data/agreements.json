@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-13T13:06:52.355Z",
+  "fetchedAt": "2026-11-14T12:11:42.965Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 954,
-  "totalMatchingElements": 954,
-  "totalVisibleElements": 954,
+  "totalElements": 969,
+  "totalMatchingElements": 969,
+  "totalVisibleElements": 969,
   "detailsPending": 0,
   "agreements": [
     {
@@ -5037,6 +5037,71 @@
       }
     },
     {
+      "idUmowy": "d7ceb9c6-47d1-4fbf-a2ba-f0927fd6aa5b",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "28.10.2026",
+      "dataZakonczeniaUmowy": "12.11.2026",
+      "wartoscPrzedmiotuUmowy": 439.02,
+      "przedmiotUmowy": "Zakup zasilacza z montażem",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d7ceb9c6-47d1-4fbf-a2ba-f0927fd6aa5b",
+      "detailsFetchedAt": "2026-11-14T12:11:41.680Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ALASKA WATER SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1231485475",
+          "regon": "387951729",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Źródlana",
+            "numerNieruchomosci": "15B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "piaseczyński",
+            "gminaMiastoDzielnica": "Piaseczno",
+            "miejscowosc": "Wólka Kozodawska",
+            "kodPocztowy": "05-500"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "34/2026",
+        "okres": "10 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "2dcef3d1-c97f-4448-a980-476152cd306f",
       "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
       "regon": "016279633",
@@ -8239,6 +8304,71 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "b55e9344-62a0-46e7-99c2-fa836285f70d",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "27.10.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 140,
+      "przedmiotUmowy": "Zakup wizytówek dla Dyrektora i Zastępcy Dyrektora",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/b55e9344-62a0-46e7-99c2-fa836285f70d",
+      "detailsFetchedAt": "2026-11-14T12:11:39.109Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PAWEŁ CHMIELEWSKI \"COLIBERS\"",
+          "nip": "5341044314",
+          "regon": "011446747",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "258",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr zamówień nr 70/2026",
+        "okres": "7 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -15456,6 +15586,71 @@
       }
     },
     {
+      "idUmowy": "83d82317-8488-4df6-b9dd-b09b66c686cf",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "23.10.2026",
+      "dataZakonczeniaUmowy": "12.11.2026",
+      "wartoscPrzedmiotuUmowy": 4000,
+      "przedmiotUmowy": "Szkolenie dotyczące implementacji NIS2",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/83d82317-8488-4df6-b9dd-b09b66c686cf",
+      "detailsFetchedAt": "2026-11-14T12:11:37.824Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DCS CONSULTING PAWEŁ FLORCZAK",
+          "nip": "8521059402",
+          "regon": "320626996",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Batalionów Chłopskich",
+            "numerNieruchomosci": "79",
+            "numerLokalu": "124",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Bemowo",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-307"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/257/2026",
+        "okres": "4 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "ba693efe-70c0-4f39-8fde-d4b9f3b4cab2",
       "nazwa": "ZAKŁAD WODOCIĄGÓW I KANALIZACJI W OŻAROWIE MAZOWIECKIM",
       "regon": "141221683",
@@ -21581,6 +21776,71 @@
         "okres": "90 dni",
         "dataPublikacji": "22.07.2026",
         "dataModyfikacji": "30.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "de62c118-dfa5-4ec2-8792-f106fc6b3619",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "20.10.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 546,
+      "przedmiotUmowy": "Szkolenie dla 3 osób dotyczące implementacji NIS2",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/de62c118-dfa5-4ec2-8792-f106fc6b3619",
+      "detailsFetchedAt": "2026-11-14T12:11:42.317Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "DCS CONSULTING PAWEŁ FLORCZAK",
+          "nip": "8521059402",
+          "regon": "320626996",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Batalionów Chłopskich",
+            "numerNieruchomosci": "79",
+            "numerLokalu": "124",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Bemowo",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-307"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Umowa nr SPWZ/257/2026",
+        "okres": "4 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -30260,6 +30520,71 @@
       "details": {
         "numerUmowy": null,
         "okres": "14 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "c6987387-f0b4-43e5-b6b2-08989d46c5dc",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "15.10.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 1960,
+      "przedmiotUmowy": "położenie wykładziny i odgrzybianie ściany w punkcie informacyjnym GM",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c6987387-f0b4-43e5-b6b2-08989d46c5dc",
+      "detailsFetchedAt": "2026-11-14T12:11:40.401Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BREMAR Marcel Brejdakowski",
+          "nip": "7441832199",
+          "regon": "524179536",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Saturna",
+            "numerNieruchomosci": "28",
+            "numerLokalu": null,
+            "wojewodztwo": "WARMIŃSKO-MAZURSKIE",
+            "powiat": "iławski",
+            "gminaMiastoDzielnica": "Iława",
+            "miejscowosc": "Nowa Wieś",
+            "kodPocztowy": "14-200"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WA.2512.55.2026",
+        "okres": "37 dni",
         "dataPublikacji": "13.11.2026",
         "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
@@ -40836,6 +41161,266 @@
       }
     },
     {
+      "idUmowy": "23dc28a0-c266-4afb-8c59-bd3b7ae302e6",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 3943,
+      "przedmiotUmowy": "Licencja na korzystanie z oprogramowania POMOST Std - Pomoc Społeczna",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/23dc28a0-c266-4afb-8c59-bd3b7ae302e6",
+      "detailsFetchedAt": "2026-11-14T12:11:35.281Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SYGNITY SPÓŁKA AKCYJNA",
+          "nip": "5860005293",
+          "regon": "190407926",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Postępu",
+            "numerNieruchomosci": "17B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-676"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr zamówień 75/2026",
+        "okres": "1 rok",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "76d19258-a243-4438-8aa8-f4c71a2a4ce6",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2951,
+      "przedmiotUmowy": "Licencja na korzystanie z aplikacji Piecza Zastępcza",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/76d19258-a243-4438-8aa8-f4c71a2a4ce6",
+      "detailsFetchedAt": "2026-11-14T12:11:37.190Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SYGNITY SPÓŁKA AKCYJNA",
+          "nip": "5860005293",
+          "regon": "190407926",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Postępu",
+            "numerNieruchomosci": "17B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-676"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr zamówień nr 77/2026",
+        "okres": "1 rok",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "8ba18ca2-438c-47fe-9084-8aa22ab6029f",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 12560.98,
+      "przedmiotUmowy": "Warsztaty mikołajkowe dla 100 dzieci z terenu PWZ",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/8ba18ca2-438c-47fe-9084-8aa22ab6029f",
+      "detailsFetchedAt": "2026-11-14T12:11:38.461Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "LINGO - STAR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "1182102786",
+          "regon": "147487152",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wojciecha Korfantego",
+            "numerNieruchomosci": "1",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Umowa Nr 12/P/2026",
+        "okres": "27 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "ed1d1578-37d7-4df0-8c86-6cd46b074716",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 922,
+      "przedmiotUmowy": "Licencja na korzystanie z aplikacji - Karta Polaka",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/ed1d1578-37d7-4df0-8c86-6cd46b074716",
+      "detailsFetchedAt": "2026-11-14T12:11:42.956Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SYGNITY SPÓŁKA AKCYJNA",
+          "nip": "5860005293",
+          "regon": "190407926",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Postępu",
+            "numerNieruchomosci": "17B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-676"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr zamówień nr 76/2026",
+        "okres": "1 rok",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "466f33e7-b326-4915-aec6-271f17f1f510",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -48821,6 +49406,71 @@
       }
     },
     {
+      "idUmowy": "1eaf3a2a-2873-419f-838e-45adb4f57868",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "05.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 7700,
+      "przedmiotUmowy": "Pakiet dla administracji - dostarczenie aktualizacji i serwis oprogramowania",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/1eaf3a2a-2873-419f-838e-45adb4f57868",
+      "detailsFetchedAt": "2026-11-14T12:11:34.636Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"USŁUGI INFORMATYCZNE INFO-SYSTEM\" ROMAN I TADEUSZ GROSZEK SPÓŁKA JAWNA",
+          "nip": "5361745379",
+          "regon": "015664091",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. marsz. Józefa Piłsudskiego",
+            "numerNieruchomosci": "31",
+            "numerLokalu": "240",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "legionowski",
+            "gminaMiastoDzielnica": "Legionowo",
+            "miejscowosc": "Legionowo",
+            "kodPocztowy": "05-120"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Umowa serwisowa nr 2/1170/2026",
+        "okres": "1 rok",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "5fee176b-a544-4972-8d74-c3eb641110e9",
       "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
       "regon": "016279633",
@@ -51291,6 +51941,136 @@
       }
     },
     {
+      "idUmowy": "3ab91c8f-ec28-4a78-85c9-75400bcfd8e1",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "04.11.2026",
+      "dataZakonczeniaUmowy": "12.11.2026",
+      "wartoscPrzedmiotuUmowy": 8424.4,
+      "przedmiotUmowy": "Zakup oprogramowania GstarCAD 2027",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/3ab91c8f-ec28-4a78-85c9-75400bcfd8e1",
+      "detailsFetchedAt": "2026-11-14T12:11:35.921Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TMSYS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "9452152144",
+          "regon": "121393336",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Ciepłownicza",
+            "numerNieruchomosci": "23",
+            "numerLokalu": null,
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "Kraków",
+            "gminaMiastoDzielnica": "Kraków-Nowa Huta",
+            "miejscowosc": "Kraków",
+            "kodPocztowy": "31-574"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/269/2026",
+        "okres": "9 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "c5548cac-54a2-4132-8c7d-2340d9da0714",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "04.11.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 165,
+      "przedmiotUmowy": "Usługa tłumaczenia przysięgłego",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/c5548cac-54a2-4132-8c7d-2340d9da0714",
+      "detailsFetchedAt": "2026-11-14T12:11:39.763Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "TRANSLATEXT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5342648161",
+          "regon": "521285568",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Tadeusza Kościuszki",
+            "numerNieruchomosci": "35",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Pruszków",
+            "miejscowosc": "Pruszków",
+            "kodPocztowy": "05-800"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Nr 21/BR/2026",
+        "okres": "7 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "3d5c5e53-e454-427e-a0ae-c48581037b3a",
       "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
       "regon": "016279633",
@@ -53042,6 +53822,136 @@
         "okres": "28 dni",
         "dataPublikacji": "13.08.2026",
         "dataModyfikacji": "10.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "19bf7b33-c97a-4a3c-ad53-253f6981e026",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "03.11.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 325.18,
+      "przedmiotUmowy": "Zakup niszczarki",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/19bf7b33-c97a-4a3c-ad53-253f6981e026",
+      "detailsFetchedAt": "2026-11-14T12:11:33.998Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "ME M10 SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "7671713995",
+          "regon": "384099268",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Za Dworcem",
+            "numerNieruchomosci": "1D",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "złotowski",
+            "gminaMiastoDzielnica": "Złotów",
+            "miejscowosc": "Złotów",
+            "kodPocztowy": "77-400"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr zamówień nr 71/2026",
+        "okres": "3 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "5778d0b2-9ffc-47d5-8e03-3e0070f77934",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "03.11.2026",
+      "dataZakonczeniaUmowy": "13.11.2026",
+      "wartoscPrzedmiotuUmowy": 25.17,
+      "przedmiotUmowy": "Wywiady Ps-IV wraz z dostawą",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5778d0b2-9ffc-47d5-8e03-3e0070f77934",
+      "detailsFetchedAt": "2026-11-14T12:11:36.555Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "PPHU DRUK Piotr LEWICKI",
+          "nip": "5841003695",
+          "regon": "190431244",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Przasnyska",
+            "numerNieruchomosci": "11",
+            "numerLokalu": "U1B",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Żoliborz",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-756"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr zamówień nr 72/2026",
+        "okres": "3 dni",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -55380,6 +56290,71 @@
         "okres": "8 dni",
         "dataPublikacji": "03.07.2026",
         "dataModyfikacji": "15.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "d0fce2b6-3014-4d4e-b166-bc211f223c18",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "02.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 1900,
+      "przedmiotUmowy": "Koncert \"Pluszowy Miś\" - Centrum Inicjatyw Społecznych Przy Parku, 21.11.2026 godzina 10.00",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/d0fce2b6-3014-4d4e-b166-bc211f223c18",
+      "detailsFetchedAt": "2026-11-14T12:11:41.038Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Katarzyna Rokicka ELLYAH MUSIC PRODUCTIONS",
+          "nip": "9512010555",
+          "regon": "142459866",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Franciszka Klimczaka",
+            "numerNieruchomosci": "10D",
+            "numerLokalu": "8",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Wilanów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-797"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.72.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "13.11.2026",
+        "dataModyfikacji": "13.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
