@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13T13:07:16.266Z",
+  "checkedAt": "2026-11-14T12:12:07.913Z",
   "links": [
     {
       "nip": "1130122021",
@@ -277,6 +277,28 @@
           "lastMasked": "B******",
           "firstMasked": "W*******",
           "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "1182102786",
+      "krs": "0000527557",
+      "name": "LINGO - STAR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "W****",
+          "firstMasked": "N******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "W****",
+          "firstMasked": "N******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "W****",
+          "firstMasked": "H*****",
+          "funkcja": "wspólnik"
         }
       ]
     },
@@ -5110,6 +5132,55 @@
         },
         {
           "lastMasked": "W********",
+          "firstMasked": "M*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5361745379",
+      "krs": "0000296313",
+      "name": "\"USŁUGI INFORMATYCZNE INFO-SYSTEM\" ROMAN I TADEUSZ GROSZEK SPÓŁKA JAWNA",
+      "persons": [
+        {
+          "lastMasked": "G******",
+          "firstMasked": "R****",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "G******",
+          "firstMasked": "T******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "G******",
+          "firstMasked": "A****",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "9452152144",
+      "krs": "0000370855",
+      "name": "TMSYS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B***",
+          "firstMasked": "T*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "O********",
+          "firstMasked": "M*****",
+          "funkcja": "WICE PREZES"
+        },
+        {
+          "lastMasked": "B***",
+          "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "O********",
           "firstMasked": "M*****",
           "funkcja": "wspólnik"
         }
