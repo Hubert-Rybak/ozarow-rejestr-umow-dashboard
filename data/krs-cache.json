@@ -3038,7 +3038,7 @@
     "statusVat": null
   },
   "9522069024": {
-    "checkedAt": "2026-08-22T12:41:34.094Z",
+    "checkedAt": "2026-11-15T12:44:25.125Z",
     "name": "\"ABC PRO\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "krs": "0000329405",
     "statusVat": "Czynny",
@@ -3087,13 +3087,13 @@
     "personsCheckedAt": "2026-11-05T06:46:33.549Z"
   },
   "9591558163": {
-    "checkedAt": "2026-08-22T12:41:34.890Z",
+    "checkedAt": "2026-11-15T12:44:25.694Z",
     "name": "PIOTR TARCZYŃSKI",
     "krs": null,
     "statusVat": "Czynny"
   },
   "9690363586": {
-    "checkedAt": "2026-08-22T12:41:35.301Z",
+    "checkedAt": "2026-11-15T12:44:26.260Z",
     "name": "DARIUSZ MAJER",
     "krs": null,
     "statusVat": "Czynny"
