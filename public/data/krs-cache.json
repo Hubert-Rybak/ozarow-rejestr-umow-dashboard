@@ -7371,5 +7371,17 @@
     "name": null,
     "krs": null,
     "statusVat": null
+  },
+  "5272185341": {
+    "checkedAt": "2026-11-16T13:39:22.696Z",
+    "name": "POWIAT WARSZAWSKI ZACHODNI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "7491342793": {
+    "checkedAt": "2026-11-16T13:39:23.282Z",
+    "name": "JOLANTA HNAUPEK",
+    "krs": null,
+    "statusVat": "Czynny"
   }
 }
