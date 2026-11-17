@@ -7383,5 +7383,73 @@
     "name": "JOLANTA HNAUPEK",
     "krs": null,
     "statusVat": "Czynny"
+  },
+  "5252894904": {
+    "checkedAt": "2026-11-17T14:25:46.413Z",
+    "name": "WYDAWNICTWO SUKURS,WASILEWSKI SPÓŁKA JAWNA",
+    "krs": "0000949498",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "W*********",
+        "firstMasked": "J******",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "W*********",
+        "firstMasked": "J**",
+        "funkcja": "członek organu"
+      }
+    ],
+    "personsCheckedAt": "2026-11-17T14:25:51.564Z"
+  },
+  "5270103385": {
+    "checkedAt": "2026-11-17T14:25:46.971Z",
+    "name": "'IKEA RETAIL' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000091681",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "Ż**********",
+        "firstMasked": "M*****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "B*********",
+        "firstMasked": "P****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-17T14:25:52.248Z"
+  },
+  "5342406015": {
+    "checkedAt": "2026-11-17T14:25:47.542Z",
+    "name": "MIASTO PRUSZKÓW",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5861118504": {
+    "checkedAt": "2026-11-17T14:25:48.116Z",
+    "name": "CEZARY ŚWIĄTKOWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "7732331591": {
+    "checkedAt": "2026-11-17T14:25:48.680Z",
+    "name": "ŁUKASZ CZARNECKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8851163657": {
+    "checkedAt": "2026-11-17T14:25:49.360Z",
+    "name": "SABINA CYWKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8971959399": {
+    "checkedAt": "2026-11-17T14:25:50.180Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
   }
 }
