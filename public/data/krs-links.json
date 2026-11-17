@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16T13:39:23.284Z",
+  "checkedAt": "2026-11-17T14:25:52.250Z",
   "links": [
     {
       "nip": "1130122021",
@@ -5183,6 +5183,40 @@
           "lastMasked": "O********",
           "firstMasked": "M*****",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "5252894904",
+      "krs": "0000949498",
+      "name": "WYDAWNICTWO SUKURS,WASILEWSKI SPÓŁKA JAWNA",
+      "persons": [
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "J******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "W*********",
+          "firstMasked": "J**",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "5270103385",
+      "krs": "0000091681",
+      "name": "'IKEA RETAIL' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Ż**********",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "P****",
+          "funkcja": "CZŁONEK ZARZĄDU"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T13:39:21.636Z",
+  "fetchedAt": "2026-11-17T14:25:45.396Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,11 +7,76 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 977,
-  "totalMatchingElements": 977,
-  "totalVisibleElements": 977,
+  "totalElements": 992,
+  "totalMatchingElements": 992,
+  "totalVisibleElements": 992,
   "detailsPending": 0,
   "agreements": [
+    {
+      "idUmowy": "573ac5e7-6f5f-41a4-9bba-788ac2aa0c47",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "31.10.2026",
+      "dataZakonczeniaUmowy": "16.11.2026",
+      "wartoscPrzedmiotuUmowy": 2002.36,
+      "przedmiotUmowy": "wykonanie spersonalizowanych legitymacji szkolnych dla uczniów klas I i pozostałych nowych uczniów, wraz z hologramami",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/573ac5e7-6f5f-41a4-9bba-788ac2aa0c47",
+      "detailsFetchedAt": "2026-11-17T14:24:21.610Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Magdalena Margas Fotografia i Reklama",
+          "nip": "1132736000",
+          "regon": "142538778",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Żytnia",
+            "numerNieruchomosci": "21D",
+            "numerLokalu": "1",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Michałowice",
+            "miejscowosc": "Reguły",
+            "kodPocztowy": "05-816"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "12 dni",
+        "dataPublikacji": "16.11.2026",
+        "dataModyfikacji": "16.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "597d888e-6892-450b-bcce-bf7c4ddd2f23",
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
@@ -147,12 +212,12 @@
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
       "dataZawarciaUmowy": "31.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "16.11.2026",
       "wartoscPrzedmiotuUmowy": 628.11,
       "przedmiotUmowy": "zakup książek (lektur) do biblioteki szkolnej",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9f862678-a2ac-4ff0-a355-a40e5104c25a",
-      "detailsFetchedAt": "2026-11-07T11:43:57.194Z",
+      "detailsFetchedAt": "2026-11-17T14:25:41.099Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -203,7 +268,7 @@
         "numerUmowy": null,
         "okres": "1 dzień",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -5562,11 +5627,11 @@
       "regon": "013271269",
       "dataZawarciaUmowy": "28.10.2026",
       "dataZakonczeniaUmowy": null,
-      "wartoscPrzedmiotuUmowy": 13983.74,
+      "wartoscPrzedmiotuUmowy": 17200,
       "przedmiotUmowy": "Wykonanie prac konserwacyjnych na placach zabaw w gminie Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6b2f10a2-aa22-43ec-9330-a248d0e127a1",
-      "detailsFetchedAt": "2026-11-05T06:38:27.528Z",
+      "detailsFetchedAt": "2026-11-17T14:24:25.883Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -5617,7 +5682,7 @@
         "numerUmowy": "WIR.7014.453.2026",
         "okres": null,
         "dataPublikacji": "29.10.2026",
-        "dataModyfikacji": "29.10.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -8962,12 +9027,12 @@
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
       "dataZawarciaUmowy": "27.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "16.11.2026",
       "wartoscPrzedmiotuUmowy": 7534.98,
       "przedmiotUmowy": "przegląd i kontrola systemu detekcji gazu, wymiana akumulatora do systemu detekcji",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/42ac7828-c5bc-4440-8b7f-d1a0b993b25e",
-      "detailsFetchedAt": "2026-11-07T11:43:48.729Z",
+      "detailsFetchedAt": "2026-11-17T14:24:28.018Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -9018,7 +9083,7 @@
         "numerUmowy": null,
         "okres": "6 dni",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -11302,12 +11367,12 @@
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
       "dataZawarciaUmowy": "26.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "16.11.2026",
       "wartoscPrzedmiotuUmowy": 2200,
       "przedmiotUmowy": "pranie dywanów w oddziałach \"0\" - 7 szt.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/953ac22b-458f-4cee-8f9a-192e6e906abe",
-      "detailsFetchedAt": "2026-11-07T11:43:56.526Z",
+      "detailsFetchedAt": "2026-11-17T14:25:40.385Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -11358,7 +11423,7 @@
         "numerUmowy": null,
         "okres": "8 dni",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -12862,12 +12927,12 @@
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
       "dataZawarciaUmowy": "25.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "16.11.2026",
       "wartoscPrzedmiotuUmowy": 1250.16,
       "przedmiotUmowy": "dostawa gier i pomocy dydaktycznych do świetlicy szkolnej na potrzeby akcji \"lato w miescie\"",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/7f18b179-39f8-4d7e-9750-8646d1462760",
-      "detailsFetchedAt": "2026-11-07T11:43:51.970Z",
+      "detailsFetchedAt": "2026-11-17T14:24:29.438Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12918,7 +12983,7 @@
         "numerUmowy": null,
         "okres": "1 dzień",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -16305,12 +16370,12 @@
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
       "dataZawarciaUmowy": "23.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "16.11.2026",
       "wartoscPrzedmiotuUmowy": 659.96,
       "przedmiotUmowy": "dostawa poradników dla nauczycieli edukacji zdrowotnej",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/7840f9ae-587a-436f-98af-6c0967fdcdad",
-      "detailsFetchedAt": "2026-11-07T11:43:51.325Z",
+      "detailsFetchedAt": "2026-11-17T14:24:28.729Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -16361,7 +16426,7 @@
         "numerUmowy": null,
         "okres": "1 dzień",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -19488,12 +19553,12 @@
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "21.09.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "17.11.2026",
       "wartoscPrzedmiotuUmowy": 1361.11,
       "przedmiotUmowy": "Udział w Konferencji \" Zadania Wydziałów Komunikacji w praktyce\" 13 - 16 października 2026r.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2511ca3c-6d07-4f11-84dc-b30a846a3596",
-      "detailsFetchedAt": "2026-11-05T13:19:37.700Z",
+      "detailsFetchedAt": "2026-11-17T14:24:26.600Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -19544,7 +19609,7 @@
         "numerUmowy": null,
         "okres": "26 dni",
         "dataPublikacji": "07.10.2026",
-        "dataModyfikacji": "07.10.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -20138,12 +20203,12 @@
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
       "dataZawarciaUmowy": "21.08.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "16.11.2026",
       "wartoscPrzedmiotuUmowy": 7900,
       "przedmiotUmowy": "dostawa i montaż monitora interaktywnego myBoard White Arrow 75\"",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a43b98b7-d506-41c1-bbcc-fa552bdccce4",
-      "detailsFetchedAt": "2026-11-07T11:43:57.840Z",
+      "detailsFetchedAt": "2026-11-17T14:25:41.816Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20194,7 +20259,7 @@
         "numerUmowy": null,
         "okres": "1 dzień",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -26410,6 +26475,201 @@
         "okres": "1 dzień",
         "dataPublikacji": "27.07.2026",
         "dataModyfikacji": "27.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "1b47dc5a-955e-49ea-9f28-cf7a7cc3979e",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "17.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 8000,
+      "przedmiotUmowy": "Przebudowa boiska sportowego Bloki Kabel",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/1b47dc5a-955e-49ea-9f28-cf7a7cc3979e",
+      "detailsFetchedAt": "2026-11-17T14:24:15.899Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MIRSTAL MIROSŁAW GÓRNIAK",
+          "nip": "5341524445",
+          "regon": "013121297",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Święcicka",
+            "numerNieruchomosci": "45A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Płochocin",
+            "kodPocztowy": "05-860"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIiR.7014.491.2026.MM",
+        "okres": null,
+        "dataPublikacji": "17.11.2026",
+        "dataModyfikacji": "17.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "b69c5482-f0f5-4d3a-9eb9-4a43f3cff697",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "17.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 0,
+      "przedmiotUmowy": "Montaż huśtawek miejskich na terenie Miasta i Gminy Ożarów Mazowiecki.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/b69c5482-f0f5-4d3a-9eb9-4a43f3cff697",
+      "detailsFetchedAt": "2026-11-17T14:24:18.028Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MIRSTAL MIROSŁAW GÓRNIAK",
+          "nip": "5341524445",
+          "regon": "013121297",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Święcicka",
+            "numerNieruchomosci": "45A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Płochocin",
+            "kodPocztowy": "05-860"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.494.2026.PT",
+        "okres": "14 dni",
+        "dataPublikacji": "17.11.2026",
+        "dataModyfikacji": "17.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "f7275691-c064-4875-a097-0a9f1b519343",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "17.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 11200,
+      "przedmiotUmowy": "Modernizacja Skate Parku w Płochocinie",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f7275691-c064-4875-a097-0a9f1b519343",
+      "detailsFetchedAt": "2026-11-17T14:24:20.176Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "AS BUD ALBERT ŚPIEWAKOWSKI",
+          "nip": "5242409356",
+          "regon": "140014746",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Adama Ciołkosza",
+            "numerNieruchomosci": "2",
+            "numerLokalu": "41",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Białołęka",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "03-134"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIiR.7014.486.2026.MM",
+        "okres": null,
+        "dataPublikacji": "17.11.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -36462,6 +36722,136 @@
       }
     },
     {
+      "idUmowy": "e7ef3e75-e7da-4993-83a6-c8cb0b2de7bd",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "12.11.2026",
+      "dataZakonczeniaUmowy": "17.11.2026",
+      "wartoscPrzedmiotuUmowy": 3893.91,
+      "przedmiotUmowy": "Zakup defibrylatora, szafki i koszt wysyłki",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e7ef3e75-e7da-4993-83a6-c8cb0b2de7bd",
+      "detailsFetchedAt": "2026-11-17T14:24:19.449Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Łukasz Czarnecki CZARMED",
+          "nip": "7732331591",
+          "regon": "100507569",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "21",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "łódzki wschodni",
+            "gminaMiastoDzielnica": "Andrespol",
+            "miejscowosc": "Bedoń Przykościelny",
+            "kodPocztowy": "95-020"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr zamówień nr 73/2026",
+        "okres": "2 dni",
+        "dataPublikacji": "17.11.2026",
+        "dataModyfikacji": "17.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "aa6c998d-3cce-4643-85ab-50d3cf8f0e6f",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "12.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 530,
+      "przedmiotUmowy": "prenumerata roczna czasopisma \"biblioteka w szkole\" i półroczna \"świetlica w szkole\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/aa6c998d-3cce-4643-85ab-50d3cf8f0e6f",
+      "detailsFetchedAt": "2026-11-17T14:24:24.458Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WYDAWNICTWO SUKURS,WASILEWSKI SPÓŁKA JAWNA",
+          "nip": "5252894904",
+          "regon": "521177241",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. gen. Józefa Zajączka",
+            "numerNieruchomosci": "9A",
+            "numerLokalu": "C1",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Żoliborz",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-518"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 rok",
+        "dataPublikacji": "16.11.2026",
+        "dataModyfikacji": "16.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "fa74d125-d69c-4f5a-b364-df2379a897d5",
       "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
       "regon": "014900974",
@@ -37628,6 +38018,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "13.10.2026",
         "dataModyfikacji": "13.10.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "718cbbf5-7e58-445c-95a0-dbb50fd83a8d",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "11.09.2026",
+      "dataZakonczeniaUmowy": "16.11.2026",
+      "wartoscPrzedmiotuUmowy": 449,
+      "przedmiotUmowy": "Szkolenie online",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/718cbbf5-7e58-445c-95a0-dbb50fd83a8d",
+      "detailsFetchedAt": "2026-11-17T14:24:23.040Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "FUNDACJA ROZWOJU DEMOKRACJI LOKALNEJ IM. JERZEGO REGULSKIEGO",
+          "nip": "5220001895",
+          "regon": "002006030",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Edwarda Jelinka",
+            "numerNieruchomosci": "6",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Żoliborz",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-646"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Numer KSeF: 5220001895-20261029-72403C400126-D0",
+        "okres": "49 dni",
+        "dataPublikacji": "16.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -39058,6 +39513,71 @@
         "okres": "9 dni",
         "dataPublikacji": "14.08.2026",
         "dataModyfikacji": "05.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "2b52c6bb-0595-4a57-99d1-8335f2ab4b15",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "10.11.2026",
+      "dataZakonczeniaUmowy": "16.11.2026",
+      "wartoscPrzedmiotuUmowy": 2816.7,
+      "przedmiotUmowy": "pomoce dydaktyczne na akcję \"zima/lato w mieście\"",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/2b52c6bb-0595-4a57-99d1-8335f2ab4b15",
+      "detailsFetchedAt": "2026-11-17T14:24:20.896Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MEDIACOLOR Ewa Fidecka",
+          "nip": "5241052573",
+          "regon": "147316410",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wspólna",
+            "numerNieruchomosci": "12B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Gołaszew",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "7 dni",
+        "dataPublikacji": "16.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -41226,6 +41746,71 @@
       }
     },
     {
+      "idUmowy": "5eef8041-82be-4b5a-9ea7-3af8dbf87342",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": "16.11.2026",
+      "wartoscPrzedmiotuUmowy": 649,
+      "przedmiotUmowy": "zakup tablicy suchościeralnej, magnetycznej, z nadrukiem 3 linie",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/5eef8041-82be-4b5a-9ea7-3af8dbf87342",
+      "detailsFetchedAt": "2026-11-17T14:24:22.328Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Cezary Świątkowski I.DIAGONAL II. HostelSopot.pl",
+          "nip": "5861118504",
+          "regon": "191427575",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Polska",
+            "numerNieruchomosci": "43",
+            "numerLokalu": null,
+            "wojewodztwo": "POMORSKIE",
+            "powiat": "Gdynia",
+            "gminaMiastoDzielnica": "Gdynia",
+            "miejscowosc": "Gdynia",
+            "kodPocztowy": "81-334"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "16.11.2026",
+        "dataModyfikacji": "16.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "6326e719-e236-4dda-9b3b-4a9ce2cf177f",
       "nazwa": "BIBLIOTEKA PUBLICZNA IM. IRENY ZARZYCKIEJ W OŻAROWIE MAZOWIECKIM",
       "regon": "000939243",
@@ -41350,6 +41935,71 @@
       "details": {
         "numerUmowy": "ZOPC202607009543K",
         "okres": "3 dni",
+        "dataPublikacji": "16.11.2026",
+        "dataModyfikacji": "16.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "7e05b1a1-7464-4a36-a6da-2cb082beefd4",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": "16.11.2026",
+      "wartoscPrzedmiotuUmowy": 1651.47,
+      "przedmiotUmowy": "zakup płynów myjących i nabłyszczających do zmywarko - wypażarek w stołówce w oddz. \"0\"",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7e05b1a1-7464-4a36-a6da-2cb082beefd4",
+      "detailsFetchedAt": "2026-11-17T14:24:23.751Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Dagmar Słowiński GASTROPROCES",
+          "nip": "7281130240",
+          "regon": "140388381",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Władysława Reymonta",
+            "numerNieruchomosci": "4",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "Łódź",
+            "gminaMiastoDzielnica": "Łódź-Górna",
+            "miejscowosc": "Łódź",
+            "kodPocztowy": "93-491"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
         "dataPublikacji": "16.11.2026",
         "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
@@ -47783,6 +48433,113 @@
       }
     },
     {
+      "idUmowy": "17191230-2ae7-4bc3-bbf4-7e14bc0943f3",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "06.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 81300.81,
+      "przedmiotUmowy": "Dotacja celowa dla Miasta Pruszków",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/17191230-2ae7-4bc3-bbf4-7e14bc0943f3",
+      "detailsFetchedAt": "2026-11-17T14:24:15.153Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        },
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "MIASTO PRUSZKÓW",
+          "nip": "5342406015",
+          "regon": "015834660",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Józefa Ignacego Kraszewskiego",
+            "numerNieruchomosci": "14/16",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Pruszków",
+            "miejscowosc": "Pruszków",
+            "kodPocztowy": "05-800"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        },
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "MIASTO PRUSZKÓW",
+          "nip": "5342406015",
+          "regon": "015834660",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Józefa Ignacego Kraszewskiego",
+            "numerNieruchomosci": "14/16",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Pruszków",
+            "miejscowosc": "Pruszków",
+            "kodPocztowy": "05-800"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WIR.7014.465.2026",
+        "okres": "71 dni",
+        "dataPublikacji": "17.11.2026",
+        "dataModyfikacji": "17.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "b0f1640f-4b1d-46d6-afc7-6f7cec18aee1",
       "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
       "regon": "014900974",
@@ -47842,6 +48599,71 @@
       "details": {
         "numerUmowy": "Numer KSeF: 6112466379-20261109-4F6893000002-29",
         "okres": "5 dni",
+        "dataPublikacji": "16.11.2026",
+        "dataModyfikacji": "16.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "bc295722-1dbc-44f8-930c-70163bc65d46",
+      "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+      "regon": "000264472",
+      "dataZawarciaUmowy": "06.11.2026",
+      "dataZakonczeniaUmowy": "16.11.2026",
+      "wartoscPrzedmiotuUmowy": 1944.76,
+      "przedmiotUmowy": "zakup materiałów na akcję \"zima/lato w mieście\"",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/bc295722-1dbc-44f8-930c-70163bc65d46",
+      "detailsFetchedAt": "2026-11-17T14:24:25.173Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "\"IKEA RETAIL\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "5270103385",
+          "regon": "010577890",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "pl. Szwedzki",
+            "numerNieruchomosci": "3",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Raszyn",
+            "miejscowosc": "Janki",
+            "kodPocztowy": "05-090"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
+          "nip": "1181428468",
+          "regon": "000264472",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Szkolna",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
         "dataPublikacji": "16.11.2026",
         "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
@@ -47982,12 +48804,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "06.11.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "17.11.2026",
       "wartoscPrzedmiotuUmowy": 4300,
       "przedmiotUmowy": "Naprawa odwodnień",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/92c0f1a0-bb14-49fe-a20c-1de59e48be6e",
-      "detailsFetchedAt": "2026-11-09T13:55:40.845Z",
+      "detailsFetchedAt": "2026-11-17T14:25:43.960Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48038,7 +48860,7 @@
         "numerUmowy": "WIR.7014.479.2026.TM",
         "okres": "12 dni",
         "dataPublikacji": "09.11.2026",
-        "dataModyfikacji": "09.11.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -48739,12 +49561,12 @@
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
       "dataZawarciaUmowy": "06.10.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "17.11.2026",
       "wartoscPrzedmiotuUmowy": 365.85,
       "przedmiotUmowy": "Udział w szkoleniu PISKP",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2d388f61-3ee0-4668-817b-932e4bc86e84",
-      "detailsFetchedAt": "2026-11-05T13:19:38.394Z",
+      "detailsFetchedAt": "2026-11-17T14:24:27.308Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48795,7 +49617,7 @@
         "numerUmowy": null,
         "okres": "24 dni",
         "dataPublikacji": "07.10.2026",
-        "dataModyfikacji": "07.10.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -50125,12 +50947,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "05.11.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "17.11.2026",
       "wartoscPrzedmiotuUmowy": 16950.55,
       "przedmiotUmowy": "Utwardzenie części działek",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9f6f5347-4e5e-4d0d-b022-2028ac2f3636",
-      "detailsFetchedAt": "2026-11-10T13:28:25.654Z",
+      "detailsFetchedAt": "2026-11-17T14:25:45.389Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -50181,7 +51003,7 @@
         "numerUmowy": "WIR.7014.476.2026.TM",
         "okres": "23 dni",
         "dataPublikacji": "10.11.2026",
-        "dataModyfikacji": "10.11.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -52457,6 +53279,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "21.07.2026",
         "dataModyfikacji": "21.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "e3f50f2b-53ef-496f-b953-505a808d2f0c",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "04.11.2026",
+      "dataZakonczeniaUmowy": "17.11.2026",
+      "wartoscPrzedmiotuUmowy": 458,
+      "przedmiotUmowy": "Uprawnienia Transportowe - Zezwolenia, Badanie Dobrej Reputacji, Kontrole, Alerty KREPTD i pisma GITD w prowadzeniu postępowań",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/e3f50f2b-53ef-496f-b953-505a808d2f0c",
+      "detailsFetchedAt": "2026-11-17T14:24:18.738Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Alsa - CENTRUM OBSŁUGI BIZNESU Sabina Cywka, Almagia Sabina Cywka",
+          "nip": "8851163657",
+          "regon": "891487822",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Jabłońska",
+            "numerNieruchomosci": "17",
+            "numerLokalu": null,
+            "wojewodztwo": "DOLNOŚLĄSKIE",
+            "powiat": "kłodzki",
+            "gminaMiastoDzielnica": "Nowa Ruda",
+            "miejscowosc": "Jugów",
+            "kodPocztowy": "57-430"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "brak",
+        "okres": "14 dni",
+        "dataPublikacji": "17.11.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -55172,12 +56059,12 @@
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
       "dataZawarciaUmowy": "03.09.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "16.11.2026",
       "wartoscPrzedmiotuUmowy": 861,
       "przedmiotUmowy": "przeprowadzenie szkolenia Dyrektora z zakresu zmian przepisów prawa oświatowego mających wpływ na statut jednostki oraz zasad techniki prawodawczej",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/93e86301-0722-4f85-b1e8-efb27169a18b",
-      "detailsFetchedAt": "2026-11-07T11:43:55.874Z",
+      "detailsFetchedAt": "2026-11-17T14:25:39.672Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -55228,7 +56115,7 @@
         "numerUmowy": null,
         "okres": "1 dzień",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -56814,6 +57701,71 @@
       }
     },
     {
+      "idUmowy": "966c5b1e-4aeb-4eeb-a5bd-29e86ccb8564",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "02.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 2438.72,
+      "przedmiotUmowy": "Zakup karmników dla ptaków, domków dla wiewiórek oraz hotelików dla owadów.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/966c5b1e-4aeb-4eeb-a5bd-29e86ccb8564",
+      "detailsFetchedAt": "2026-11-17T14:24:17.319Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MARIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "8971959399",
+          "regon": "542647704",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. marsz. Józefa Piłsudskiego",
+            "numerNieruchomosci": "91",
+            "numerLokalu": "1",
+            "wojewodztwo": "DOLNOŚLĄSKIE",
+            "powiat": "Wrocław",
+            "gminaMiastoDzielnica": "Wrocław-Stare Miasto",
+            "miejscowosc": "Wrocław",
+            "kodPocztowy": "50-019"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Zlecenie25/2026",
+        "okres": "26 dni",
+        "dataPublikacji": "17.11.2026",
+        "dataModyfikacji": "17.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "d0fce2b6-3014-4d4e-b166-bc211f223c18",
       "nazwa": "DOM KULTURY\"UŚMIECH\"",
       "regon": "000830173",
@@ -57078,12 +58030,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "02.11.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "17.11.2026",
       "wartoscPrzedmiotuUmowy": 9000,
       "przedmiotUmowy": "udrożnienie kanalizacji deszczowej na terenie gminy Ożarów Mazowiecki",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9d8507e1-1711-46e0-bf5b-6ab447d733d6",
-      "detailsFetchedAt": "2026-11-10T13:28:25.026Z",
+      "detailsFetchedAt": "2026-11-17T14:25:44.673Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -57134,7 +58086,7 @@
         "numerUmowy": "WIiR.7014.481.2026.MM",
         "okres": null,
         "dataPublikacji": "10.11.2026",
-        "dataModyfikacji": "10.11.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -57330,6 +58282,71 @@
         "okres": "1 dzień",
         "dataPublikacji": "03.11.2026",
         "dataModyfikacji": "03.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "1bb5e350-a44d-4e0f-a474-e22303571bf2",
+      "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+      "regon": "013271269",
+      "dataZawarciaUmowy": "02.10.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 34700,
+      "przedmiotUmowy": "Opracowanie dokumentacji techniczno-prawnej wraz ze wszystkimi uzgodnieniami na wykonanie instalacji elektroenergetycznej w związku z planowanym utworzeniem terenów rekreacyjno-edukacyjnych oraz rewitalizacją stawów w Umiastowie- ul. Umiastowska 43, dla dz. nr ew. 20/17 obręb 0023 Umiastów.",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/1bb5e350-a44d-4e0f-a474-e22303571bf2",
+      "detailsFetchedAt": "2026-11-17T14:24:16.608Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Artur Gałązka ELBRO ARTUR GAŁĄZKA",
+          "nip": "5342362973",
+          "regon": "141987161",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Orla",
+            "numerNieruchomosci": "1A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Brwinów",
+            "miejscowosc": "Brwinów",
+            "kodPocztowy": "05-840"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "GMINA OŻARÓW MAZOWIECKI",
+          "nip": "1181766202",
+          "regon": "013271269",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Kolejowa",
+            "numerNieruchomosci": "2",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "WOŚiR.272.28.2026",
+        "okres": "75 dni",
+        "dataPublikacji": "17.11.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -58053,12 +59070,12 @@
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
       "regon": "000264472",
       "dataZawarciaUmowy": "02.09.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "16.11.2026",
       "wartoscPrzedmiotuUmowy": 999.27,
       "przedmiotUmowy": "dostawa książek (lektur) do biblioteki publicznej",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e1f76b3a-6045-411a-9c35-9b965ab94e7c",
-      "detailsFetchedAt": "2026-11-07T11:45:17.390Z",
+      "detailsFetchedAt": "2026-11-17T14:25:42.531Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -58109,7 +59126,7 @@
         "numerUmowy": null,
         "okres": "1 dzień",
         "dataPublikacji": "06.11.2026",
-        "dataModyfikacji": "06.11.2026",
+        "dataModyfikacji": "16.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -59613,12 +60630,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "02.09.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "17.11.2026",
       "wartoscPrzedmiotuUmowy": 6000,
       "przedmiotUmowy": "Wykonanie usługi konserwacji, oczyszczania i pielęgnacji nawierzchni piaskowej - na placu zabaw w Wolicy - na placu zabaw Osiedle Zientarówka Zakres prac: - usunięcie zanieczyszczeń stałych, takich jak: liście, gałęzie, kamienie, szkło, odpady komunalne oraz elementy niebezpieczne, - wygrabienie i przesianie warstwy piasku w celu eliminacji drobnych zanieczyszczeń. - dosypanie piasku w miejscach ubytków - uporządkowanie strefy wokół urządzeń zabawowych, - wywóz i utylizacja zebranych odpadów",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f3436f21-de94-41d4-a627-4e0856717c19",
-      "detailsFetchedAt": "2026-11-07T11:51:00.792Z",
+      "detailsFetchedAt": "2026-11-17T14:25:43.249Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59669,7 +60686,7 @@
         "numerUmowy": "WIR.7014.344.2026",
         "okres": null,
         "dataPublikacji": "02.09.2026",
-        "dataModyfikacji": "02.09.2026",
+        "dataModyfikacji": "17.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
