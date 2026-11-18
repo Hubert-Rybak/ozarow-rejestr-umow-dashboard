@@ -249,6 +249,12 @@
     "krs": null,
     "statusVat": "Czynny"
   },
+  "1181631146": {
+    "checkedAt": "2026-11-18T14:00:02.176Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
   "1181670525": {
     "checkedAt": "2026-11-05T06:45:40.858Z",
     "name": "BARTŁOMIEJ JOCZ",
@@ -7451,5 +7457,152 @@
     "name": null,
     "krs": null,
     "statusVat": null
+  },
+  "5213793435": {
+    "checkedAt": "2026-11-18T14:00:02.176Z",
+    "name": "PRKING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000693755",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "P*****",
+        "firstMasked": "A***",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "P*****",
+        "firstMasked": "A***",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "Z********",
+        "firstMasked": "M*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-18T14:00:09.418Z"
+  },
+  "5223365787": {
+    "checkedAt": "2026-11-18T14:00:02.707Z",
+    "name": "FUNDACJA CHEER UP",
+    "krs": "0001224938",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "P**********",
+        "firstMasked": "K*******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "P*****",
+        "firstMasked": "K********",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-18T14:00:09.893Z"
+  },
+  "5252256658": {
+    "checkedAt": "2026-11-18T14:00:03.257Z",
+    "name": "MICHAŁ MATUSIAK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341013466": {
+    "checkedAt": "2026-11-18T14:00:03.773Z",
+    "name": "JOLANTA WOJTUNIK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5341465582": {
+    "checkedAt": "2026-11-18T14:00:04.812Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "5711718088": {
+    "checkedAt": "2026-11-18T14:00:04.812Z",
+    "name": "GRUPA LOCA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000735680",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K******",
+        "firstMasked": "M******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K******",
+        "firstMasked": "M******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-18T14:00:10.367Z"
+  },
+  "6331386806": {
+    "checkedAt": "2026-11-18T14:00:05.358Z",
+    "name": "ANITA MARCZYŃSKA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "6750000361": {
+    "checkedAt": "2026-11-18T14:00:05.884Z",
+    "name": "VRG SPÓŁKA AKCYJNA",
+    "krs": "0000047082",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "Z*******",
+        "firstMasked": "M*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "B*******",
+        "firstMasked": "Ł*****",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "K*******",
+        "firstMasked": "M******",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-18T14:00:10.960Z"
+  },
+  "7752671752": {
+    "checkedAt": "2026-11-18T14:00:06.712Z",
+    "name": "MARLENA WZIĄTEK",
+    "krs": null,
+    "statusVat": "Zwolniony"
+  },
+  "8661537273": {
+    "checkedAt": "2026-11-18T14:00:07.746Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "9271003914": {
+    "checkedAt": "2026-11-18T14:00:07.746Z",
+    "name": "\"EURO-BOX\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000085124",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "J*********",
+        "firstMasked": "B******",
+        "funkcja": "PREZES"
+      },
+      {
+        "lastMasked": "J*********",
+        "firstMasked": "B******",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-18T14:00:11.432Z"
+  },
+  "9511590651": {
+    "checkedAt": "2026-11-18T14:00:08.286Z",
+    "name": "WOJCIECH KMERA",
+    "krs": null,
+    "statusVat": "Czynny"
   }
 }
