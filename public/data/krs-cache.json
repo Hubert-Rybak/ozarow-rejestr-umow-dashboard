@@ -7604,5 +7604,31 @@
     "name": "WOJCIECH KMERA",
     "krs": null,
     "statusVat": "Czynny"
+  },
+  "5291821542": {
+    "checkedAt": "2026-11-19T14:38:37.227Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "5951420365": {
+    "checkedAt": "2026-11-19T14:38:37.227Z",
+    "name": "PIOTR PISZCZYGŁOWA",
+    "krs": null,
+    "statusVat": "Niezarejestrowany"
+  },
+  "7010459086": {
+    "checkedAt": "2026-11-19T14:38:37.732Z",
+    "name": "LIXIA PROSTA SPÓŁKA AKCYJNA",
+    "krs": "0000981991",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K*******",
+        "firstMasked": "J****",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-19T14:38:38.701Z"
   }
 }
