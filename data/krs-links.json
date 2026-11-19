@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-18T14:00:11.437Z",
+  "checkedAt": "2026-11-19T14:38:38.703Z",
   "links": [
     {
       "nip": "1130122021",
@@ -5312,6 +5312,18 @@
           "lastMasked": "J*********",
           "firstMasked": "B******",
           "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7010459086",
+      "krs": "0000981991",
+      "name": "LIXIA PROSTA SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "K*******",
+          "firstMasked": "J****",
+          "funkcja": "PREZES ZARZĄDU"
         }
       ]
     }
