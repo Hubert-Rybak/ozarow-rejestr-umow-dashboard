@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-19T14:38:38.703Z",
+  "checkedAt": "2026-11-20T14:13:10.502Z",
   "links": [
     {
       "nip": "1130122021",
@@ -5324,6 +5324,28 @@
           "lastMasked": "K*******",
           "firstMasked": "J****",
           "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5252254518",
+      "krs": "0000148404",
+      "name": "'INSTYTUT RACHUNKOWOŚCI I PODATKÓW' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "G***",
+          "firstMasked": "M*********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "G***",
+          "firstMasked": "M*********",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D*****",
+          "firstMasked": "A*****",
+          "funkcja": "wspólnik"
         }
       ]
     }
