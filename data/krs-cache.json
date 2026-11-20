@@ -7630,5 +7630,41 @@
       }
     ],
     "personsCheckedAt": "2026-11-19T14:38:38.701Z"
+  },
+  "5252254518": {
+    "checkedAt": "2026-11-20T14:13:08.134Z",
+    "name": "'INSTYTUT RACHUNKOWOŚCI I PODATKÓW' SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000148404",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "G***",
+        "firstMasked": "M*********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "G***",
+        "firstMasked": "M*********",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "D*****",
+        "firstMasked": "A*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-20T14:13:10.500Z"
+  },
+  "5270017272": {
+    "checkedAt": "2026-11-20T14:13:08.711Z",
+    "name": "WOJCIECH RACKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "8781580343": {
+    "checkedAt": "2026-11-20T14:13:09.289Z",
+    "name": "DOROTA ROLIŃSKA",
+    "krs": null,
+    "statusVat": "Czynny"
   }
 }
