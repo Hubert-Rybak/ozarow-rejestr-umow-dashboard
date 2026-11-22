@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-21T13:41:38.874Z",
+  "fetchedAt": "2026-11-22T13:33:32.028Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -282,7 +282,7 @@
       "przedmiotUmowy": "dostawa lamp do projektorów multimedialnych i innych artykułów do serwisu sprzętu multimedialnego i komputerowego w szkole, naprawa laptopa",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e4bb9476-4450-4dcc-8d3c-3e7d0b462ce5",
-      "detailsFetchedAt": "2026-11-07T11:45:18.711Z",
+      "detailsFetchedAt": "2026-11-22T13:22:39.415Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -844,7 +844,7 @@
       "przedmiotUmowy": "sprzątanie hali spotowej przy SP1 w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/187ca189-3045-44b8-a5fe-12fd008ed07b",
-      "detailsFetchedAt": "2026-11-07T11:46:36.790Z",
+      "detailsFetchedAt": "2026-11-22T13:23:59.740Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -974,7 +974,7 @@
       "przedmiotUmowy": "Zastępstwa pracowników etatowych zatrudnionych w Gminnym Punkcie Zbierania Odpadów Problemowych w Umiastowie oraz sprzątanie terenu i czyszczenie kontenerów.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a5b6f1e6-b93b-41f9-ba7c-cf946fe7e364",
-      "detailsFetchedAt": "2026-11-07T11:50:51.207Z",
+      "detailsFetchedAt": "2026-11-22T13:28:05.185Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -1039,7 +1039,7 @@
       "przedmiotUmowy": "SERWIS OKIEN I DRZWI W BUDYNKACH SPWZ",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/efdd68b5-dd40-41af-ab3c-4b2d727a967b",
-      "detailsFetchedAt": "2026-11-07T11:50:55.591Z",
+      "detailsFetchedAt": "2026-11-22T13:28:07.508Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -1104,7 +1104,7 @@
       "przedmiotUmowy": "Zakup urządzeń z zakresu ochrony ludności i obrony cywilnej dla Powiatu Warszawskiego Zachodniego - Dostawa wraz z montażem agregatu prądotwórczego stacjonarnego o mocy 80 kW wraz z układem automatyki w Błoniu",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d43a1c1e-03fe-44cd-a14b-13d27130c4ce",
-      "detailsFetchedAt": "2026-11-07T11:52:20.097Z",
+      "detailsFetchedAt": "2026-11-22T13:29:25.797Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -1169,7 +1169,7 @@
       "przedmiotUmowy": "Zakup urządzeń z zakresu ochrony ludności i obrony cywilnej dla Powiatu Warszawskiego\nZachodniego – agregaty prądotwórcze",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ec1c8a22-1454-44d8-af73-c9dd647e5bc7",
-      "detailsFetchedAt": "2026-11-07T11:52:20.752Z",
+      "detailsFetchedAt": "2026-11-22T13:29:26.502Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -2339,7 +2339,7 @@
       "przedmiotUmowy": "dostawa 5 stolików do świetlicy szkolnej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/08e3a2e9-3cd4-4a86-aa8b-23ff75ff0ce1",
-      "detailsFetchedAt": "2026-11-07T11:43:46.131Z",
+      "detailsFetchedAt": "2026-11-22T13:21:15.103Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -4094,7 +4094,7 @@
       "przedmiotUmowy": "dostawa sztućców i talerzy dla oddziałów \"0\"",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/820abefb-3432-46df-890c-7b0ae51124a3",
-      "detailsFetchedAt": "2026-11-07T11:43:52.622Z",
+      "detailsFetchedAt": "2026-11-22T13:21:20.025Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -4419,7 +4419,7 @@
       "przedmiotUmowy": "Prowadzenie warsztatów z wyplatania kószek podczas \"Dożynek Gminnych\" 2026",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/dc18bafe-8ba8-4416-a016-cb6d2d6d0332",
-      "detailsFetchedAt": "2026-11-07T11:48:07.957Z",
+      "detailsFetchedAt": "2026-11-22T13:25:32.913Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -4549,7 +4549,7 @@
       "przedmiotUmowy": "Określenie zasad współfinansowania przewozu zespołu z Boliwii, uczestniczącego w festiwalach folkloru w Ożarowie Mazowieckim i Strzegomiu",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4cc0c92a-cdc3-487a-8b24-9f6937d74589",
-      "detailsFetchedAt": "2026-11-07T11:54:11.835Z",
+      "detailsFetchedAt": "2026-11-22T13:30:53.149Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7061,7 +7061,7 @@
       "przedmiotUmowy": "dostawa artykułów do remontu instalacji oświetleniowo - elektrycznej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2a3b954e-2387-4911-8d86-396332bab940",
-      "detailsFetchedAt": "2026-11-07T11:43:47.426Z",
+      "detailsFetchedAt": "2026-11-22T13:21:16.515Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7386,7 +7386,7 @@
       "przedmiotUmowy": "Zakup kostki brukowej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/425ffe31-0416-478f-beb6-29d44ecd0a95",
-      "detailsFetchedAt": "2026-11-07T11:48:11.206Z",
+      "detailsFetchedAt": "2026-11-22T13:25:36.384Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7451,7 +7451,7 @@
       "przedmiotUmowy": "Książki do księgozbioru Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/fb235c8d-8b8b-4ebd-b2b0-073cf7f8fd0d",
-      "detailsFetchedAt": "2026-11-07T11:49:30.472Z",
+      "detailsFetchedAt": "2026-11-22T13:27:54.286Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7516,7 +7516,7 @@
       "przedmiotUmowy": "ZAKUP FOTELA DLA WICESTAROSTY",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/16f927eb-99ec-4978-8b57-740b7d92491f",
-      "detailsFetchedAt": "2026-11-07T11:49:36.286Z",
+      "detailsFetchedAt": "2026-11-22T13:28:00.601Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7581,7 +7581,7 @@
       "przedmiotUmowy": "Wzmocnienie nawierzchni jezdni drogi powiatowej nr 4129W na odcinku o dł. ok. 500 m od skrzyżowania z drogą krajową nr 92 w m. Bronisze, gm. Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5cf5e09e-4926-4422-8d7d-7985d3ef9d26",
-      "detailsFetchedAt": "2026-11-07T11:52:14.868Z",
+      "detailsFetchedAt": "2026-11-22T13:29:23.002Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7711,7 +7711,7 @@
       "przedmiotUmowy": "Wzmocnienie nawierzchni jezdni drogi powiatowej nr 4120W na odcinku o dł. ok. 1600 m od skrzyżowania z drogą powiatową nr 4121W w m. Pogroszew do drogi wojewódzkiej nr 718 w m. Umiastów, gm. Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9081ab33-b472-4499-8fea-081b80b5df4a",
-      "detailsFetchedAt": "2026-11-07T11:52:18.138Z",
+      "detailsFetchedAt": "2026-11-22T13:29:25.099Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7776,7 +7776,7 @@
       "przedmiotUmowy": "Wykonanie modernizacji rozdzielni w celu możliwości podłączenia agregatu prądotwórczego",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5daf5aa5-e163-4064-a333-02284a8648e9",
-      "detailsFetchedAt": "2026-11-07T11:52:33.214Z",
+      "detailsFetchedAt": "2026-11-22T13:30:40.443Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7841,7 +7841,7 @@
       "przedmiotUmowy": "Wykonanie modernizacji rozdzielni w 3 lokalizacjach w celu możliwości podłączenia agregatu prądotwórczego.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c857b047-5b8d-4d0a-a5cf-dbb91ed10212",
-      "detailsFetchedAt": "2026-11-07T11:53:09.197Z",
+      "detailsFetchedAt": "2026-11-22T13:30:41.849Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -7971,7 +7971,7 @@
       "przedmiotUmowy": "usługa geodezyjna",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/806312fc-baff-4a50-bfd5-16052fdd7f3a",
-      "detailsFetchedAt": "2026-11-07T11:53:11.176Z",
+      "detailsFetchedAt": "2026-11-22T13:30:43.974Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -8057,7 +8057,7 @@
       "przedmiotUmowy": "Utrzymanie czystości w pomieszczeniach biurowych i sanitarnych Straży Miejskiej w Ożarowie Mazowieckim.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/38a43bad-ead0-42f5-8a6c-b59d08b41d60",
-      "detailsFetchedAt": "2026-11-07T11:55:41.673Z",
+      "detailsFetchedAt": "2026-11-22T13:32:20.442Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -9097,7 +9097,7 @@
       "przedmiotUmowy": "odbiór odpadów wielkogabarytowych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/39a07e30-0758-48e2-801b-9211d4f0af7b",
-      "detailsFetchedAt": "2026-11-07T11:43:48.080Z",
+      "detailsFetchedAt": "2026-11-22T13:21:17.232Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -9357,7 +9357,7 @@
       "przedmiotUmowy": "Szkolenie pracownika dot. kosztorysowania w programie Norma",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d1a6f83a-48ea-43df-aafd-540711faabdc",
-      "detailsFetchedAt": "2026-11-06T13:09:14.534Z",
+      "detailsFetchedAt": "2026-11-22T13:21:13.013Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -9422,7 +9422,7 @@
       "przedmiotUmowy": "Zakup samochodu ratowniczego dla OSP Święcice",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2ac0dbe9-862c-4ec4-8662-fc475d5b6183",
-      "detailsFetchedAt": "2026-11-07T11:46:38.081Z",
+      "detailsFetchedAt": "2026-11-22T13:24:01.124Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -9747,7 +9747,7 @@
       "przedmiotUmowy": "Zapewnienie zamawiającemu możliwości korzystania z rozwiązania informatycznego pn. \"System do przeprowadzania wyborów do Młodzieżowej Rady w Ożarowie Mazowieckim, służącego do obsługi Młodzieżowej Rady w Ożarowie Mazowieckim e edycji na rok 2026 , w tym zgłaszania kandydatów i głosowania na nie poprzez sieć Internet.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0f65ce1d-dbd9-4520-b65d-59966983f30f",
-      "detailsFetchedAt": "2026-11-07T11:49:32.408Z",
+      "detailsFetchedAt": "2026-11-22T13:27:56.405Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -9877,7 +9877,7 @@
       "przedmiotUmowy": "Kolacja dla kierowników zespołów folklorystycznych i przedstawicieli władz samorządowych oraz przygotowanie sprzętu konferencyjnego podczas kolacji z okazji X Międzynarodowego Festiwalu Folkloru - Ożarów Mazowiecki 2026",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/96806114-68d1-4e7a-b2b2-f40097d38a58",
-      "detailsFetchedAt": "2026-11-07T11:54:36.814Z",
+      "detailsFetchedAt": "2026-11-22T13:32:12.752Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -11372,7 +11372,7 @@
       "przedmiotUmowy": "dostarczenie magnesów do oddziałów \"0\"",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c760dd31-dce9-43a4-bc21-3b778aad2d55",
-      "detailsFetchedAt": "2026-11-07T11:45:13.187Z",
+      "detailsFetchedAt": "2026-11-22T13:22:34.544Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -11632,7 +11632,7 @@
       "przedmiotUmowy": "naprawa urządzenia czyszczącego powierzchnie płaskie na halach sportowych wraz z częściami",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/b2fc6e2b-3953-4520-ba01-d2b062cc186f",
-      "detailsFetchedAt": "2026-11-07T11:45:11.867Z",
+      "detailsFetchedAt": "2026-11-22T13:22:33.147Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12087,7 +12087,7 @@
       "przedmiotUmowy": "Komponenty do przypinek",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/38ad0bce-49ef-4f5a-8200-6aedf64df29c",
-      "detailsFetchedAt": "2026-11-07T11:50:49.262Z",
+      "detailsFetchedAt": "2026-11-22T13:28:03.044Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -12737,7 +12737,7 @@
       "przedmiotUmowy": "Zakup artykułów biurowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/fd2e4742-f5e3-4729-8c6b-baf961d593b9",
-      "detailsFetchedAt": "2026-11-07T11:52:22.067Z",
+      "detailsFetchedAt": "2026-11-22T13:29:27.904Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -13322,7 +13322,7 @@
       "przedmiotUmowy": "szczepionka PREVENAR 13 0,5ml amp.- strz.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d846c963-908c-4cfa-89f9-6ab311f22b93",
-      "detailsFetchedAt": "2026-11-07T11:45:16.728Z",
+      "detailsFetchedAt": "2026-11-22T13:22:38.027Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -13712,7 +13712,7 @@
       "przedmiotUmowy": "naprawa zmywarko - wyparzarki wraz częściami zamiennymi",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d5a27906-22fa-4903-8072-68820cc4404e",
-      "detailsFetchedAt": "2026-11-07T11:45:15.406Z",
+      "detailsFetchedAt": "2026-11-22T13:22:36.625Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -14362,7 +14362,7 @@
       "przedmiotUmowy": "Materiały biurowe i higieniczne",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4833086c-0397-4900-8c93-b7b6794e2e8c",
-      "detailsFetchedAt": "2026-11-07T11:43:49.377Z",
+      "detailsFetchedAt": "2026-11-22T13:21:17.926Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -14687,7 +14687,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć muzyczno-ruchowych z wykorzystaniem perkusji - Neurorytmy",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c111cbae-5a49-4c53-90bd-3f1d299a2d95",
-      "detailsFetchedAt": "2026-11-07T11:48:06.013Z",
+      "detailsFetchedAt": "2026-11-22T13:25:30.799Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -14752,7 +14752,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć z krawiectwa i projektowania odzieży dla dzieci, mlodzieży i dorosłych oraz prowadzenie zajęć z malarstwa dla dorosłych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e0b197db-fde3-40b6-b7da-1ade017ec451",
-      "detailsFetchedAt": "2026-11-07T11:48:08.615Z",
+      "detailsFetchedAt": "2026-11-22T13:25:33.606Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -14817,7 +14817,7 @@
       "przedmiotUmowy": "Szkolenie online",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f1100cba-012a-449e-9285-07404a66bbd7",
-      "detailsFetchedAt": "2026-11-07T11:52:21.410Z",
+      "detailsFetchedAt": "2026-11-22T13:29:27.212Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -14882,7 +14882,7 @@
       "przedmiotUmowy": "Białe logowane koperty",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/01f6c3ee-7c6d-42c8-a071-f14bb3f7eafc",
-      "detailsFetchedAt": "2026-11-07T11:52:22.718Z",
+      "detailsFetchedAt": "2026-11-22T13:29:28.603Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -14947,7 +14947,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć \"balet dla dzieci\", \"akrobatyka dla dzieci\"",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/89a8eb68-dbcf-4954-ae9d-7511be6f3546",
-      "detailsFetchedAt": "2026-11-07T11:52:31.917Z",
+      "detailsFetchedAt": "2026-11-22T13:29:31.384Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -15012,7 +15012,7 @@
       "przedmiotUmowy": "szkolenie",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/609329f9-5e00-4007-a4f0-34957b316fc8",
-      "detailsFetchedAt": "2026-11-07T11:53:08.526Z",
+      "detailsFetchedAt": "2026-11-22T13:30:41.149Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -15098,7 +15098,7 @@
       "przedmiotUmowy": "szkolenia dla pracowników OPS",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d5f2daa0-2a8b-4d62-add8-0903a29a1706",
-      "detailsFetchedAt": "2026-11-07T11:53:30.326Z",
+      "detailsFetchedAt": "2026-11-22T13:30:45.395Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -15163,7 +15163,7 @@
       "przedmiotUmowy": "Szkolenie dla pracowników OPS",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/eb6a24c8-7f65-4a2a-a148-277e6c3f4540",
-      "detailsFetchedAt": "2026-11-07T11:53:31.021Z",
+      "detailsFetchedAt": "2026-11-22T13:30:46.087Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -15423,7 +15423,7 @@
       "przedmiotUmowy": "Określenie zasad współfinansowania przewozu zespołu z Kanady, uczestniczącego w festiwalach folkloru w Koszęcinie i Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1d374f4b-cbfd-4176-b6a5-f1ee8ac6207d",
-      "detailsFetchedAt": "2026-11-07T11:53:35.712Z",
+      "detailsFetchedAt": "2026-11-22T13:30:50.334Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -16635,7 +16635,7 @@
       "przedmiotUmowy": "WYMIANA FILTRÓW OCZYSZCZAJĄCYCH WODĘ",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce638fdc-0f5d-4530-bbe6-91b0702db506",
-      "detailsFetchedAt": "2026-11-07T11:54:28.911Z",
+      "detailsFetchedAt": "2026-11-22T13:30:53.845Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20598,7 +20598,7 @@
       "przedmiotUmowy": "Warsztaty \"Budujemy świat pociągów\" dla dzieci z klas 0-6, filia Bronisze",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/bf60479a-abbe-4775-aa89-cbc85e380f72",
-      "detailsFetchedAt": "2026-11-06T13:09:12.438Z",
+      "detailsFetchedAt": "2026-11-22T13:21:10.900Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20728,7 +20728,7 @@
       "przedmiotUmowy": "usługa usunięcia awarii na sieci wodociągowej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Ogrodowej 1 w miejscowości Płochocin",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/934324cb-3c24-41b9-94c3-98a2b3f200f0",
-      "detailsFetchedAt": "2026-11-07T11:50:50.560Z",
+      "detailsFetchedAt": "2026-11-22T13:28:04.433Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20923,7 +20923,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć z akrobatyki w Broniszach w sezonie kulturalnym 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/3d18581d-028e-48de-87a6-5237d67e7bf9",
-      "detailsFetchedAt": "2026-11-07T11:53:36.375Z",
+      "detailsFetchedAt": "2026-11-22T13:30:51.039Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -20988,7 +20988,7 @@
       "przedmiotUmowy": "aktywacja sieci monitoringu, monitorowanie sygnałów z systemu zabezpieczeń elektronicznych - Ochrona Standard Biznes, gotowość i podejmowanie interwencji zgodnie z pakietem usług - budynek dużej szkoły",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/882ae5f0-81ae-492b-a00c-e7516fc27233",
-      "detailsFetchedAt": "2026-11-07T11:43:53.921Z",
+      "detailsFetchedAt": "2026-11-22T13:21:21.432Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -21053,7 +21053,7 @@
       "przedmiotUmowy": "aktywacja sieci monitoringu, monitorowanie sygnałów z systemu zabezpieczeń elektronicznych - Ochrona Standard Biznes, gotowość i podejmowanie interwencji zgodnie z pakietem usług - budynek małej szkoły",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ac622f23-a2a9-4e1a-8bba-4d55480f7b86",
-      "detailsFetchedAt": "2026-11-07T11:43:58.488Z",
+      "detailsFetchedAt": "2026-11-22T13:22:31.720Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -21313,7 +21313,7 @@
       "przedmiotUmowy": "umowa o świadczenie usług ochrony",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/825ad992-5f67-4d04-bb9a-0f401213ca01",
-      "detailsFetchedAt": "2026-11-06T13:09:10.353Z",
+      "detailsFetchedAt": "2026-11-22T13:21:08.779Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -21378,7 +21378,7 @@
       "przedmiotUmowy": "umowa o świadczenie usług ochrony",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ebf3c608-08b7-4e41-84f5-b308d237bc28",
-      "detailsFetchedAt": "2026-11-06T13:09:15.228Z",
+      "detailsFetchedAt": "2026-11-22T13:21:13.705Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -21443,7 +21443,7 @@
       "przedmiotUmowy": "Świadczenie usługi serwisu eksploatacyjnego oprogramowania komputerowego: (SELWIN, SELWIN_WOJSKO, SELWIN_WYBORY)",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a22de965-600d-4661-8f61-afbc902cb1c2",
-      "detailsFetchedAt": "2026-11-07T11:49:34.346Z",
+      "detailsFetchedAt": "2026-11-22T13:27:58.498Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -21508,7 +21508,7 @@
       "przedmiotUmowy": "zbiorowe zaopatrzenie w wodę i zbiorowe odprowadzenie ścieków na terenie miasta i gminy Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/62a48a8f-d9e1-45b3-bc5d-0408c5f7b1ec",
-      "detailsFetchedAt": "2026-11-07T11:53:35.055Z",
+      "detailsFetchedAt": "2026-11-22T13:30:49.643Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -21573,7 +21573,7 @@
       "przedmiotUmowy": "WYMIANA OPRAW AWARYJNYCH I USZKODZONEJ CZUJKI",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/249506db-b889-492c-9638-8870f4de2718",
-      "detailsFetchedAt": "2026-11-07T11:54:29.571Z",
+      "detailsFetchedAt": "2026-11-22T13:32:07.831Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -21638,7 +21638,7 @@
       "przedmiotUmowy": "Naprawa-korekta lakieru",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ef2db14f-352f-4430-a4d7-415499373153",
-      "detailsFetchedAt": "2026-11-07T11:55:12.630Z",
+      "detailsFetchedAt": "2026-11-22T13:32:15.531Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -22309,7 +22309,7 @@
       "przedmiotUmowy": "dostarczenie dywanu 2m x 3m do świetlicy szkolnej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce5d4f9c-a600-44f3-834f-1d71e06535f9",
-      "detailsFetchedAt": "2026-11-07T11:45:14.506Z",
+      "detailsFetchedAt": "2026-11-22T13:22:35.927Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -23154,7 +23154,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć szachowych w sezonie kulturalnym 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/b5b97bf7-03ff-43ac-9d3b-e0c5dd3ac81d",
-      "detailsFetchedAt": "2026-11-07T11:48:04.683Z",
+      "detailsFetchedAt": "2026-11-22T13:25:29.413Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -23219,7 +23219,7 @@
       "przedmiotUmowy": "Zakup artykułów gospodarczych i biurowych.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/dbf932ed-cbe6-49b0-807a-cd764565c105",
-      "detailsFetchedAt": "2026-11-07T11:49:27.888Z",
+      "detailsFetchedAt": "2026-11-22T13:25:38.463Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -23349,7 +23349,7 @@
       "przedmiotUmowy": "Elementy ochronne do telefonów służbowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/acdb16e1-31b6-4ceb-8f4c-bf162b463162",
-      "detailsFetchedAt": "2026-11-07T11:53:31.706Z",
+      "detailsFetchedAt": "2026-11-22T13:30:46.815Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -23479,7 +23479,7 @@
       "przedmiotUmowy": "MEBLE NA WYMIAR",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/878353c1-2b9f-47d8-8aee-252554feb215",
-      "detailsFetchedAt": "2026-11-07T11:54:35.526Z",
+      "detailsFetchedAt": "2026-11-22T13:32:11.347Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -23544,7 +23544,7 @@
       "przedmiotUmowy": "Teczki akt ewidencyjnych kierowcy KS-127",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/950c05f6-9c82-4b5a-8524-a24bd0864786",
-      "detailsFetchedAt": "2026-11-07T11:54:36.169Z",
+      "detailsFetchedAt": "2026-11-22T13:32:12.048Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -25861,7 +25861,7 @@
       "przedmiotUmowy": "Wydruk plakatów informacyjno-promocyjnych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d69aad09-a2b8-4992-bfce-f80b291b4b32",
-      "detailsFetchedAt": "2026-11-07T11:53:33.036Z",
+      "detailsFetchedAt": "2026-11-22T13:30:48.236Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -25926,7 +25926,7 @@
       "przedmiotUmowy": "Usługa wydania kaszanki i kiełbasy grillowej oraz zapewnienia sprzętu eventowego w trakcie Dożynek Gminnych 2026",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c9938ca9-4934-4794-8fe9-ba96db12e461",
-      "detailsFetchedAt": "2026-11-07T11:55:11.286Z",
+      "detailsFetchedAt": "2026-11-22T13:32:14.138Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -25991,7 +25991,7 @@
       "przedmiotUmowy": "Usługa przygotowania i obsługi 7 sztuk garderób dla Artystów występujących podczas Dożynek Gminnych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e5d9bceb-cb0e-4c88-bd3f-20944864b2ed",
-      "detailsFetchedAt": "2026-11-07T11:55:11.944Z",
+      "detailsFetchedAt": "2026-11-22T13:32:14.835Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -26056,7 +26056,7 @@
       "przedmiotUmowy": "Usługa przygotowania i obsługi namiotu VIP wraz z cateringiem w trakcie Dożynek Gminnych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/fc987128-314e-4293-8f09-801422bb3209",
-      "detailsFetchedAt": "2026-11-07T11:55:13.292Z",
+      "detailsFetchedAt": "2026-11-22T13:32:16.224Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -26813,7 +26813,7 @@
       "przedmiotUmowy": "Dostawa dwóch przewodów ciśnieniowych DN 2SC - 5mb oraz DN 2SC - 5mb.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/3c086104-b196-414c-9a31-67a3fc035930",
-      "detailsFetchedAt": "2026-11-07T11:46:38.731Z",
+      "detailsFetchedAt": "2026-11-22T13:24:01.856Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -26943,7 +26943,7 @@
       "przedmiotUmowy": "szkolenie dla pracownika pt.: \"Cyberbezpieczeństwo - nowe przepisy 2026\".",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5a5af559-cdb1-47cf-b28a-4b28b42e5354",
-      "detailsFetchedAt": "2026-11-07T11:53:32.373Z",
+      "detailsFetchedAt": "2026-11-22T13:30:47.510Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -27008,7 +27008,7 @@
       "przedmiotUmowy": "Udostępnienie do korzystania przez uczestników wydarzenia dmuchanych atrakcji - Dożynki Gminne 2026",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/266768ce-40b4-4158-b756-4ada2120af89",
-      "detailsFetchedAt": "2026-11-07T11:55:40.350Z",
+      "detailsFetchedAt": "2026-11-22T13:32:19.038Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -27073,7 +27073,7 @@
       "przedmiotUmowy": "\"Lalki motanki\" - warsztaty dla dorosłych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/3fe76de0-3b40-4717-9cca-9332884023d0",
-      "detailsFetchedAt": "2026-11-07T11:55:42.334Z",
+      "detailsFetchedAt": "2026-11-22T13:32:21.137Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -27723,7 +27723,7 @@
       "przedmiotUmowy": "dostawa podręczników dla uczniów",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/19c138c1-4cb1-4745-a6f6-49911b432989",
-      "detailsFetchedAt": "2026-11-07T11:43:46.780Z",
+      "detailsFetchedAt": "2026-11-22T13:21:15.795Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28503,7 +28503,7 @@
       "przedmiotUmowy": "Konserwacja ksiąg meldunkowych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/35b6a10b-5425-4465-b074-30cc80563431",
-      "detailsFetchedAt": "2026-11-06T13:09:52.235Z",
+      "detailsFetchedAt": "2026-11-22T13:21:14.402Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28568,7 +28568,7 @@
       "przedmiotUmowy": "Wynajem sprzętu budowlanego - wiertnica",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/11546bc1-3eb3-4bde-822d-e36d22c010ca",
-      "detailsFetchedAt": "2026-11-07T11:45:25.659Z",
+      "detailsFetchedAt": "2026-11-22T13:22:44.267Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28633,7 +28633,7 @@
       "przedmiotUmowy": "Dostawa czterech luster szlifowanych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/baedc10d-e07f-46a1-96f4-28885e1aed7a",
-      "detailsFetchedAt": "2026-11-07T11:46:41.332Z",
+      "detailsFetchedAt": "2026-11-22T13:24:03.346Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28698,7 +28698,7 @@
       "przedmiotUmowy": "ZLOKALIZOWANIE PRZYCZYNY URUCHAMIANIA SIĘ ALARMU W POMIESZCZENIU A304a w BUDYNKU GŁÓWNYM SPWZ",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/bad54501-51f8-45a1-ab61-2a8b73c580b2",
-      "detailsFetchedAt": "2026-11-07T11:50:58.184Z",
+      "detailsFetchedAt": "2026-11-22T13:29:20.100Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -29889,7 +29889,7 @@
       "przedmiotUmowy": "pomoce dydaktyczne, gry i zabawy na akcję \"lato/zima w mieście\"",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/87f51a39-0924-4524-aa09-53aec743f418",
-      "detailsFetchedAt": "2026-11-07T11:43:53.273Z",
+      "detailsFetchedAt": "2026-11-22T13:21:20.731Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -30669,7 +30669,7 @@
       "przedmiotUmowy": "Zakup książek do księgozbioru",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/66d88583-c54e-4325-9eee-af0d7b23e73e",
-      "detailsFetchedAt": "2026-11-07T11:52:31.268Z",
+      "detailsFetchedAt": "2026-11-22T13:29:30.694Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -32810,7 +32810,7 @@
       "przedmiotUmowy": "szkolenie: rola, odpowiedzialność i zadania Rady Pedagogicznej w systemie kontroli zarządczej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c5c75e51-aa72-4347-8ce0-506c4474bd6e",
-      "detailsFetchedAt": "2026-11-07T11:45:12.526Z",
+      "detailsFetchedAt": "2026-11-22T13:22:33.849Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33351,7 +33351,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/896dd9df-192d-4927-8bbc-fbb047a1085a",
-      "detailsFetchedAt": "2026-11-07T11:46:44.052Z",
+      "detailsFetchedAt": "2026-11-22T13:24:05.536Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33416,7 +33416,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/8b5f0ba7-470e-4919-ac63-6417c7347e72",
-      "detailsFetchedAt": "2026-11-07T11:46:44.697Z",
+      "detailsFetchedAt": "2026-11-22T13:24:06.293Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33481,7 +33481,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9c7f4c30-2168-4db5-96a3-0806112364b6",
-      "detailsFetchedAt": "2026-11-07T11:46:45.347Z",
+      "detailsFetchedAt": "2026-11-22T13:24:07.046Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33546,7 +33546,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a788de3e-ee5e-40ce-b453-c3af657586b5",
-      "detailsFetchedAt": "2026-11-07T11:46:46.651Z",
+      "detailsFetchedAt": "2026-11-22T13:24:08.600Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33611,7 +33611,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/eafb1e34-3e5b-42b6-bbd3-081121166dbe",
-      "detailsFetchedAt": "2026-11-07T11:46:47.971Z",
+      "detailsFetchedAt": "2026-11-22T13:24:10.056Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33676,7 +33676,7 @@
       "przedmiotUmowy": "Sukcesywna dostawa artykułów żywnościowych dla Przedszkola Publicznego Nr 1 z Oddziałami Integracyjnymi w Ożarowie Mazowieckim",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ffa0c936-813b-4ce5-8952-51f47a083ecb",
-      "detailsFetchedAt": "2026-11-07T11:46:48.618Z",
+      "detailsFetchedAt": "2026-11-22T13:24:10.791Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -33871,7 +33871,7 @@
       "przedmiotUmowy": "Kompleksowa usługa związana z usuwaniem wyrobów zawierających azbest z terenu Gminy Ożarów Mazowiecki.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/499a3152-f281-4abd-b6bb-15c481401486",
-      "detailsFetchedAt": "2026-11-07T11:53:34.396Z",
+      "detailsFetchedAt": "2026-11-22T13:30:48.933Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -36211,7 +36211,7 @@
       "przedmiotUmowy": "Szkolenie dla pracownika pt.\" Realizacja zadania kontroli form pomocy krok po kroku - dokumentacja, procedura, metodologia i standard pracy kontrolera.\"",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9348cbb5-cb96-48b0-8196-6c427fb6d096",
-      "detailsFetchedAt": "2026-11-06T13:09:11.048Z",
+      "detailsFetchedAt": "2026-11-22T13:21:09.475Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -36406,7 +36406,7 @@
       "przedmiotUmowy": "Wykonanie dodatkowej studzienki wraz z odejściem w miejscowości Wolskie ul. Agrestowa",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1f793d11-021e-44ec-98d3-b886cacd80e1",
-      "detailsFetchedAt": "2026-11-07T11:51:03.852Z",
+      "detailsFetchedAt": "2026-11-22T13:29:22.299Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -37641,7 +37641,7 @@
       "przedmiotUmowy": "Udostępnienie do korzystania przez uczestników wydarzenia dmuchanych atrakcji - Elektromobilne zakończenie lata",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/cdf3a51d-87fa-4b2f-ba8e-73c4936180c5",
-      "detailsFetchedAt": "2026-11-06T13:09:13.839Z",
+      "detailsFetchedAt": "2026-11-22T13:21:12.305Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -37836,7 +37836,7 @@
       "przedmiotUmowy": "Szkolenie - Koordynacja opieki długoterminowej",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6d0fed89-e771-46aa-af5d-3b4f8d5c170b",
-      "detailsFetchedAt": "2026-11-07T11:49:33.700Z",
+      "detailsFetchedAt": "2026-11-22T13:27:57.805Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -37901,7 +37901,7 @@
       "przedmiotUmowy": "zakup książek do księgozbioru",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/244fcf80-d490-4c44-b546-7c1bec6d32fd",
-      "detailsFetchedAt": "2026-11-07T11:52:29.968Z",
+      "detailsFetchedAt": "2026-11-22T13:29:29.305Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -37966,7 +37966,7 @@
       "przedmiotUmowy": "Zakup książek do Księgozbioru Filii nr 1 w Józefowie",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/31da2d72-a06f-4d0d-a60c-9ac4fcab09fe",
-      "detailsFetchedAt": "2026-11-07T11:52:30.618Z",
+      "detailsFetchedAt": "2026-11-22T13:29:30.001Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39331,7 +39331,7 @@
       "przedmiotUmowy": "zakup czytników kodów kreskowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ee1269fa-5d3f-4255-97fc-f0d37c14dd81",
-      "detailsFetchedAt": "2026-11-07T11:49:29.178Z",
+      "detailsFetchedAt": "2026-11-22T13:27:52.888Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39396,7 +39396,7 @@
       "przedmiotUmowy": "Program antywirusowy",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0d7fde7d-0865-4ee5-ac18-30e2aef5eac3",
-      "detailsFetchedAt": "2026-11-07T11:49:31.762Z",
+      "detailsFetchedAt": "2026-11-22T13:27:55.713Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39461,7 +39461,7 @@
       "przedmiotUmowy": "Zakup kostek do ładowarek",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1d300aa9-14c4-4498-b0e7-5c37d0897549",
-      "detailsFetchedAt": "2026-11-07T11:53:09.857Z",
+      "detailsFetchedAt": "2026-11-22T13:30:42.573Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39526,7 +39526,7 @@
       "przedmiotUmowy": "Zakup artykułów spożywczych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ac346104-7525-4af7-94f9-56cc06c7fb1a",
-      "detailsFetchedAt": "2026-11-07T11:53:28.986Z",
+      "detailsFetchedAt": "2026-11-22T13:30:44.692Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39591,7 +39591,7 @@
       "przedmiotUmowy": "PRZEDŁUŻENIE LICENCJI XDR OPROGRAMOWANIA ESET PROTECT",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/17aa7734-d284-4c25-80e0-6b789920353b",
-      "detailsFetchedAt": "2026-11-07T11:54:09.853Z",
+      "detailsFetchedAt": "2026-11-22T13:30:52.444Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39656,7 +39656,7 @@
       "przedmiotUmowy": "Wymiana pompek skroplin w PCPR POK 214. i WTiK pok. C007 oraz naprawa 5 odpływów",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/68596790-6d24-4636-8afe-54ce04cab70d",
-      "detailsFetchedAt": "2026-11-07T11:54:32.888Z",
+      "detailsFetchedAt": "2026-11-22T13:32:08.529Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39721,7 +39721,7 @@
       "przedmiotUmowy": "Element ochronny do telefonu służbowego",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0e8d20b8-dff4-41fb-8271-9920e1c4d6ac",
-      "detailsFetchedAt": "2026-11-07T11:55:21.812Z",
+      "detailsFetchedAt": "2026-11-22T13:32:17.620Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39786,7 +39786,7 @@
       "przedmiotUmowy": "Elementy ochronne do telefonów służbowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2fd85c91-c77d-4fdb-8fe4-c9203da259c9",
-      "detailsFetchedAt": "2026-11-07T11:55:41.012Z",
+      "detailsFetchedAt": "2026-11-22T13:32:19.739Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -39851,7 +39851,7 @@
       "przedmiotUmowy": "Projekt i wydruk ulotek - Ogrody Sztuki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4c26abcf-18bd-49c0-a576-7e430b4c816a",
-      "detailsFetchedAt": "2026-11-07T11:55:42.998Z",
+      "detailsFetchedAt": "2026-11-22T13:33:32.017Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -40111,7 +40111,7 @@
       "przedmiotUmowy": "dostawa podręczników dla uczniów",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/cb0cb614-9509-4f07-a4b8-33a62ad4b9fb",
-      "detailsFetchedAt": "2026-11-07T11:45:13.847Z",
+      "detailsFetchedAt": "2026-11-22T13:22:35.236Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -40891,7 +40891,7 @@
       "przedmiotUmowy": "Wynajem Sal w Domu Kultury Uśmiech w Ożarowie Mazowieckim i Józefowie w sezonie 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a4da866d-1f6e-4dc0-96dd-0d084a45db37",
-      "detailsFetchedAt": "2026-11-06T13:09:11.745Z",
+      "detailsFetchedAt": "2026-11-22T13:21:10.183Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41021,7 +41021,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć tanecznych i gimnastycznych w sezonie kulturalnym 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/13ad7752-74aa-4506-8f01-3e8bd3572581",
-      "detailsFetchedAt": "2026-11-07T11:45:26.325Z",
+      "detailsFetchedAt": "2026-11-22T13:22:44.960Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41216,7 +41216,7 @@
       "przedmiotUmowy": "Zakup monitorów do Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/15ce9b49-e24b-4547-8c59-bd8ce77941f5",
-      "detailsFetchedAt": "2026-11-07T11:48:09.914Z",
+      "detailsFetchedAt": "2026-11-22T13:25:35.001Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41281,7 +41281,7 @@
       "przedmiotUmowy": "Zakup komputerów do Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f5f4f4eb-a91b-420c-ae90-9f827f7ffffa",
-      "detailsFetchedAt": "2026-11-07T11:49:29.823Z",
+      "detailsFetchedAt": "2026-11-22T13:27:53.583Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41346,7 +41346,7 @@
       "przedmiotUmowy": "Odnowienie subskrypcji i wsparcia technicznego dla urządzenia FortiWiFi-71G z pakietem licencyjnym na kolejnych 12 miesięcy.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f67be0f0-a303-435b-b95e-456bace08266",
-      "detailsFetchedAt": "2026-11-07T11:49:31.117Z",
+      "detailsFetchedAt": "2026-11-22T13:27:55.020Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -41411,7 +41411,7 @@
       "przedmiotUmowy": "usługa usunięcia awarii wodociągowej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Zabytkowej 4 m 5 w miejscowości Płochocin",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/214f67c5-8979-4bed-9b47-5d501092c91b",
-      "detailsFetchedAt": "2026-11-07T11:49:36.933Z",
+      "detailsFetchedAt": "2026-11-22T13:28:01.502Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -42881,7 +42881,7 @@
       "przedmiotUmowy": "Ubezpieczenie NNW - Elektromobilne zakończenie lata",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c18680c0-07d4-4e2a-a52e-a2327382a9bc",
-      "detailsFetchedAt": "2026-11-06T13:09:13.134Z",
+      "detailsFetchedAt": "2026-11-22T13:21:11.590Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -43011,7 +43011,7 @@
       "przedmiotUmowy": "Naprawa szafy sterującej pompami w pływalni GOSiR",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1f88370e-9f51-4c50-b6e0-bad5442f1a5b",
-      "detailsFetchedAt": "2026-11-07T11:46:37.435Z",
+      "detailsFetchedAt": "2026-11-22T13:24:00.433Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -43076,7 +43076,7 @@
       "przedmiotUmowy": "WYSADZENIE 300 SZT KLEMATISÓW WZDŁUŻ OGRODZENIA BOISKA SPORTOWEGO |(70M), WYSYPANIE RABAT ZRĘBKAMI",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c5ddd316-57a0-4452-9154-434f89c65f78",
-      "detailsFetchedAt": "2026-11-07T11:50:58.835Z",
+      "detailsFetchedAt": "2026-11-22T13:29:20.905Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45393,7 +45393,7 @@
       "przedmiotUmowy": "remont instalacji elektrycznej w sali lekcyjnej wraz z materiałami",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d5e209f0-548e-48c0-8166-5f7cb9ecc60b",
-      "detailsFetchedAt": "2026-11-07T11:45:16.070Z",
+      "detailsFetchedAt": "2026-11-22T13:22:37.336Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45718,7 +45718,7 @@
       "przedmiotUmowy": "Zakup podręczników PRIDE",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/66eba2cc-e4e5-4d3a-8575-63f9c80f7cb5",
-      "detailsFetchedAt": "2026-11-07T11:46:43.302Z",
+      "detailsFetchedAt": "2026-11-22T13:24:04.803Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45783,7 +45783,7 @@
       "przedmiotUmowy": "Opracowanie Programu\nFunkcjonalno – Użytkowego obiektu budowlanego, pełniącego funkcję ukrycia kategorii\nU-1 oraz garażu podziemnego, wraz z niezbędną infrastrukturą techniczną.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/4847bfb2-08be-4432-bbdd-8f5d336fac95",
-      "detailsFetchedAt": "2026-11-07T11:48:00.747Z",
+      "detailsFetchedAt": "2026-11-22T13:24:14.398Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -47123,7 +47123,7 @@
       "przedmiotUmowy": "licencja partnerska PIXBLOCKS - 12 m-cy, do 300 kont ucznia",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f006635b-5902-4d84-a87e-330697128ac6",
-      "detailsFetchedAt": "2026-11-07T11:45:19.370Z",
+      "detailsFetchedAt": "2026-11-22T13:22:40.106Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -47599,7 +47599,7 @@
       "przedmiotUmowy": "Projekt graficzny plakatu\ninformacyjnego",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5fef319d-f596-4440-a566-0b92357c3718",
-      "detailsFetchedAt": "2026-11-07T11:48:02.701Z",
+      "detailsFetchedAt": "2026-11-22T13:25:27.319Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -48746,7 +48746,7 @@
       "przedmiotUmowy": "wykonanie zabudowy meblowej recepcji w budynku dużej szkoły",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/58f1150e-2481-4f28-b867-fb15424867bd",
-      "detailsFetchedAt": "2026-11-07T11:43:50.025Z",
+      "detailsFetchedAt": "2026-11-22T13:21:18.623Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -49633,7 +49633,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć muzycznych - nauka gry na keyboardzie i nauka gry na skrzypcach w Domu Kultury \"Uśmiech\" ul. Poznańska 165 w Ożarowie Mazowieckim.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0db7a8c3-4bd1-4582-b19a-9ad8883e8419",
-      "detailsFetchedAt": "2026-11-07T11:47:59.438Z",
+      "detailsFetchedAt": "2026-11-22T13:24:12.982Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -49828,7 +49828,7 @@
       "przedmiotUmowy": "Dostawa czterech przewodów ciśnieniowych DN06 o długości 25mb, 27 mb, 32mb, 30mb",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9c5b054a-ca3d-4dc3-8547-73600a5c0a6a",
-      "detailsFetchedAt": "2026-11-07T11:46:40.671Z",
+      "detailsFetchedAt": "2026-11-22T13:24:02.645Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -49893,7 +49893,7 @@
       "przedmiotUmowy": "usługa usunięcia awarii na sieci wodociągowej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Fabrycznej w miejscowości Płochocin",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/50f6d021-0d1a-4289-830d-fd200a0348cb",
-      "detailsFetchedAt": "2026-11-07T11:50:49.910Z",
+      "detailsFetchedAt": "2026-11-22T13:28:03.737Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -49958,7 +49958,7 @@
       "przedmiotUmowy": "usunięcia awarii na sieci wodociągowej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Wiejskiej 11 w miejscowości Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce812123-f397-4509-8e6f-d07b07179476",
-      "detailsFetchedAt": "2026-11-07T11:50:51.858Z",
+      "detailsFetchedAt": "2026-11-22T13:28:05.925Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -50023,7 +50023,7 @@
       "przedmiotUmowy": "ZAKUP PIECZĄTEK W SIERPNIU 2006",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/de23c4fc-a410-492b-96a7-bf7995422fb2",
-      "detailsFetchedAt": "2026-11-07T11:50:54.943Z",
+      "detailsFetchedAt": "2026-11-22T13:28:06.728Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -50088,7 +50088,7 @@
       "przedmiotUmowy": "Powtórzenie podobnych usług projektowych do umowy Nr RZP.272.19.35.B.2025 z dnia 08 lipca 2025 r., polegających na przygotowaniu dokumentacji projektowej wraz z uzyskaniem wszelkiej dokumentacji formalno – prawnej umożliwiającej zrealizowanie inwestycji polegającej na: Rozbudowie dróg gminnych ulic Strumykowej, Poprzecznej, Karłowicza w Wolicy – Rozszerzenie umowy podstawowej o rozbudowę projektowanego skrzyżowania drogi gminnej 19KDD oraz ul. Parkowej z drogą wojewódzką nr 700 ulicą Warszawską w związku z uzgodnieniem z MZDW w Warszawie konieczności rozbudowy skrzyżowania celem prawidłowej i bezpiecznej obsługi komunikacyjnej",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/77ef214c-f580-46d7-9161-1332a07d30d9",
-      "detailsFetchedAt": "2026-11-07T11:52:16.824Z",
+      "detailsFetchedAt": "2026-11-22T13:29:24.404Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -50218,7 +50218,7 @@
       "przedmiotUmowy": "Zakup magnesów na samochód",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/15f35be4-7eba-41ae-9df8-c584d38dfcb4",
-      "detailsFetchedAt": "2026-11-07T11:54:09.189Z",
+      "detailsFetchedAt": "2026-11-22T13:30:51.747Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -50283,7 +50283,7 @@
       "przedmiotUmowy": "Mycie okien i przeszkleń na elewacji budynków SPWZ",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/81072992-b53b-4fab-b1b3-6361dc6a5610",
-      "detailsFetchedAt": "2026-11-07T11:54:34.875Z",
+      "detailsFetchedAt": "2026-11-22T13:32:10.653Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -52424,7 +52424,7 @@
       "przedmiotUmowy": "Wykonanie projektu plakatu wydarzenia: I Powiatowa Konferencja Senioralna \"Profilaktyka a Zdrowie Seniora\" oraz II turniej brydża sportowego dla zaawansowanych seniorów z powiatu warszawskiego zachodniego",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/40ab4a31-abaa-47c8-88e2-daccc0bac258",
-      "detailsFetchedAt": "2026-11-07T11:49:33.054Z",
+      "detailsFetchedAt": "2026-11-22T13:27:57.109Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -52554,7 +52554,7 @@
       "przedmiotUmowy": "ZAKUP I AKTYWACJA PODPISU KWALIFIKOWANEGO - DLA SKARBNIKA POWIATU",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6d7ba970-c565-4566-a915-fc2fb40592df",
-      "detailsFetchedAt": "2026-11-07T11:54:33.584Z",
+      "detailsFetchedAt": "2026-11-22T13:32:09.243Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -52619,7 +52619,7 @@
       "przedmiotUmowy": "ZAKUP DEFLEKTORÓW DO KLIMATYZACJI",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9f7cb072-e8d9-47a9-bd87-0aa5356ea15e",
-      "detailsFetchedAt": "2026-11-07T11:54:37.462Z",
+      "detailsFetchedAt": "2026-11-22T13:32:13.445Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -53009,7 +53009,7 @@
       "przedmiotUmowy": "zakup pieczątek w miesiącu Lipcu 2026",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/7b0204bf-1e22-4332-b9ea-3a01ec70ad04",
-      "detailsFetchedAt": "2026-11-07T11:54:34.231Z",
+      "detailsFetchedAt": "2026-11-22T13:32:09.962Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54070,7 +54070,7 @@
       "przedmiotUmowy": "wykonanie legitymacji szkolnych wraz z hologramami dla uczniów (46 osób)",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5c4157f8-a5f4-49dc-b7a4-9baf354e1a37",
-      "detailsFetchedAt": "2026-11-07T11:43:50.677Z",
+      "detailsFetchedAt": "2026-11-22T13:21:19.317Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -55045,7 +55045,7 @@
       "przedmiotUmowy": "MODERNIZACJA NAWIERZCHNI DRÓG W GMINIE OŻARÓW MAZOWIECKI Z PODZIAŁEM NA 2 CZĘŚCI: A – MODERNIZACJA UL. REYMONTA – OD ZAMOYSKIEGO DO KOŚCIUSZKI ORAZ MODERNIZACJA UL. REYMONTA – OD UL. SOWIŃSKIEGO DO HALLERA B - MODERNIZACJA UL. WIOSENNEJ",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/717978ea-8d20-4a86-a4db-99cff1fbd3d9",
-      "detailsFetchedAt": "2026-11-07T11:52:16.175Z",
+      "detailsFetchedAt": "2026-11-22T13:29:23.704Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -55305,7 +55305,7 @@
       "przedmiotUmowy": "ZAKUP SEPARATORÓW DO SKANERÓW 17 SZT",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/fe4c94d1-3c86-4900-9d16-640d75afeb77",
-      "detailsFetchedAt": "2026-11-07T11:55:13.948Z",
+      "detailsFetchedAt": "2026-11-22T13:32:16.928Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -57450,7 +57450,7 @@
       "przedmiotUmowy": "Aktualizacja projektu oraz przedmiaru/kosztorysu – ścieżka w zadrzewieniach śródpolnych w miejscowości Kręczki Kaputy i Strzykuły uwzględniając koncepcję budowy drogi gminnej na dz. ewid. nr.6/181 obręb PGR Kręczki Kaputy, 8/143, 8/148, 211 w obrębie PGR Strzykuły z podziałem na etapy.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6e7b169d-cc62-49a2-8072-7cb146daaa3a",
-      "detailsFetchedAt": "2026-11-07T11:45:20.691Z",
+      "detailsFetchedAt": "2026-11-22T13:22:41.501Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -57515,7 +57515,7 @@
       "przedmiotUmowy": "SZKOLENIE ZEWNĘTRZNE \"KLASYFIKACJA BUDŻETOWA 2027-PRAKTYCZNE ASPEKTY DLA JEDNOSTEK SEKTORA PUBLICZNEGO PO ZMIANACH PRZEPISÓW",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/51120e6e-3f8a-4811-a6de-401d64a91d1c",
-      "detailsFetchedAt": "2026-11-07T11:48:02.055Z",
+      "detailsFetchedAt": "2026-11-22T13:25:26.624Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -57580,7 +57580,7 @@
       "przedmiotUmowy": "Szkolenie Zmiany w VAT od 1 października 2026r oraz w raportowaniu schematów podatkowych przez JST i JO",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/75c89144-37a2-4c81-b02c-d53d437080e0",
-      "detailsFetchedAt": "2026-11-07T11:48:03.348Z",
+      "detailsFetchedAt": "2026-11-22T13:25:28.013Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -57645,7 +57645,7 @@
       "przedmiotUmowy": "Przewóz pracowników DK Uśmiech do Osady Puszczańskiej w ramach organizacji wyjazdu integracyjnego",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/b8d2929e-180c-401b-897e-1116d18a0063",
-      "detailsFetchedAt": "2026-11-07T11:48:05.363Z",
+      "detailsFetchedAt": "2026-11-22T13:25:30.105Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -57710,7 +57710,7 @@
       "przedmiotUmowy": "Zakup gier planszowych do Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/5ce74e8c-6327-4900-a133-12756e42cb72",
-      "detailsFetchedAt": "2026-11-07T11:49:23.742Z",
+      "detailsFetchedAt": "2026-11-22T13:25:37.076Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59052,7 +59052,7 @@
       "przedmiotUmowy": "Wymiana oświetlenia ulicznego na energooszczędne w zakresie istniejącej sieci oświetleniowej na terenie Gminy Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0ecaa0b4-9ded-4b54-bcb3-5dcc1929d045",
-      "detailsFetchedAt": "2026-11-07T11:45:25.000Z",
+      "detailsFetchedAt": "2026-11-22T13:22:43.576Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59117,7 +59117,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć nauki tańca - \"Zumba\" w Domu Kultury \"Uśmiech\"w Ożarowie Maz. I w Filii DK \"Uśmiech\" w Józefowie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0181627c-ccb7-4464-9275-a973cad17609",
-      "detailsFetchedAt": "2026-11-07T11:46:49.263Z",
+      "detailsFetchedAt": "2026-11-22T13:24:11.504Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59182,7 +59182,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć \"Akwarela dla młodzieży i dorosłych\" w sezonie kulturalnym 2026/2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d419cfc5-378d-44a3-adde-ef7d73aeac3f",
-      "detailsFetchedAt": "2026-11-07T11:48:07.306Z",
+      "detailsFetchedAt": "2026-11-22T13:25:32.196Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59247,7 +59247,7 @@
       "przedmiotUmowy": "Szkolenie Nowa klasyfikacja budżetowa 2027 - od przepisów do praktyki - najczęstsze problemy interpretacyjne",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/cf642779-9034-4c9a-a279-646e71e48479",
-      "detailsFetchedAt": "2026-11-07T11:49:34.994Z",
+      "detailsFetchedAt": "2026-11-22T13:27:59.210Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59377,7 +59377,7 @@
       "przedmiotUmowy": "usługa usunięcia awarii na sieci kanalizacyjnej przez Wykonawcę na rzecz Zamawiającego i na jego zlecenie, znajdującej się w ulicy ul. Kapucka 16 w miejscowości Ożarów Mazowiecki",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/316c203a-ced4-4cba-a82c-ddffaa3f2caf",
-      "detailsFetchedAt": "2026-11-07T11:49:37.583Z",
+      "detailsFetchedAt": "2026-11-22T13:28:02.351Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59507,7 +59507,7 @@
       "przedmiotUmowy": "USUNIĘCIE USCHNIĘTYCH KRZEWÓW I PRZYGOTOWANIE RABATKI POD NOWE NASADZENIA",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0e436f36-e905-40f0-939f-4c930de1f55b",
-      "detailsFetchedAt": "2026-11-07T11:50:56.238Z",
+      "detailsFetchedAt": "2026-11-22T13:29:17.324Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59572,7 +59572,7 @@
       "przedmiotUmowy": "NAPRAWA NAWODNIENIA W TYM ZAŁATANIE PRZECIEKAJĄCEJ INSTALACJI I WYMIANA 8 SZT USZKODZONYCH TRYSKACZY",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/dfcd4133-ad1b-4992-b965-343f1c181721",
-      "detailsFetchedAt": "2026-11-07T11:51:00.132Z",
+      "detailsFetchedAt": "2026-11-22T13:29:21.607Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59637,7 +59637,7 @@
       "przedmiotUmowy": "Ograniczenie szkód i zagrożeń powodowanych przez bobry na terenie Gminy Ożarów Mazowiecki.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f16d1715-1f07-4bf6-9052-edce72ad1153",
-      "detailsFetchedAt": "2026-11-07T11:52:32.566Z",
+      "detailsFetchedAt": "2026-11-22T13:29:32.077Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59702,7 +59702,7 @@
       "przedmiotUmowy": "usługa",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6bec58d2-7247-475c-aaf4-10c79eb60a6a",
-      "detailsFetchedAt": "2026-11-07T11:53:10.515Z",
+      "detailsFetchedAt": "2026-11-22T13:30:43.276Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59983,7 +59983,7 @@
       "przedmiotUmowy": "Montaż oraz serwis klimatyzacji",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/22df64f2-34df-411d-8e63-c8b8220f9ffe",
-      "detailsFetchedAt": "2026-11-07T11:55:22.594Z",
+      "detailsFetchedAt": "2026-11-22T13:32:18.312Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -61153,7 +61153,7 @@
       "przedmiotUmowy": "przeprowadzenie szkolenia dla Rady Pedagogicznej: ocenianie, klasyfikacja i promowanie uczniów - aspekt prawny i psychologiczny",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/89bd3838-68c8-4872-ad77-4d65f2c2591a",
-      "detailsFetchedAt": "2026-11-07T11:43:54.569Z",
+      "detailsFetchedAt": "2026-11-22T13:21:22.126Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -61218,7 +61218,7 @@
       "przedmiotUmowy": "przeprowadzenie szkolenia dla Rady Pedagogicznej: ocenianie, klasyfikacja i promowanie uczniów - aspekt prawny i psychologiczny",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/acb814a0-6f82-44f4-a6ed-5831b658b2c9",
-      "detailsFetchedAt": "2026-11-07T11:43:59.137Z",
+      "detailsFetchedAt": "2026-11-22T13:22:32.413Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -62908,7 +62908,7 @@
       "przedmiotUmowy": "Zabezpieczenie medyczne podczas pikniku integracyjnego - Dom Kultury Uśmiech filia Bronisze",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ad6337b1-0951-48a3-9374-e8054341afac",
-      "detailsFetchedAt": "2026-11-07T11:46:47.326Z",
+      "detailsFetchedAt": "2026-11-22T13:24:09.332Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -62973,7 +62973,7 @@
       "przedmiotUmowy": "Wykonanie badań profilaktycznych w ramach projektu „Profilaktyka nowotworowa mieszkańców powiatu warszawskiego zachodniego poprzez\nocenę poziomu pierwiastków śladowych oraz markerów nowotworowych, w tym diagnostykę kobiet w kierunku raka jajnika (CA 125) oraz badania prostaty u mężczyzn (PSA)”",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/03dc308a-5ccb-420a-b8f4-ed2f9a159776",
-      "detailsFetchedAt": "2026-11-07T11:47:58.792Z",
+      "detailsFetchedAt": "2026-11-22T13:24:12.283Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -63038,7 +63038,7 @@
       "przedmiotUmowy": "Udostępnienie do korzystania przez uczestników wydarzenia dmuchanych atrakcji - Filia Domu Kultury \"Uśmiech\" w Macierzyszu",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/49ffba4e-54de-4f84-bac5-a5570317171b",
-      "detailsFetchedAt": "2026-11-07T11:48:01.393Z",
+      "detailsFetchedAt": "2026-11-22T13:25:25.932Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -63103,7 +63103,7 @@
       "przedmiotUmowy": "Zamówienie książek - nagród na Narodowe Czytanie",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/7ebcc2fc-bd36-4858-ac93-1c19449d6253",
-      "detailsFetchedAt": "2026-11-07T11:49:25.040Z",
+      "detailsFetchedAt": "2026-11-22T13:25:37.769Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -63168,7 +63168,7 @@
       "przedmiotUmowy": "Zakup licencji antywirusowej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d1e44074-d332-4c5f-915c-4e56ce777527",
-      "detailsFetchedAt": "2026-11-07T11:49:35.640Z",
+      "detailsFetchedAt": "2026-11-22T13:27:59.903Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -63298,7 +63298,7 @@
       "przedmiotUmowy": "Dostawa i montaż 4 szt. ławek na ul. Kasztanowa w Józefowie.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/1d7e23e8-13c1-4ce1-9b04-893ed3c06c72",
-      "detailsFetchedAt": "2026-11-07T11:50:56.885Z",
+      "detailsFetchedAt": "2026-11-22T13:29:18.195Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -63363,7 +63363,7 @@
       "przedmiotUmowy": "Utwardzenie terenu pod Oktagon w Kręczkach Zakres prac: - prace przygotowawcze - roboty ziemne - warstwy konstrukcyjne - warstwa wykończeniowa - odwodnienie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/72be0c18-adbb-4e05-8a41-b2ba3244f602",
-      "detailsFetchedAt": "2026-11-07T11:50:57.535Z",
+      "detailsFetchedAt": "2026-11-22T13:29:19.131Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -63883,7 +63883,7 @@
       "przedmiotUmowy": "przeprowadzenie Audytu Krajowych Ram Interoperacyjności",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/8ecc9e5a-ce7f-4e53-b6f6-5076d38701a2",
-      "detailsFetchedAt": "2026-11-07T11:43:55.221Z",
+      "detailsFetchedAt": "2026-11-22T13:21:22.859Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66479,7 +66479,7 @@
       "przedmiotUmowy": "sprzątanie hal sportowych przy SP w Płochocinie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/58f4f4ce-a354-4549-8d5f-d8b10bd1c26c",
-      "detailsFetchedAt": "2026-11-07T11:45:20.033Z",
+      "detailsFetchedAt": "2026-11-22T13:22:40.799Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66544,7 +66544,7 @@
       "przedmiotUmowy": "sprzątanie hal sportowych przy SP w Płochocinie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/c3957b6c-c375-4368-8489-30bf87eb5b84",
-      "detailsFetchedAt": "2026-11-07T11:45:23.680Z",
+      "detailsFetchedAt": "2026-11-22T13:22:42.193Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66609,7 +66609,7 @@
       "przedmiotUmowy": "sprzątanie hal sportowych przy SP w Płochocinie",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e115e0c9-6cf3-4e22-adf7-89e0ab1c9c67",
-      "detailsFetchedAt": "2026-11-07T11:45:24.342Z",
+      "detailsFetchedAt": "2026-11-22T13:22:42.884Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66674,7 +66674,7 @@
       "przedmiotUmowy": "Prowadzenie zajęć z emisji głosu z Chórem Kameralnym \"Ab Imo Pectore\" oraz z zespołem ludowym \"Ożarowiacy\"w Domu Kultury \"Uśmiech\" w Ożarowie Mazowieckim.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/58a5421e-55d9-446f-95f7-cc007c8b2460",
-      "detailsFetchedAt": "2026-11-07T11:46:42.623Z",
+      "detailsFetchedAt": "2026-11-22T13:24:04.059Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66739,7 +66739,7 @@
       "przedmiotUmowy": "Bilet wstępu",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0ecf58ca-9f67-4444-b85d-fb8219bb345d",
-      "detailsFetchedAt": "2026-11-07T11:48:00.087Z",
+      "detailsFetchedAt": "2026-11-22T13:24:13.676Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66804,7 +66804,7 @@
       "przedmiotUmowy": "Bilet wstępu",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9bc0e892-8323-40ef-8a59-3ddbadde7760",
-      "detailsFetchedAt": "2026-11-07T11:48:04.037Z",
+      "detailsFetchedAt": "2026-11-22T13:25:28.720Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66869,7 +66869,7 @@
       "przedmiotUmowy": "Prowadzenie chóru kameralnego \"Ab Imo Pectore\" w Domu Kultury \"Uśmiech\" oraz dobór, opracowanie i przygotowanie programów dla chóru.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/d0ae06e5-49ae-4cb9-a15b-6a816e7827ac",
-      "detailsFetchedAt": "2026-11-07T11:48:06.659Z",
+      "detailsFetchedAt": "2026-11-22T13:25:31.504Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66934,7 +66934,7 @@
       "przedmiotUmowy": "zakup lokomotywy z kartonu na warsztaty z dziećmi w Bibliotece Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/0064edee-b2a5-4313-9368-6c3fe8d34131",
-      "detailsFetchedAt": "2026-11-07T11:48:09.269Z",
+      "detailsFetchedAt": "2026-11-22T13:25:34.309Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66999,7 +66999,7 @@
       "przedmiotUmowy": "zakup materiałów biurowych",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2ca74674-9dd7-4fb8-b45d-9c8bd0b46752",
-      "detailsFetchedAt": "2026-11-07T11:48:10.561Z",
+      "detailsFetchedAt": "2026-11-22T13:25:35.692Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -67064,7 +67064,7 @@
       "przedmiotUmowy": "zakup folii PCV do konserwacji zbiorów",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e2a25bb9-162d-4c2b-87fe-a4ec40fb2353",
-      "detailsFetchedAt": "2026-11-07T11:49:28.533Z",
+      "detailsFetchedAt": "2026-11-22T13:25:39.155Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -67259,7 +67259,7 @@
       "przedmiotUmowy": "udzielenie licencji na korzystanie z programu Dobry Plan, służącego do układania tygodniowego planu zajęć lekcyjnych",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e449c94c-3be6-4514-b30d-7782bed9d972",
-      "detailsFetchedAt": "2026-11-07T11:45:18.053Z",
+      "detailsFetchedAt": "2026-11-22T13:22:38.722Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -67454,7 +67454,7 @@
       "przedmiotUmowy": "usługa biznesowa komunikacja orange",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a7129630-0200-4477-9bb5-af8e2485c183",
-      "detailsFetchedAt": "2026-11-07T11:46:46.002Z",
+      "detailsFetchedAt": "2026-11-22T13:24:07.809Z",
       "contractors": [
         {
           "kraj": "Polska",
