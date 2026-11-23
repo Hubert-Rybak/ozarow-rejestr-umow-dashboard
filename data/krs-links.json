@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-22T13:33:32.118Z",
+  "checkedAt": "2026-11-23T16:11:19.559Z",
   "links": [
     {
       "nip": "1130122021",
@@ -5348,6 +5348,83 @@
           "funkcja": "wspólnik"
         }
       ]
+    },
+    {
+      "nip": "5270200303",
+      "krs": "0000015609",
+      "name": "\"ATMAZ\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "Z*********",
+          "firstMasked": "J*****",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "Z*********",
+          "firstMasked": "Ł*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "Z*********",
+          "firstMasked": "J*****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6172128410",
+      "krs": "0000258638",
+      "name": "DTA PLUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "D******",
+          "firstMasked": "T*****",
+          "funkcja": "PREZES"
+        },
+        {
+          "lastMasked": "D******",
+          "firstMasked": "T*****",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D******",
+          "firstMasked": "A***",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "6783212074",
+      "krs": "0001069444",
+      "name": "SAKATO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "D****",
+          "firstMasked": "M******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "A****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "M******",
+          "funkcja": "wspólnik"
+        },
+        {
+          "lastMasked": "D****",
+          "firstMasked": "A****",
+          "funkcja": "wspólnik"
+        }
+      ]
+    },
+    {
+      "nip": "7872128401",
+      "krs": "0000737616",
+      "name": "\"DATA SECURITY SOFTWARE SOLUTIONS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+      "persons": []
     }
   ]
 }
