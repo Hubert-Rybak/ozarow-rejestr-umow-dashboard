@@ -7666,5 +7666,102 @@
     "name": "DOROTA ROLIŃSKA",
     "krs": null,
     "statusVat": "Czynny"
+  },
+  "5270200303": {
+    "checkedAt": "2026-11-23T16:11:14.494Z",
+    "name": "\"ATMAZ\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000015609",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "Z*********",
+        "firstMasked": "J*****",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "Z*********",
+        "firstMasked": "Ł*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "Z*********",
+        "firstMasked": "J*****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-23T16:11:18.136Z"
+  },
+  "5311693048": {
+    "checkedAt": "2026-11-23T16:11:15.027Z",
+    "name": "KRYSTIAN ŻAKOWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "6172128410": {
+    "checkedAt": "2026-11-23T16:11:15.525Z",
+    "name": "DTA PLUS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000258638",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "D******",
+        "firstMasked": "T*****",
+        "funkcja": "PREZES"
+      },
+      {
+        "lastMasked": "D******",
+        "firstMasked": "T*****",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "D******",
+        "firstMasked": "A***",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-23T16:11:18.597Z"
+  },
+  "6783212074": {
+    "checkedAt": "2026-11-23T16:11:16.016Z",
+    "name": "SAKATO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001069444",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "D****",
+        "firstMasked": "M******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "D****",
+        "firstMasked": "A****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "D****",
+        "firstMasked": "M******",
+        "funkcja": "wspólnik"
+      },
+      {
+        "lastMasked": "D****",
+        "firstMasked": "A****",
+        "funkcja": "wspólnik"
+      }
+    ],
+    "personsCheckedAt": "2026-11-23T16:11:19.084Z"
+  },
+  "7761484989": {
+    "checkedAt": "2026-11-23T16:11:16.517Z",
+    "name": "MARIUSZ GROTKIEWICZ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "7872128401": {
+    "checkedAt": "2026-11-23T16:11:17.010Z",
+    "name": "\"DATA SECURITY SOFTWARE SOLUTIONS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "krs": "0000737616",
+    "statusVat": "Czynny",
+    "persons": [],
+    "personsCheckedAt": "2026-11-23T16:11:19.556Z"
   }
 }
