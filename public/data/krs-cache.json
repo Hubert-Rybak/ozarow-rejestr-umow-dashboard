@@ -7763,5 +7763,53 @@
     "statusVat": "Czynny",
     "persons": [],
     "personsCheckedAt": "2026-11-23T16:11:19.556Z"
+  },
+  "5220105028": {
+    "checkedAt": "2026-11-24T15:58:10.978Z",
+    "name": "WYDAWNICTWO C. H. BECK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000155734",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B***********",
+        "firstMasked": "W*******",
+        "funkcja": "PREZES ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-24T15:58:12.676Z"
+  },
+  "5260307956": {
+    "checkedAt": "2026-11-24T15:58:11.535Z",
+    "name": "STOWARZYSZENIE KSIĘGOWYCH W POLSCE",
+    "krs": "0000101063",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "L**********",
+        "firstMasked": "L*****",
+        "funkcja": "SEKRETARZ ZARZĄDU GŁÓWNEGO"
+      },
+      {
+        "lastMasked": "H****",
+        "firstMasked": "S********",
+        "funkcja": "PREZES ZARZĄDU GŁÓWNEGO"
+      },
+      {
+        "lastMasked": "Z******",
+        "firstMasked": "P****",
+        "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+      },
+      {
+        "lastMasked": "W***",
+        "firstMasked": "B*****",
+        "funkcja": "SKARBNIK ZARZĄDU GŁÓWNEGO"
+      },
+      {
+        "lastMasked": "K**********",
+        "firstMasked": "M*********",
+        "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+      }
+    ],
+    "personsCheckedAt": "2026-11-24T15:58:13.312Z"
   }
 }

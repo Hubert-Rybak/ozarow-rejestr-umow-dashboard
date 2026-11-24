@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-23T16:11:19.559Z",
+  "checkedAt": "2026-11-24T15:58:13.315Z",
   "links": [
     {
       "nip": "1130122021",
@@ -5425,6 +5425,50 @@
       "krs": "0000737616",
       "name": "\"DATA SECURITY SOFTWARE SOLUTIONS\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
       "persons": []
+    },
+    {
+      "nip": "5220105028",
+      "krs": "0000155734",
+      "name": "WYDAWNICTWO C. H. BECK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "persons": [
+        {
+          "lastMasked": "B***********",
+          "firstMasked": "W*******",
+          "funkcja": "PREZES ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "5260307956",
+      "krs": "0000101063",
+      "name": "STOWARZYSZENIE KSIĘGOWYCH W POLSCE",
+      "persons": [
+        {
+          "lastMasked": "L**********",
+          "firstMasked": "L*****",
+          "funkcja": "SEKRETARZ ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "H****",
+          "firstMasked": "S********",
+          "funkcja": "PREZES ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "Z******",
+          "firstMasked": "P****",
+          "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "W***",
+          "firstMasked": "B*****",
+          "funkcja": "SKARBNIK ZARZĄDU GŁÓWNEGO"
+        },
+        {
+          "lastMasked": "K**********",
+          "firstMasked": "M*********",
+          "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+        }
+      ]
     }
   ]
 }
