@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T15:58:13.315Z",
+  "checkedAt": "2026-11-25T15:37:52.953Z",
   "links": [
     {
       "nip": "1130122021",
@@ -5467,6 +5467,33 @@
           "lastMasked": "K**********",
           "firstMasked": "M*********",
           "funkcja": "WICEPREZES ZARZĄDU GŁÓWNEGO"
+        }
+      ]
+    },
+    {
+      "nip": "9720902729",
+      "krs": "0000270885",
+      "name": "KOMPUTRONIK SPÓŁKA AKCYJNA",
+      "persons": [
+        {
+          "lastMasked": "B*********",
+          "firstMasked": "W*******",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "P****",
+          "firstMasked": "K*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "O*********",
+          "firstMasked": "R*******",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        },
+        {
+          "lastMasked": "M*****",
+          "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
         }
       ]
     }

@@ -303,6 +303,12 @@
     "krs": null,
     "statusVat": "Czynny"
   },
+  "1181791499": {
+    "checkedAt": "2026-11-25T15:37:47.987Z",
+    "name": "MARTA JOCZ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
   "1181810009": {
     "checkedAt": "2026-11-05T06:45:43.457Z",
     "name": "MACIEJ RĄCZKOWSKI",
@@ -7811,5 +7817,64 @@
       }
     ],
     "personsCheckedAt": "2026-11-24T15:58:13.312Z"
+  },
+  "5222536407": {
+    "checkedAt": "2026-11-25T15:37:49.102Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "5372643197": {
+    "checkedAt": "2026-11-25T15:37:49.102Z",
+    "name": "ŁUKASZ ROZENKIEWICZ",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5681281622": {
+    "checkedAt": "2026-11-25T15:37:49.699Z",
+    "name": "ARTUR MILEWSKI",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "7742498677": {
+    "checkedAt": "2026-11-25T15:37:51.392Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "8381773943": {
+    "checkedAt": "2026-11-25T15:37:51.392Z",
+    "name": null,
+    "krs": null,
+    "statusVat": null
+  },
+  "9720902729": {
+    "checkedAt": "2026-11-25T15:37:51.392Z",
+    "name": "KOMPUTRONIK SPÓŁKA AKCYJNA",
+    "krs": "0000270885",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "B*********",
+        "firstMasked": "W*******",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "P****",
+        "firstMasked": "K*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "O*********",
+        "firstMasked": "R*******",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      },
+      {
+        "lastMasked": "M*****",
+        "firstMasked": "M*****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-25T15:37:52.951Z"
   }
 }
