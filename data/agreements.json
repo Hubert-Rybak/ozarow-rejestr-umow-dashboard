@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-24T15:58:09.979Z",
+  "fetchedAt": "2026-11-25T15:37:46.965Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,11 +7,76 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 1054,
-  "totalMatchingElements": 1054,
-  "totalVisibleElements": 1054,
+  "totalElements": 1068,
+  "totalMatchingElements": 1068,
+  "totalVisibleElements": 1068,
   "detailsPending": 0,
   "agreements": [
+    {
+      "idUmowy": "184fe747-953f-4f78-95da-6ec350eb145d",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "31.10.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 1310.32,
+      "przedmiotUmowy": "Zakup spersonalizowanych legitymacji szkolnych wraz z hologramami dla uczniów klas 1 .",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/184fe747-953f-4f78-95da-6ec350eb145d",
+      "detailsFetchedAt": "2026-11-25T15:36:18.341Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Magdalena Margas Fotografia i Reklama",
+          "nip": "1132736000",
+          "regon": "142538778",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Żytnia",
+            "numerNieruchomosci": "21D",
+            "numerLokalu": "1",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "pruszkowski",
+            "gminaMiastoDzielnica": "Michałowice",
+            "miejscowosc": "Reguły",
+            "kodPocztowy": "05-816"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "12 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
     {
       "idUmowy": "573ac5e7-6f5f-41a4-9bba-788ac2aa0c47",
       "nazwa": "SZKOŁA PODSTAWOWA NR1 IM. JANUSZA KUSOCINSKIEGO",
@@ -5102,6 +5167,71 @@
       }
     },
     {
+      "idUmowy": "59dd47e4-0801-42a8-be29-8ef80a31263a",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "28.10.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 2000,
+      "przedmiotUmowy": "Przedstawienie Magiczny Miód i warsztaty tworzenia własnej lalki - Misia - Filia Bronisze",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/59dd47e4-0801-42a8-be29-8ef80a31263a",
+      "detailsFetchedAt": "2026-11-25T15:36:22.713Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Teatr Igraszka Paweł Kołodziejski",
+          "nip": "7742498677",
+          "regon": "141966970",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.83.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "ba20eec2-eba6-47cb-af1e-2518dc265b51",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -5891,7 +6021,7 @@
       "przedmiotUmowy": "Montaż żaluzji i rolet w Przedszkolu nr 3",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/93cf9041-ad1a-43be-9964-16aaf30b45d6",
-      "detailsFetchedAt": "2026-11-11T12:43:30.550Z",
+      "detailsFetchedAt": "2026-11-25T15:37:46.958Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -8642,7 +8772,7 @@
       "przedmiotUmowy": "Zakup filmów DVD do Biblioteki Po Kolei.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/6efce82e-7876-4d10-b7b7-141e2bd4fe93",
-      "detailsFetchedAt": "2026-11-11T12:43:25.724Z",
+      "detailsFetchedAt": "2026-11-25T15:36:30.921Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -11229,6 +11359,71 @@
         "okres": "271 dni",
         "dataPublikacji": "03.08.2026",
         "dataModyfikacji": "03.08.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "975a531e-25b7-43db-bc6c-7af00f3df27b",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "26.10.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 1118,
+      "przedmiotUmowy": "Zakup zewnętrznego dysku twardego do przechowywania, archiwizacji i zabezpieczania dokumentacji",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/975a531e-25b7-43db-bc6c-7af00f3df27b",
+      "detailsFetchedAt": "2026-11-25T15:36:26.443Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "KOMPUTRONIK SPÓŁKA AKCYJNA",
+          "nip": "9720902729",
+          "regon": "634404229",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wołczyńska",
+            "numerNieruchomosci": "37",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "Poznań",
+            "gminaMiastoDzielnica": "Poznań-Grunwald",
+            "miejscowosc": "Poznań",
+            "kodPocztowy": "60-003"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "7 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -17211,6 +17406,136 @@
       }
     },
     {
+      "idUmowy": "72412ba6-e492-456a-b2d2-347baaafea13",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "22.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 900,
+      "przedmiotUmowy": "Warsztaty dla dzieci \"Sekrety roślin - laboratorium natury\" - Filia Bronisze",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/72412ba6-e492-456a-b2d2-347baaafea13",
+      "detailsFetchedAt": "2026-11-25T15:36:23.492Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WARSZTATY STEAM Monika Kazimierczak",
+          "nip": "8381773943",
+          "regon": "527619467",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.82.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "a4100820-54a3-42ff-86ba-315026743914",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "22.11.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 900,
+      "przedmiotUmowy": "\"Warsztaty Andrzejkowe\" - Filia w Macierzyszu - Świetlica Wiejska",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/a4100820-54a3-42ff-86ba-315026743914",
+      "detailsFetchedAt": "2026-11-25T15:36:27.232Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WARSZTATY STEAM Monika Kazimierczak",
+          "nip": "8381773943",
+          "regon": "527619467",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.240.80.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "44b5ee34-0374-43ea-829a-7a6b37a0f037",
       "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
       "regon": "014961332",
@@ -18897,6 +19222,71 @@
         "okres": "2 dni",
         "dataPublikacji": "23.07.2026",
         "dataModyfikacji": "24.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "277d471f-fe9e-4028-bc8f-412cbfe0845c",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "21.10.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 1490.1,
+      "przedmiotUmowy": "Zakup materiałów plastycznych i artykułów do zajęć świetlicowych dla uczniów szkoły.,",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/277d471f-fe9e-4028-bc8f-412cbfe0845c",
+      "detailsFetchedAt": "2026-11-25T15:36:19.129Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MOJE BAMBINO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "7251933448",
+          "regon": "100283710",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Graniczna",
+            "numerNieruchomosci": "46",
+            "numerLokalu": null,
+            "wojewodztwo": "ŁÓDZKIE",
+            "powiat": "Łódź",
+            "gminaMiastoDzielnica": "Łódź-Górna",
+            "miejscowosc": "Łódź",
+            "kodPocztowy": "93-428"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "10 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -22556,6 +22946,71 @@
         "okres": "26 dni",
         "dataPublikacji": "23.11.2026",
         "dataModyfikacji": "23.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "f7206d6e-4f6f-4546-af7c-dc46a4f32ae6",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "20.10.2026",
+      "dataZakonczeniaUmowy": "24.11.2026",
+      "wartoscPrzedmiotuUmowy": 42250,
+      "przedmiotUmowy": "ROBOTY NAPRAWCZE NA DACHU BUDYNKU GŁÓWNEGO SPWZ",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f7206d6e-4f6f-4546-af7c-dc46a4f32ae6",
+      "detailsFetchedAt": "2026-11-25T15:36:27.946Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "LUKBUD Łukasz Rozenkiewicz",
+          "nip": "5372643197",
+          "regon": "381033932",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/259/2026",
+        "okres": "42 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -27714,6 +28169,71 @@
       }
     },
     {
+      "idUmowy": "32fefd92-bc4b-4848-88c5-55c0bdbd882e",
+      "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+      "regon": "013272116",
+      "dataZawarciaUmowy": "17.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 32520.33,
+      "przedmiotUmowy": "Zimowe utrzymanie chodników, dróg i parkingów na terenie nieruchomości SPWZ",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/32fefd92-bc4b-4848-88c5-55c0bdbd882e",
+      "detailsFetchedAt": "2026-11-25T15:36:20.575Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "1)STAR CAR DARIUSZ GWIAZDA 2) DARIUSZ GWIAZDA WSPÓLNIK SPÓŁKI CYWILNEJ VIGO-CAR PLUS",
+          "nip": "5222536407",
+          "regon": "017273319",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Rakietników",
+            "numerNieruchomosci": "27/29",
+            "numerLokalu": "2",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ursus",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-495"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
+          "nip": "5272185358",
+          "regon": "013272116",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "129/133",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "SPWZ/273/2026",
+        "okres": "104 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "8f69d75a-85b0-400f-b604-b1805fe6bde8",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -28238,12 +28758,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "17.11.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "25.11.2026",
       "wartoscPrzedmiotuUmowy": 0,
       "przedmiotUmowy": "Montaż huśtawek miejskich na terenie Miasta i Gminy Ożarów Mazowiecki.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/b69c5482-f0f5-4d3a-9eb9-4a43f3cff697",
-      "detailsFetchedAt": "2026-11-17T14:24:18.028Z",
+      "detailsFetchedAt": "2026-11-25T15:36:28.678Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -28294,7 +28814,7 @@
         "numerUmowy": "WIR.7014.494.2026.PT",
         "okres": "14 dni",
         "dataPublikacji": "17.11.2026",
-        "dataModyfikacji": "17.11.2026",
+        "dataModyfikacji": "25.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -42377,6 +42897,136 @@
       }
     },
     {
+      "idUmowy": "53fcd3fc-e46d-4152-ba34-90a5de879525",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "10.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 530,
+      "przedmiotUmowy": "Zakup prenumeraty czasopism „Biblioteka w Szkole” r. oraz „Świetlica w Szkole” na I półrocze .",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/53fcd3fc-e46d-4152-ba34-90a5de879525",
+      "detailsFetchedAt": "2026-11-25T15:36:22.001Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "WYDAWNICTWO SUKURS,WASILEWSKI SPÓŁKA JAWNA",
+          "nip": "5252894904",
+          "regon": "521177241",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. gen. Józefa Zajączka",
+            "numerNieruchomosci": "9A",
+            "numerLokalu": "C1",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Żoliborz",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "01-518"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 rok",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": true
+      }
+    },
+    {
+      "idUmowy": "7e2de070-b1d2-4072-a568-f1bc06317272",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "10.11.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 1190.64,
+      "przedmiotUmowy": "Wymiana oprawy oświetleniowej na parkingu przy budynku modułowym wraz z zakupem oprawy LED z wysięgnikiem oraz usługą podnośnika koszowego.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7e2de070-b1d2-4072-a568-f1bc06317272",
+      "detailsFetchedAt": "2026-11-25T15:36:25.720Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "UNICONTACT JACEK ZWIERZCHOWSKI",
+          "nip": "5341015123",
+          "regon": "011383691",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Długa",
+            "numerNieruchomosci": "23",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Płochocin",
+            "kodPocztowy": "05-860"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "10 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "53912074-6ecd-446b-adc4-60e00efa9d8d",
       "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
       "regon": "014961332",
@@ -42862,7 +43512,7 @@
       "przedmiotUmowy": "Remont gabinetu pielęgniarki.",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/064e219b-8151-4266-a797-25e682b55123",
-      "detailsFetchedAt": "2026-11-11T12:43:25.090Z",
+      "detailsFetchedAt": "2026-11-25T15:36:30.205Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -45059,6 +45709,71 @@
       }
     },
     {
+      "idUmowy": "27edd348-151b-4717-a784-2577dee812ba",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "09.11.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 2275.5,
+      "przedmiotUmowy": "Usługa wykonania okresowych przeglądów technicznych budynków szkoły – półrocznego, roczny i pięcioletniego.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/27edd348-151b-4717-a784-2577dee812ba",
+      "detailsFetchedAt": "2026-11-25T15:36:19.846Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "Artur Milewski OLTECH",
+          "nip": "5681281622",
+          "regon": "141519862",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Dzieci Warszawy",
+            "numerNieruchomosci": "25B",
+            "numerLokalu": "190",
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Ursus",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-495"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "9f47d6e6-91b7-4e3f-8997-a3d9c01924c9",
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
@@ -45835,6 +46550,71 @@
         "okres": "8 dni",
         "dataPublikacji": "12.11.2026",
         "dataModyfikacji": "12.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "7b622abf-2d94-46e4-aa5f-193b90b64801",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "09.10.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 512.12,
+      "przedmiotUmowy": "Zakup książek – uzupełnienie i wzbogacenie księgozbioru biblioteki szkolnej o lektury szkolne,",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7b622abf-2d94-46e4-aa5f-193b90b64801",
+      "detailsFetchedAt": "2026-11-25T15:36:24.991Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BONITO.PL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+          "nip": "6762400623",
+          "regon": "120954264",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Komandosów",
+            "numerNieruchomosci": "1",
+            "numerLokalu": "3",
+            "wojewodztwo": "MAŁOPOLSKIE",
+            "powiat": "krakowski",
+            "gminaMiastoDzielnica": "Wielka Wieś",
+            "miejscowosc": "Modlniczka",
+            "kodPocztowy": "32-085"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "7 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -52447,7 +53227,7 @@
       "przedmiotUmowy": "Zakup środków czystości na potrzeby Biblioteki Głównej",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/beac1fb5-7306-4ea1-bca8-553ca2880a28",
-      "detailsFetchedAt": "2026-11-11T12:43:29.916Z",
+      "detailsFetchedAt": "2026-11-25T15:37:46.176Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54720,7 +55500,7 @@
       "przedmiotUmowy": "Zakup książek do Biblioteki Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/7a7ae8ca-2fe6-4213-a8b9-3403fafc3809",
-      "detailsFetchedAt": "2026-11-11T12:43:26.364Z",
+      "detailsFetchedAt": "2026-11-25T15:36:33.992Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -54850,7 +55630,7 @@
       "przedmiotUmowy": "Miejsca noclegowe, wyżywienie, korzystanie z sal tanecznych w OW KAROLCIA - warsztaty taneczne Zespołu Ludowego \"Ożarowiacy\" w dniach 06.02-13.02.2027",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/a6843ca0-4c57-490f-96cc-3768407d5fa8",
-      "detailsFetchedAt": "2026-11-11T12:43:27.001Z",
+      "detailsFetchedAt": "2026-11-25T15:36:34.721Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -59066,6 +59846,71 @@
       }
     },
     {
+      "idUmowy": "77a24224-5416-4801-888e-007038f3c91e",
+      "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+      "regon": "014900974",
+      "dataZawarciaUmowy": "03.11.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 4802.8,
+      "przedmiotUmowy": "Zakup kalendarzy dla potrzeb ZDP",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/77a24224-5416-4801-888e-007038f3c91e",
+      "detailsFetchedAt": "2026-11-25T15:36:24.271Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "MEDIACOLOR Ewa Fidecka",
+          "nip": "5241052573",
+          "regon": "147316410",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Wspólna",
+            "numerNieruchomosci": "12B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Gołaszew",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
+          "nip": "1181420774",
+          "regon": "014900974",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "300",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Numer KSeF: 5241052573-20261124-3DFE0FC0000F-33",
+        "okres": "22 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "19bf7b33-c97a-4a3c-ad53-253f6981e026",
       "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
       "regon": "014961332",
@@ -61530,6 +62375,71 @@
         "okres": "8 dni",
         "dataPublikacji": "03.07.2026",
         "dataModyfikacji": "15.07.2026",
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "52e8e1b2-ca35-4c73-9da8-915bcc88884d",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "02.11.2026",
+      "dataZakonczeniaUmowy": "25.11.2026",
+      "wartoscPrzedmiotuUmowy": 1296.53,
+      "przedmiotUmowy": "Zakupu środków czystości, artykułów higienicznych przeznaczonych do bieżącego utrzymania czystości i właściwego stanu sanitarno-higienicznego pomieszczeń oddziałów przedszkolnych szkoły.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/52e8e1b2-ca35-4c73-9da8-915bcc88884d",
+      "detailsFetchedAt": "2026-11-25T15:36:21.291Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "CLEAN UP Marta Jocz",
+          "nip": "1181791499",
+          "regon": "546000879",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Witolda Lutosławskiego",
+            "numerNieruchomosci": "43",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Stare Babice",
+            "miejscowosc": "Klaudyn",
+            "kodPocztowy": "05-080"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "2 dni",
+        "dataPublikacji": "25.11.2026",
+        "dataModyfikacji": "25.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
@@ -66325,12 +67235,12 @@
       "nazwa": "ZARZĄD DRÓG POWIATOWYCH W OŻAROWIE MAZOWIECKIM",
       "regon": "014900974",
       "dataZawarciaUmowy": "01.10.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "25.11.2026",
       "wartoscPrzedmiotuUmowy": 90000,
       "przedmiotUmowy": "Wykonanie robót polegających na mechanicznym ścinaniu poboczy wraz z wywozem urobku przy drogach powiatowych na terenie Powiatu Warszawskiego Zachodniego.",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/f1e06eb9-3b72-46ef-9a5f-1c2ab9fe5835",
-      "detailsFetchedAt": "2026-11-20T14:06:38.827Z",
+      "detailsFetchedAt": "2026-11-25T15:36:29.395Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -66423,7 +67333,7 @@
         "numerUmowy": "58/2026/RZ46-U/2026",
         "okres": "47 dni",
         "dataPublikacji": "13.10.2026",
-        "dataModyfikacji": "13.10.2026",
+        "dataModyfikacji": "25.11.2026",
         "finansowanaZeSrodkow": false
       }
     },
