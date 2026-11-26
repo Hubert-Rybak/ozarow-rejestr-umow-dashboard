@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-25T15:37:52.953Z",
+  "checkedAt": "2026-11-26T15:17:13.310Z",
   "links": [
     {
       "nip": "1130122021",
@@ -276,6 +276,23 @@
         {
           "lastMasked": "B******",
           "firstMasked": "W*******",
+          "funkcja": "członek organu"
+        }
+      ]
+    },
+    {
+      "nip": "1182094466",
+      "krs": "0000477947",
+      "name": "OPTIMA SERWIS ZIELIŃSKI SPÓŁKA KOMANDYTOWA",
+      "persons": [
+        {
+          "lastMasked": "Z********",
+          "firstMasked": "N******",
+          "funkcja": "członek organu"
+        },
+        {
+          "lastMasked": "Z********",
+          "firstMasked": "M********",
           "funkcja": "członek organu"
         }
       ]
@@ -5493,6 +5510,33 @@
         {
           "lastMasked": "M*****",
           "firstMasked": "M*****",
+          "funkcja": "CZŁONEK ZARZĄDU"
+        }
+      ]
+    },
+    {
+      "nip": "9721190774",
+      "krs": "0000317159",
+      "name": "POLSKIE STOWARZYSZENIE PEDAGOGÓW I ANIMATORÓW KLANZA ODDZIAŁ W POZNANIU",
+      "persons": [
+        {
+          "lastMasked": "K**********",
+          "firstMasked": "A********",
+          "funkcja": "PREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "M**********",
+          "firstMasked": "I******",
+          "funkcja": "WICEPREZES ZARZĄDU"
+        },
+        {
+          "lastMasked": "S*******",
+          "firstMasked": "K********",
+          "funkcja": "SEKRETARZ ZARZĄDU"
+        },
+        {
+          "lastMasked": "S******",
+          "firstMasked": "I****",
           "funkcja": "CZŁONEK ZARZĄDU"
         }
       ]

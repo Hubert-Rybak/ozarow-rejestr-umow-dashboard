@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-25T15:37:46.965Z",
+  "fetchedAt": "2026-11-26T15:17:09.741Z",
   "source": "https://rejestrumow.gov.pl/api-dp/v1/agreements/search",
   "detailSource": "https://rejestrumow.gov.pl/api-dp/v1/agreement",
   "filter": {
@@ -7,9 +7,9 @@
       "gmina": "Ożarów Mazowiecki"
     }
   },
-  "totalElements": 1068,
-  "totalMatchingElements": 1068,
-  "totalVisibleElements": 1068,
+  "totalElements": 1076,
+  "totalMatchingElements": 1076,
+  "totalVisibleElements": 1076,
   "detailsPending": 0,
   "agreements": [
     {
@@ -1624,7 +1624,7 @@
       "przedmiotUmowy": "1.przegląd i aktualizacja istniejącej dokumentacji Systemu Zarządzania Bezpieczeństwem Informacji, zwanym dalej \"SZBI\" 2.przegląd oraz podstawowa aktualizacja analizy ryzyka w zakresie bezpieczeństwa informacji 3.przygotowanie regulaminu oraz podstawowej dokumentacji wewnętrznej dotyczącej przeciwdziałania mobbingowi i innym niepożądanym zachowaniom w miejscu pracy 4.przeprowadzenie szkolenia pracowników Zamawiającego z zakresu przeciwdziałaniom mobbingowi oraz stosowania przygotowanej dokumentacji",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/06443e1a-13f0-4807-9448-d95676681f99",
-      "detailsFetchedAt": "2026-11-12T13:46:00.500Z",
+      "detailsFetchedAt": "2026-11-26T15:16:28.225Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -1675,7 +1675,7 @@
         "numerUmowy": null,
         "okres": "39 dni",
         "dataPublikacji": "12.11.2026",
-        "dataModyfikacji": "12.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
@@ -4029,7 +4029,7 @@
       "przedmiotUmowy": "Święto 11 listopada.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/e177df57-3348-47d6-8571-bbcdd2b7b6c7",
-      "detailsFetchedAt": "2026-11-12T13:46:05.341Z",
+      "detailsFetchedAt": "2026-11-26T15:16:34.660Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -4080,7 +4080,7 @@
         "numerUmowy": "WIR.7014.447.2026.RF",
         "okres": "16 dni",
         "dataPublikacji": "29.10.2026",
-        "dataModyfikacji": "12.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
@@ -6086,7 +6086,7 @@
       "przedmiotUmowy": "Uroczystość 11 listopada.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/9f93eac1-1526-4773-b7e2-83223c88ccf2",
-      "detailsFetchedAt": "2026-11-12T13:46:04.652Z",
+      "detailsFetchedAt": "2026-11-26T15:16:34.003Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -6137,7 +6137,7 @@
         "numerUmowy": "WIR.7014.448.2026.RF",
         "okres": "16 dni",
         "dataPublikacji": "29.10.2026",
-        "dataModyfikacji": "12.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
@@ -9157,12 +9157,12 @@
       "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
       "regon": "016279633",
       "dataZawarciaUmowy": "27.10.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "26.11.2026",
       "wartoscPrzedmiotuUmowy": 1650,
       "przedmiotUmowy": "szkolenie dla pracownika pn. \" Wartościowanie stanowisk pracy i wdrażanie dyrektywy o jawności wynagrodzeń w PUP\".",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/40d9395e-f3ba-4354-9715-f06316068078",
-      "detailsFetchedAt": "2026-11-19T14:33:12.393Z",
+      "detailsFetchedAt": "2026-11-26T15:16:27.568Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -9213,7 +9213,7 @@
         "numerUmowy": null,
         "okres": "2 dni",
         "dataPublikacji": "28.10.2026",
-        "dataModyfikacji": "28.10.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": true
       }
     },
@@ -13053,6 +13053,136 @@
       }
     },
     {
+      "idUmowy": "557c5c28-b937-4dfb-ab1b-cc8fcc94dfed",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "25.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 445,
+      "przedmiotUmowy": "Szkolenie: Lista płac w 2027 roku(...)",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/557c5c28-b937-4dfb-ab1b-cc8fcc94dfed",
+      "detailsFetchedAt": "2026-11-26T15:16:05.450Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "STOWARZYSZENIE KSIĘGOWYCH W POLSCE",
+          "nip": "5260307956",
+          "regon": "007026416",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Górnośląska",
+            "numerNieruchomosci": "5",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Śródmieście",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "00-443"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "Rejestr szkoleń nr 118/2026",
+        "okres": "22 dni",
+        "dataPublikacji": "26.11.2026",
+        "dataModyfikacji": null,
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "63170b49-6041-4abc-8d4b-91a79d41bf0a",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "25.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 500,
+      "przedmiotUmowy": "szkolenie dla pracownika pt.: \"Budżet - rozpoczęcie roku 2027 w jednostce gospodarczej BU po zmianach klasyfikacji budżetowej\"",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/63170b49-6041-4abc-8d4b-91a79d41bf0a",
+      "detailsFetchedAt": "2026-11-26T15:16:06.141Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SYGNITY SPÓŁKA AKCYJNA",
+          "nip": "5860005293",
+          "regon": "190407926",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Postępu",
+            "numerNieruchomosci": "17B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-676"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "26.11.2026",
+        "dataModyfikacji": null,
+        "finansowanaZeSrodkow": true
+      }
+    },
+    {
       "idUmowy": "5710ab9f-cb33-4beb-bc0e-cc9dcda57217",
       "nazwa": "STAROSTWO POWIATU WARSZAWSKIEGO ZACHODNIEGO",
       "regon": "013272116",
@@ -16106,6 +16236,201 @@
       }
     },
     {
+      "idUmowy": "22ca70e0-462a-4453-ac2b-4a759f5b7776",
+      "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+      "regon": "364271607",
+      "dataZawarciaUmowy": "23.11.2026",
+      "dataZakonczeniaUmowy": "26.11.2026",
+      "wartoscPrzedmiotuUmowy": 3800,
+      "przedmiotUmowy": "Przeprowadzenie warsztatów metodycznych dla nauczycieli pn. „Dla dzieci, z dziećmi, o dzieciach. Kreatywne prowadzenie grup dziecięcych, czyli zajęcia bez spięcia”",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/22ca70e0-462a-4453-ac2b-4a759f5b7776",
+      "detailsFetchedAt": "2026-11-26T15:16:04.791Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "POLSKIE STOWARZYSZENIE PEDAGOGÓW I ANIMATORÓW KLANZA ODDZIAŁ W POZNANIU",
+          "nip": "9721190774",
+          "regon": "300982040",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Piątkowska",
+            "numerNieruchomosci": "94BLOK3\"C\"",
+            "numerLokalu": null,
+            "wojewodztwo": "WIELKOPOLSKIE",
+            "powiat": "Poznań",
+            "gminaMiastoDzielnica": "Poznań-Stare Miasto",
+            "miejscowosc": "Poznań",
+            "kodPocztowy": "60-649"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "SZKOŁA PODSTAWOWA IM. WANDY RUTKIEWICZ W DUCHNICACH",
+          "nip": "1182123831",
+          "regon": "364271607",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Duchnicka",
+            "numerNieruchomosci": "25",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Duchnice",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "26.11.2026",
+        "dataModyfikacji": null,
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "7d3c5051-8c84-4e9b-afc2-dcb3718a3679",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "23.11.2026",
+      "dataZakonczeniaUmowy": null,
+      "wartoscPrzedmiotuUmowy": 22820,
+      "przedmiotUmowy": "Zakup i dostawa komputera, 2 szt. laptopów i zasilacza UPS",
+      "statusUmowy": "Aktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/7d3c5051-8c84-4e9b-afc2-dcb3718a3679",
+      "detailsFetchedAt": "2026-11-26T15:16:24.260Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "OPTIMA SERWIS ZIELIŃSKI SPÓŁKA KOMANDYTOWA",
+          "nip": "1182094466",
+          "regon": "146882700",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Aluzyjna",
+            "numerNieruchomosci": "28",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Białołęka",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "03-149"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "15/P/2026",
+        "okres": "36 dni",
+        "dataPublikacji": "26.11.2026",
+        "dataModyfikacji": null,
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "83c82eeb-a523-4bd0-890c-2bb0c5467243",
+      "nazwa": "DOM KULTURY\"UŚMIECH\"",
+      "regon": "000830173",
+      "dataZawarciaUmowy": "23.11.2026",
+      "dataZakonczeniaUmowy": "26.11.2026",
+      "wartoscPrzedmiotuUmowy": 400.37,
+      "przedmiotUmowy": "Warsztaty twórcze z filcowania na mokro dla dorosłych w Filii DK \"Uśmiech\" Centrum Inicjatyw Społecznych - \"Przy Parku\" przy ul. Poznańskiej 292.",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/83c82eeb-a523-4bd0-890c-2bb0c5467243",
+      "detailsFetchedAt": "2026-11-26T15:16:25.579Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Osoba fizyczna",
+          "nazwa": null,
+          "nip": null,
+          "regon": null,
+          "imie": "Aleksandra",
+          "nazwisko": "Gryff-Keller",
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": null,
+            "numerNieruchomosci": null,
+            "numerLokalu": null,
+            "wojewodztwo": null,
+            "powiat": null,
+            "gminaMiastoDzielnica": null,
+            "miejscowosc": null,
+            "kodPocztowy": null
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "DOM KULTURY\"UŚMIECH\"",
+          "nip": "1181428439",
+          "regon": "000830173",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "165",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "DK.1116.76.2026",
+        "okres": "1 dzień",
+        "dataPublikacji": "26.11.2026",
+        "dataModyfikacji": null,
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "520bac3b-6558-41f7-a8bd-e7a1dffd4890",
       "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
       "regon": "014961332",
@@ -16310,7 +16635,7 @@
       "przedmiotUmowy": "dostawa, montaż i uruchomienie klimatyzatorów w pomieszczeniach będących w użytkowaniu ZWIK w Ożarowie Mazowieckim (cz.III) zgodnie z ofertą Wykonawcy z dnia 12.10.2026",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ba693efe-70c0-4f39-8fde-d4b9f3b4cab2",
-      "detailsFetchedAt": "2026-11-12T13:46:03.274Z",
+      "detailsFetchedAt": "2026-11-26T15:16:33.342Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -16361,7 +16686,7 @@
         "numerUmowy": null,
         "okres": "39 dni",
         "dataPublikacji": "12.11.2026",
-        "dataModyfikacji": "12.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
@@ -22755,6 +23080,201 @@
       }
     },
     {
+      "idUmowy": "01c5bf00-7510-49ca-ab45-c61545ba2096",
+      "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+      "regon": "014961332",
+      "dataZawarciaUmowy": "20.11.2026",
+      "dataZakonczeniaUmowy": "26.11.2026",
+      "wartoscPrzedmiotuUmowy": 400,
+      "przedmiotUmowy": "Demontaż uszkodzonej i montaż nowej termy kuchennej w mieszkaniu treningowym",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/01c5bf00-7510-49ca-ab45-c61545ba2096",
+      "detailsFetchedAt": "2026-11-26T15:16:04.132Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "BREMAR Marcel Brejdakowski",
+          "nip": "7441832199",
+          "regon": "524179536",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Saturna",
+            "numerNieruchomosci": "28",
+            "numerLokalu": null,
+            "wojewodztwo": "WARMIŃSKO-MAZURSKIE",
+            "powiat": "iławski",
+            "gminaMiastoDzielnica": "Iława",
+            "miejscowosc": "Nowa Wieś",
+            "kodPocztowy": "14-200"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
+          "nip": "5272218891",
+          "regon": "014961332",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": "14/P/2026",
+        "okres": "4 dni",
+        "dataPublikacji": "26.11.2026",
+        "dataModyfikacji": null,
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "8047350d-f10e-4548-a654-773dc13604ba",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "20.11.2026",
+      "dataZakonczeniaUmowy": "26.11.2026",
+      "wartoscPrzedmiotuUmowy": 500,
+      "przedmiotUmowy": "szkolenie dla pracownika pt.: \"Fundusz Pracy - plan kont i reguły wytwarzania dokumentów księgowych w roku 2027 po zmianach klasyfikacji budżetowej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/8047350d-f10e-4548-a654-773dc13604ba",
+      "detailsFetchedAt": "2026-11-26T15:16:24.918Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SYGNITY SPÓŁKA AKCYJNA",
+          "nip": "5860005293",
+          "regon": "190407926",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Postępu",
+            "numerNieruchomosci": "17B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-676"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "26.11.2026",
+        "dataModyfikacji": null,
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
+      "idUmowy": "f972e1d2-0355-4025-b858-82519d78207f",
+      "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+      "regon": "016279633",
+      "dataZawarciaUmowy": "20.11.2026",
+      "dataZakonczeniaUmowy": "26.11.2026",
+      "wartoscPrzedmiotuUmowy": 500,
+      "przedmiotUmowy": "szkolenie dla pracownika pt. : \"Fundusz Pracy rozpoczęcie roku 2027 w jednostce gospodarczej FP po zmianach klasyfikacji budżetowej",
+      "statusUmowy": "Nieaktywna",
+      "sourceUrl": "https://rejestrumow.gov.pl/umowa/f972e1d2-0355-4025-b858-82519d78207f",
+      "detailsFetchedAt": "2026-11-26T15:16:26.244Z",
+      "contractors": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "Przedsiębiorca",
+          "nazwa": "SYGNITY SPÓŁKA AKCYJNA",
+          "nip": "5860005293",
+          "regon": "190407926",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": false,
+          "daneAdresowe": {
+            "ulica": "ul. Postępu",
+            "numerNieruchomosci": "17B",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "Warszawa",
+            "gminaMiastoDzielnica": "Mokotów",
+            "miejscowosc": "Warszawa",
+            "kodPocztowy": "02-676"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "procurers": [
+        {
+          "kraj": "Polska",
+          "rodzaj": "JSFP",
+          "nazwa": "POWIATOWY URZĄD PRACY DLA POWIATU WARSZAWSKIEGO ZACHODNIEGO ",
+          "nip": "1181517485",
+          "regon": "016279633",
+          "imie": null,
+          "nazwisko": null,
+          "czyKonsorcjum": null,
+          "daneAdresowe": {
+            "ulica": "ul. Poznańska",
+            "numerNieruchomosci": "131 A",
+            "numerLokalu": null,
+            "wojewodztwo": "MAZOWIECKIE",
+            "powiat": "warszawski zachodni",
+            "gminaMiastoDzielnica": "Ożarów Mazowiecki",
+            "miejscowosc": "Ożarów Mazowiecki",
+            "kodPocztowy": "05-850"
+          },
+          "niejawnoscStrony": null
+        }
+      ],
+      "details": {
+        "numerUmowy": null,
+        "okres": "1 dzień",
+        "dataPublikacji": "26.11.2026",
+        "dataModyfikacji": null,
+        "finansowanaZeSrodkow": false
+      }
+    },
+    {
       "idUmowy": "93989cd6-e2da-4c5c-830c-ed752de484bc",
       "nazwa": "POWIATOWE CENTRUM POMOCY RODZINIE W POWIECIE WARSZAWSKIM ZACHODNIM",
       "regon": "014961332",
@@ -27156,12 +27676,12 @@
       "nazwa": "GMINA OŻARÓW MAZOWIECKI",
       "regon": "013271269",
       "dataZawarciaUmowy": "18.11.2026",
-      "dataZakonczeniaUmowy": null,
+      "dataZakonczeniaUmowy": "26.11.2026",
       "wartoscPrzedmiotuUmowy": 4200,
       "przedmiotUmowy": "Modernizacja ławek i koszy wokół skate parku w Płochocinie",
-      "statusUmowy": "Aktywna",
+      "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/31fc3b8c-1b10-4a29-a24e-a1a2b7516b2a",
-      "detailsFetchedAt": "2026-11-19T14:26:02.128Z",
+      "detailsFetchedAt": "2026-11-26T15:16:26.898Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -27212,7 +27732,7 @@
         "numerUmowy": "WIiR.7014.497.2026.MM",
         "okres": "13 dni",
         "dataPublikacji": "19.11.2026",
-        "dataModyfikacji": "19.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
@@ -43447,7 +43967,7 @@
       "przedmiotUmowy": "Zakup ekspresu do kawy na wyposażenie Filii nr Biblioteka Po Kolei",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/749968b5-c897-4f5b-b6b5-9c1494364352",
-      "detailsFetchedAt": "2026-11-12T13:46:02.570Z",
+      "detailsFetchedAt": "2026-11-26T15:16:30.256Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -43498,7 +44018,7 @@
         "numerUmowy": "02435156313",
         "okres": "3 dni",
         "dataPublikacji": "12.11.2026",
-        "dataModyfikacji": "12.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
@@ -46498,7 +47018,7 @@
       "przedmiotUmowy": "Wysypanie i utwardzenie kruszywem kamiennym poboczy ul. Wieruchowskiej",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/466f33e7-b326-4915-aec6-271f17f1f510",
-      "detailsFetchedAt": "2026-11-12T13:46:01.882Z",
+      "detailsFetchedAt": "2026-11-26T15:16:29.557Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -46549,7 +47069,7 @@
         "numerUmowy": "WIiR.7014.484.2026.RM",
         "okres": "8 dni",
         "dataPublikacji": "12.11.2026",
-        "dataModyfikacji": "12.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
@@ -53162,7 +53682,7 @@
       "przedmiotUmowy": "Prowadzenie warsztatów dla seniorów \"Fitness dla mózgu\" w Filii DK \"Uśmiech\" Centrum Inicjatyw Społecznych - \"Przy Parku\" przy ul. Poznańskiej 292",
       "statusUmowy": "Aktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/2e0737e4-3779-43fd-aa94-423753fc90fd",
-      "detailsFetchedAt": "2026-11-12T13:46:01.189Z",
+      "detailsFetchedAt": "2026-11-26T15:16:28.901Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -53213,7 +53733,7 @@
         "numerUmowy": "DK.1116.73.2026",
         "okres": "204 dni",
         "dataPublikacji": "12.11.2026",
-        "dataModyfikacji": "12.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
@@ -60547,7 +61067,7 @@
       "przedmiotUmowy": "Rekultywacja sadzawki w miejscowości Macierzysz.",
       "statusUmowy": "Nieaktywna",
       "sourceUrl": "https://rejestrumow.gov.pl/umowa/ce96e034-3aee-468e-a425-06b6e7444b77",
-      "detailsFetchedAt": "2026-11-12T13:46:06.030Z",
+      "detailsFetchedAt": "2026-11-26T15:17:09.736Z",
       "contractors": [
         {
           "kraj": "Polska",
@@ -60598,7 +61118,7 @@
         "numerUmowy": "WIR.7014.468.2026.RF",
         "okres": "11 dni",
         "dataPublikacji": "05.11.2026",
-        "dataModyfikacji": "12.11.2026",
+        "dataModyfikacji": null,
         "finansowanaZeSrodkow": false
       }
     },
