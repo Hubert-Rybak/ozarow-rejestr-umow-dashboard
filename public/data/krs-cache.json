@@ -554,6 +554,25 @@
     ],
     "personsCheckedAt": "2026-11-05T06:46:02.234Z"
   },
+  "1182094466": {
+    "checkedAt": "2026-11-26T15:17:10.796Z",
+    "name": "OPTIMA SERWIS ZIELIŃSKI SPÓŁKA KOMANDYTOWA",
+    "krs": "0000477947",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "Z********",
+        "firstMasked": "N******",
+        "funkcja": "członek organu"
+      },
+      {
+        "lastMasked": "Z********",
+        "firstMasked": "M********",
+        "funkcja": "członek organu"
+      }
+    ],
+    "personsCheckedAt": "2026-11-26T15:17:12.823Z"
+  },
   "1182096117": {
     "checkedAt": "2026-11-05T06:45:48.562Z",
     "name": "HEDERA BEATA BOGUSZ, MAGDALENA PANEK SPÓŁKA CYWILNA",
@@ -7876,5 +7895,34 @@
       }
     ],
     "personsCheckedAt": "2026-11-25T15:37:52.951Z"
+  },
+  "9721190774": {
+    "checkedAt": "2026-11-26T15:17:11.314Z",
+    "name": "POLSKIE STOWARZYSZENIE PEDAGOGÓW I ANIMATORÓW KLANZA ODDZIAŁ W POZNANIU",
+    "krs": "0000317159",
+    "statusVat": "Czynny",
+    "persons": [
+      {
+        "lastMasked": "K**********",
+        "firstMasked": "A********",
+        "funkcja": "PREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "M**********",
+        "firstMasked": "I******",
+        "funkcja": "WICEPREZES ZARZĄDU"
+      },
+      {
+        "lastMasked": "S*******",
+        "firstMasked": "K********",
+        "funkcja": "SEKRETARZ ZARZĄDU"
+      },
+      {
+        "lastMasked": "S******",
+        "firstMasked": "I****",
+        "funkcja": "CZŁONEK ZARZĄDU"
+      }
+    ],
+    "personsCheckedAt": "2026-11-26T15:17:13.308Z"
   }
 }
