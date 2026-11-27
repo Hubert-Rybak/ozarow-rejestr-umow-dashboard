@@ -7925,10 +7925,58 @@
     ],
     "personsCheckedAt": "2026-11-26T15:17:13.308Z"
   },
+  "5242207486": {
+    "checkedAt": "2026-11-27T15:08:21.013Z",
+    "name": "DOMINIK STAN",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "5272441672": {
+    "checkedAt": "2026-11-27T15:08:21.511Z",
+    "name": "AMECO M.CHŁOSTECKI J.DĘBKOWSKI T.KĄDZIELA SPÓŁKA JAWNA",
+    "krs": "0000215630",
+    "statusVat": "Czynny"
+  },
+  "5470128964": {
+    "checkedAt": "2026-11-27T15:08:21.999Z",
+    "name": "ALDONA KLIM-KUBICA",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "6731894736": {
+    "checkedAt": "2026-11-27T15:08:22.488Z",
+    "name": "BIURO MEBLE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000397845",
+    "statusVat": "Czynny"
+  },
+  "7120316034": {
+    "checkedAt": "2026-11-27T15:08:22.982Z",
+    "name": "ADAM KRUK",
+    "krs": null,
+    "statusVat": "Czynny"
+  },
+  "7531984866": {
+    "checkedAt": "2026-11-27T15:08:23.474Z",
+    "name": "FABRYKA POMOCY NAUKOWYCH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0000011699",
+    "statusVat": "Czynny"
+  },
   "7542695545": {
-    "checkedAt": "2026-11-27T14:05:24.919Z",
+    "checkedAt": "2026-11-27T15:08:23.997Z",
     "name": "SEBASTIAN BESZ",
     "krs": null,
+    "statusVat": "Czynny"
+  },
+  "9542398848": {
+    "checkedAt": "2026-11-27T15:08:24.524Z",
+    "name": "ARKANET WOJCIECH OLEŚ, STANISŁAW ZYGOR SPÓŁKA JAWNA",
+    "krs": "0000302251",
+    "statusVat": "Czynny"
+  },
+  "9570994350": {
+    "checkedAt": "2026-11-27T15:08:25.043Z",
+    "name": "PIRXON SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+    "krs": "0001143282",
     "statusVat": "Czynny"
   }
 }
