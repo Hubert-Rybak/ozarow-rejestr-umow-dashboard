@@ -46,7 +46,7 @@ Wyniki mają charakter sygnału do weryfikacji, a nie stwierdzenia naruszenia pr
 
 ## Dane i dopasowanie jednostki
 
-Domyślny filtr CRU używa pola `jsfp.gmina = "Ożarów Mazowiecki"`. Możesz go zmienić bez edycji kodu przez zmienną `CRU_FILTER_JSON`, np. dokładny REGON lub nazwa jednostki, gdy CRU zacznie zwracać właściwą jednostkę:
+Domyślny filtr CRU używa pól `jsfp.gmina = "Ożarów Mazowiecki"` i `jsfp.regon = "013271269"`, więc dashboard pokazuje wyłącznie umowy Urzędu Gminy Ożarów Mazowiecki. Sam filtr po gminie zwraca też umowy starostwa powiatu warszawskiego zachodniego, jednostek powiatowych (ZDP, PUP, PCPR, sanepid) i gminnych jednostek organizacyjnych (szkoły, dom kultury, biblioteka, GOSiR, ZWiK itd.), bo wszystkie mają siedzibę w gminie. Filtr możesz zmienić bez edycji kodu przez zmienną `CRU_FILTER_JSON`, np. aby wrócić do wszystkich jednostek z gminy:
 
 ```bash
 CRU_FILTER_JSON='{"jsfp":{"gmina":"Ożarów Mazowiecki"}}' npm run fetch

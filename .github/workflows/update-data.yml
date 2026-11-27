@@ -28,7 +28,7 @@ jobs:
       - name: Fetch Centralny Rejestr Umów data
         run: npm run fetch
         env:
-          CRU_FILTER_JSON: ${{ vars.CRU_FILTER_JSON || '{"jsfp":{"gmina":"Ożarów Mazowiecki"}}' }}
+          CRU_FILTER_JSON: ${{ vars.CRU_FILTER_JSON || '{"jsfp":{"gmina":"Ożarów Mazowiecki","regon":"013271269"}}' }}
           CRU_PAGE_SIZE: ${{ vars.CRU_PAGE_SIZE || '50' }}
           CRU_DETAIL_DELAY_MS: ${{ vars.CRU_DETAIL_DELAY_MS || '500' }}
           CRU_RETRY_ATTEMPTS: ${{ vars.CRU_RETRY_ATTEMPTS || '7' }}

@@ -11,7 +11,9 @@ import {
 const API_BASE = 'https://rejestrumow.gov.pl';
 const SEARCH_API = `${API_BASE}/api-dp/v1/agreements/search`;
 const DETAIL_API = `${API_BASE}/api-dp/v1/agreement`;
-const DEFAULT_FILTER = { jsfp: { gmina: 'Ożarów Mazowiecki' } };
+// Tylko Urząd Gminy Ożarów Mazowiecki (REGON 013271269); sam filtr po gminie zwraca też
+// starostwo, jednostki powiatowe i gminne jednostki organizacyjne z siedzibą w gminie.
+const DEFAULT_FILTER = { jsfp: { gmina: 'Ożarów Mazowiecki', regon: '013271269' } };
 const filter = process.env.CRU_FILTER_JSON ? JSON.parse(process.env.CRU_FILTER_JSON) : DEFAULT_FILTER;
 const limit = validatePageSize(Number(process.env.CRU_PAGE_SIZE ?? 50));
 const detailDelayMs = Number(process.env.CRU_DETAIL_DELAY_MS ?? 500);
